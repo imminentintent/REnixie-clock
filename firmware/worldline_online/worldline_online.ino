@@ -9,7 +9,7 @@
 #include <WiFiClientSecure.h>
 #include <HTTPClient.h>
 
-// TODO: replace imminentintent (and the repo name if you chose a different one)
+// Set to your GitHub account and repo name
 const char* WORLDLINE_URL =
     "https://raw.githubusercontent.com/imminentintent/REnixie-clock/worldline-data/divergence.txt";
 const unsigned long POLL_MS = 10UL * 60UL * 1000UL;   // GitHub's raw cache is ~5 min, so 10 is plenty
