@@ -1,0 +1,98 @@
+{
+  "divergence": "1.048596",
+  "field": "beta",
+  "updated_at": "2026-10-28T23:01:42+00:00",
+  "z": 0.0,
+  "calibrating": true,
+  "scorer": "lexicon",
+  "new_stories": 162,
+  "climate": {
+    "fast": -0.4499,
+    "slow": -0.4499,
+    "normal": -0.4499,
+    "spread": 0.12
+  },
+  "top_stories_24h": [
+    {
+      "title": "Death toll rises to 68 with dozens injured after high-speed train collision in Spain – as it happened",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates",
+      "valence": -0.976,
+      "impact": 1.0,
+      "outlets": 3
+    },
+    {
+      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
+      "valence": -0.922,
+      "impact": 1.0,
+      "outlets": 2
+    },
+    {
+      "title": "Sudan war and inflation leave families struggling to survive in Khartoum",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss",
+      "valence": -0.862,
+      "impact": 0.94,
+      "outlets": 1
+    },
+    {
+      "title": "US jury convicts Rwandan American of lying about role in genocide",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/28/us-jury-convicts-rwandan-american-of-lying-about-role-in-genocide?traffic_source=rss",
+      "valence": -0.762,
+      "impact": 0.95,
+      "outlets": 1
+    },
+    {
+      "title": "Israeli soldier visiting UK faces war crimes complaint",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/28/israeli-soldier-visiting-uk-faces-war-crimes-complaint?traffic_source=rss",
+      "valence": -0.762,
+      "impact": 0.9,
+      "outlets": 1
+    },
+    {
+      "title": "Girl seriously injured in wolf attack at German wildlife park",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
+      "valence": -0.862,
+      "impact": 0.82,
+      "outlets": 1
+    },
+    {
+      "title": "Knifeman on LNER train ‘caused terror and fear on unimaginable scale’, court hears",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/28/knifeman-on-lner-train-caused-terror-and-fear-on-unimaginable-scale-court-hears",
+      "valence": -0.716,
+      "impact": 0.8,
+      "outlets": 1
+    },
+    {
+      "title": "How the pandemic changed trust in science — in four charts",
+      "source": "Nature",
+      "link": "https://www.nature.com/articles/d41586-026-03248-z",
+      "valence": -0.664,
+      "impact": 0.8,
+      "outlets": 1
+    },
+    {
+      "title": "The asteroid that killed the dinosaurs may have helped ants conquer the world",
+      "source": "ScienceDaily",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261026225608.htm",
+      "valence": -0.716,
+      "impact": 0.7,
+      "outlets": 1
+    },
+    {
+      "title": "Canada facing carbon tariff threat from European Union: internal documents",
+      "source": "CBC",
+      "link": "https://www.cbc.ca/news/politics/cbam-carbon-tariff-canada-european-union-9.7398807?cmp=rss",
+      "valence": -0.604,
+      "impact": 0.67,
+      "outlets": 1
+    }
+  ],
+  "version": "1.0"
+}
