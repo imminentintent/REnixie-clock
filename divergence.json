@@ -1,16 +1,16 @@
 {
-  "divergence": "1.027029",
+  "divergence": "1.027736",
   "field": "beta",
-  "updated_at": "2026-10-29T09:38:51+00:00",
-  "z": -0.888,
+  "updated_at": "2026-10-29T10:35:28+00:00",
+  "z": -0.858,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 18,
+  "new_stories": 13,
   "climate": {
-    "fast": -0.5196,
-    "slow": -0.5063,
-    "normal": -0.4653,
-    "spread": 0.0581
+    "fast": -0.5217,
+    "slow": -0.5084,
+    "normal": -0.4689,
+    "spread": 0.0579
   },
   "top_stories_24h": [
     {
@@ -20,14 +20,6 @@
       "valence": -0.976,
       "impact": 1.0,
       "outlets": 3
-    },
-    {
-      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
-      "valence": -0.922,
-      "impact": 1.0,
-      "outlets": 2
     },
     {
       "title": "Riot police deployed in Madrid as protests erupt over deadly train crash",
@@ -89,6 +81,14 @@
       "title": "Shell profits double to $10.8bn as Iran war pushes up profit margin on oil",
       "source": "Guardian",
       "link": "https://www.theguardian.com/business/2026/oct/29/shell-profits-double-iran-war-pushes-up-profit-margin-on-oil",
+      "valence": -0.762,
+      "impact": 0.9,
+      "outlets": 1
+    },
+    {
+      "title": "How to stop the US-Israel war on Iran",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/opinions/2026/10/29/how-to-stop-the-us-israel-war-on-iran?traffic_source=rss",
       "valence": -0.762,
       "impact": 0.9,
       "outlets": 1
