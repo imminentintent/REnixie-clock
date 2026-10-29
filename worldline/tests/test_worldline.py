@@ -143,7 +143,7 @@ class StoryLog(unittest.TestCase):
     def test_merge_dedupes_filters_and_expires(self):
         r = {"ts": T0, "title": "War erupts", "source": "BBC", "link": "", "v": -1.0, "I": 0.9}
         low = dict(r, title="Parking", I=0.05)
-        old = dict(r, title="Old", ts=T0 - 9 * 86400)
+        old = dict(r, title="Old", ts=T0 - 40 * 86400)
         rows = w.merge_stories([], [r, r, low, old], T0)
         self.assertEqual([x["title"] for x in rows], ["War erupts"])
         self.assertEqual(len(w.merge_stories(rows, [r], T0)), 1)

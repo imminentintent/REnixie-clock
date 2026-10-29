@@ -51,8 +51,8 @@ RECENT_KEEP_H = 48
 HISTORY_KEEP = 3000
 MAX_DOWNLOAD_BYTES = 3_000_000
 MIN_STORY_I = 0.12         # only stories at least this impactful are logged and plotted
-STORY_KEEP_DAYS = 7
-MAX_STORIES = 4000
+STORY_KEEP_DAYS = 30
+MAX_STORIES = 5000
 
 FEEDS = {  # source name -> url. Edit freely; dead feeds are skipped, not fatal.
     # world news
@@ -64,7 +64,6 @@ FEEDS = {  # source name -> url. Edit freely; dead feeds are skipped, not fatal.
     "DW": "https://rss.dw.com/rdf/rss-en-world",
     "France24": "https://www.france24.com/en/rss",
     "NYTimes": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-    "WashingtonPost": "https://feeds.washingtonpost.com/rss/world",
     "ABC-AU": "https://www.abc.net.au/news/feed/2942460/rss.xml",
     "SkyNews": "https://feeds.skynews.com/feeds/rss/world.xml",
     "TimesOfIndia": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
@@ -74,14 +73,15 @@ FEEDS = {  # source name -> url. Edit freely; dead feeds are skipped, not fatal.
     "Euronews": "https://www.euronews.com/rss?level=theme&name=news",
     "CNA": "https://www.channelnewsasia.com/rssfeeds/8395986",
     "UNNews": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
-    "Independent": "https://www.independent.co.uk/news/world/rss",
     "GlobalNews": "https://globalnews.ca/world/feed/",
     "RFI": "https://www.rfi.fr/en/rss",
-    "ArabNews": "https://www.arabnews.com/rss.xml",
+    "CBSNews": "https://www.cbsnews.com/latest/rss/world",
+    "ABCNews": "https://abcnews.go.com/abcnews/internationalheadlines",
     # science, space, health, tech
     "NASA": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-    "NASAScience": "https://science.nasa.gov/feed/",
     "Nature": "https://www.nature.com/nature.rss",
+    "ScienceNews": "https://www.sciencenews.org/feed",
+    "TheConversation": "https://theconversation.com/global/articles.atom",
     "ScienceDaily": "https://www.sciencedaily.com/rss/top/science.xml",
     "ScienceMag": "https://www.science.org/rss/news_current.xml",
     "NewScientist": "https://www.newscientist.com/feed/home/",
@@ -474,6 +474,11 @@ def merge_stories(existing: list[dict], extra: list[dict], now: float) -> list[d
             rows.setdefault((int(r["ts"]), r["title"], r["source"]), story_row(r))
     keep = [x for x in rows.values() if now - x["ts"] <= STORY_KEEP_DAYS * 86400]
     keep.sort(key=lambda x: x["ts"])
+    if len(keep) > MAX_STORIES:  # keep the whole last week, then the most important older stories
+        cut = now - 7 * 86400
+        recent = [x for x in keep if x["ts"] >= cut]
+        older = sorted((x for x in keep if x["ts"] < cut), key=lambda x: -x["I"])
+        keep = sorted(older[:max(0, MAX_STORIES - len(recent))] + recent, key=lambda x: x["ts"])
     return keep[-MAX_STORIES:]
 
 
@@ -538,6 +543,7 @@ def run(data_dir: Path, mode: str, feeds: dict[str, str]) -> int:
     now = datetime.now(timezone.utc).timestamp()
     step = process(state, fetched, now, mode)
     out = build_output(state, step, now)
+    out["sources"] = {"live": len(feeds) - len(errors), "total": len(feeds)}
     hist = json.loads(hp.read_text()) if hp.exists() else []
     hist.append({"t": out["updated_at"], "w": out["divergence"], "z": out["z"],
                  "wf": f"{z_to_worldline(step['z_fast']):.6f}"})
