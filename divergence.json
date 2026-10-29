@@ -1,16 +1,16 @@
 {
-  "divergence": "1.042087",
+  "divergence": "1.043081",
   "field": "beta",
-  "updated_at": "2026-10-29T04:35:04+00:00",
-  "z": -0.268,
+  "updated_at": "2026-10-29T05:33:17+00:00",
+  "z": -0.227,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 7,
+  "new_stories": 10,
   "climate": {
-    "fast": -0.4746,
-    "slow": -0.4724,
-    "normal": -0.4597,
-    "spread": 0.059
+    "fast": -0.4739,
+    "slow": -0.4721,
+    "normal": -0.4612,
+    "spread": 0.0588
   },
   "top_stories_24h": [
     {
@@ -78,19 +78,19 @@
       "outlets": 1
     },
     {
+      "title": "Iran war live: Trump says he approved Vance outreach over medical supplies",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
+      "valence": -0.537,
+      "impact": 0.94,
+      "outlets": 1
+    },
+    {
       "title": "Knifeman on LNER train ‘caused terror and fear on unimaginable scale’, court hears",
       "source": "Guardian",
       "link": "https://www.theguardian.com/uk-news/2026/oct/28/knifeman-on-lner-train-caused-terror-and-fear-on-unimaginable-scale-court-hears",
       "valence": -0.716,
       "impact": 0.8,
-      "outlets": 1
-    },
-    {
-      "title": "Strikes on Darfur market in Sudan killed more than 100, rights group says",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/29/strikes-on-darfur-market-in-sudan-kill-more-than-100-rights-group-says?traffic_source=rss",
-      "valence": -0.716,
-      "impact": 0.7,
       "outlets": 1
     }
   ],
