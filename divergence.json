@@ -1,16 +1,16 @@
 {
-  "divergence": "1.037778",
+  "divergence": "1.037896",
   "field": "beta",
-  "updated_at": "2026-10-29T01:47:39+00:00",
-  "z": -0.445,
+  "updated_at": "2026-10-29T02:37:30+00:00",
+  "z": -0.44,
   "calibrating": true,
   "scorer": "lexicon",
   "new_stories": 6,
   "climate": {
-    "fast": -0.4714,
-    "slow": -0.4685,
-    "normal": -0.4488,
-    "spread": 0.0595
+    "fast": -0.4766,
+    "slow": -0.4732,
+    "normal": -0.4531,
+    "spread": 0.0594
   },
   "top_stories_24h": [
     {
@@ -86,11 +86,11 @@
       "outlets": 1
     },
     {
-      "title": "Canada facing carbon tariff threat from European Union: internal documents",
-      "source": "CBC",
-      "link": "https://www.cbc.ca/news/politics/cbam-carbon-tariff-canada-european-union-9.7398807?cmp=rss",
-      "valence": -0.604,
-      "impact": 0.67,
+      "title": "‘They mobilized a whole government response to that joke’: Obama laughs off Trump attacks in rally for Ossoff",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/oct/28/obama-atlanta-democrats-jon-ossoff",
+      "valence": -0.664,
+      "impact": 0.7,
       "outlets": 1
     }
   ],
