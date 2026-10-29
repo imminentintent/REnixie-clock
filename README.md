@@ -2,9 +2,6 @@
 
 ![worldline](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fimminentintent%2FREnixie-clock%2Fworldline-data%2Fbadge.json)
 
-An 8-tube LED "Nixie-style" clock that reads the world. Part electronics build, part software.
-*If you know, you know.*
-
 > Status: **in progress.** Software side works in simulation; hardware is at the design stage.
 
 ## Parts
