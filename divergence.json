@@ -1,26 +1,18 @@
 {
-  "divergence": "1.033723",
+  "divergence": "1.034622",
   "field": "beta",
-  "updated_at": "2026-10-29T16:40:43+00:00",
-  "z": -0.612,
+  "updated_at": "2026-10-29T17:37:06+00:00",
+  "z": -0.575,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 9,
+  "new_stories": 8,
   "climate": {
-    "fast": -0.5267,
+    "fast": -0.5263,
     "slow": -0.5166,
-    "normal": -0.485,
-    "spread": 0.063
+    "normal": -0.4868,
+    "spread": 0.0633
   },
   "top_stories_24h": [
-    {
-      "title": "Death toll rises to 68 with dozens injured after high-speed train collision in Spain – as it happened",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates",
-      "valence": -0.976,
-      "impact": 1.0,
-      "outlets": 3
-    },
     {
       "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
       "source": "BBC",
@@ -43,14 +35,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss",
       "valence": -0.935,
       "impact": 0.904,
-      "outlets": 1
-    },
-    {
-      "title": "Sudan war and inflation leave families struggling to survive in Khartoum",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss",
-      "valence": -0.862,
-      "impact": 0.94,
       "outlets": 1
     },
     {
@@ -91,6 +75,22 @@
       "link": "https://www.aljazeera.com/news/2026/10/28/us-jury-convicts-rwandan-american-of-lying-about-role-in-genocide?traffic_source=rss",
       "valence": -0.762,
       "impact": 0.95,
+      "outlets": 1
+    },
+    {
+      "title": "Shell profits double to $10.8bn as Iran war pushes up profit margin on oil",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/business/2026/oct/29/shell-profits-double-iran-war-pushes-up-profit-margin-on-oil",
+      "valence": -0.762,
+      "impact": 0.9,
+      "outlets": 1
+    },
+    {
+      "title": "How to stop the US-Israel war on Iran",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/opinions/2026/10/29/how-to-stop-the-us-israel-war-on-iran?traffic_source=rss",
+      "valence": -0.762,
+      "impact": 0.9,
       "outlets": 1
     }
   ],
