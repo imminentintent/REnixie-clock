@@ -1,16 +1,16 @@
 {
-  "divergence": "1.043081",
+  "divergence": "1.049694",
   "field": "beta",
-  "updated_at": "2026-10-29T05:33:17+00:00",
-  "z": -0.227,
+  "updated_at": "2026-10-29T06:34:01+00:00",
+  "z": 0.045,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 10,
+  "new_stories": 13,
   "climate": {
-    "fast": -0.4739,
-    "slow": -0.4721,
-    "normal": -0.4612,
-    "spread": 0.0588
+    "fast": -0.4574,
+    "slow": -0.4596,
+    "normal": -0.4609,
+    "spread": 0.0587
   },
   "top_stories_24h": [
     {
@@ -78,19 +78,19 @@
       "outlets": 1
     },
     {
+      "title": "Australia news live: Lambie scolded by ADF chief over hidden recording device revelations; woman dies after drive-by shooting",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
+      "valence": -0.905,
+      "impact": 0.8,
+      "outlets": 1
+    },
+    {
       "title": "Iran war live: Trump says he approved Vance outreach over medical supplies",
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
       "valence": -0.537,
       "impact": 0.94,
-      "outlets": 1
-    },
-    {
-      "title": "Knifeman on LNER train ‘caused terror and fear on unimaginable scale’, court hears",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/28/knifeman-on-lner-train-caused-terror-and-fear-on-unimaginable-scale-court-hears",
-      "valence": -0.716,
-      "impact": 0.8,
       "outlets": 1
     }
   ],
