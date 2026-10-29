@@ -1,16 +1,16 @@
 {
-  "divergence": "1.051651",
+  "divergence": "1.044217",
   "field": "beta",
-  "updated_at": "2026-10-28T23:59:07+00:00",
-  "z": 0.126,
+  "updated_at": "2026-10-29T00:43:40+00:00",
+  "z": -0.18,
   "calibrating": true,
   "scorer": "lexicon",
   "new_stories": 4,
   "climate": {
-    "fast": -0.4356,
-    "slow": -0.4359,
-    "normal": -0.4408,
-    "spread": 0.0598
+    "fast": -0.452,
+    "slow": -0.4511,
+    "normal": -0.4435,
+    "spread": 0.0597
   },
   "top_stories_24h": [
     {
@@ -35,6 +35,14 @@
       "link": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss",
       "valence": -0.862,
       "impact": 0.94,
+      "outlets": 1
+    },
+    {
+      "title": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
+      "valence": -0.762,
+      "impact": 0.99,
       "outlets": 1
     },
     {
@@ -66,14 +74,6 @@
       "source": "Guardian",
       "link": "https://www.theguardian.com/uk-news/2026/oct/28/knifeman-on-lner-train-caused-terror-and-fear-on-unimaginable-scale-court-hears",
       "valence": -0.716,
-      "impact": 0.8,
-      "outlets": 1
-    },
-    {
-      "title": "How the pandemic changed trust in science — in four charts",
-      "source": "Nature",
-      "link": "https://www.nature.com/articles/d41586-026-03248-z",
-      "valence": -0.664,
       "impact": 0.8,
       "outlets": 1
     },
