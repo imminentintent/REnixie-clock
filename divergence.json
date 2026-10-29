@@ -1,16 +1,16 @@
 {
-  "divergence": "1.040539",
+  "divergence": "1.027029",
   "field": "beta",
-  "updated_at": "2026-10-29T08:41:59+00:00",
-  "z": -0.332,
+  "updated_at": "2026-10-29T09:38:51+00:00",
+  "z": -0.888,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 14,
+  "new_stories": 18,
   "climate": {
-    "fast": -0.4813,
-    "slow": -0.4768,
-    "normal": -0.4614,
-    "spread": 0.0583
+    "fast": -0.5196,
+    "slow": -0.5063,
+    "normal": -0.4653,
+    "spread": 0.0581
   },
   "top_stories_24h": [
     {
@@ -62,6 +62,14 @@
       "outlets": 1
     },
     {
+      "title": "Argentina farmers evacuate cattle by boat as El Nino escalates",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/argentina-farmers-evacuate-cattle-by-boat-as-el-nino-escalates?traffic_source=rss",
+      "valence": -0.905,
+      "impact": 0.88,
+      "outlets": 1
+    },
+    {
       "title": "US jury convicts Rwandan American of lying about role in genocide",
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/2026/10/28/us-jury-convicts-rwandan-american-of-lying-about-role-in-genocide?traffic_source=rss",
@@ -81,14 +89,6 @@
       "title": "Shell profits double to $10.8bn as Iran war pushes up profit margin on oil",
       "source": "Guardian",
       "link": "https://www.theguardian.com/business/2026/oct/29/shell-profits-double-iran-war-pushes-up-profit-margin-on-oil",
-      "valence": -0.762,
-      "impact": 0.9,
-      "outlets": 1
-    },
-    {
-      "title": "How to stop the US-Israel war on Iran",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/10/29/how-to-stop-the-us-israel-war-on-iran?traffic_source=rss",
       "valence": -0.762,
       "impact": 0.9,
       "outlets": 1
