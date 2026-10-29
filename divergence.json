@@ -1,16 +1,16 @@
 {
-  "divergence": "1.032665",
+  "divergence": "1.032148",
   "field": "beta",
-  "updated_at": "2026-10-29T18:33:30+00:00",
-  "z": -0.656,
+  "updated_at": "2026-10-29T19:39:32+00:00",
+  "z": -0.677,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 17,
+  "new_stories": 11,
   "climate": {
-    "fast": -0.5346,
-    "slow": -0.5221,
-    "normal": -0.4887,
-    "spread": 0.0634
+    "fast": -0.5389,
+    "slow": -0.525,
+    "normal": -0.4905,
+    "spread": 0.0639
   },
   "top_stories_24h": [
     {
@@ -70,14 +70,6 @@
       "outlets": 1
     },
     {
-      "title": "US jury convicts Rwandan American of lying about role in genocide",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/28/us-jury-convicts-rwandan-american-of-lying-about-role-in-genocide?traffic_source=rss",
-      "valence": -0.762,
-      "impact": 0.95,
-      "outlets": 1
-    },
-    {
       "title": "Shell profits double to $10.8bn as Iran war pushes up profit margin on oil",
       "source": "Guardian",
       "link": "https://www.theguardian.com/business/2026/oct/29/shell-profits-double-iran-war-pushes-up-profit-margin-on-oil",
@@ -89,6 +81,14 @@
       "title": "How to stop the US-Israel war on Iran",
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/opinions/2026/10/29/how-to-stop-the-us-israel-war-on-iran?traffic_source=rss",
+      "valence": -0.762,
+      "impact": 0.9,
+      "outlets": 1
+    },
+    {
+      "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss",
       "valence": -0.762,
       "impact": 0.9,
       "outlets": 1
