@@ -1,16 +1,16 @@
 {
-  "divergence": "1.038347",
+  "divergence": "1.078553",
   "field": "beta",
-  "updated_at": "2026-10-29T22:10:57+00:00",
-  "z": -0.422,
+  "updated_at": "2026-10-29T23:03:18+00:00",
+  "z": 1.233,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 6,
+  "new_stories": 424,
   "climate": {
-    "fast": -0.5226,
-    "slow": -0.5162,
-    "normal": -0.4938,
-    "spread": 0.0632
+    "fast": -0.4024,
+    "slow": -0.4307,
+    "normal": -0.4909,
+    "spread": 0.0626
   },
   "top_stories_24h": [
     {
@@ -20,6 +20,46 @@
       "valence": -0.935,
       "impact": 1.0,
       "outlets": 2
+    },
+    {
+      "title": "At least four killed as Italian helicopter on EU peacekeeping mission crashes in Bosnia",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/europe/italian-military-helicopter-on-eu-mission-in-bosnia-crashes",
+      "valence": -0.922,
+      "impact": 1.0,
+      "outlets": 2
+    },
+    {
+      "title": "JD Vance contacts senior Iranian official in bid to revive peace talks",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/10/29/jd-vance-contacts-senior-iranian-official-in-bid-to-revive-peace-talks",
+      "valence": 0.905,
+      "impact": 1.0,
+      "outlets": 2
+    },
+    {
+      "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
+      "source": "UNNews",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168703",
+      "valence": -0.956,
+      "impact": 0.97,
+      "outlets": 1
+    },
+    {
+      "title": "North Korea fires ballistic missiles off east coast as tensions with South rise",
+      "source": "SkyNews",
+      "link": "https://news.sky.com/story/north-korea-fires-ballistic-missiles-off-east-coast-as-tensions-with-south-rise-13605215",
+      "valence": -0.834,
+      "impact": 1.0,
+      "outlets": 2
+    },
+    {
+      "title": "Aid mission set to enter Ukraine's Oleshky as localised ceasefire holds for third day",
+      "source": "France24",
+      "link": "https://www.france24.com/en/europe/20261029-aid-mission-set-to-enter-ukraine-s-oleshky-as-localised-ceasefire-holds-for-third-day",
+      "valence": 0.922,
+      "impact": 0.928,
+      "outlets": 1
     },
     {
       "title": "Damascus, Amman contradict each other on attack that killed civilians",
@@ -46,51 +86,11 @@
       "outlets": 1
     },
     {
-      "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
-      "valence": -0.935,
-      "impact": 0.88,
-      "outlets": 1
-    },
-    {
-      "title": "North Korea fires missiles as row over landmine blast intensifies",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/29/north-korea-fires-missiles-as-row-over-landmine-blast-intensifies?traffic_source=rss",
-      "valence": -0.905,
-      "impact": 0.88,
-      "outlets": 1
-    },
-    {
-      "title": "Argentina farmers evacuate cattle by boat as El Nino escalates",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/argentina-farmers-evacuate-cattle-by-boat-as-el-nino-escalates?traffic_source=rss",
-      "valence": -0.905,
-      "impact": 0.88,
-      "outlets": 1
-    },
-    {
-      "title": "Shell profits double to $10.8bn as Iran war pushes up profit margin on oil",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/business/2026/oct/29/shell-profits-double-iran-war-pushes-up-profit-margin-on-oil",
-      "valence": -0.762,
-      "impact": 0.9,
-      "outlets": 1
-    },
-    {
-      "title": "How to stop the US-Israel war on Iran",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/10/29/how-to-stop-the-us-israel-war-on-iran?traffic_source=rss",
-      "valence": -0.762,
-      "impact": 0.9,
-      "outlets": 1
-    },
-    {
-      "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss",
-      "valence": -0.762,
-      "impact": 0.9,
+      "title": "Palestinian President says hopes for peace talks with new Israeli government",
+      "source": "TheHindu",
+      "link": "https://www.thehindu.com/news/international/palestinian-president-says-hopes-for-peace-talks-with-new-israeli-government/article71641117.ece",
+      "valence": 0.905,
+      "impact": 0.895,
       "outlets": 1
     }
   ],
