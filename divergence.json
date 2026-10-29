@@ -1,16 +1,16 @@
 {
-  "divergence": "1.037896",
+  "divergence": "1.035442",
   "field": "beta",
-  "updated_at": "2026-10-29T02:37:30+00:00",
-  "z": -0.44,
+  "updated_at": "2026-10-29T03:34:38+00:00",
+  "z": -0.541,
   "calibrating": true,
   "scorer": "lexicon",
   "new_stories": 6,
   "climate": {
-    "fast": -0.4766,
-    "slow": -0.4732,
-    "normal": -0.4531,
-    "spread": 0.0594
+    "fast": -0.4876,
+    "slow": -0.4828,
+    "normal": -0.4577,
+    "spread": 0.0592
   },
   "top_stories_24h": [
     {
@@ -86,10 +86,10 @@
       "outlets": 1
     },
     {
-      "title": "‘They mobilized a whole government response to that joke’: Obama laughs off Trump attacks in rally for Ossoff",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/us-news/2026/oct/28/obama-atlanta-democrats-jon-ossoff",
-      "valence": -0.664,
+      "title": "Strikes on Darfur market in Sudan killed more than 100, rights group says",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/29/strikes-on-darfur-market-in-sudan-kill-more-than-100-rights-group-says?traffic_source=rss",
+      "valence": -0.716,
       "impact": 0.7,
       "outlets": 1
     }
