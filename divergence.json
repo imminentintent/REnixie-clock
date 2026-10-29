@@ -1,16 +1,16 @@
 {
-  "divergence": "1.049694",
+  "divergence": "1.053810",
   "field": "beta",
-  "updated_at": "2026-10-29T06:34:01+00:00",
-  "z": 0.045,
+  "updated_at": "2026-10-29T07:50:23+00:00",
+  "z": 0.215,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 13,
+  "new_stories": 21,
   "climate": {
-    "fast": -0.4574,
-    "slow": -0.4596,
-    "normal": -0.4609,
-    "spread": 0.0587
+    "fast": -0.446,
+    "slow": -0.4507,
+    "normal": -0.4597,
+    "spread": 0.0584
   },
   "top_stories_24h": [
     {
@@ -54,6 +54,14 @@
       "outlets": 1
     },
     {
+      "title": "North Korea fires missiles as row over landmine blast intensifies",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/29/north-korea-fires-missiles-as-row-over-landmine-blast-intensifies?traffic_source=rss",
+      "valence": -0.905,
+      "impact": 0.88,
+      "outlets": 1
+    },
+    {
       "title": "US jury convicts Rwandan American of lying about role in genocide",
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/2026/10/28/us-jury-convicts-rwandan-american-of-lying-about-role-in-genocide?traffic_source=rss",
@@ -83,14 +91,6 @@
       "link": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
       "valence": -0.905,
       "impact": 0.8,
-      "outlets": 1
-    },
-    {
-      "title": "Iran war live: Trump says he approved Vance outreach over medical supplies",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
-      "valence": -0.537,
-      "impact": 0.94,
       "outlets": 1
     }
   ],
