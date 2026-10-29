@@ -50,17 +50,51 @@ MAX_ITEM_AGE_H = 36        # ignore feed items older than this
 RECENT_KEEP_H = 48
 HISTORY_KEEP = 3000
 MAX_DOWNLOAD_BYTES = 3_000_000
+MIN_STORY_I = 0.12         # only stories at least this impactful are logged and plotted
+STORY_KEEP_DAYS = 7
+MAX_STORIES = 4000
 
 FEEDS = {  # source name -> url. Edit freely; dead feeds are skipped, not fatal.
+    # world news
     "BBC": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "Guardian": "https://www.theguardian.com/world/rss",
     "NPR": "https://feeds.npr.org/1004/rss.xml",
     "AlJazeera": "https://www.aljazeera.com/xml/rss/all.xml",
     "CBC": "https://www.cbc.ca/webfeed/rss/rss-world",
     "DW": "https://rss.dw.com/rdf/rss-en-world",
+    "France24": "https://www.france24.com/en/rss",
+    "NYTimes": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+    "WashingtonPost": "https://feeds.washingtonpost.com/rss/world",
+    "ABC-AU": "https://www.abc.net.au/news/feed/2942460/rss.xml",
+    "SkyNews": "https://feeds.skynews.com/feeds/rss/world.xml",
+    "TimesOfIndia": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+    "TheHindu": "https://www.thehindu.com/news/international/feeder/default.rss",
+    "JapanTimes": "https://www.japantimes.co.jp/feed/",
+    "StraitsTimes": "https://www.straitstimes.com/news/world/rss.xml",
+    "Euronews": "https://www.euronews.com/rss?level=theme&name=news",
+    "CNA": "https://www.channelnewsasia.com/rssfeeds/8395986",
+    "UNNews": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+    "Independent": "https://www.independent.co.uk/news/world/rss",
+    "GlobalNews": "https://globalnews.ca/world/feed/",
+    "RFI": "https://www.rfi.fr/en/rss",
+    "ArabNews": "https://www.arabnews.com/rss.xml",
+    # science, space, health, tech
     "NASA": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "NASAScience": "https://science.nasa.gov/feed/",
     "Nature": "https://www.nature.com/nature.rss",
     "ScienceDaily": "https://www.sciencedaily.com/rss/top/science.xml",
+    "ScienceMag": "https://www.science.org/rss/news_current.xml",
+    "NewScientist": "https://www.newscientist.com/feed/home/",
+    "PhysOrg": "https://phys.org/rss-feed/",
+    "ScienceAlert": "https://www.sciencealert.com/feed",
+    "SpaceCom": "https://www.space.com/feeds/all",
+    "ArsTechnica": "https://feeds.arstechnica.com/arstechnica/index",
+    "Wired": "https://www.wired.com/feed/rss",
+    "MITTechReview": "https://www.technologyreview.com/feed/",
+    "TheVerge": "https://www.theverge.com/rss/index.xml",
+    "BBCScience": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+    "GuardianScience": "https://www.theguardian.com/science/rss",
+    "WHO": "https://www.who.int/rss-feeds/news-english.xml",
 }
 
 # --------------------------------------------------------------------------
@@ -259,16 +293,25 @@ def parse_feed(xml_bytes: bytes, source: str) -> list[dict]:
     return items
 
 
+def _fetch_one(pair):
+    name, url = pair
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "worldline-estimator/" + VERSION})
+        with urllib.request.urlopen(req, timeout=12) as r:
+            data = r.read(MAX_DOWNLOAD_BYTES)
+        return parse_feed(data, name), None
+    except Exception as exc:
+        return [], f"{name}: {exc!r}"
+
+
 def fetch_all(feeds: dict[str, str]) -> tuple[list[dict], list[str]]:
+    from concurrent.futures import ThreadPoolExecutor
     items, errors = [], []
-    for name, url in feeds.items():
-        try:
-            req = urllib.request.Request(url, headers={"User-Agent": "worldline-estimator/" + VERSION})
-            with urllib.request.urlopen(req, timeout=15) as r:
-                data = r.read(MAX_DOWNLOAD_BYTES)
-            items.extend(parse_feed(data, name))
-        except Exception as exc:
-            errors.append(f"{name}: {exc!r}")
+    with ThreadPoolExecutor(max_workers=8) as ex:
+        for got, err in ex.map(_fetch_one, feeds.items()):
+            items.extend(got)
+            if err:
+                errors.append(err)
     return items, errors
 
 
@@ -410,11 +453,47 @@ def process(state: dict, fetched: list[dict], now: float, mode: str = "lexicon")
                        "n_sources": n_src, "v": round(v, 3), "I": round(impact(sev, n_src), 3),
                        "d": round(story_d(v, impact(sev, n_src)), 6)})
     step = ingest(state, [s for s in scored if s["I"] > 0], now)
-    state["recent"] = [r for r in state["recent"] + scored if now - r["ts"] <= RECENT_KEEP_H * 3600][-400:]
+    state["recent"] = [r for r in state["recent"] + scored if now - r["ts"] <= RECENT_KEEP_H * 3600
+                       and r["I"] >= MIN_STORY_I][-800:]
     state["seen"] = {k: t for k, t in seen.items() if now - t <= 7 * 86400}
     step["new_stories"] = len(scored)
     step["scored"] = scored
     return step
+
+
+def story_row(r: dict) -> dict:
+    d = r["d"] if "d" in r else round(story_d(r["v"], r["I"]), 6)
+    return {"ts": int(r["ts"]), "title": r["title"], "source": r["source"], "link": r.get("link", ""),
+            "v": r["v"], "I": r["I"], "d": d, "n_sources": r.get("n_sources", 1)}
+
+
+def merge_stories(existing: list[dict], extra: list[dict], now: float) -> list[dict]:
+    rows = {(x["ts"], x["title"], x["source"]): x for x in existing}
+    for r in extra:
+        if r["I"] >= MIN_STORY_I:
+            rows.setdefault((int(r["ts"]), r["title"], r["source"]), story_row(r))
+    keep = [x for x in rows.values() if now - x["ts"] <= STORY_KEEP_DAYS * 86400]
+    keep.sort(key=lambda x: x["ts"])
+    return keep[-MAX_STORIES:]
+
+
+def backfill(data_dir: Path, limit: int = 500) -> int:
+    """One-off: rebuild stories.json from the `recent` lists stored in older state.json commits."""
+    import subprocess
+    def git(*a):
+        return subprocess.run(["git", "-C", str(data_dir), *a], capture_output=True, text=True, check=True).stdout
+    found = []
+    for h in git("log", "--format=%H", "-n", str(limit), "--", "state.json").split():
+        try:
+            found += json.loads(git("show", f"{h}:state.json")).get("recent", [])
+        except Exception:
+            continue
+    stp = data_dir / "stories.json"
+    old = json.loads(stp.read_text()) if stp.exists() else []
+    rows = merge_stories(old, found, datetime.now(timezone.utc).timestamp())
+    _atomic_write(stp, json.dumps(rows, separators=(",", ":"), ensure_ascii=False))
+    print(f"backfill: {len(rows)} stories now logged")
+    return 0
 
 
 def build_output(state: dict, step: dict, now: float) -> dict:
@@ -463,10 +542,7 @@ def run(data_dir: Path, mode: str, feeds: dict[str, str]) -> int:
     hist.append({"t": out["updated_at"], "w": out["divergence"], "z": out["z"],
                  "wf": f"{z_to_worldline(step['z_fast']):.6f}"})
     stp = data_dir / "stories.json"
-    stories = json.loads(stp.read_text()) if stp.exists() else []
-    stories += [{"ts": int(x["ts"]), "title": x["title"], "source": x["source"], "link": x["link"],
-                 "v": x["v"], "I": x["I"], "d": x["d"], "n_sources": x["n_sources"]} for x in step["scored"]]
-    stories = [x for x in stories if now - x["ts"] <= 14 * 86400][-3000:]
+    stories = merge_stories(json.loads(stp.read_text()) if stp.exists() else [], state["recent"], now)
     _atomic_write(stp, json.dumps(stories, separators=(",", ":"), ensure_ascii=False))
     _atomic_write(hp, json.dumps(hist[-HISTORY_KEEP:], separators=(",", ":")))
     _atomic_write(sp, json.dumps(state, separators=(",", ":")))
@@ -487,9 +563,13 @@ def main(argv=None) -> int:
     r.add_argument("--data", default=os.environ.get("WORLDLINE_DATA", "data"))
     r.add_argument("--scorer", default=os.environ.get("WORLDLINE_SCORER", "lexicon"),
                    choices=["lexicon", "llm", "blend"])
+    bf = sub.add_parser("backfill", help="rebuild stories.json from older state.json commits")
+    bf.add_argument("--data", default=os.environ.get("WORLDLINE_DATA", "data"))
     s = sub.add_parser("score", help="score a headline with the lexicon, for debugging")
     s.add_argument("headline")
     args = ap.parse_args(argv)
+    if args.cmd == "backfill":
+        return backfill(Path(args.data))
     if args.cmd == "score":
         v, sev = lexicon_score(args.headline)
         print(f"valence={v:+.3f} severity={sev:.3f}")

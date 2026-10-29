@@ -1,14 +1,17 @@
 # REnixie;clock
 
-![worldline](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fimminentintent%2FREnixie-clock%2Fworldline-data%2Fbadge.json)
+![worldline](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FYOUR_USER%2FREnixie-clock%2Fworldline-data%2Fbadge.json)
 
-> Status: **in progress.** Software side is live; hardware is at the design stage.
+An 8-tube LED "Nixie-style" clock that reads the world. Part electronics build, part software.
+*If you know, you know.*
+
+> Status: **in progress.** Software side works in simulation; hardware is at the design stage.
 
 ## Parts
 
 | Folder | What it is | Status |
 |---|---|---|
-| [`worldline/`](worldline/) | News-driven worldline estimator. Reads RSS feeds, publishes an 8-character value every 30 min | live, updating automatically |
+| [`worldline/`](worldline/) | News-driven worldline estimator. Reads RSS feeds, publishes an 8-character value every 30 min | built, tested offline, awaiting first live run |
 | [`firmware/`](firmware/) | ESP32 code: Clock, Random, Game and Online modes | Online-mode helper drafted; multi-mode sketch runs in Wokwi |
 | [`hardware/`](hardware/) | Tube PCBs, controller board, acrylic parts, enclosure | planned |
 | [`docs/`](docs/) | Build log, notes, method write-ups | started |
@@ -34,14 +37,9 @@ never clutter this branch's history.
 
 ## Get the live value
 
-`https://raw.githubusercontent.com/imminentintent/REnixie-clock/worldline-data/divergence.txt`
+`https://raw.githubusercontent.com/YOUR_USER/REnixie-clock/worldline-data/divergence.txt`
 
 Full details of the latest reading (field, z-score, top stories) are in `divergence.json` on the same branch.
-
-## Honest note on the numbers
-
-The value is a transparent, reproducible index computed from news. The quantity it is named after is
-fictional, so it makes no claim to measure anything physical. See [`worldline/README.md`](worldline/README.md).
 
 ## Setup
 

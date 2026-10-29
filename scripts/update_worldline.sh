@@ -12,6 +12,11 @@ git config user.email "worldline-bot@users.noreply.github.com"
 if git ls-remote --exit-code --heads origin "$BRANCH" >/dev/null 2>&1; then
   git fetch --depth=1 origin "+refs/heads/$BRANCH:refs/remotes/origin/$BRANCH"
   git worktree add -B "$BRANCH" "$DIR" "origin/$BRANCH"
+  if [ ! -f "$DIR/.backfilled" ]; then   # one-off: recover the stories logged before stories.json existed
+    git fetch --depth=500 origin "+refs/heads/$BRANCH:refs/remotes/origin/$BRANCH" || true
+    ${BACKFILL_CMD:-python worldline/worldline.py backfill --data "$DIR"} || true
+    touch "$DIR/.backfilled"
+  fi
 else
   echo "first run: creating the $BRANCH branch"
   git worktree add --detach "$DIR"

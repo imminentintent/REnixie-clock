@@ -139,6 +139,19 @@ class StoryPlot(unittest.TestCase):
         self.assertEqual(step["scored"][0]["title"], "War erupts")
 
 
+class StoryLog(unittest.TestCase):
+    def test_merge_dedupes_filters_and_expires(self):
+        r = {"ts": T0, "title": "War erupts", "source": "BBC", "link": "", "v": -1.0, "I": 0.9}
+        low = dict(r, title="Parking", I=0.05)
+        old = dict(r, title="Old", ts=T0 - 9 * 86400)
+        rows = w.merge_stories([], [r, r, low, old], T0)
+        self.assertEqual([x["title"] for x in rows], ["War erupts"])
+        self.assertEqual(len(w.merge_stories(rows, [r], T0)), 1)
+
+    def test_feed_list_size(self):
+        self.assertGreaterEqual(len(w.FEEDS), 35)
+
+
 class Output(unittest.TestCase):
     def test_eight_characters(self):
         s = w.fresh_state()

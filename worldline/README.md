@@ -1,6 +1,6 @@
 # worldline-estimator
 
-An open, reproducible, **news-driven worldline index**. Every 30 minutes it reads world-news RSS feeds,
+A **news-based worldline reading**. Every 30 minutes it reads world-news RSS feeds,
 scores the stories, and publishes a single 8-character value (baseline `1.048596`) that a clock or
 any other device can poll.
 
@@ -43,16 +43,6 @@ Local test: `python worldline.py run --data /tmp/wd` (needs internet) -
 The first reading defines "normal", so a fresh install starts on the baseline. For the first 7 days the
 JSON says `"calibrating": true` and the spread is inflated to damp early false alarms.
 
-## What you can and cannot claim
-
-Divergence is a fictional quantity. There is no instrument, ground truth or historical record to
-calibrate against, so *no* estimator can be "close to the real divergence" - there is nothing to be close to.
-
-**Defensible:** "an open, reproducible, news-driven worldline index, in the spirit of the fictional
-divergence meter; method and code are public, every reading can be traced to the stories behind it."
-
-**Not defensible:** "measures the real divergence", "detects timeline changes", or any accuracy figure.
-
 ## Known limitations
 
 * The lexicon is keyword-based: sarcasm, context ("war of words") and non-English news are weak spots.
@@ -63,8 +53,3 @@ divergence meter; method and code are public, every reading can be traced to the
 * GitHub cron is best-effort (delays of several minutes are common) and may pause on inactive repos.
 * Constants (`HL_*`, `SD_PRIOR`, `FIELD_CROSS_Z`) are reasoned guesses, not fitted. After a few weeks of
   `history.json`, tune them so the meter crosses the field edge about as often as you want it to.
-
-## Licence note
-
-All code here is new and shares nothing with the GPL-3.0 DivergenceMeter website repo (no code or
-equations were copied), so you may license it as you like.
