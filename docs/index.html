@@ -14,7 +14,7 @@ body::after{content:"";position:fixed;inset:0;pointer-events:none;background:rad
 main{position:relative;z-index:1;max-width:1040px;margin:0 auto}
 .k{font-size:12px;letter-spacing:.55em;text-transform:uppercase;color:var(--mute);margin:0 0 6px .55em}
 #val{display:flex;justify-content:center;gap:clamp(2px,1vw,10px);margin:8px 0 6px;filter:drop-shadow(0 0 22px rgba(255,122,26,.4))}
-.d{font:200 clamp(40px,11vw,104px)/1.1 ui-monospace,"SF Mono",Consolas,monospace;background:linear-gradient(#ffe0b0,#ff8a2a);-webkit-background-clip:text;background-clip:text;color:transparent;opacity:0;animation:in .9s ease forwards}
+.d{font:200 clamp(40px,11vw,104px)/1.1 ui-monospace,"SF Mono",Consolas,monospace;background:linear-gradient(#ffe0b0,#ff8a2a);-webkit-background-clip:text;background-clip:text;color:transparent}
 .d.p{margin:0 -.08em}
 @keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
 #meta{font-size:11px;letter-spacing:.3em;text-transform:uppercase;color:var(--mute)}
@@ -75,17 +75,28 @@ function demo(){let seed=7,x=0,H=[],S=[];const r=()=>(seed=seed*16807%2147483647
   H.push({t:new Date(t).toISOString(),w:f(x).toFixed(6),wf:f(x*1.4).toFixed(6)});
   if(r()<.5){const v=(r()-.55)*2,I=.15+r()*.8;S.push({ts:t/1e3,title:hd[Math.floor(r()*5)],source:"demo",link:"#",v,I,d:f(3*v*I),n_sources:1+Math.floor(r()*4)})}}
  const l=H[H.length-1];return{D:{divergence:l.w,field:+l.w<1?"alpha":"beta",updated_at:l.t},H,S}}
+let shown="",tm;
+function digits(v){
+ if(v===shown)return;shown=v;clearInterval(tm);
+ const el=$("#val");el.innerHTML=[...v].map(c=>`<span class="d${c=="."?" p":""}">${esc(c)}</span>`).join("");
+ if(matchMedia("(prefers-reduced-motion:reduce)").matches)return;
+ const sp=[...el.children],t0=performance.now();
+ tm=setInterval(()=>{const n=performance.now()-t0;let go=false;
+  sp.forEach((s,i)=>{if(v[i]===".")return;
+   if(n<1000+i*260){go=true;s.textContent=Math.floor(Math.random()*10);s.style.opacity=.5+Math.random()*.5}
+   else{s.textContent=v[i];s.style.opacity=1}});
+  if(!go)clearInterval(tm)},55)}
 function render(){
- $("#val").innerHTML=[...D.divergence].map((c,i)=>`<span class="d${c=="."?" p":""}" style="animation-delay:${i*.09}s">${esc(c)}</span>`).join("");
+ digits(D.divergence);
  $("#meta").textContent=`${D.field} field · updated ${new Date(D.updated_at).toLocaleString([],{month:"short",day:"numeric",hour:"2-digit",minute:"2-digit"})}`;
  const t1=Date.now(),t0=t1-days*864e5;chart(t0,t1);table(t0)}
 function smooth(p){if(p.length<3)return"M"+p.join("L");let d=`M${p[0]}`;for(let i=1;i<p.length-1;i++){const[a,b]=p[i].split(",").map(Number),[c,e]=p[i+1].split(",").map(Number);d+=`Q${a},${b} ${((a+c)/2).toFixed(1)},${((b+e)/2).toFixed(1)}`}return d+"L"+p[p.length-1]}
 function chart(t0,t1){
- const hs=H.filter(h=>h.t>=t0),vs=S.filter(x=>x.t>=t0),all=[1,1.1,...hs.map(h=>h.w),...hs.map(h=>h.wf),...vs.map(x=>x.d)];
+ const thr=days>=7?.3:days>=3?.2:.12,hs=H.filter(h=>h.t>=t0),vs=S.filter(x=>x.t>=t0&&x.I>=thr),all=[1,1.1,...hs.map(h=>h.w),...hs.map(h=>h.wf),...vs.map(x=>x.d)];
  let lo=Math.min(...all),hi=Math.max(...all),pad=Math.max(.03,(hi-lo)*.1);lo=Math.max(0,lo-pad);hi=Math.min(2,hi+pad);
  if(hi-lo<.25){const m=(hi+lo)/2;lo=Math.max(0,m-.125);hi=Math.min(2,m+.125)}
  const W=1e3,B=440,L=54,R=14,T=14,Bt=32,X=t=>L+(t-t0)/(t1-t0)*(W-L-R),Y=v=>T+(hi-v)/(hi-lo)*(B-T-Bt),yb=Math.min(B-Bt,Math.max(T,Y(1)));
- let s=`<defs><linearGradient id="ga" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff7a1a" stop-opacity=".28"/><stop offset="1" stop-color="#ff7a1a" stop-opacity="0"/></linearGradient>
+ let s=`<defs><linearGradient id="ga" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff7a1a" stop-opacity=".16"/><stop offset=".4" stop-color="#ff7a1a" stop-opacity="0"/><stop offset="1" stop-color="#ff7a1a" stop-opacity="0"/></linearGradient>
  <linearGradient id="gb" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2fb7a8" stop-opacity=".12"/><stop offset="1" stop-color="#2fb7a8" stop-opacity=".02"/></linearGradient>
  <linearGradient id="gr" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff4a3d" stop-opacity=".02"/><stop offset="1" stop-color="#ff4a3d" stop-opacity=".16"/></linearGradient>
  <filter id="bl" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="3.5"/></filter></defs>
@@ -96,8 +107,8 @@ function chart(t0,t1){
  if(yb>T&&yb<B-Bt)s+=`<line x1="${L}" x2="${W-R}" y1="${yb}" y2="${yb}" stroke="#ffb45e" stroke-opacity=".35"/><text x="${W-R-4}" y="${yb-6}" text-anchor="end" class="ax">1.00 · beta above, alpha below</text>`;
  const yB=Y(1.048596);s+=`<line x1="${L}" x2="${W-R}" y1="${yB}" y2="${yB}" stroke="#ffb45e" stroke-opacity=".3" stroke-dasharray="2 6"/>`;
  const col=x=>x.v<-.15?"#ff5a4f":x.v>.15?"#6fe3b3":"#ffb45e";
- S.forEach((x,i)=>{if(x.t>=t0){const cx=X(x.t).toFixed(1),cy=Y(x.d).toFixed(1),r=(2+5*x.I).toFixed(1);
-  s+=`<circle cx="${cx}" cy="${cy}" r="${(r*1.8).toFixed(1)}" fill="${col(x)}" opacity=".22" filter="url(#bl)" pointer-events="none"/><circle class="dot" cx="${cx}" cy="${cy}" r="${r}" fill="${col(x)}" fill-opacity=".8" stroke="transparent" stroke-width="10" data-i="${i}"/>`}});
+ S.forEach((x,i)=>{if(x.t>=t0&&x.I>=thr){const cx=X(x.t).toFixed(1),cy=Y(x.d).toFixed(1),r=(1.2+3.4*x.I).toFixed(1);
+  s+=`<circle cx="${cx}" cy="${cy}" r="${(r*1.6).toFixed(1)}" fill="${col(x)}" opacity=".18" filter="url(#bl)" pointer-events="none"/><circle class="dot" cx="${cx}" cy="${cy}" r="${r}" fill="${col(x)}" fill-opacity=".75" stroke="transparent" stroke-width="10" data-i="${i}"/>`}});
  if(hs.length>1){const pw=hs.map(h=>X(h.t).toFixed(1)+","+Y(h.w).toFixed(1)),pf=hs.map(h=>X(h.t).toFixed(1)+","+Y(h.wf).toFixed(1));
   s+=`<path d="${smooth(pw)}L${X(hs[hs.length-1].t).toFixed(1)},${B-Bt}L${X(hs[0].t).toFixed(1)},${B-Bt}Z" fill="url(#ga)" pointer-events="none"/>
   <path class="ln" pathLength="1" d="${smooth(pf)}" fill="none" stroke="#ff8fb0" stroke-opacity=".7" stroke-width="1" pointer-events="none"/>
