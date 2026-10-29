@@ -329,6 +329,11 @@ def z_to_worldline(z: float) -> float:
     return FIELD_EDGE * math.exp(-(abs(z) - abs(FIELD_CROSS_Z)) / TAIL_LENGTH)
 
 
+def story_d(v: float, impact_: float) -> float:
+    """Worldline a single story would imply if it were the whole news climate (for the plot)."""
+    return z_to_worldline(3.0 * v * impact_)
+
+
 def field_name(w: float) -> str:
     return "alpha" if w < FIELD_EDGE else "beta"
 
@@ -366,6 +371,7 @@ def ingest(state: dict, scored: list[dict], now: float) -> dict:
     sd = max(SD_FLOOR, math.sqrt(state["var"])) * (2.0 - age_frac)  # extra caution while calibrating
     dev = c - state["mu"]
     z = dev / sd
+    z_fast = (cf - state["mu"]) / sd
     # early on, "normal" is a plain running average; later it becomes a slow moving average
     beta = max(1 - 2 ** (-dt / HL_REF_DAYS), 1.0 / (state["runs"] + 1))
     state["mu"] += beta * dev
@@ -374,7 +380,7 @@ def ingest(state: dict, scored: list[dict], now: float) -> dict:
     state["runs"] += 1
     state["z"] = z
     state["worldline"] = z_to_worldline(z)
-    return {"climate_fast": cf, "climate_slow": cs, "climate": c, "z": z,
+    return {"z_fast": z_fast, "climate_fast": cf, "climate_slow": cs, "climate": c, "z": z,
             "worldline": state["worldline"], "sd": sd}
 
 
@@ -401,11 +407,13 @@ def process(state: dict, fetched: list[dict], now: float, mode: str = "lexicon")
     scored = []
     for (it, n_src), (v, sev) in zip(to_score, results):
         scored.append({"title": it["title"], "source": it["source"], "link": it["link"], "ts": it["ts"],
-                       "n_sources": n_src, "v": round(v, 3), "I": round(impact(sev, n_src), 3)})
+                       "n_sources": n_src, "v": round(v, 3), "I": round(impact(sev, n_src), 3),
+                       "d": round(story_d(v, impact(sev, n_src)), 6)})
     step = ingest(state, [s for s in scored if s["I"] > 0], now)
     state["recent"] = [r for r in state["recent"] + scored if now - r["ts"] <= RECENT_KEEP_H * 3600][-400:]
     state["seen"] = {k: t for k, t in seen.items() if now - t <= 7 * 86400}
     step["new_stories"] = len(scored)
+    step["scored"] = scored
     return step
 
 
@@ -452,7 +460,14 @@ def run(data_dir: Path, mode: str, feeds: dict[str, str]) -> int:
     step = process(state, fetched, now, mode)
     out = build_output(state, step, now)
     hist = json.loads(hp.read_text()) if hp.exists() else []
-    hist.append({"t": out["updated_at"], "w": out["divergence"], "z": out["z"]})
+    hist.append({"t": out["updated_at"], "w": out["divergence"], "z": out["z"],
+                 "wf": f"{z_to_worldline(step['z_fast']):.6f}"})
+    stp = data_dir / "stories.json"
+    stories = json.loads(stp.read_text()) if stp.exists() else []
+    stories += [{"ts": int(x["ts"]), "title": x["title"], "source": x["source"], "link": x["link"],
+                 "v": x["v"], "I": x["I"], "d": x["d"], "n_sources": x["n_sources"]} for x in step["scored"]]
+    stories = [x for x in stories if now - x["ts"] <= 14 * 86400][-3000:]
+    _atomic_write(stp, json.dumps(stories, separators=(",", ":"), ensure_ascii=False))
     _atomic_write(hp, json.dumps(hist[-HISTORY_KEEP:], separators=(",", ":")))
     _atomic_write(sp, json.dumps(state, separators=(",", ":")))
     _atomic_write(data_dir / "divergence.json", json.dumps(out, indent=2, ensure_ascii=False))

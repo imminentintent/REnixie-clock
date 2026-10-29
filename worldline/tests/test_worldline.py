@@ -125,6 +125,20 @@ class Dynamics(unittest.TestCase):
         self.assertEqual(s["scorer"], "blend")
 
 
+class StoryPlot(unittest.TestCase):
+    def test_story_d_direction_and_bounds(self):
+        self.assertAlmostEqual(w.story_d(0, 0.5), w.BASE, places=9)
+        self.assertLess(w.story_d(-1, 1), 1.0)
+        self.assertGreater(w.story_d(1, 1), w.BASE)
+        self.assertTrue(0 < w.story_d(-1, 1) < w.story_d(-0.2, 0.2) < w.story_d(1, 1) < 2)
+
+    def test_z_fast_reported(self):
+        s = w.fresh_state()
+        step = w.process(s, [item("War erupts")], T0)
+        self.assertIn("z_fast", step)
+        self.assertEqual(step["scored"][0]["title"], "War erupts")
+
+
 class Output(unittest.TestCase):
     def test_eight_characters(self):
         s = w.fresh_state()

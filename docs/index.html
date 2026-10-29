@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>REnixie;clock · Worldline Report</title>
+<style>
+:root{color-scheme:dark;--o:#ff8c1a;--h:#ffb347;--bad:#ff4d4d;--good:#5ee0a0}
+*{box-sizing:border-box}
+body{margin:0;padding:20px 14px 40px;background:#000;color:var(--o);font:14px ui-monospace,Consolas,monospace;text-align:center}
+h1{font-size:clamp(20px,4vw,34px);margin:6px 0 14px;text-shadow:0 0 12px var(--o)}
+h2{font-size:16px;margin:26px 0 8px;text-shadow:0 0 8px var(--o)}
+#val{display:flex;justify-content:center;gap:6px;margin:10px 0}
+.d{width:clamp(28px,8vw,64px);padding:10px 0;font-size:clamp(28px,8vw,60px);border:1px solid #4a2a08;border-radius:8px;background:#120800;text-shadow:0 0 14px var(--o)}
+.d.p{width:auto;padding:10px 0;border:0;background:none}
+#meta,#demo,.note{color:#b86a1c;font-size:12px}
+#demo{color:var(--bad)}
+.btns{margin:12px 0}
+button{background:#120800;color:var(--o);border:1px solid #4a2a08;border-radius:6px;padding:5px 12px;font:inherit;cursor:pointer;margin:0 3px}
+button.on{background:var(--o);color:#000}
+#wrap{position:relative;max-width:1000px;margin:0 auto}
+svg{width:100%;height:auto;display:block}
+.g{stroke:#2a1704}.ax{fill:#b86a1c;font-size:11px}
+#tip{position:absolute;pointer-events:none;background:#120800;border:1px solid var(--o);border-radius:6px;padding:6px 8px;font-size:12px;text-align:left;max-width:280px}
+.leg{max-width:1000px;margin:8px auto;font-size:12px}
+.leg i{display:inline-block;width:10px;height:10px;border-radius:50%;margin:0 4px 0 12px}
+.tw{max-width:1000px;margin:0 auto;overflow-x:auto}
+table{width:100%;border-collapse:collapse;text-align:left;font-size:12px}
+th,td{padding:6px 8px;border-bottom:1px solid #2a1704}
+th{color:var(--h)}a{color:var(--h)}
+[hidden]{display:none!important}
+</style></head><body>
+<h1>Worldline Status Report</h1>
+<div id="val"></div>
+<div id="meta">loading…</div>
+<div id="demo" hidden>Live data unreachable, showing synthetic demo data.</div>
+<div class="btns" id="rng"><button data-r="1">24 h</button><button data-r="3" class="on">3 d</button><button data-r="7">7 d</button><button data-r="0">all</button></div>
+<div id="wrap"><svg id="ch" viewBox="0 0 1000 420"></svg><div id="tip" hidden></div></div>
+<div class="leg">Alpha field below 1.0 · beta field above · dashed line is the baseline 1.048596
+<br><i style="background:var(--bad)"></i>bad news <i style="background:var(--h)"></i>neutral <i style="background:var(--good)"></i>good news · pink: raw (fast) · orange: trend</div>
+<h2>Top stories in range</h2>
+<div class="tw"><table><thead><tr><th>Title</th><th>Pull</th><th>Valence</th><th>Impact</th><th>Outlets</th></tr></thead><tbody id="tb"></tbody></table></div>
+<p class="note">A news-driven index, not a physical measurement. Pull is the worldline a story would imply if it were the whole news climate.<br>
+<a href="https://github.com/imminentintent/REnixie-clock">Source and method on GitHub</a></p>
+<script>
+const BASE="https://raw.githubusercontent.com/imminentintent/REnixie-clock/worldline-data/";
+const $=s=>document.querySelector(s),esc=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+let D,H,S,days=3;
+const f=z=>z>=0?1.048596+.951404*Math.tanh(.024298*z/.951404):z>=-2?1.048596+.024298*z:Math.exp(-(-z-2)/2.5);
+async function get(n){const r=await fetch(BASE+n+"?t="+Date.now());if(!r.ok)throw 0;return r.json()}
+async function load(){
+ try{[D,H,S]=await Promise.all([get("divergence.json"),get("history.json"),get("stories.json").catch(()=>[])]);$("#demo").hidden=true}
+ catch(e){({D,H,S}=demo());$("#demo").hidden=false}
+ H=H.map(h=>({t:Date.parse(h.t),w:+h.w,wf:+(h.wf??h.w)}));S=S.map(s=>({...s,t:s.ts*1e3}));render()}
+function demo(){let seed=7,x=0,H=[],S=[];const r=()=>(seed=seed*16807%2147483647)/2147483647,t0=Date.now()-7*864e5,
+ hd=["Floods displace thousands","Talks resume after ceasefire","Missile strikes hit city","Researchers report cure","Council approves budget"];
+ for(let t=t0;t<Date.now();t+=18e5){x=x*.97+(r()-.5)*.35;const d=(t-t0)/864e5;if(d>4&&d<4.4)x-=.5;
+  H.push({t:new Date(t).toISOString(),w:f(x).toFixed(6),wf:f(x*1.4).toFixed(6)});
+  for(let k=0;k<2;k++){const v=(r()-.55)*2,I=r()**2;S.push({ts:t/1e3,title:hd[Math.floor(r()*5)],source:"demo",link:"#",v,I,d:f(3*v*I),n_sources:1+Math.floor(r()*4)})}}
+ const l=H[H.length-1];return{D:{divergence:l.w,field:+l.w<1?"alpha":"beta",updated_at:l.t,calibrating:true},H,S}}
+function render(){
+ $("#val").innerHTML=[...D.divergence].map(c=>`<span class="d${c=="."?" p":""}">${esc(c)}</span>`).join("");
+ $("#meta").textContent=`${D.field} field · updated ${new Date(D.updated_at).toLocaleString()}`+(D.calibrating?" · calibrating":"");
+ const t1=Date.now(),t0=days?t1-days*864e5:H[0].t;chart(t0,t1);table(t0)}
+function chart(t0,t1){
+ const W=1e3,B=420,L=50,R=10,T=10,Bt=30,X=t=>L+(t-t0)/(t1-t0)*(W-L-R),Y=v=>T+(2-v)/2*(B-T-Bt);
+ let s=`<rect x="${L}" y="${Y(1)}" width="${W-L-R}" height="${Y(0)-Y(1)}" fill="#ff4d4d" opacity=".10"/><rect x="${L}" y="${Y(2)}" width="${W-L-R}" height="${Y(1)-Y(2)}" fill="#35c0b0" opacity=".08"/>`;
+ for(const v of[0,.5,1,1.5,2])s+=`<line x1="${L}" x2="${W-R}" y1="${Y(v)}" y2="${Y(v)}" class="g"/><text x="${L-6}" y="${Y(v)+4}" text-anchor="end" class="ax">${v.toFixed(1)}</text>`;
+ for(let i=0;i<=4;i++){const t=t0+(t1-t0)*i/4;s+=`<text x="${X(t)}" y="${B-8}" text-anchor="middle" class="ax">${esc(new Date(t).toLocaleString([],{month:"short",day:"numeric",hour:"2-digit",minute:"2-digit"}))}</text>`}
+ s+=`<line x1="${L}" x2="${W-R}" y1="${Y(1.048596)}" y2="${Y(1.048596)}" stroke="#ffb347" stroke-dasharray="4 4" opacity=".5"/>`;
+ S.forEach((x,i)=>{if(x.t>=t0)s+=`<circle cx="${X(x.t).toFixed(1)}" cy="${Y(x.d).toFixed(1)}" r="${(1.5+4*x.I).toFixed(1)}" fill="${x.v<-.15?"#ff4d4d":x.v>.15?"#5ee0a0":"#ffb347"}" opacity=".55" data-i="${i}"/>`});
+ const p=k=>"M"+H.filter(h=>h.t>=t0).map(h=>X(h.t).toFixed(1)+","+Y(h[k]).toFixed(1)).join("L");
+ s+=`<path d="${p("wf")}" fill="none" stroke="#ff7aa8" stroke-width="1" opacity=".8"/><path d="${p("w")}" fill="none" stroke="#ff8c1a" stroke-width="2.5"/>`;
+ $("#ch").innerHTML=s}
+function table(t0){
+ const v=S.filter(x=>x.t>=t0).sort((a,b)=>Math.abs(b.v)*b.I*b.I-Math.abs(a.v)*a.I*a.I).slice(0,12);
+ $("#tb").innerHTML=v.map(x=>`<tr><td><a href="${/^https?:/.test(x.link)?esc(x.link):"#"}" target="_blank" rel="noopener">${esc(x.title)}</a> <span class="note">${esc(x.source)}</span></td><td>${(+x.d).toFixed(4)}</td><td>${(+x.v).toFixed(2)}</td><td>${(+x.I).toFixed(2)}</td><td>${esc(x.n_sources)}</td></tr>`).join("")||`<tr><td colspan="5">No stories logged yet. The next update will start the log.</td></tr>`}
+$("#ch").addEventListener("mousemove",e=>{const i=e.target.dataset&&e.target.dataset.i,tip=$("#tip");
+ if(i===undefined){tip.hidden=true;return}const x=S[i],b=$("#wrap").getBoundingClientRect();
+ tip.innerHTML=`${esc(x.title)}<br><span class="note">${esc(x.source)} · valence ${(+x.v).toFixed(2)} · impact ${(+x.I).toFixed(2)} · ${esc(x.n_sources)} outlet(s)</span>`;
+ tip.hidden=false;tip.style.left=Math.min(e.clientX-b.left+12,b.width-290)+"px";tip.style.top=(e.clientY-b.top+12)+"px"});
+$("#rng").addEventListener("click",e=>{const r=e.target.dataset.r;if(r===undefined)return;days=+r;
+ document.querySelectorAll("#rng button").forEach(b=>b.classList.toggle("on",b===e.target));render()});
+load();setInterval(load,3e5);
+</script></body></html>
