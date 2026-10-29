@@ -1,16 +1,16 @@
 {
-  "divergence": "1.053810",
+  "divergence": "1.040539",
   "field": "beta",
-  "updated_at": "2026-10-29T07:50:23+00:00",
-  "z": 0.215,
+  "updated_at": "2026-10-29T08:41:59+00:00",
+  "z": -0.332,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 21,
+  "new_stories": 14,
   "climate": {
-    "fast": -0.446,
-    "slow": -0.4507,
-    "normal": -0.4597,
-    "spread": 0.0584
+    "fast": -0.4813,
+    "slow": -0.4768,
+    "normal": -0.4614,
+    "spread": 0.0583
   },
   "top_stories_24h": [
     {
@@ -78,19 +78,19 @@
       "outlets": 1
     },
     {
-      "title": "Girl seriously injured in wolf attack at German wildlife park",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
-      "valence": -0.862,
-      "impact": 0.82,
+      "title": "Shell profits double to $10.8bn as Iran war pushes up profit margin on oil",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/business/2026/oct/29/shell-profits-double-iran-war-pushes-up-profit-margin-on-oil",
+      "valence": -0.762,
+      "impact": 0.9,
       "outlets": 1
     },
     {
-      "title": "Australia news live: Lambie scolded by ADF chief over hidden recording device revelations; woman dies after drive-by shooting",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
-      "valence": -0.905,
-      "impact": 0.8,
+      "title": "How to stop the US-Israel war on Iran",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/opinions/2026/10/29/how-to-stop-the-us-israel-war-on-iran?traffic_source=rss",
+      "valence": -0.762,
+      "impact": 0.9,
       "outlets": 1
     }
   ],
