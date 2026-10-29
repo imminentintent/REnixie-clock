@@ -1,16 +1,16 @@
 {
-  "divergence": "1.044217",
+  "divergence": "1.037778",
   "field": "beta",
-  "updated_at": "2026-10-29T00:43:40+00:00",
-  "z": -0.18,
+  "updated_at": "2026-10-29T01:47:39+00:00",
+  "z": -0.445,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 4,
+  "new_stories": 6,
   "climate": {
-    "fast": -0.452,
-    "slow": -0.4511,
-    "normal": -0.4435,
-    "spread": 0.0597
+    "fast": -0.4714,
+    "slow": -0.4685,
+    "normal": -0.4488,
+    "spread": 0.0595
   },
   "top_stories_24h": [
     {
@@ -28,6 +28,14 @@
       "valence": -0.922,
       "impact": 1.0,
       "outlets": 2
+    },
+    {
+      "title": "Riot police deployed in Madrid as protests erupt over deadly train crash",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss",
+      "valence": -0.935,
+      "impact": 0.904,
+      "outlets": 1
     },
     {
       "title": "Sudan war and inflation leave families struggling to survive in Khartoum",
@@ -75,14 +83,6 @@
       "link": "https://www.theguardian.com/uk-news/2026/oct/28/knifeman-on-lner-train-caused-terror-and-fear-on-unimaginable-scale-court-hears",
       "valence": -0.716,
       "impact": 0.8,
-      "outlets": 1
-    },
-    {
-      "title": "The asteroid that killed the dinosaurs may have helped ants conquer the world",
-      "source": "ScienceDaily",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261026225608.htm",
-      "valence": -0.716,
-      "impact": 0.7,
       "outlets": 1
     },
     {
