@@ -1,15 +1,15 @@
 {
-  "divergence": "1.034728",
+  "divergence": "1.021527",
   "field": "beta",
-  "updated_at": "2026-10-29T13:32:08+00:00",
-  "z": -0.571,
+  "updated_at": "2026-10-29T14:43:39+00:00",
+  "z": -1.114,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 33,
+  "new_stories": 22,
   "climate": {
-    "fast": -0.5121,
-    "slow": -0.5047,
-    "normal": -0.4775,
+    "fast": -0.551,
+    "slow": -0.5318,
+    "normal": -0.4811,
     "spread": 0.0574
   },
   "top_stories_24h": [
@@ -20,6 +20,22 @@
       "valence": -0.976,
       "impact": 1.0,
       "outlets": 3
+    },
+    {
+      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+      "valence": -0.935,
+      "impact": 1.0,
+      "outlets": 2
+    },
+    {
+      "title": "Damascus, Amman contradict each other on attack that killed civilians",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/features/2026/10/29/damascus-amman-contradict-each-other-on-attack-that-killed-civilians?traffic_source=rss",
+      "valence": -0.935,
+      "impact": 0.91,
+      "outlets": 1
     },
     {
       "title": "Riot police deployed in Madrid as protests erupt over deadly train crash",
@@ -46,6 +62,14 @@
       "outlets": 1
     },
     {
+      "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
+      "valence": -0.935,
+      "impact": 0.88,
+      "outlets": 1
+    },
+    {
       "title": "North Korea fires missiles as row over landmine blast intensifies",
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/2026/10/29/north-korea-fires-missiles-as-row-over-landmine-blast-intensifies?traffic_source=rss",
@@ -67,30 +91,6 @@
       "link": "https://www.aljazeera.com/news/2026/10/28/us-jury-convicts-rwandan-american-of-lying-about-role-in-genocide?traffic_source=rss",
       "valence": -0.762,
       "impact": 0.95,
-      "outlets": 1
-    },
-    {
-      "title": "Israeli soldier visiting UK faces war crimes complaint",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/28/israeli-soldier-visiting-uk-faces-war-crimes-complaint?traffic_source=rss",
-      "valence": -0.762,
-      "impact": 0.9,
-      "outlets": 1
-    },
-    {
-      "title": "Shell profits double to $10.8bn as Iran war pushes up profit margin on oil",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/business/2026/oct/29/shell-profits-double-iran-war-pushes-up-profit-margin-on-oil",
-      "valence": -0.762,
-      "impact": 0.9,
-      "outlets": 1
-    },
-    {
-      "title": "How to stop the US-Israel war on Iran",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/10/29/how-to-stop-the-us-israel-war-on-iran?traffic_source=rss",
-      "valence": -0.762,
-      "impact": 0.9,
       "outlets": 1
     }
   ],
