@@ -2,13 +2,13 @@
 
 ![worldline](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fimminentintent%2FREnixie-clock%2Fworldline-data%2Fbadge.json)
 
-> Status: **in progress.** Software side works in simulation; hardware is at the design stage.
+> Status: **in progress.** Software side is live; hardware is at the design stage.
 
 ## Parts
 
 | Folder | What it is | Status |
 |---|---|---|
-| [`worldline/`](worldline/) | News-driven worldline estimator. Reads RSS feeds, publishes an 8-character value every 30 min | built, tested offline, awaiting first live run |
+| [`worldline/`](worldline/) | News-driven worldline estimator. Reads RSS feeds, publishes an 8-character value every 30 min | live, updating automatically |
 | [`firmware/`](firmware/) | ESP32 code: Clock, Random, Game and Online modes | Online-mode helper drafted; multi-mode sketch runs in Wokwi |
 | [`hardware/`](hardware/) | Tube PCBs, controller board, acrylic parts, enclosure | planned |
 | [`docs/`](docs/) | Build log, notes, method write-ups | started |
