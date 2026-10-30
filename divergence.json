@@ -1,16 +1,16 @@
 {
-  "divergence": "1.053378",
+  "divergence": "1.052571",
   "field": "beta",
-  "updated_at": "2026-10-30T11:27:00+00:00",
-  "z": 0.197,
+  "updated_at": "2026-10-30T12:08:41+00:00",
+  "z": 0.164,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 53,
+  "new_stories": 27,
   "climate": {
-    "fast": -0.4584,
-    "slow": -0.4578,
-    "normal": -0.4721,
-    "spread": 0.0727
+    "fast": -0.4613,
+    "slow": -0.4594,
+    "normal": -0.4718,
+    "spread": 0.0718
   },
   "top_stories_24h": [
     {
@@ -36,14 +36,6 @@
       "valence": 0.905,
       "impact": 1.0,
       "outlets": 2
-    },
-    {
-      "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
-      "source": "UNNews",
-      "link": "https://news.un.org/feed/view/en/story/2026/10/1168703",
-      "valence": -0.956,
-      "impact": 0.97,
-      "outlets": 1
     },
     {
       "title": "Greece arrests three over explosion that killed six people in Athens",
@@ -92,6 +84,14 @@
       "valence": -0.762,
       "impact": 1.0,
       "outlets": 2
+    },
+    {
+      "title": "Palestinian President says hopes for peace talks with new Israeli government",
+      "source": "TheHindu",
+      "link": "https://www.thehindu.com/news/international/palestinian-president-says-hopes-for-peace-talks-with-new-israeli-government/article71641117.ece",
+      "valence": 0.905,
+      "impact": 0.895,
+      "outlets": 1
     }
   ],
   "version": "1.0",
