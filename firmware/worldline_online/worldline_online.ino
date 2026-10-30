@@ -9,9 +9,9 @@
 #include <WiFiClientSecure.h>
 #include <HTTPClient.h>
 
-// TODO: replace YOUR_USER (and the repo name if you chose a different one)
+// TODO: replace imminentintent (and the repo name if you chose a different one)
 const char* WORLDLINE_URL =
-    "https://raw.githubusercontent.com/YOUR_USER/REnixie-clock/worldline-data/divergence.txt";
+    "https://raw.githubusercontent.com/imminentintent/REnixie-clock/worldline-data/divergence.txt";
 const unsigned long POLL_MS = 10UL * 60UL * 1000UL;   // GitHub's raw cache is ~5 min, so 10 is plenty
 
 String lastWorldline = "1.048596";    // shown until the first successful download
