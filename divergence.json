@@ -1,16 +1,16 @@
 {
-  "divergence": "1.065697",
+  "divergence": "1.061622",
   "field": "beta",
-  "updated_at": "2026-10-30T02:36:02+00:00",
-  "z": 0.704,
+  "updated_at": "2026-10-30T03:34:46+00:00",
+  "z": 0.536,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 25,
+  "new_stories": 20,
   "climate": {
-    "fast": -0.4185,
-    "slow": -0.4386,
-    "normal": -0.4803,
-    "spread": 0.0759
+    "fast": -0.4319,
+    "slow": -0.4467,
+    "normal": -0.4791,
+    "spread": 0.0765
   },
   "top_stories_24h": [
     {
@@ -86,10 +86,10 @@
       "outlets": 1
     },
     {
-      "title": "North Korea fires missiles as row over landmine blast intensifies",
+      "title": "Flash floods kill five in Syria",
       "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/29/north-korea-fires-missiles-as-row-over-landmine-blast-intensifies?traffic_source=rss",
-      "valence": -0.905,
+      "link": "https://www.aljazeera.com/news/2026/10/30/flash-floods-kills-five-in-syria?traffic_source=rss",
+      "valence": -0.922,
       "impact": 0.88,
       "outlets": 1
     }
