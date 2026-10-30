@@ -1,16 +1,16 @@
 {
-  "divergence": "1.042224",
+  "divergence": "1.043459",
   "field": "beta",
-  "updated_at": "2026-10-30T14:26:31+00:00",
-  "z": -0.262,
+  "updated_at": "2026-10-30T15:18:48+00:00",
+  "z": -0.211,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 56,
+  "new_stories": 49,
   "climate": {
-    "fast": -0.499,
-    "slow": -0.4812,
-    "normal": -0.4723,
-    "spread": 0.0696
+    "fast": -0.4943,
+    "slow": -0.4794,
+    "normal": -0.4726,
+    "spread": 0.0688
   },
   "top_stories_24h": [
     {
@@ -54,6 +54,14 @@
       "outlets": 1
     },
     {
+      "title": "Why do terrorist attacks seem so predictable in hindsight?",
+      "source": "PhysOrg",
+      "link": "https://phys.org/news/2026-10-terrorist-hindsight.html",
+      "valence": -0.935,
+      "impact": 0.94,
+      "outlets": 1
+    },
+    {
       "title": "Aid mission set to enter Ukraine's Oleshky as localised ceasefire holds for third day",
       "source": "France24",
       "link": "https://www.france24.com/en/europe/20261029-aid-mission-set-to-enter-ukraine-s-oleshky-as-localised-ceasefire-holds-for-third-day",
@@ -84,19 +92,11 @@
       "valence": -0.762,
       "impact": 1.0,
       "outlets": 2
-    },
-    {
-      "title": "Palestinian President says hopes for peace talks with new Israeli government",
-      "source": "TheHindu",
-      "link": "https://www.thehindu.com/news/international/palestinian-president-says-hopes-for-peace-talks-with-new-israeli-government/article71641117.ece",
-      "valence": 0.905,
-      "impact": 0.895,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
