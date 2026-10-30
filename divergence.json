@@ -1,16 +1,16 @@
 {
-  "divergence": "1.061834",
+  "divergence": "1.057572",
   "field": "beta",
-  "updated_at": "2026-10-30T07:49:28+00:00",
-  "z": 0.545,
+  "updated_at": "2026-10-30T08:42:33+00:00",
+  "z": 0.369,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 44,
+  "new_stories": 30,
   "climate": {
-    "fast": -0.4272,
-    "slow": -0.4415,
-    "normal": -0.4743,
-    "spread": 0.0754
+    "fast": -0.4431,
+    "slow": -0.45,
+    "normal": -0.4736,
+    "spread": 0.0752
   },
   "top_stories_24h": [
     {
@@ -46,12 +46,12 @@
       "outlets": 1
     },
     {
-      "title": "North Korea fires ballistic missiles off east coast as tensions with South rise",
-      "source": "SkyNews",
-      "link": "https://news.sky.com/story/north-korea-fires-ballistic-missiles-off-east-coast-as-tensions-with-south-rise-13605215",
-      "valence": -0.834,
-      "impact": 1.0,
-      "outlets": 2
+      "title": "Greece arrests three over explosion that killed six people in Athens",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/europe/greece-arrests-three-over-explosion-that-killed-six-people-in-athens",
+      "valence": -0.964,
+      "impact": 0.937,
+      "outlets": 1
     },
     {
       "title": "Aid mission set to enter Ukraine's Oleshky as localised ceasefire holds for third day",
