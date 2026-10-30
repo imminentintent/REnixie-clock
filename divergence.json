@@ -1,16 +1,16 @@
 {
-  "divergence": "1.043809",
+  "divergence": "1.041659",
   "field": "beta",
-  "updated_at": "2026-10-30T17:10:31+00:00",
-  "z": -0.197,
+  "updated_at": "2026-10-30T18:02:17+00:00",
+  "z": -0.285,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 46,
+  "new_stories": 44,
   "climate": {
-    "fast": -0.4928,
-    "slow": -0.48,
-    "normal": -0.4735,
-    "spread": 0.0673
+    "fast": -0.5004,
+    "slow": -0.4844,
+    "normal": -0.4738,
+    "spread": 0.0664
   },
   "top_stories_24h": [
     {
@@ -22,19 +22,27 @@
       "outlets": 1
     },
     {
-      "title": "At least four killed as Italian helicopter on EU peacekeeping mission crashes in Bosnia",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/italian-military-helicopter-on-eu-mission-in-bosnia-crashes",
-      "valence": -0.922,
-      "impact": 1.0,
-      "outlets": 2
-    },
-    {
       "title": "‘Need a Plan B’: Yemenis in Aden prepare for another war as missiles fall",
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/2026/10/30/need-a-plan-b-yemenis-in-aden-prepare-for-another-war-as-missiles-fall?traffic_source=rss",
       "valence": -0.947,
       "impact": 0.97,
+      "outlets": 1
+    },
+    {
+      "title": "Charges dropped against man arrested in mass shooting at Ohio festival that wounded 12",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/oct/30/ohio-festival-shooting-charges-dropped",
+      "valence": -0.97,
+      "impact": 0.958,
+      "outlets": 1
+    },
+    {
+      "title": "Dockworkers strike in Europe and beyond against arms shipments, war deaths",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/europe/dockworkers-strike-in-europe-and-beyond-against-arms-shipments-war-deaths",
+      "valence": -0.935,
+      "impact": 0.96,
       "outlets": 1
     },
     {
@@ -84,19 +92,11 @@
       "valence": -0.935,
       "impact": 0.94,
       "outlets": 1
-    },
-    {
-      "title": "Nigeria says troops kill 48 Islamist fighters after attacks in Borno, Yobe bases",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/nigeria-says-troops-kill-48-islamist-fighters-after-attacks-in-borno-yobe-bases",
-      "valence": -0.935,
-      "impact": 0.91,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
