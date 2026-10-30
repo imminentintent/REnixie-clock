@@ -1,16 +1,16 @@
 {
-  "divergence": "1.054250",
+  "divergence": "1.053378",
   "field": "beta",
-  "updated_at": "2026-10-30T10:37:08+00:00",
-  "z": 0.233,
+  "updated_at": "2026-10-30T11:27:00+00:00",
+  "z": 0.197,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 61,
+  "new_stories": 53,
   "climate": {
-    "fast": -0.4553,
-    "slow": -0.4561,
-    "normal": -0.4724,
-    "spread": 0.0737
+    "fast": -0.4584,
+    "slow": -0.4578,
+    "normal": -0.4721,
+    "spread": 0.0727
   },
   "top_stories_24h": [
     {
@@ -54,6 +54,14 @@
       "outlets": 1
     },
     {
+      "title": "Pedro Sánchez says people of 27 nationalities may be among those killed or injured in Spanish train crash – Europe live",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
+      "valence": -0.97,
+      "impact": 0.928,
+      "outlets": 1
+    },
+    {
       "title": "Aid mission set to enter Ukraine's Oleshky as localised ceasefire holds for third day",
       "source": "France24",
       "link": "https://www.france24.com/en/europe/20261029-aid-mission-set-to-enter-ukraine-s-oleshky-as-localised-ceasefire-holds-for-third-day",
@@ -84,19 +92,11 @@
       "valence": -0.762,
       "impact": 1.0,
       "outlets": 2
-    },
-    {
-      "title": "Palestinian President says hopes for peace talks with new Israeli government",
-      "source": "TheHindu",
-      "link": "https://www.thehindu.com/news/international/palestinian-president-says-hopes-for-peace-talks-with-new-israeli-government/article71641117.ece",
-      "valence": 0.905,
-      "impact": 0.895,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
