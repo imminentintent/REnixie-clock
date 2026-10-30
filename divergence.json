@@ -1,16 +1,16 @@
 {
-  "divergence": "1.058249",
+  "divergence": "1.054250",
   "field": "beta",
-  "updated_at": "2026-10-30T09:39:42+00:00",
-  "z": 0.397,
+  "updated_at": "2026-10-30T10:37:08+00:00",
+  "z": 0.233,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 46,
+  "new_stories": 61,
   "climate": {
-    "fast": -0.4401,
-    "slow": -0.448,
-    "normal": -0.4729,
-    "spread": 0.0744
+    "fast": -0.4553,
+    "slow": -0.4561,
+    "normal": -0.4724,
+    "spread": 0.0737
   },
   "top_stories_24h": [
     {
@@ -70,6 +70,14 @@
       "outlets": 1
     },
     {
+      "title": "As Trump escalates extreme attacks, Democrats – finally – rally round El-Sayed",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/oct/30/abdul-el-sayed-michigan-senate-tump",
+      "valence": -0.922,
+      "impact": 0.91,
+      "outlets": 1
+    },
+    {
       "title": "Marco Rubio hosts G20 Foreign Ministers as Iran, Ukraine wars divide members",
       "source": "TheHindu",
       "link": "https://www.thehindu.com/news/international/marco-rubio-hosts-g20-foreign-ministers-as-iran-ukraine-wars-divide-members/article71643995.ece",
@@ -84,19 +92,11 @@
       "valence": 0.905,
       "impact": 0.895,
       "outlets": 1
-    },
-    {
-      "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
-      "valence": -0.935,
-      "impact": 0.88,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
