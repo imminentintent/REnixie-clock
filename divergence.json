@@ -1,16 +1,16 @@
 {
-  "divergence": "1.063438",
+  "divergence": "1.061834",
   "field": "beta",
-  "updated_at": "2026-10-30T06:34:06+00:00",
-  "z": 0.611,
+  "updated_at": "2026-10-30T07:49:28+00:00",
+  "z": 0.545,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 33,
+  "new_stories": 44,
   "climate": {
-    "fast": -0.4218,
-    "slow": -0.4394,
-    "normal": -0.4755,
-    "spread": 0.0755
+    "fast": -0.4272,
+    "slow": -0.4415,
+    "normal": -0.4743,
+    "spread": 0.0754
   },
   "top_stories_24h": [
     {
@@ -70,6 +70,14 @@
       "outlets": 1
     },
     {
+      "title": "Marco Rubio hosts G20 Foreign Ministers as Iran, Ukraine wars divide members",
+      "source": "TheHindu",
+      "link": "https://www.thehindu.com/news/international/marco-rubio-hosts-g20-foreign-ministers-as-iran-ukraine-wars-divide-members/article71643995.ece",
+      "valence": -0.762,
+      "impact": 1.0,
+      "outlets": 2
+    },
+    {
       "title": "Palestinian President says hopes for peace talks with new Israeli government",
       "source": "TheHindu",
       "link": "https://www.thehindu.com/news/international/palestinian-president-says-hopes-for-peace-talks-with-new-israeli-government/article71641117.ece",
@@ -84,19 +92,11 @@
       "valence": -0.935,
       "impact": 0.88,
       "outlets": 1
-    },
-    {
-      "title": "Flash floods kill five in Syria",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/30/flash-floods-kills-five-in-syria?traffic_source=rss",
-      "valence": -0.922,
-      "impact": 0.88,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
