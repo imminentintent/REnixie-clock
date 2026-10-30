@@ -1,16 +1,16 @@
 {
-  "divergence": "1.043459",
+  "divergence": "1.039649",
   "field": "beta",
-  "updated_at": "2026-10-30T15:18:48+00:00",
-  "z": -0.211,
+  "updated_at": "2026-10-30T16:14:21+00:00",
+  "z": -0.368,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 49,
+  "new_stories": 40,
   "climate": {
-    "fast": -0.4943,
-    "slow": -0.4794,
-    "normal": -0.4726,
-    "spread": 0.0688
+    "fast": -0.5079,
+    "slow": -0.4874,
+    "normal": -0.4732,
+    "spread": 0.0679
   },
   "top_stories_24h": [
     {
@@ -20,6 +20,14 @@
       "valence": -0.922,
       "impact": 1.0,
       "outlets": 2
+    },
+    {
+      "title": "‘Need a Plan B’: Yemenis in Aden prepare for another war as missiles fall",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/30/need-a-plan-b-yemenis-in-aden-prepare-for-another-war-as-missiles-fall?traffic_source=rss",
+      "valence": -0.947,
+      "impact": 0.97,
+      "outlets": 1
     },
     {
       "title": "Israeli forces committed war crimes, genocide even after Gaza ceasefire: UN Commission",
@@ -54,6 +62,14 @@
       "outlets": 1
     },
     {
+      "title": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – as it happened",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
+      "valence": -0.97,
+      "impact": 0.928,
+      "outlets": 1
+    },
+    {
       "title": "Why do terrorist attacks seem so predictable in hindsight?",
       "source": "PhysOrg",
       "link": "https://phys.org/news/2026-10-terrorist-hindsight.html",
@@ -76,22 +92,6 @@
       "valence": -0.935,
       "impact": 0.91,
       "outlets": 1
-    },
-    {
-      "title": "As Trump escalates extreme attacks, Democrats – finally – rally round El-Sayed",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/us-news/2026/oct/30/abdul-el-sayed-michigan-senate-tump",
-      "valence": -0.922,
-      "impact": 0.91,
-      "outlets": 1
-    },
-    {
-      "title": "Marco Rubio hosts G20 Foreign Ministers as Iran, Ukraine wars divide members",
-      "source": "TheHindu",
-      "link": "https://www.thehindu.com/news/international/marco-rubio-hosts-g20-foreign-ministers-as-iran-ukraine-wars-divide-members/article71643995.ece",
-      "valence": -0.762,
-      "impact": 1.0,
-      "outlets": 2
     }
   ],
   "version": "1.0",
