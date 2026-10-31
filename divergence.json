@@ -1,22 +1,30 @@
 {
-  "divergence": "1.057301",
+  "divergence": "1.054660",
   "field": "beta",
-  "updated_at": "2026-10-31T14:02:58+00:00",
-  "z": 0.358,
+  "updated_at": "2026-10-31T14:59:29+00:00",
+  "z": 0.25,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 24,
+  "new_stories": 16,
   "climate": {
-    "fast": -0.4436,
-    "slow": -0.4551,
-    "normal": -0.4684,
-    "spread": 0.0538
+    "fast": -0.4523,
+    "slow": -0.4579,
+    "normal": -0.4682,
+    "spread": 0.0534
   },
   "top_stories_24h": [
     {
       "title": "Star Wars: Has Russia's war with Ukraine gone intergalactic?",
       "source": "France24",
       "link": "https://www.france24.com/en/europe/20261030-star-wars-has-russias-war-with-ukraine-gone-intergalactic",
+      "valence": -0.964,
+      "impact": 0.99,
+      "outlets": 1
+    },
+    {
+      "title": "Not used since the Korean War; US Army practices digging mass battlefield graves, 'If we went to war tomorrow...'",
+      "source": "TimesOfIndia",
+      "link": "https://timesofindia.indiatimes.com/world/us/not-used-since-the-korean-war-us-army-practices-digging-mass-battlefield-graves-if-we-went-to-war-tomorrow-/articleshow/135403286.cms",
       "valence": -0.964,
       "impact": 0.99,
       "outlets": 1
@@ -62,14 +70,6 @@
       "outlets": 1
     },
     {
-      "title": "Dockworkers strike in Europe and beyond against arms shipments, war deaths",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/dockworkers-strike-in-europe-and-beyond-against-arms-shipments-war-deaths",
-      "valence": -0.935,
-      "impact": 0.96,
-      "outlets": 1
-    },
-    {
       "title": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – as it happened",
       "source": "Guardian",
       "link": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
@@ -96,7 +96,7 @@
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
