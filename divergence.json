@@ -1,26 +1,18 @@
 {
-  "divergence": "1.052191",
+  "divergence": "1.051209",
   "field": "beta",
-  "updated_at": "2026-10-31T16:04:30+00:00",
-  "z": 0.148,
+  "updated_at": "2026-10-31T17:01:27+00:00",
+  "z": 0.108,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 6,
+  "new_stories": 24,
   "climate": {
-    "fast": -0.4601,
-    "slow": -0.4604,
-    "normal": -0.4679,
-    "spread": 0.0526
+    "fast": -0.4633,
+    "slow": -0.4614,
+    "normal": -0.4678,
+    "spread": 0.052
   },
   "top_stories_24h": [
-    {
-      "title": "Star Wars: Has Russia's war with Ukraine gone intergalactic?",
-      "source": "France24",
-      "link": "https://www.france24.com/en/europe/20261030-star-wars-has-russias-war-with-ukraine-gone-intergalactic",
-      "valence": -0.964,
-      "impact": 0.99,
-      "outlets": 1
-    },
     {
       "title": "Not used since the Korean War; US Army practices digging mass battlefield graves, 'If we went to war tomorrow...'",
       "source": "TimesOfIndia",
@@ -90,6 +82,14 @@
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/united-states/shooting-at-california-halloween-store-kills-one-wounds-six",
       "valence": -0.935,
+      "impact": 0.88,
+      "outlets": 1
+    },
+    {
+      "title": "Ebola outbreak kills more than 5,000 people in Democratic Republic of Congo",
+      "source": "SkyNews",
+      "link": "https://news.sky.com/story/ebola-outbreak-kills-more-than-5000-people-in-democratic-republic-of-congo-13605990",
+      "valence": -0.922,
       "impact": 0.88,
       "outlets": 1
     }
