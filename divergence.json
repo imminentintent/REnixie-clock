@@ -1,16 +1,16 @@
 {
-  "divergence": "1.054660",
+  "divergence": "1.054565",
   "field": "beta",
-  "updated_at": "2026-10-31T14:59:29+00:00",
-  "z": 0.25,
+  "updated_at": "2026-10-31T15:30:01+00:00",
+  "z": 0.246,
   "calibrating": true,
   "scorer": "lexicon",
   "new_stories": 16,
   "climate": {
-    "fast": -0.4523,
+    "fast": -0.4525,
     "slow": -0.4579,
-    "normal": -0.4682,
-    "spread": 0.0534
+    "normal": -0.468,
+    "spread": 0.053
   },
   "top_stories_24h": [
     {
@@ -27,14 +27,6 @@
       "link": "https://timesofindia.indiatimes.com/world/us/not-used-since-the-korean-war-us-army-practices-digging-mass-battlefield-graves-if-we-went-to-war-tomorrow-/articleshow/135403286.cms",
       "valence": -0.964,
       "impact": 0.99,
-      "outlets": 1
-    },
-    {
-      "title": "‘Need a Plan B’: Yemenis in Aden prepare for another war as missiles fall",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/30/need-a-plan-b-yemenis-in-aden-prepare-for-another-war-as-missiles-fall?traffic_source=rss",
-      "valence": -0.947,
-      "impact": 0.97,
       "outlets": 1
     },
     {
@@ -78,19 +70,27 @@
       "outlets": 1
     },
     {
-      "title": "Why do terrorist attacks seem so predictable in hindsight?",
-      "source": "PhysOrg",
-      "link": "https://phys.org/news/2026-10-terrorist-hindsight.html",
-      "valence": -0.935,
-      "impact": 0.94,
-      "outlets": 1
-    },
-    {
       "title": "Man dies and another injured after attack at centre housing migrants",
       "source": "SkyNews",
       "link": "https://news.sky.com/story/man-dies-and-another-injured-after-attack-at-centre-housing-migrants-in-ireland-13606071",
       "valence": -0.964,
       "impact": 0.91,
+      "outlets": 1
+    },
+    {
+      "title": "Ebola death toll in DR Congo passes 5,000",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/31/ebola-death-toll-in-dr-congo-passes-5000?traffic_source=rss",
+      "valence": -0.935,
+      "impact": 0.92,
+      "outlets": 1
+    },
+    {
+      "title": "Shooting at California Halloween store kills one, wounds six",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/united-states/shooting-at-california-halloween-store-kills-one-wounds-six",
+      "valence": -0.935,
+      "impact": 0.88,
       "outlets": 1
     }
   ],
