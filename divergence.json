@@ -1,16 +1,16 @@
 {
-  "divergence": "1.057670",
+  "divergence": "1.056041",
   "field": "beta",
-  "updated_at": "2026-10-31T03:33:09+00:00",
-  "z": 0.373,
+  "updated_at": "2026-10-31T04:31:46+00:00",
+  "z": 0.306,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 16,
+  "new_stories": 15,
   "climate": {
-    "fast": -0.4429,
-    "slow": -0.4556,
-    "normal": -0.4713,
-    "spread": 0.0601
+    "fast": -0.4484,
+    "slow": -0.4577,
+    "normal": -0.471,
+    "spread": 0.0596
   },
   "top_stories_24h": [
     {
@@ -35,6 +35,14 @@
       "link": "https://www.theguardian.com/us-news/2026/oct/30/ohio-festival-shooting-charges-dropped",
       "valence": -0.97,
       "impact": 0.958,
+      "outlets": 1
+    },
+    {
+      "title": "Will Digging Up Vietnam’s War Dead Heal Old Wounds or Reopen Them?",
+      "source": "NYTimes",
+      "link": "https://www.nytimes.com/2026/10/31/world/asia/vietnam-missing-war-dead.html",
+      "valence": -0.947,
+      "impact": 0.96,
       "outlets": 1
     },
     {
@@ -84,19 +92,11 @@
       "valence": -0.97,
       "impact": 0.928,
       "outlets": 1
-    },
-    {
-      "title": "Why do terrorist attacks seem so predictable in hindsight?",
-      "source": "PhysOrg",
-      "link": "https://phys.org/news/2026-10-terrorist-hindsight.html",
-      "valence": -0.935,
-      "impact": 0.94,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
