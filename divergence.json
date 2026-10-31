@@ -1,16 +1,16 @@
 {
-  "divergence": "1.054573",
+  "divergence": "1.051789",
   "field": "beta",
-  "updated_at": "2026-10-31T17:56:13+00:00",
-  "z": 0.246,
+  "updated_at": "2026-10-31T18:28:37+00:00",
+  "z": 0.131,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 22,
+  "new_stories": 10,
   "climate": {
-    "fast": -0.4524,
-    "slow": -0.4579,
-    "normal": -0.4677,
-    "spread": 0.0515
+    "fast": -0.4612,
+    "slow": -0.4607,
+    "normal": -0.4676,
+    "spread": 0.0511
   },
   "top_stories_24h": [
     {
@@ -78,18 +78,18 @@
       "outlets": 1
     },
     {
+      "title": "At least four Palestinians killed in Gaza as Israeli attacks continue",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss",
+      "valence": -0.935,
+      "impact": 0.91,
+      "outlets": 1
+    },
+    {
       "title": "Shooting at California Halloween store kills one, wounds six",
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/united-states/shooting-at-california-halloween-store-kills-one-wounds-six",
       "valence": -0.935,
-      "impact": 0.88,
-      "outlets": 1
-    },
-    {
-      "title": "Ebola outbreak kills more than 5,000 people in Democratic Republic of Congo",
-      "source": "SkyNews",
-      "link": "https://news.sky.com/story/ebola-outbreak-kills-more-than-5000-people-in-democratic-republic-of-congo-13605990",
-      "valence": -0.922,
       "impact": 0.88,
       "outlets": 1
     }
