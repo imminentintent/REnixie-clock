@@ -1,16 +1,16 @@
 {
-  "divergence": "1.056356",
+  "divergence": "1.053802",
   "field": "beta",
-  "updated_at": "2026-10-31T08:12:34+00:00",
-  "z": 0.319,
+  "updated_at": "2026-10-31T09:06:32+00:00",
+  "z": 0.214,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 18,
+  "new_stories": 15,
   "climate": {
-    "fast": -0.4467,
-    "slow": -0.4562,
-    "normal": -0.4695,
-    "spread": 0.0576
+    "fast": -0.4554,
+    "slow": -0.4592,
+    "normal": -0.4694,
+    "spread": 0.0571
   },
   "top_stories_24h": [
     {
@@ -30,6 +30,14 @@
       "outlets": 1
     },
     {
+      "title": "Egypt fears escalation in Iran war would be more destructive, foreign minister says",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/middle-east/egypt-fears-escalation-in-iran-war-would-be-more-destructive-foreign-minister-says",
+      "valence": -0.947,
+      "impact": 0.97,
+      "outlets": 1
+    },
+    {
       "title": "Charges dropped against man arrested in mass shooting at Ohio festival that wounded 12",
       "source": "Guardian",
       "link": "https://www.theguardian.com/us-news/2026/oct/30/ohio-festival-shooting-charges-dropped",
@@ -41,6 +49,14 @@
       "title": "Will Digging Up Vietnam’s War Dead Heal Old Wounds or Reopen Them?",
       "source": "NYTimes",
       "link": "https://www.nytimes.com/2026/10/31/world/asia/vietnam-missing-war-dead.html",
+      "valence": -0.947,
+      "impact": 0.96,
+      "outlets": 1
+    },
+    {
+      "title": "Dead dolphins, naval mines: Russia-Ukraine war destroys the Black Sea",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/31/dead-dolphins-naval-mines-russia-ukraine-war-destroys-the-black-sea?traffic_source=rss",
       "valence": -0.947,
       "impact": 0.96,
       "outlets": 1
@@ -75,22 +91,6 @@
       "link": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
       "valence": -0.97,
       "impact": 0.928,
-      "outlets": 1
-    },
-    {
-      "title": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – as it happened",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
-      "valence": -0.97,
-      "impact": 0.928,
-      "outlets": 1
-    },
-    {
-      "title": "Why do terrorist attacks seem so predictable in hindsight?",
-      "source": "PhysOrg",
-      "link": "https://phys.org/news/2026-10-terrorist-hindsight.html",
-      "valence": -0.935,
-      "impact": 0.94,
       "outlets": 1
     }
   ],
