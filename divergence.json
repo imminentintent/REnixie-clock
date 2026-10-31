@@ -1,16 +1,16 @@
 {
-  "divergence": "1.054565",
+  "divergence": "1.052191",
   "field": "beta",
-  "updated_at": "2026-10-31T15:30:01+00:00",
-  "z": 0.246,
+  "updated_at": "2026-10-31T16:04:30+00:00",
+  "z": 0.148,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 16,
+  "new_stories": 6,
   "climate": {
-    "fast": -0.4525,
-    "slow": -0.4579,
-    "normal": -0.468,
-    "spread": 0.053
+    "fast": -0.4601,
+    "slow": -0.4604,
+    "normal": -0.4679,
+    "spread": 0.0526
   },
   "top_stories_24h": [
     {
@@ -62,11 +62,11 @@
       "outlets": 1
     },
     {
-      "title": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – as it happened",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
-      "valence": -0.97,
-      "impact": 0.928,
+      "title": "Moscow’s Tsaritysyno Museum on terror radar? US warns Russia of possible attack",
+      "source": "TimesOfIndia",
+      "link": "https://timesofindia.indiatimes.com/world/europe/moscows-tsaritysyno-museum-on-terror-radar-us-warns-russia-of-possible-attack/articleshow/135404738.cms",
+      "valence": -0.935,
+      "impact": 0.94,
       "outlets": 1
     },
     {
@@ -96,7 +96,7 @@
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
