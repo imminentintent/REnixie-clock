@@ -1,16 +1,16 @@
 {
-  "divergence": "1.052148",
+  "divergence": "1.053083",
   "field": "beta",
-  "updated_at": "2026-10-31T10:59:27+00:00",
-  "z": 0.146,
+  "updated_at": "2026-10-31T11:29:56+00:00",
+  "z": 0.185,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 20,
+  "new_stories": 15,
   "climate": {
-    "fast": -0.461,
-    "slow": -0.4611,
-    "normal": -0.4691,
-    "spread": 0.0559
+    "fast": -0.4577,
+    "slow": -0.46,
+    "normal": -0.469,
+    "spread": 0.0554
   },
   "top_stories_24h": [
     {
@@ -78,7 +78,7 @@
       "outlets": 1
     },
     {
-      "title": "Pedro Sánchez says people of 27 nationalities may be among those killed or injured in Spanish train crash – Europe live",
+      "title": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – Europe live",
       "source": "Guardian",
       "link": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
       "valence": -0.97,
@@ -86,7 +86,7 @@
       "outlets": 1
     },
     {
-      "title": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – Europe live",
+      "title": "People of 27 nationalities may be among those killed or injured in Spain train crash, Sánchez says – as it happened",
       "source": "Guardian",
       "link": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
       "valence": -0.97,
