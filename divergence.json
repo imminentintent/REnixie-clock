@@ -1,16 +1,16 @@
 {
-  "divergence": "1.053031",
+  "divergence": "1.049895",
   "field": "beta",
-  "updated_at": "2026-10-31T19:14:37+00:00",
-  "z": 0.183,
+  "updated_at": "2026-10-31T19:58:44+00:00",
+  "z": 0.053,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 13,
+  "new_stories": 17,
   "climate": {
-    "fast": -0.4573,
-    "slow": -0.4594,
-    "normal": -0.4675,
-    "spread": 0.0506
+    "fast": -0.4671,
+    "slow": -0.4625,
+    "normal": -0.4674,
+    "spread": 0.0502
   },
   "top_stories_24h": [
     {
@@ -62,6 +62,14 @@
       "outlets": 1
     },
     {
+      "title": "Indian national faked injuries after Bondi terror attack in Australia, claiming he was hit by shrapnel. Cops say he was not even at Bondi",
+      "source": "TimesOfIndia",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/indian-national-faked-injuries-after-bondi-terror-attack-in-australia-claiming-he-was-hit-by-shrapnel-cops-say-he-was-not-even-at-bondi/articleshow/135410996.cms",
+      "valence": -0.935,
+      "impact": 0.94,
+      "outlets": 1
+    },
+    {
       "title": "Man dies and another injured after attack at centre housing migrants",
       "source": "SkyNews",
       "link": "https://news.sky.com/story/man-dies-and-another-injured-after-attack-at-centre-housing-migrants-in-ireland-13606071",
@@ -84,19 +92,11 @@
       "valence": -0.935,
       "impact": 0.91,
       "outlets": 1
-    },
-    {
-      "title": "Shooting at California Halloween store kills one, wounds six",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/united-states/shooting-at-california-halloween-store-kills-one-wounds-six",
-      "valence": -0.935,
-      "impact": 0.88,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
