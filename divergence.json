@@ -1,16 +1,16 @@
 {
-  "divergence": "1.047310",
+  "divergence": "1.053323",
   "field": "beta",
-  "updated_at": "2026-11-01T19:15:55+00:00",
-  "z": -0.053,
+  "updated_at": "2026-11-01T19:59:07+00:00",
+  "z": 0.195,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 19,
+  "new_stories": 12,
   "climate": {
-    "fast": -0.4722,
-    "slow": -0.4634,
-    "normal": -0.4655,
-    "spread": 0.0435
+    "fast": -0.455,
+    "slow": -0.4591,
+    "normal": -0.4654,
+    "spread": 0.0434
   },
   "top_stories_24h": [
     {
@@ -20,14 +20,6 @@
       "valence": -0.885,
       "impact": 1.0,
       "outlets": 2
-    },
-    {
-      "title": "Indian national faked injuries after Bondi terror attack in Australia, claiming he was hit by shrapnel. Cops say he was not even at Bondi",
-      "source": "TimesOfIndia",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/indian-national-faked-injuries-after-bondi-terror-attack-in-australia-claiming-he-was-hit-by-shrapnel-cops-say-he-was-not-even-at-bondi/articleshow/135410996.cms",
-      "valence": -0.935,
-      "impact": 0.94,
-      "outlets": 1
     },
     {
       "title": "France launches ‘attempted murder’ probe after petrol bomb attack on security forces",
@@ -89,6 +81,14 @@
       "title": "What we know about latest efforts to end US war on Iran",
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-wrap-iran-latest-developments-011126?traffic_source=rss",
+      "valence": -0.762,
+      "impact": 0.9,
+      "outlets": 1
+    },
+    {
+      "title": "Live: Jillaroos score record 124 points in World Cup massacre over Wales",
+      "source": "ABC-AU",
+      "link": "https://www.abc.net.au/news/2026-11-01/rugby-league-world-cup-live-australia-wales-samoa-tonga/107331754",
       "valence": -0.762,
       "impact": 0.9,
       "outlets": 1
