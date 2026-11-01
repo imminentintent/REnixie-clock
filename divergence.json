@@ -1,16 +1,16 @@
 {
-  "divergence": "1.052244",
+  "divergence": "1.051578",
   "field": "beta",
-  "updated_at": "2026-11-01T03:39:17+00:00",
-  "z": 0.15,
+  "updated_at": "2026-11-01T04:39:38+00:00",
+  "z": 0.123,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 12,
+  "new_stories": 21,
   "climate": {
-    "fast": -0.4591,
-    "slow": -0.4596,
+    "fast": -0.4611,
+    "slow": -0.4601,
     "normal": -0.4662,
-    "spread": 0.0463
+    "spread": 0.0461
   },
   "top_stories_24h": [
     {
@@ -27,14 +27,6 @@
       "link": "https://www.straitstimes.com/world/middle-east/egypt-fears-escalation-in-iran-war-would-be-more-destructive-foreign-minister-says",
       "valence": -0.947,
       "impact": 0.97,
-      "outlets": 1
-    },
-    {
-      "title": "Will Digging Up Vietnam’s War Dead Heal Old Wounds or Reopen Them?",
-      "source": "NYTimes",
-      "link": "https://www.nytimes.com/2026/10/31/world/asia/vietnam-missing-war-dead.html",
-      "valence": -0.947,
-      "impact": 0.96,
       "outlets": 1
     },
     {
@@ -92,11 +84,19 @@
       "valence": -0.935,
       "impact": 0.88,
       "outlets": 1
+    },
+    {
+      "title": "Mamdani says Trump has agreed to grant visa to mother of Ghanian teen killed in Bronx shooting",
+      "source": "TheHindu",
+      "link": "https://www.thehindu.com/news/international/mamdani-says-trump-has-agreed-to-grant-visa-to-mother-of-ghanian-teen-killed-in-bronx-shooting/article71651389.ece",
+      "valence": -0.935,
+      "impact": 0.88,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
