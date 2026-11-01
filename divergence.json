@@ -1,16 +1,16 @@
 {
-  "divergence": "1.054384",
+  "divergence": "1.052244",
   "field": "beta",
-  "updated_at": "2026-11-01T02:37:42+00:00",
-  "z": 0.238,
+  "updated_at": "2026-11-01T03:39:17+00:00",
+  "z": 0.15,
   "calibrating": true,
   "scorer": "lexicon",
   "new_stories": 12,
   "climate": {
-    "fast": -0.4527,
-    "slow": -0.458,
-    "normal": -0.4663,
-    "spread": 0.0466
+    "fast": -0.4591,
+    "slow": -0.4596,
+    "normal": -0.4662,
+    "spread": 0.0463
   },
   "top_stories_24h": [
     {
@@ -78,25 +78,25 @@
       "outlets": 1
     },
     {
-      "title": "Ebola death toll in DR Congo passes 5,000",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/31/ebola-death-toll-in-dr-congo-passes-5000?traffic_source=rss",
-      "valence": -0.935,
-      "impact": 0.92,
-      "outlets": 1
-    },
-    {
       "title": "At least four Palestinians killed in Gaza as Israeli attacks continue",
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss",
       "valence": -0.935,
       "impact": 0.91,
       "outlets": 1
+    },
+    {
+      "title": "Shooting at California Halloween store kills one, wounds six",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/united-states/shooting-at-california-halloween-store-kills-one-wounds-six",
+      "valence": -0.935,
+      "impact": 0.88,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 36,
+    "live": 38,
     "total": 38
   }
 }
