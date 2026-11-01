@@ -1,16 +1,16 @@
 {
-  "divergence": "1.061606",
+  "divergence": "1.051699",
   "field": "beta",
-  "updated_at": "2026-11-01T12:39:53+00:00",
-  "z": 0.535,
+  "updated_at": "2026-11-01T13:38:49+00:00",
+  "z": 0.128,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 18,
+  "new_stories": 38,
   "climate": {
-    "fast": -0.4305,
-    "slow": -0.4521,
-    "normal": -0.465,
-    "spread": 0.0447
+    "fast": -0.4597,
+    "slow": -0.4589,
+    "normal": -0.4649,
+    "spread": 0.0445
   },
   "top_stories_24h": [
     {
@@ -42,6 +42,14 @@
       "source": "TimesOfIndia",
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/indian-national-faked-injuries-after-bondi-terror-attack-in-australia-claiming-he-was-hit-by-shrapnel-cops-say-he-was-not-even-at-bondi/articleshow/135410996.cms",
       "valence": -0.935,
+      "impact": 0.94,
+      "outlets": 1
+    },
+    {
+      "title": "Iran and US explore diplomacy amid rising threats of war",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/1/iran-and-us-explore-diplomacy-amid-rising-threats-of-war?traffic_source=rss",
+      "valence": -0.885,
       "impact": 0.94,
       "outlets": 1
     },
@@ -84,14 +92,6 @@
       "valence": 0.664,
       "impact": 1.0,
       "outlets": 2
-    },
-    {
-      "title": "Salvadoran families demand fair trials, mourn prison dead on Day of the Dead",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/salvadoran-families-demand-fair-trials-mourn-prison-dead-on-day-of-the-dead",
-      "valence": -0.922,
-      "impact": 0.84,
-      "outlets": 1
     }
   ],
   "version": "1.0",
