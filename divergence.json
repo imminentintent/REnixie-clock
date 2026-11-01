@@ -1,26 +1,18 @@
 {
-  "divergence": "1.051699",
+  "divergence": "1.046317",
   "field": "beta",
-  "updated_at": "2026-11-01T13:38:49+00:00",
-  "z": 0.128,
+  "updated_at": "2026-11-01T14:27:02+00:00",
+  "z": -0.094,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 38,
+  "new_stories": 32,
   "climate": {
-    "fast": -0.4597,
-    "slow": -0.4589,
-    "normal": -0.4649,
-    "spread": 0.0445
+    "fast": -0.4751,
+    "slow": -0.463,
+    "normal": -0.465,
+    "spread": 0.0444
   },
   "top_stories_24h": [
-    {
-      "title": "Not used since the Korean War; US Army practices digging mass battlefield graves, 'If we went to war tomorrow...'",
-      "source": "TimesOfIndia",
-      "link": "https://timesofindia.indiatimes.com/world/us/not-used-since-the-korean-war-us-army-practices-digging-mass-battlefield-graves-if-we-went-to-war-tomorrow-/articleshow/135403286.cms",
-      "valence": -0.964,
-      "impact": 0.99,
-      "outlets": 1
-    },
     {
       "title": "Egypt minibus crash outside Cairo kills 10, injures 24",
       "source": "StraitsTimes",
@@ -92,6 +84,14 @@
       "valence": 0.664,
       "impact": 1.0,
       "outlets": 2
+    },
+    {
+      "title": "Salvadoran families demand fair trials, mourn prison dead on Day of the Dead",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/salvadoran-families-demand-fair-trials-mourn-prison-dead-on-day-of-the-dead",
+      "valence": -0.922,
+      "impact": 0.84,
+      "outlets": 1
     }
   ],
   "version": "1.0",
