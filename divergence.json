@@ -1,16 +1,16 @@
 {
-  "divergence": "1.048819",
+  "divergence": "1.057276",
   "field": "beta",
-  "updated_at": "2026-11-01T08:36:51+00:00",
-  "z": 0.009,
+  "updated_at": "2026-11-01T09:31:39+00:00",
+  "z": 0.357,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 16,
+  "new_stories": 21,
   "climate": {
-    "fast": -0.4691,
-    "slow": -0.4621,
-    "normal": -0.466,
-    "spread": 0.0454
+    "fast": -0.4436,
+    "slow": -0.4561,
+    "normal": -0.4658,
+    "spread": 0.0453
   },
   "top_stories_24h": [
     {
@@ -78,25 +78,25 @@
       "outlets": 2
     },
     {
+      "title": "Turkey moves Kurdish militant leader Ocalan to a new part of an island prison under peace push",
+      "source": "CNA",
+      "link": "https://www.channelnewsasia.com/world/turkey-moves-kurdish-militant-leader-ocalan-new-part-island-prison-under-peace-push-6510726",
+      "valence": 0.664,
+      "impact": 1.0,
+      "outlets": 2
+    },
+    {
       "title": "Salvadoran families demand fair trials, mourn prison dead on Day of the Dead",
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/salvadoran-families-demand-fair-trials-mourn-prison-dead-on-day-of-the-dead",
       "valence": -0.922,
       "impact": 0.84,
       "outlets": 1
-    },
-    {
-      "title": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
-      "source": "NYTimes",
-      "link": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
-      "valence": -0.762,
-      "impact": 0.9,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
