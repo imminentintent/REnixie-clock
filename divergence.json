@@ -1,18 +1,26 @@
 {
-  "divergence": "1.047953",
+  "divergence": "1.040570",
   "field": "beta",
-  "updated_at": "2026-11-01T21:58:49+00:00",
-  "z": -0.026,
+  "updated_at": "2026-11-01T22:30:15+00:00",
+  "z": -0.33,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 17,
+  "new_stories": 12,
   "climate": {
-    "fast": -0.4701,
-    "slow": -0.4629,
-    "normal": -0.4654,
+    "fast": -0.4908,
+    "slow": -0.4683,
+    "normal": -0.4655,
     "spread": 0.043
   },
   "top_stories_24h": [
+    {
+      "title": "Gulf leaders meet in Qatar in effort to stave off new escalation in U.S and Iran war",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
+      "valence": -0.947,
+      "impact": 0.97,
+      "outlets": 1
+    },
     {
       "title": "Tributes paid to ‘inspiring’ Cambridge scientist who died in Spain train crash",
       "source": "Guardian",
@@ -46,6 +54,14 @@
       "outlets": 1
     },
     {
+      "title": "All 9 aboard killed after plane crashes in Florida, officials say",
+      "source": "CBC",
+      "link": "https://www.cbc.ca/news/world/florida-plane-crash-9.7404996?cmp=rss",
+      "valence": -0.922,
+      "impact": 0.88,
+      "outlets": 1
+    },
+    {
       "title": "Pope Leo says he hopes Oleshky truce could spur Ukraine-Russia peace efforts",
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/europe/pope-leo-says-he-hopes-oleshky-truce-could-spur-ukraine-russia-peace-efforts",
@@ -75,22 +91,6 @@
       "link": "https://www.straitstimes.com/world/salvadoran-families-demand-fair-trials-mourn-prison-dead-on-day-of-the-dead",
       "valence": -0.922,
       "impact": 0.84,
-      "outlets": 1
-    },
-    {
-      "title": "Video captures house collapsing due to Ecuador floods",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/video-captures-house-collapsing-due-to-ecuador-floods?traffic_source=rss",
-      "valence": -0.905,
-      "impact": 0.84,
-      "outlets": 1
-    },
-    {
-      "title": "What we know about latest efforts to end US war on Iran",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-wrap-iran-latest-developments-011126?traffic_source=rss",
-      "valence": -0.762,
-      "impact": 0.9,
       "outlets": 1
     }
   ],
