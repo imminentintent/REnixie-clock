@@ -1,16 +1,16 @@
 {
-  "divergence": "1.055546",
+  "divergence": "1.061606",
   "field": "beta",
-  "updated_at": "2026-11-01T11:58:25+00:00",
-  "z": 0.286,
+  "updated_at": "2026-11-01T12:39:53+00:00",
+  "z": 0.535,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 25,
+  "new_stories": 18,
   "climate": {
-    "fast": -0.4484,
-    "slow": -0.4566,
-    "normal": -0.4652,
-    "spread": 0.0448
+    "fast": -0.4305,
+    "slow": -0.4521,
+    "normal": -0.465,
+    "spread": 0.0447
   },
   "top_stories_24h": [
     {
@@ -46,14 +46,6 @@
       "outlets": 1
     },
     {
-      "title": "Man dies and another injured after attack at centre housing migrants",
-      "source": "SkyNews",
-      "link": "https://news.sky.com/story/man-dies-and-another-injured-after-attack-at-centre-housing-migrants-in-ireland-13606071",
-      "valence": -0.964,
-      "impact": 0.91,
-      "outlets": 1
-    },
-    {
       "title": "At least four Palestinians killed in Gaza as Israeli attacks continue",
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss",
@@ -66,6 +58,14 @@
       "source": "TheHindu",
       "link": "https://www.thehindu.com/news/international/mamdani-says-trump-has-agreed-to-grant-visa-to-mother-of-ghanian-teen-killed-in-bronx-shooting/article71651389.ece",
       "valence": -0.935,
+      "impact": 0.88,
+      "outlets": 1
+    },
+    {
+      "title": "Pope Leo says he hopes Oleshky truce could spur Ukraine-Russia peace efforts",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/europe/pope-leo-says-he-hopes-oleshky-truce-could-spur-ukraine-russia-peace-efforts",
+      "valence": 0.905,
       "impact": 0.88,
       "outlets": 1
     },
