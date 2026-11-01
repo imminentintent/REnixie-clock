@@ -1,16 +1,16 @@
 {
-  "divergence": "1.051561",
+  "divergence": "1.048819",
   "field": "beta",
-  "updated_at": "2026-11-01T07:47:18+00:00",
-  "z": 0.122,
+  "updated_at": "2026-11-01T08:36:51+00:00",
+  "z": 0.009,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 13,
+  "new_stories": 16,
   "climate": {
-    "fast": -0.4609,
-    "slow": -0.4601,
+    "fast": -0.4691,
+    "slow": -0.4621,
     "normal": -0.466,
-    "spread": 0.0456
+    "spread": 0.0454
   },
   "top_stories_24h": [
     {
@@ -19,22 +19,6 @@
       "link": "https://timesofindia.indiatimes.com/world/us/not-used-since-the-korean-war-us-army-practices-digging-mass-battlefield-graves-if-we-went-to-war-tomorrow-/articleshow/135403286.cms",
       "valence": -0.964,
       "impact": 0.99,
-      "outlets": 1
-    },
-    {
-      "title": "Egypt fears escalation in Iran war would be more destructive, foreign minister says",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/middle-east/egypt-fears-escalation-in-iran-war-would-be-more-destructive-foreign-minister-says",
-      "valence": -0.947,
-      "impact": 0.97,
-      "outlets": 1
-    },
-    {
-      "title": "Dead dolphins, naval mines: Russia-Ukraine war destroys the Black Sea",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/31/dead-dolphins-naval-mines-russia-ukraine-war-destroys-the-black-sea?traffic_source=rss",
-      "valence": -0.947,
-      "impact": 0.96,
       "outlets": 1
     },
     {
@@ -78,19 +62,35 @@
       "outlets": 1
     },
     {
-      "title": "Shooting at California Halloween store kills one, wounds six",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/united-states/shooting-at-california-halloween-store-kills-one-wounds-six",
-      "valence": -0.935,
-      "impact": 0.88,
-      "outlets": 1
-    },
-    {
       "title": "Mamdani says Trump has agreed to grant visa to mother of Ghanian teen killed in Bronx shooting",
       "source": "TheHindu",
       "link": "https://www.thehindu.com/news/international/mamdani-says-trump-has-agreed-to-grant-visa-to-mother-of-ghanian-teen-killed-in-bronx-shooting/article71651389.ece",
       "valence": -0.935,
       "impact": 0.88,
+      "outlets": 1
+    },
+    {
+      "title": "Bolivia declares state of emergency over El Nino",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/bolivia-declares-state-of-emergency-over-el-nino",
+      "valence": -0.664,
+      "impact": 1.0,
+      "outlets": 2
+    },
+    {
+      "title": "Salvadoran families demand fair trials, mourn prison dead on Day of the Dead",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/salvadoran-families-demand-fair-trials-mourn-prison-dead-on-day-of-the-dead",
+      "valence": -0.922,
+      "impact": 0.84,
+      "outlets": 1
+    },
+    {
+      "title": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
+      "source": "NYTimes",
+      "link": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
+      "valence": -0.762,
+      "impact": 0.9,
       "outlets": 1
     }
   ],
