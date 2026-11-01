@@ -1,16 +1,16 @@
 {
-  "divergence": "1.045058",
+  "divergence": "1.046423",
   "field": "beta",
-  "updated_at": "2026-11-01T17:56:49+00:00",
-  "z": -0.146,
+  "updated_at": "2026-11-01T18:29:49+00:00",
+  "z": -0.089,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 17,
+  "new_stories": 15,
   "climate": {
-    "fast": -0.4787,
-    "slow": -0.4648,
-    "normal": -0.4654,
-    "spread": 0.0438
+    "fast": -0.4748,
+    "slow": -0.4639,
+    "normal": -0.4655,
+    "spread": 0.0437
   },
   "top_stories_24h": [
     {
@@ -86,9 +86,9 @@
       "outlets": 1
     },
     {
-      "title": "World Cup player sidelined by gang war gets second chance",
-      "source": "ABC-AU",
-      "link": "https://www.abc.net.au/news/2026-11-01/lebanon-rugby-world-cup-mohamed-alameddine/107325484",
+      "title": "What we know about latest efforts to end US war on Iran",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-wrap-iran-latest-developments-011126?traffic_source=rss",
       "valence": -0.762,
       "impact": 0.9,
       "outlets": 1
