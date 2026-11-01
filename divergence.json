@@ -1,16 +1,16 @@
 {
-  "divergence": "1.037126",
+  "divergence": "1.035483",
   "field": "beta",
-  "updated_at": "2026-11-01T23:24:19+00:00",
-  "z": -0.472,
+  "updated_at": "2026-11-01T23:56:57+00:00",
+  "z": -0.54,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 23,
+  "new_stories": 7,
   "climate": {
-    "fast": -0.5004,
-    "slow": -0.4711,
-    "normal": -0.4657,
-    "spread": 0.0428
+    "fast": -0.505,
+    "slow": -0.4725,
+    "normal": -0.4659,
+    "spread": 0.0427
   },
   "top_stories_24h": [
     {
@@ -86,10 +86,10 @@
       "outlets": 2
     },
     {
-      "title": "Salvadoran families demand fair trials, mourn prison dead on Day of the Dead",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/salvadoran-families-demand-fair-trials-mourn-prison-dead-on-day-of-the-dead",
-      "valence": -0.922,
+      "title": "Video captures house collapsing due to Ecuador floods",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/video-captures-house-collapsing-due-to-ecuador-floods?traffic_source=rss",
+      "valence": -0.905,
       "impact": 0.84,
       "outlets": 1
     }
