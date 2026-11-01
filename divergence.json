@@ -1,16 +1,16 @@
 {
-  "divergence": "1.053323",
+  "divergence": "1.050954",
   "field": "beta",
-  "updated_at": "2026-11-01T19:59:07+00:00",
-  "z": 0.195,
+  "updated_at": "2026-11-01T20:29:40+00:00",
+  "z": 0.097,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 12,
+  "new_stories": 10,
   "climate": {
-    "fast": -0.455,
-    "slow": -0.4591,
+    "fast": -0.4617,
+    "slow": -0.4607,
     "normal": -0.4654,
-    "spread": 0.0434
+    "spread": 0.0433
   },
   "top_stories_24h": [
     {
@@ -78,17 +78,17 @@
       "outlets": 1
     },
     {
-      "title": "What we know about latest efforts to end US war on Iran",
+      "title": "Video captures house collapsing due to Ecuador floods",
       "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-wrap-iran-latest-developments-011126?traffic_source=rss",
-      "valence": -0.762,
-      "impact": 0.9,
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/video-captures-house-collapsing-due-to-ecuador-floods?traffic_source=rss",
+      "valence": -0.905,
+      "impact": 0.84,
       "outlets": 1
     },
     {
-      "title": "Live: Jillaroos score record 124 points in World Cup massacre over Wales",
-      "source": "ABC-AU",
-      "link": "https://www.abc.net.au/news/2026-11-01/rugby-league-world-cup-live-australia-wales-samoa-tonga/107331754",
+      "title": "What we know about latest efforts to end US war on Iran",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-wrap-iran-latest-developments-011126?traffic_source=rss",
       "valence": -0.762,
       "impact": 0.9,
       "outlets": 1
