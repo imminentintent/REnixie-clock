@@ -1,16 +1,16 @@
 {
-  "divergence": "1.047770",
+  "divergence": "1.051796",
   "field": "beta",
-  "updated_at": "2026-11-02T21:32:28+00:00",
-  "z": -0.034,
+  "updated_at": "2026-11-02T22:29:52+00:00",
+  "z": 0.132,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 35,
+  "new_stories": 29,
   "climate": {
-    "fast": -0.4692,
-    "slow": -0.4761,
+    "fast": -0.4591,
+    "slow": -0.4734,
     "normal": -0.4713,
-    "spread": 0.0388
+    "spread": 0.0387
   },
   "top_stories_24h": [
     {
@@ -36,14 +36,6 @@
       "valence": -0.905,
       "impact": 1.0,
       "outlets": 2
-    },
-    {
-      "title": "Gulf leaders meet in Qatar in effort to stave off new escalation in U.S and Iran war",
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
-      "valence": -0.947,
-      "impact": 0.97,
-      "outlets": 1
     },
     {
       "title": "Jordan’s King Abdullah promises to confront ‘terrorists’ after Karak attack",
@@ -91,6 +83,14 @@
       "link": "https://timesofindia.indiatimes.com/world/middle-east/irans-supreme-leader-gave-government-certain-authorities-over-peace-talks-with-us-pezeshkian/articleshow/135467379.cms",
       "valence": 0.905,
       "impact": 0.895,
+      "outlets": 1
+    },
+    {
+      "title": "At least 19 dead in Venezuela army attack on Colombian rebel camp",
+      "source": "TheHindu",
+      "link": "https://www.thehindu.com/news/international/at-least-19-dead-in-venezuela-army-attack-on-colombian-rebel-camp/article71655211.ece",
+      "valence": -0.922,
+      "impact": 0.88,
       "outlets": 1
     }
   ],
