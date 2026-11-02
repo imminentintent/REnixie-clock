@@ -1,16 +1,16 @@
 {
-  "divergence": "1.027714",
+  "divergence": "1.024560",
   "field": "beta",
-  "updated_at": "2026-11-02T15:47:40+00:00",
-  "z": -0.859,
+  "updated_at": "2026-11-02T16:52:07+00:00",
+  "z": -0.989,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 42,
+  "new_stories": 55,
   "climate": {
-    "fast": -0.5206,
-    "slow": -0.4887,
-    "normal": -0.4707,
-    "spread": 0.0399
+    "fast": -0.5283,
+    "slow": -0.4915,
+    "normal": -0.471,
+    "spread": 0.0397
   },
   "top_stories_24h": [
     {
@@ -62,6 +62,14 @@
       "outlets": 1
     },
     {
+      "title": "Inflation, war and corruption: Will anger at Trump see Republicans punished at midterms?",
+      "source": "France24",
+      "link": "https://www.france24.com/en/video/20261102-inflation-war-and-corruption-will-anger-at-trump-see-republicans-punished-at-midterms",
+      "valence": -0.862,
+      "impact": 0.94,
+      "outlets": 1
+    },
+    {
       "title": "All 9 aboard killed after plane crashes in Florida, officials say",
       "source": "CBC",
       "link": "https://www.cbc.ca/news/world/florida-plane-crash-9.7404996?cmp=rss",
@@ -82,14 +90,6 @@
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/2026/11/2/anthrax-outbreak-kills-hippos-in-dr-congos-virunga-national-park?traffic_source=rss",
       "valence": -0.922,
-      "impact": 0.88,
-      "outlets": 1
-    },
-    {
-      "title": "India evacuates thousands ahead of second cyclone in a week",
-      "source": "CNA",
-      "link": "https://www.channelnewsasia.com/asia/india-cyclone-murasu-evacuation-weather-6512186",
-      "valence": -0.885,
       "impact": 0.88,
       "outlets": 1
     }
