@@ -1,18 +1,26 @@
 {
-  "divergence": "1.029687",
+  "divergence": "1.029300",
   "field": "beta",
-  "updated_at": "2026-11-02T12:46:44+00:00",
-  "z": -0.778,
+  "updated_at": "2026-11-02T13:58:58+00:00",
+  "z": -0.794,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 39,
+  "new_stories": 57,
   "climate": {
-    "fast": -0.5168,
-    "slow": -0.4852,
-    "normal": -0.4698,
-    "spread": 0.0404
+    "fast": -0.5171,
+    "slow": -0.4864,
+    "normal": -0.4701,
+    "spread": 0.0402
   },
   "top_stories_24h": [
+    {
+      "title": "Ethiopia attacks kill civilians as health system nears collapse, WHO chief says",
+      "source": "ABCNews",
+      "link": "https://abcnews.com/International/wireStory/ethiopia-attacks-kill-civilians-health-system-nears-collapse-137765937",
+      "valence": -0.987,
+      "impact": 0.964,
+      "outlets": 1
+    },
     {
       "title": "Spain train crash: US, Japan and Canada citizens among dead, authorities say",
       "source": "Guardian",
@@ -38,6 +46,14 @@
       "outlets": 2
     },
     {
+      "title": "Jordan’s King Abdullah promises to confront ‘terrorists’ after Karak attack",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/2/jordans-king-abdullah-promises-to-confront-terrorists-after-karak-attack?traffic_source=rss",
+      "valence": -0.935,
+      "impact": 0.94,
+      "outlets": 1
+    },
+    {
       "title": "France launches ‘attempted murder’ probe after petrol bomb attack on security forces",
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/europe/france-launches-attempted-murder-probe-after-petrol-bomb-attack-on-security-forces",
@@ -51,14 +67,6 @@
       "link": "https://www.japantimes.co.jp/commentary/2026/11/02/world/trump-xi-putin-nuclear-arms/",
       "valence": -0.885,
       "impact": 0.96,
-      "outlets": 1
-    },
-    {
-      "title": "Iran and US explore diplomacy amid rising threats of war",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/1/iran-and-us-explore-diplomacy-amid-rising-threats-of-war?traffic_source=rss",
-      "valence": -0.885,
-      "impact": 0.94,
       "outlets": 1
     },
     {
@@ -81,14 +89,6 @@
       "title": "At least 19 dead in Venezuela army attack on Colombian rebel camp",
       "source": "TheHindu",
       "link": "https://www.thehindu.com/news/international/at-least-19-dead-in-venezuela-army-attack-on-colombian-rebel-camp/article71655211.ece",
-      "valence": -0.922,
-      "impact": 0.88,
-      "outlets": 1
-    },
-    {
-      "title": "Anthrax outbreak kills hippos in DR Congo’s Virunga National Park",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/2/anthrax-outbreak-kills-hippos-in-dr-congos-virunga-national-park?traffic_source=rss",
       "valence": -0.922,
       "impact": 0.88,
       "outlets": 1
