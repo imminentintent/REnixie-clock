@@ -1,16 +1,16 @@
 {
-  "divergence": "1.027328",
+  "divergence": "1.021442",
   "field": "beta",
-  "updated_at": "2026-11-02T02:40:45+00:00",
-  "z": -0.875,
+  "updated_at": "2026-11-02T03:42:16+00:00",
+  "z": -1.118,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 23,
+  "new_stories": 16,
   "climate": {
-    "fast": -0.5272,
-    "slow": -0.4796,
-    "normal": -0.4668,
-    "spread": 0.0422
+    "fast": -0.5431,
+    "slow": -0.4844,
+    "normal": -0.4672,
+    "spread": 0.042
   },
   "top_stories_24h": [
     {
@@ -46,6 +46,14 @@
       "outlets": 1
     },
     {
+      "title": "A Cold War blueprint for today’s nuclear dangers",
+      "source": "JapanTimes",
+      "link": "https://www.japantimes.co.jp/commentary/2026/11/02/world/trump-xi-putin-nuclear-arms/",
+      "valence": -0.885,
+      "impact": 0.96,
+      "outlets": 1
+    },
+    {
       "title": "Iran and US explore diplomacy amid rising threats of war",
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/2026/11/1/iran-and-us-explore-diplomacy-amid-rising-threats-of-war?traffic_source=rss",
@@ -57,6 +65,14 @@
       "title": "All 9 aboard killed after plane crashes in Florida, officials say",
       "source": "CBC",
       "link": "https://www.cbc.ca/news/world/florida-plane-crash-9.7404996?cmp=rss",
+      "valence": -0.922,
+      "impact": 0.88,
+      "outlets": 1
+    },
+    {
+      "title": "At least 19 dead in Venezuela army attack on Colombian rebel camp",
+      "source": "TheHindu",
+      "link": "https://www.thehindu.com/news/international/at-least-19-dead-in-venezuela-army-attack-on-colombian-rebel-camp/article71655211.ece",
       "valence": -0.922,
       "impact": 0.88,
       "outlets": 1
@@ -76,27 +92,11 @@
       "valence": -0.862,
       "impact": 0.88,
       "outlets": 1
-    },
-    {
-      "title": "Bolivia declares state of emergency over El Nino",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/bolivia-declares-state-of-emergency-over-el-nino",
-      "valence": -0.664,
-      "impact": 1.0,
-      "outlets": 2
-    },
-    {
-      "title": "Turkey moves Kurdish militant leader Ocalan to a new part of an island prison under peace push",
-      "source": "CNA",
-      "link": "https://www.channelnewsasia.com/world/turkey-moves-kurdish-militant-leader-ocalan-new-part-island-prison-under-peace-push-6510726",
-      "valence": 0.664,
-      "impact": 1.0,
-      "outlets": 2
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
