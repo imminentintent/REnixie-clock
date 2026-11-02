@@ -1,16 +1,16 @@
 {
-  "divergence": "1.032239",
+  "divergence": "1.029687",
   "field": "beta",
-  "updated_at": "2026-11-02T11:41:25+00:00",
-  "z": -0.673,
+  "updated_at": "2026-11-02T12:46:44+00:00",
+  "z": -0.778,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 33,
+  "new_stories": 39,
   "climate": {
-    "fast": -0.5106,
-    "slow": -0.4828,
-    "normal": -0.4696,
-    "spread": 0.0406
+    "fast": -0.5168,
+    "slow": -0.4852,
+    "normal": -0.4698,
+    "spread": 0.0404
   },
   "top_stories_24h": [
     {
@@ -62,6 +62,14 @@
       "outlets": 1
     },
     {
+      "title": "Trump's Iran threat renews Gulf fears of a war it didn't choose",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/middle-east/trumps-iran-threat-renews-gulf-fears-of-a-war-it-didnt-choose",
+      "valence": -0.885,
+      "impact": 0.94,
+      "outlets": 1
+    },
+    {
       "title": "All 9 aboard killed after plane crashes in Florida, officials say",
       "source": "CBC",
       "link": "https://www.cbc.ca/news/world/florida-plane-crash-9.7404996?cmp=rss",
@@ -84,19 +92,11 @@
       "valence": -0.922,
       "impact": 0.88,
       "outlets": 1
-    },
-    {
-      "title": "Pope Leo says he hopes Oleshky truce could spur Ukraine-Russia peace efforts",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/pope-leo-says-he-hopes-oleshky-truce-could-spur-ukraine-russia-peace-efforts",
-      "valence": 0.905,
-      "impact": 0.88,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
