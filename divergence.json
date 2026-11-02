@@ -1,16 +1,16 @@
 {
-  "divergence": "1.035483",
+  "divergence": "1.030434",
   "field": "beta",
-  "updated_at": "2026-11-01T23:56:57+00:00",
-  "z": -0.54,
+  "updated_at": "2026-11-02T00:42:54+00:00",
+  "z": -0.747,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 7,
+  "new_stories": 13,
   "climate": {
-    "fast": -0.505,
-    "slow": -0.4725,
-    "normal": -0.4659,
-    "spread": 0.0427
+    "fast": -0.5188,
+    "slow": -0.4767,
+    "normal": -0.4662,
+    "spread": 0.0426
   },
   "top_stories_24h": [
     {
@@ -46,14 +46,6 @@
       "outlets": 1
     },
     {
-      "title": "Mamdani says Trump has agreed to grant visa to mother of Ghanian teen killed in Bronx shooting",
-      "source": "TheHindu",
-      "link": "https://www.thehindu.com/news/international/mamdani-says-trump-has-agreed-to-grant-visa-to-mother-of-ghanian-teen-killed-in-bronx-shooting/article71651389.ece",
-      "valence": -0.935,
-      "impact": 0.88,
-      "outlets": 1
-    },
-    {
       "title": "All 9 aboard killed after plane crashes in Florida, officials say",
       "source": "CBC",
       "link": "https://www.cbc.ca/news/world/florida-plane-crash-9.7404996?cmp=rss",
@@ -66,6 +58,14 @@
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/europe/pope-leo-says-he-hopes-oleshky-truce-could-spur-ukraine-russia-peace-efforts",
       "valence": 0.905,
+      "impact": 0.88,
+      "outlets": 1
+    },
+    {
+      "title": "Bollywood star greets fans in bulletproof glass after bomb threat",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bollywood-star-greets-fans-in-bulletproof-glass-after-bomb-threat?traffic_source=rss",
+      "valence": -0.862,
       "impact": 0.88,
       "outlets": 1
     },
@@ -96,7 +96,7 @@
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
