@@ -1,16 +1,16 @@
 {
-  "divergence": "1.051796",
+  "divergence": "1.064505",
   "field": "beta",
-  "updated_at": "2026-11-02T22:29:52+00:00",
-  "z": 0.132,
+  "updated_at": "2026-11-02T23:13:42+00:00",
+  "z": 0.655,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 29,
+  "new_stories": 27,
   "climate": {
-    "fast": -0.4591,
-    "slow": -0.4734,
-    "normal": -0.4713,
-    "spread": 0.0387
+    "fast": -0.4274,
+    "slow": -0.4647,
+    "normal": -0.4711,
+    "spread": 0.0385
   },
   "top_stories_24h": [
     {
@@ -86,11 +86,11 @@
       "outlets": 1
     },
     {
-      "title": "At least 19 dead in Venezuela army attack on Colombian rebel camp",
-      "source": "TheHindu",
-      "link": "https://www.thehindu.com/news/international/at-least-19-dead-in-venezuela-army-attack-on-colombian-rebel-camp/article71655211.ece",
-      "valence": -0.922,
-      "impact": 0.88,
+      "title": "US strategy links Myanmar peace talks to rare-earth access",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/united-states/us-strategy-links-myanmar-peace-talks-to-rare-earth-access",
+      "valence": 0.905,
+      "impact": 0.895,
       "outlets": 1
     }
   ],
