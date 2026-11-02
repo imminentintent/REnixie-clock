@@ -1,16 +1,16 @@
 {
-  "divergence": "1.023746",
+  "divergence": "1.027714",
   "field": "beta",
-  "updated_at": "2026-11-02T14:54:25+00:00",
-  "z": -1.023,
+  "updated_at": "2026-11-02T15:47:40+00:00",
+  "z": -0.859,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 52,
+  "new_stories": 42,
   "climate": {
-    "fast": -0.531,
-    "slow": -0.491,
-    "normal": -0.4704,
-    "spread": 0.04
+    "fast": -0.5206,
+    "slow": -0.4887,
+    "normal": -0.4707,
+    "spread": 0.0399
   },
   "top_stories_24h": [
     {
@@ -36,14 +36,6 @@
       "valence": -0.947,
       "impact": 0.97,
       "outlets": 1
-    },
-    {
-      "title": "Tributes paid to ‘inspiring’ Cambridge scientist who died in Spain train crash",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/world/2026/nov/01/tributes-marta-shahbazi-university-of-cambridge-scientist-spanish-train-crash",
-      "valence": -0.885,
-      "impact": 1.0,
-      "outlets": 2
     },
     {
       "title": "Jordan’s King Abdullah promises to confront ‘terrorists’ after Karak attack",
@@ -92,11 +84,19 @@
       "valence": -0.922,
       "impact": 0.88,
       "outlets": 1
+    },
+    {
+      "title": "India evacuates thousands ahead of second cyclone in a week",
+      "source": "CNA",
+      "link": "https://www.channelnewsasia.com/asia/india-cyclone-murasu-evacuation-weather-6512186",
+      "valence": -0.885,
+      "impact": 0.88,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
