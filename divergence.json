@@ -1,16 +1,16 @@
 {
-  "divergence": "1.023651",
+  "divergence": "1.018390",
   "field": "beta",
-  "updated_at": "2026-11-02T08:22:57+00:00",
-  "z": -1.027,
+  "updated_at": "2026-11-02T09:31:31+00:00",
+  "z": -1.243,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 47,
+  "new_stories": 33,
   "climate": {
-    "fast": -0.535,
-    "slow": -0.4863,
-    "normal": -0.4687,
-    "spread": 0.0412
+    "fast": -0.5485,
+    "slow": -0.4908,
+    "normal": -0.4691,
+    "spread": 0.041
   },
   "top_stories_24h": [
     {
@@ -78,18 +78,18 @@
       "outlets": 1
     },
     {
-      "title": "Pope Leo says he hopes Oleshky truce could spur Ukraine-Russia peace efforts",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/pope-leo-says-he-hopes-oleshky-truce-could-spur-ukraine-russia-peace-efforts",
-      "valence": 0.905,
+      "title": "Anthrax outbreak kills hippos in DR Congo’s Virunga National Park",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/2/anthrax-outbreak-kills-hippos-in-dr-congos-virunga-national-park?traffic_source=rss",
+      "valence": -0.922,
       "impact": 0.88,
       "outlets": 1
     },
     {
-      "title": "India evacuates thousands ahead of second cyclone in a week",
-      "source": "CNA",
-      "link": "https://www.channelnewsasia.com/asia/india-cyclone-murasu-evacuation-weather-6512186",
-      "valence": -0.885,
+      "title": "Pope Leo says he hopes Oleshky truce could spur Ukraine-Russia peace efforts",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/europe/pope-leo-says-he-hopes-oleshky-truce-could-spur-ukraine-russia-peace-efforts",
+      "valence": 0.905,
       "impact": 0.88,
       "outlets": 1
     }
