@@ -1,18 +1,26 @@
 {
-  "divergence": "1.030434",
+  "divergence": "1.027407",
   "field": "beta",
-  "updated_at": "2026-11-02T00:42:54+00:00",
-  "z": -0.747,
+  "updated_at": "2026-11-02T01:52:47+00:00",
+  "z": -0.872,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 13,
+  "new_stories": 20,
   "climate": {
-    "fast": -0.5188,
-    "slow": -0.4767,
-    "normal": -0.4662,
-    "spread": 0.0426
+    "fast": -0.5269,
+    "slow": -0.4793,
+    "normal": -0.4665,
+    "spread": 0.0423
   },
   "top_stories_24h": [
+    {
+      "title": "Spain train crash: US, Japan and Canada citizens among dead, authorities say",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/02/spain-trash-crash-us-citizens-japan-canada-dead",
+      "valence": -0.905,
+      "impact": 1.0,
+      "outlets": 2
+    },
     {
       "title": "Gulf leaders meet in Qatar in effort to stave off new escalation in U.S and Iran war",
       "source": "NPR",
@@ -84,19 +92,11 @@
       "valence": 0.664,
       "impact": 1.0,
       "outlets": 2
-    },
-    {
-      "title": "Video captures house collapsing due to Ecuador floods",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/video-captures-house-collapsing-due-to-ecuador-floods?traffic_source=rss",
-      "valence": -0.905,
-      "impact": 0.84,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
