@@ -1,16 +1,16 @@
 {
-  "divergence": "1.029300",
+  "divergence": "1.023746",
   "field": "beta",
-  "updated_at": "2026-11-02T13:58:58+00:00",
-  "z": -0.794,
+  "updated_at": "2026-11-02T14:54:25+00:00",
+  "z": -1.023,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 57,
+  "new_stories": 52,
   "climate": {
-    "fast": -0.5171,
-    "slow": -0.4864,
-    "normal": -0.4701,
-    "spread": 0.0402
+    "fast": -0.531,
+    "slow": -0.491,
+    "normal": -0.4704,
+    "spread": 0.04
   },
   "top_stories_24h": [
     {
@@ -54,14 +54,6 @@
       "outlets": 1
     },
     {
-      "title": "France launches ‘attempted murder’ probe after petrol bomb attack on security forces",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/france-launches-attempted-murder-probe-after-petrol-bomb-attack-on-security-forces",
-      "valence": -0.885,
-      "impact": 0.964,
-      "outlets": 1
-    },
-    {
       "title": "A Cold War blueprint for today’s nuclear dangers",
       "source": "JapanTimes",
       "link": "https://www.japantimes.co.jp/commentary/2026/11/02/world/trump-xi-putin-nuclear-arms/",
@@ -89,6 +81,14 @@
       "title": "At least 19 dead in Venezuela army attack on Colombian rebel camp",
       "source": "TheHindu",
       "link": "https://www.thehindu.com/news/international/at-least-19-dead-in-venezuela-army-attack-on-colombian-rebel-camp/article71655211.ece",
+      "valence": -0.922,
+      "impact": 0.88,
+      "outlets": 1
+    },
+    {
+      "title": "Anthrax outbreak kills hippos in DR Congo’s Virunga National Park",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/2/anthrax-outbreak-kills-hippos-in-dr-congos-virunga-national-park?traffic_source=rss",
       "valence": -0.922,
       "impact": 0.88,
       "outlets": 1
