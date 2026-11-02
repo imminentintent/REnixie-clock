@@ -1,16 +1,16 @@
 {
-  "divergence": "1.020252",
+  "divergence": "1.020723",
   "field": "beta",
-  "updated_at": "2026-11-02T04:48:31+00:00",
-  "z": -1.166,
+  "updated_at": "2026-11-02T05:50:27+00:00",
+  "z": -1.147,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 24,
+  "new_stories": 26,
   "climate": {
-    "fast": -0.546,
-    "slow": -0.486,
-    "normal": -0.4676,
-    "spread": 0.0418
+    "fast": -0.5441,
+    "slow": -0.4867,
+    "normal": -0.468,
+    "spread": 0.0416
   },
   "top_stories_24h": [
     {
@@ -86,17 +86,17 @@
       "outlets": 1
     },
     {
-      "title": "Bollywood star greets fans in bulletproof glass after bomb threat",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bollywood-star-greets-fans-in-bulletproof-glass-after-bomb-threat?traffic_source=rss",
-      "valence": -0.862,
+      "title": "India evacuates thousands ahead of second cyclone in a week",
+      "source": "CNA",
+      "link": "https://www.channelnewsasia.com/asia/india-cyclone-murasu-evacuation-weather-6512186",
+      "valence": -0.885,
       "impact": 0.88,
       "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
