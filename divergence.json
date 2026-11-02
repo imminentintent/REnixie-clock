@@ -1,16 +1,16 @@
 {
-  "divergence": "1.024560",
+  "divergence": "1.038791",
   "field": "beta",
-  "updated_at": "2026-11-02T16:52:07+00:00",
-  "z": -0.989,
+  "updated_at": "2026-11-02T17:47:34+00:00",
+  "z": -0.404,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 55,
+  "new_stories": 45,
   "climate": {
-    "fast": -0.5283,
-    "slow": -0.4915,
-    "normal": -0.471,
-    "spread": 0.0397
+    "fast": -0.4918,
+    "slow": -0.4821,
+    "normal": -0.4711,
+    "spread": 0.0395
   },
   "top_stories_24h": [
     {
@@ -62,6 +62,14 @@
       "outlets": 1
     },
     {
+      "title": "Attack on Colombian military base kills 4 civilians, including a 2-month-old",
+      "source": "ABCNews",
+      "link": "https://abcnews.com/International/wireStory/attack-colombian-military-base-kills-4-civilians-including-137773079",
+      "valence": -0.935,
+      "impact": 0.91,
+      "outlets": 1
+    },
+    {
       "title": "Inflation, war and corruption: Will anger at Trump see Republicans punished at midterms?",
       "source": "France24",
       "link": "https://www.france24.com/en/video/20261102-inflation-war-and-corruption-will-anger-at-trump-see-republicans-punished-at-midterms",
@@ -70,25 +78,17 @@
       "outlets": 1
     },
     {
+      "title": "Iran's supreme leader gave government 'certain authorities' over peace talks with US: Pezeshkian",
+      "source": "TimesOfIndia",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/irans-supreme-leader-gave-government-certain-authorities-over-peace-talks-with-us-pezeshkian/articleshow/135467379.cms",
+      "valence": 0.905,
+      "impact": 0.895,
+      "outlets": 1
+    },
+    {
       "title": "All 9 aboard killed after plane crashes in Florida, officials say",
       "source": "CBC",
       "link": "https://www.cbc.ca/news/world/florida-plane-crash-9.7404996?cmp=rss",
-      "valence": -0.922,
-      "impact": 0.88,
-      "outlets": 1
-    },
-    {
-      "title": "At least 19 dead in Venezuela army attack on Colombian rebel camp",
-      "source": "TheHindu",
-      "link": "https://www.thehindu.com/news/international/at-least-19-dead-in-venezuela-army-attack-on-colombian-rebel-camp/article71655211.ece",
-      "valence": -0.922,
-      "impact": 0.88,
-      "outlets": 1
-    },
-    {
-      "title": "Anthrax outbreak kills hippos in DR Congo’s Virunga National Park",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/2/anthrax-outbreak-kills-hippos-in-dr-congos-virunga-national-park?traffic_source=rss",
       "valence": -0.922,
       "impact": 0.88,
       "outlets": 1
