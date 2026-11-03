@@ -1,16 +1,16 @@
 {
-  "divergence": "1.064028",
+  "divergence": "1.064195",
   "field": "beta",
-  "updated_at": "2026-11-03T13:34:39+00:00",
-  "z": 0.635,
+  "updated_at": "2026-11-03T14:44:38+00:00",
+  "z": 0.642,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 74,
+  "new_stories": 56,
   "climate": {
-    "fast": -0.4334,
-    "slow": -0.4593,
-    "normal": -0.469,
-    "spread": 0.036
+    "fast": -0.4335,
+    "slow": -0.4586,
+    "normal": -0.4689,
+    "spread": 0.0358
   },
   "top_stories_24h": [
     {
@@ -27,14 +27,6 @@
       "link": "https://www.straitstimes.com/world/middle-east/us-strikes-key-iranian-island-as-trump-talks-up-prospects-of-peace-deal",
       "valence": 0.984,
       "impact": 0.975,
-      "outlets": 1
-    },
-    {
-      "title": "Ethiopia attacks kill civilians as health system nears collapse, WHO chief says",
-      "source": "ABCNews",
-      "link": "https://abcnews.com/International/wireStory/ethiopia-attacks-kill-civilians-health-system-nears-collapse-137765937",
-      "valence": -0.987,
-      "impact": 0.964,
       "outlets": 1
     },
     {
@@ -92,11 +84,19 @@
       "valence": -0.862,
       "impact": 0.945,
       "outlets": 1
+    },
+    {
+      "title": "Inflation, war and corruption: Will anger at Trump see Republicans punished at midterms?",
+      "source": "France24",
+      "link": "https://www.france24.com/en/video/20261102-inflation-war-and-corruption-will-anger-at-trump-see-republicans-punished-at-midterms",
+      "valence": -0.862,
+      "impact": 0.94,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 36,
     "total": 38
   }
 }
