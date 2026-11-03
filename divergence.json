@@ -1,16 +1,16 @@
 {
-  "divergence": "1.071660",
+  "divergence": "1.072404",
   "field": "beta",
-  "updated_at": "2026-11-03T09:15:25+00:00",
-  "z": 0.949,
+  "updated_at": "2026-11-03T10:18:56+00:00",
+  "z": 0.98,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 35,
+  "new_stories": 49,
   "climate": {
-    "fast": -0.4121,
-    "slow": -0.4579,
-    "normal": -0.4697,
-    "spread": 0.0367
+    "fast": -0.4114,
+    "slow": -0.4563,
+    "normal": -0.4694,
+    "spread": 0.0366
   },
   "top_stories_24h": [
     {
@@ -35,6 +35,14 @@
       "link": "https://www.straitstimes.com/world/europe/how-nato-states-on-the-black-sea-are-being-drawn-into-ukraine-war-escalation",
       "valence": -0.947,
       "impact": 0.97,
+      "outlets": 1
+    },
+    {
+      "title": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
+      "source": "ABCNews",
+      "link": "https://abcnews.com/International/wireStory/death-toll-hits-29-after-russian-strike-ukrainian-137799736",
+      "valence": -0.935,
+      "impact": 0.971,
       "outlets": 1
     },
     {
@@ -81,14 +89,6 @@
       "title": "Iran's supreme leader gave government 'certain authorities' over peace talks with US: Pezeshkian",
       "source": "TimesOfIndia",
       "link": "https://timesofindia.indiatimes.com/world/middle-east/irans-supreme-leader-gave-government-certain-authorities-over-peace-talks-with-us-pezeshkian/articleshow/135467379.cms",
-      "valence": 0.905,
-      "impact": 0.895,
-      "outlets": 1
-    },
-    {
-      "title": "US strategy links Myanmar peace talks to rare-earth access",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/united-states/us-strategy-links-myanmar-peace-talks-to-rare-earth-access",
       "valence": 0.905,
       "impact": 0.895,
       "outlets": 1
