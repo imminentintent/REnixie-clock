@@ -1,16 +1,16 @@
 {
-  "divergence": "1.068869",
+  "divergence": "1.070531",
   "field": "beta",
-  "updated_at": "2026-11-03T16:42:43+00:00",
-  "z": 0.834,
+  "updated_at": "2026-11-03T17:40:49+00:00",
+  "z": 0.903,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 51,
+  "new_stories": 52,
   "climate": {
-    "fast": -0.4238,
-    "slow": -0.4546,
-    "normal": -0.4686,
-    "spread": 0.0354
+    "fast": -0.4208,
+    "slow": -0.4527,
+    "normal": -0.4683,
+    "spread": 0.0352
   },
   "top_stories_24h": [
     {
@@ -70,9 +70,9 @@
       "outlets": 3
     },
     {
-      "title": "Attack on Colombian military base kills 4 civilians, including a 2-month-old",
-      "source": "ABCNews",
-      "link": "https://abcnews.com/International/wireStory/attack-colombian-military-base-kills-4-civilians-including-137773079",
+      "title": "Darfur survivors vow to tell story of those killed after Sudan camp attacks",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/features/2026/11/3/darfur-survivors-vow-to-tell-story-of-those-killed-after-sudan-camp-attacks?traffic_source=rss",
       "valence": -0.935,
       "impact": 0.91,
       "outlets": 1
@@ -86,9 +86,9 @@
       "outlets": 1
     },
     {
-      "title": "Iran's supreme leader gave government 'certain authorities' over peace talks with US: Pezeshkian",
-      "source": "TimesOfIndia",
-      "link": "https://timesofindia.indiatimes.com/world/middle-east/irans-supreme-leader-gave-government-certain-authorities-over-peace-talks-with-us-pezeshkian/articleshow/135467379.cms",
+      "title": "US strategy links Myanmar peace talks to rare-earth access",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/united-states/us-strategy-links-myanmar-peace-talks-to-rare-earth-access",
       "valence": 0.905,
       "impact": 0.895,
       "outlets": 1
@@ -96,7 +96,7 @@
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
