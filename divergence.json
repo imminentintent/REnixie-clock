@@ -1,16 +1,16 @@
 {
-  "divergence": "1.060473",
+  "divergence": "1.064028",
   "field": "beta",
-  "updated_at": "2026-11-03T12:10:43+00:00",
-  "z": 0.489,
+  "updated_at": "2026-11-03T13:34:39+00:00",
+  "z": 0.635,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 27,
+  "new_stories": 74,
   "climate": {
-    "fast": -0.4408,
-    "slow": -0.4623,
-    "normal": -0.4692,
-    "spread": 0.0362
+    "fast": -0.4334,
+    "slow": -0.4593,
+    "normal": -0.469,
+    "spread": 0.036
   },
   "top_stories_24h": [
     {
@@ -22,10 +22,26 @@
       "outlets": 3
     },
     {
+      "title": "US strikes key Iranian island as Trump talks up prospect of peace deal",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/middle-east/us-strikes-key-iranian-island-as-trump-talks-up-prospects-of-peace-deal",
+      "valence": 0.984,
+      "impact": 0.975,
+      "outlets": 1
+    },
+    {
       "title": "Ethiopia attacks kill civilians as health system nears collapse, WHO chief says",
       "source": "ABCNews",
       "link": "https://abcnews.com/International/wireStory/ethiopia-attacks-kill-civilians-health-system-nears-collapse-137765937",
       "valence": -0.987,
+      "impact": 0.964,
+      "outlets": 1
+    },
+    {
+      "title": "Dozens still missing from deadly Russian guided-bomb attack in southern Ukraine",
+      "source": "CBC",
+      "link": "https://www.cbc.ca/news/world/ukraine-russia-missing-civilians-abu-dhabi-talks-9.7406815?cmp=rss",
+      "valence": -0.97,
       "impact": 0.964,
       "outlets": 1
     },
@@ -46,20 +62,20 @@
       "outlets": 1
     },
     {
-      "title": "Jordan’s King Abdullah promises to confront ‘terrorists’ after Karak attack",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/2/jordans-king-abdullah-promises-to-confront-terrorists-after-karak-attack?traffic_source=rss",
-      "valence": -0.935,
-      "impact": 0.94,
-      "outlets": 1
+      "title": "Four separate flights from London, Copenhagen, Manchester and Israel affected by bomb threats – Europe live",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
+      "valence": -0.862,
+      "impact": 1.0,
+      "outlets": 2
     },
     {
-      "title": "Trump's Iran threat renews Gulf fears of a war it didn't choose",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/middle-east/trumps-iran-threat-renews-gulf-fears-of-a-war-it-didnt-choose",
-      "valence": -0.885,
-      "impact": 0.94,
-      "outlets": 1
+      "title": "Warsaw airport reopens after bomb threat forces plane landing; 2nd flight checked at another airport",
+      "source": "CBC",
+      "link": "https://www.cbc.ca/news/world/warsaw-poland-airports-bomb-threat-flight-9.7406876?cmp=rss",
+      "valence": -0.862,
+      "impact": 1.0,
+      "outlets": 3
     },
     {
       "title": "Attack on Colombian military base kills 4 civilians, including a 2-month-old",
@@ -75,22 +91,6 @@
       "link": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss",
       "valence": -0.862,
       "impact": 0.945,
-      "outlets": 1
-    },
-    {
-      "title": "Inflation, war and corruption: Will anger at Trump see Republicans punished at midterms?",
-      "source": "France24",
-      "link": "https://www.france24.com/en/video/20261102-inflation-war-and-corruption-will-anger-at-trump-see-republicans-punished-at-midterms",
-      "valence": -0.862,
-      "impact": 0.94,
-      "outlets": 1
-    },
-    {
-      "title": "Iran's supreme leader gave government 'certain authorities' over peace talks with US: Pezeshkian",
-      "source": "TimesOfIndia",
-      "link": "https://timesofindia.indiatimes.com/world/middle-east/irans-supreme-leader-gave-government-certain-authorities-over-peace-talks-with-us-pezeshkian/articleshow/135467379.cms",
-      "valence": 0.905,
-      "impact": 0.895,
       "outlets": 1
     }
   ],
