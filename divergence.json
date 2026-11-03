@@ -1,26 +1,18 @@
 {
-  "divergence": "1.070531",
+  "divergence": "1.071079",
   "field": "beta",
-  "updated_at": "2026-11-03T17:40:49+00:00",
-  "z": 0.903,
+  "updated_at": "2026-11-03T18:36:56+00:00",
+  "z": 0.925,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 52,
+  "new_stories": 43,
   "climate": {
-    "fast": -0.4208,
-    "slow": -0.4527,
-    "normal": -0.4683,
-    "spread": 0.0352
+    "fast": -0.4201,
+    "slow": -0.4517,
+    "normal": -0.4681,
+    "spread": 0.0351
   },
   "top_stories_24h": [
-    {
-      "title": "Russian bombing kills 24 in village in southeastern Ukraine, emergency services say",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/ukraines-zelenskiy-russian-bombing-kills-18-in-southeastern-zaporizhzhia-region",
-      "valence": -0.947,
-      "impact": 1.0,
-      "outlets": 3
-    },
     {
       "title": "US strikes key Iranian island as Trump talks up prospect of peace deal",
       "source": "StraitsTimes",
@@ -92,11 +84,19 @@
       "valence": 0.905,
       "impact": 0.895,
       "outlets": 1
+    },
+    {
+      "title": "Ukraine's Zelenskiy visits Germany for show of support ahead of peace talks",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/europe/ukraines-zelenskiy-to-visit-berlin-on-tuesday-germanys-merz-says",
+      "valence": 0.905,
+      "impact": 0.895,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
