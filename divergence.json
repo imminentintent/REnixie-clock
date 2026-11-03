@@ -1,16 +1,16 @@
 {
-  "divergence": "1.059775",
+  "divergence": "1.055077",
   "field": "beta",
-  "updated_at": "2026-11-03T05:42:23+00:00",
-  "z": 0.46,
+  "updated_at": "2026-11-03T06:48:59+00:00",
+  "z": 0.267,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 32,
+  "new_stories": 49,
   "climate": {
-    "fast": -0.4405,
-    "slow": -0.4656,
-    "normal": -0.4701,
-    "spread": 0.0374
+    "fast": -0.4523,
+    "slow": -0.468,
+    "normal": -0.47,
+    "spread": 0.0372
   },
   "top_stories_24h": [
     {
@@ -27,6 +27,14 @@
       "link": "https://abcnews.com/International/wireStory/ethiopia-attacks-kill-civilians-health-system-nears-collapse-137765937",
       "valence": -0.987,
       "impact": 0.964,
+      "outlets": 1
+    },
+    {
+      "title": "How NATO states on the Black Sea are being drawn into Ukraine war escalation",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/europe/how-nato-states-on-the-black-sea-are-being-drawn-into-ukraine-war-escalation",
+      "valence": -0.947,
+      "impact": 0.97,
       "outlets": 1
     },
     {
@@ -83,14 +91,6 @@
       "link": "https://www.straitstimes.com/world/united-states/us-strategy-links-myanmar-peace-talks-to-rare-earth-access",
       "valence": 0.905,
       "impact": 0.895,
-      "outlets": 1
-    },
-    {
-      "title": "Anthrax outbreak kills hippos in DR Congo’s Virunga National Park",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/2/anthrax-outbreak-kills-hippos-in-dr-congos-virunga-national-park?traffic_source=rss",
-      "valence": -0.922,
-      "impact": 0.88,
       "outlets": 1
     }
   ],
