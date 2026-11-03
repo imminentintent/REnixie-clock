@@ -1,16 +1,16 @@
 {
-  "divergence": "1.064195",
+  "divergence": "1.061796",
   "field": "beta",
-  "updated_at": "2026-11-03T14:44:38+00:00",
-  "z": 0.642,
+  "updated_at": "2026-11-03T15:37:24+00:00",
+  "z": 0.543,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 56,
+  "new_stories": 49,
   "climate": {
-    "fast": -0.4335,
-    "slow": -0.4586,
-    "normal": -0.4689,
-    "spread": 0.0358
+    "fast": -0.4393,
+    "slow": -0.4598,
+    "normal": -0.4687,
+    "spread": 0.0356
   },
   "top_stories_24h": [
     {
@@ -86,17 +86,17 @@
       "outlets": 1
     },
     {
-      "title": "Inflation, war and corruption: Will anger at Trump see Republicans punished at midterms?",
-      "source": "France24",
-      "link": "https://www.france24.com/en/video/20261102-inflation-war-and-corruption-will-anger-at-trump-see-republicans-punished-at-midterms",
-      "valence": -0.862,
-      "impact": 0.94,
+      "title": "Iran's supreme leader gave government 'certain authorities' over peace talks with US: Pezeshkian",
+      "source": "TimesOfIndia",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/irans-supreme-leader-gave-government-certain-authorities-over-peace-talks-with-us-pezeshkian/articleshow/135467379.cms",
+      "valence": 0.905,
+      "impact": 0.895,
       "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 36,
+    "live": 38,
     "total": 38
   }
 }
