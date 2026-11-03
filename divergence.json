@@ -1,16 +1,16 @@
 {
-  "divergence": "1.069549",
+  "divergence": "1.075729",
   "field": "beta",
-  "updated_at": "2026-11-03T19:41:29+00:00",
-  "z": 0.862,
+  "updated_at": "2026-11-03T20:36:55+00:00",
+  "z": 1.117,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 40,
+  "new_stories": 30,
   "climate": {
-    "fast": -0.4237,
-    "slow": -0.4524,
-    "normal": -0.4679,
-    "spread": 0.0349
+    "fast": -0.4102,
+    "slow": -0.4481,
+    "normal": -0.4677,
+    "spread": 0.0347
   },
   "top_stories_24h": [
     {
@@ -78,25 +78,25 @@
       "outlets": 1
     },
     {
-      "title": "US strategy links Myanmar peace talks to rare-earth access",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/united-states/us-strategy-links-myanmar-peace-talks-to-rare-earth-access",
-      "valence": 0.905,
-      "impact": 0.895,
-      "outlets": 1
-    },
-    {
       "title": "Ukraine's Zelenskiy visits Germany for show of support ahead of peace talks",
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/europe/ukraines-zelenskiy-to-visit-berlin-on-tuesday-germanys-merz-says",
       "valence": 0.905,
       "impact": 0.895,
       "outlets": 1
+    },
+    {
+      "title": "Nasa telescope launched in 2004 to plunge back to Earth after failed rescue mission",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/science/2026/nov/03/nasa-telescope-neil-gehrels-swift-observatory",
+      "valence": 0.716,
+      "impact": 1.0,
+      "outlets": 2
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 36,
+    "live": 38,
     "total": 38
   }
 }
