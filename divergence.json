@@ -1,16 +1,16 @@
 {
-  "divergence": "1.060605",
+  "divergence": "1.061029",
   "field": "beta",
-  "updated_at": "2026-11-03T02:38:58+00:00",
-  "z": 0.494,
+  "updated_at": "2026-11-03T03:39:49+00:00",
+  "z": 0.512,
   "calibrating": true,
   "scorer": "lexicon",
   "new_stories": 20,
   "climate": {
-    "fast": -0.4381,
-    "slow": -0.4657,
-    "normal": -0.4705,
-    "spread": 0.0379
+    "fast": -0.4371,
+    "slow": -0.4654,
+    "normal": -0.4704,
+    "spread": 0.0377
   },
   "top_stories_24h": [
     {
@@ -35,14 +35,6 @@
       "link": "https://www.aljazeera.com/news/2026/11/2/jordans-king-abdullah-promises-to-confront-terrorists-after-karak-attack?traffic_source=rss",
       "valence": -0.935,
       "impact": 0.94,
-      "outlets": 1
-    },
-    {
-      "title": "A Cold War blueprint for today’s nuclear dangers",
-      "source": "JapanTimes",
-      "link": "https://www.japantimes.co.jp/commentary/2026/11/02/world/trump-xi-putin-nuclear-arms/",
-      "valence": -0.885,
-      "impact": 0.96,
       "outlets": 1
     },
     {
@@ -92,11 +84,19 @@
       "valence": 0.905,
       "impact": 0.895,
       "outlets": 1
+    },
+    {
+      "title": "Anthrax outbreak kills hippos in DR Congo’s Virunga National Park",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/2/anthrax-outbreak-kills-hippos-in-dr-congos-virunga-national-park?traffic_source=rss",
+      "valence": -0.922,
+      "impact": 0.88,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
