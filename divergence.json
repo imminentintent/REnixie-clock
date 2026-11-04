@@ -1,26 +1,18 @@
 {
-  "divergence": "1.039166",
+  "divergence": "1.044448",
   "field": "beta",
-  "updated_at": "2026-11-04T22:38:02+00:00",
-  "z": -0.388,
-  "calibrating": true,
+  "updated_at": "2026-11-04T23:33:48+00:00",
+  "z": -0.171,
+  "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 35,
+  "new_stories": 26,
   "climate": {
-    "fast": -0.4882,
-    "slow": -0.4673,
+    "fast": -0.4777,
+    "slow": -0.465,
     "normal": -0.4662,
-    "spread": 0.0301
+    "spread": 0.03
   },
   "top_stories_24h": [
-    {
-      "title": "British wedding venue evacuated after workers uncover five World War II bombs while digging for solar panels; guests and residents forced to flee",
-      "source": "TimesOfIndia",
-      "link": "https://timesofindia.indiatimes.com/world/uk/british-wedding-venue-shut-down-after-workers-found-five-world-war-ii-bombs-while-digging-for-solar-panels-guests-and-residents-forced-to-leave-while-explosives-were-detonated/articleshow/135490591.cms",
-      "valence": -0.989,
-      "impact": 0.992,
-      "outlets": 1
-    },
     {
       "title": "Russian attacks disrupt power in Kyiv, while death toll in a stricken village rises to 40",
       "source": "TheHindu",
@@ -35,6 +27,14 @@
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
       "valence": -0.947,
       "impact": 0.97,
+      "outlets": 1
+    },
+    {
+      "title": "Russia attacks Ukrainian aid hub in one of the deadliest strikes since war began",
+      "source": "SkyNews",
+      "link": "https://news.sky.com/story/russia-attacks-ukrainian-aid-hub-in-one-of-the-deadliest-strikes-since-war-began-13608095",
+      "valence": -0.885,
+      "impact": 0.982,
       "outlets": 1
     },
     {
