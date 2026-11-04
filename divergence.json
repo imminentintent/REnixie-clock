@@ -1,16 +1,16 @@
 {
-  "divergence": "1.064738",
+  "divergence": "1.063885",
   "field": "beta",
-  "updated_at": "2026-11-04T05:47:14+00:00",
-  "z": 0.664,
+  "updated_at": "2026-11-04T06:53:06+00:00",
+  "z": 0.629,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 39,
+  "new_stories": 56,
   "climate": {
-    "fast": -0.4361,
-    "slow": -0.4522,
-    "normal": -0.466,
-    "spread": 0.0331
+    "fast": -0.4381,
+    "slow": -0.4525,
+    "normal": -0.4659,
+    "spread": 0.0329
   },
   "top_stories_24h": [
     {
@@ -35,14 +35,6 @@
       "link": "https://www.cbc.ca/news/world/ukraine-russia-missing-civilians-abu-dhabi-talks-9.7406815?cmp=rss",
       "valence": -0.97,
       "impact": 0.964,
-      "outlets": 1
-    },
-    {
-      "title": "How NATO states on the Black Sea are being drawn into Ukraine war escalation",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/how-nato-states-on-the-black-sea-are-being-drawn-into-ukraine-war-escalation",
-      "valence": -0.947,
-      "impact": 0.97,
       "outlets": 1
     },
     {
@@ -91,6 +83,14 @@
       "link": "https://www.nytimes.com/2026/11/03/world/europe/on-cusp-of-renewed-war-more-iranians-are-calling-for-nuclear-weapons.html",
       "valence": -0.885,
       "impact": 0.96,
+      "outlets": 1
+    },
+    {
+      "title": "Family receives remains of Hiroshima A-bomb victim 81 years after his death",
+      "source": "JapanTimes",
+      "link": "https://www.japantimes.co.jp/news/2026/11/04/japan/society/hiroshima-atomic-victim-remains/",
+      "valence": -0.922,
+      "impact": 0.92,
       "outlets": 1
     }
   ],
