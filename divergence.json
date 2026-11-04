@@ -1,16 +1,16 @@
 {
-  "divergence": "1.047089",
+  "divergence": "1.043098",
   "field": "beta",
-  "updated_at": "2026-11-04T14:52:49+00:00",
-  "z": -0.062,
+  "updated_at": "2026-11-04T15:45:13+00:00",
+  "z": -0.226,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 58,
+  "new_stories": 46,
   "climate": {
-    "fast": -0.4746,
-    "slow": -0.46,
+    "fast": -0.4827,
+    "slow": -0.4622,
     "normal": -0.4654,
-    "spread": 0.0315
+    "spread": 0.0313
   },
   "top_stories_24h": [
     {
@@ -78,25 +78,25 @@
       "outlets": 2
     },
     {
+      "title": "How Trump's broken promises on war, inflation handed Democrats the midterms",
+      "source": "France24",
+      "link": "https://www.france24.com/en/video/20261104-how-trump-s-broken-promises-on-war-inflation-handed-democrats-the-midterms",
+      "valence": -0.862,
+      "impact": 0.94,
+      "outlets": 1
+    },
+    {
       "title": "Nasa telescope launched in 2004 to plunge back to Earth after failed rescue mission",
       "source": "Guardian",
       "link": "https://www.theguardian.com/science/2026/nov/03/nasa-telescope-neil-gehrels-swift-observatory",
       "valence": 0.716,
       "impact": 1.0,
       "outlets": 2
-    },
-    {
-      "title": "Anthrax Outbreak in Africa’s Oldest National Park Is Killing Hippos",
-      "source": "NYTimes",
-      "link": "https://www.nytimes.com/2026/11/03/world/africa/congo-anthrax-hippos-virunga-park.html",
-      "valence": -0.922,
-      "impact": 0.88,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
