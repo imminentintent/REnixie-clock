@@ -1,16 +1,16 @@
 {
-  "divergence": "1.033162",
+  "divergence": "1.032555",
   "field": "beta",
-  "updated_at": "2026-11-04T20:40:53+00:00",
-  "z": -0.635,
+  "updated_at": "2026-11-04T21:39:43+00:00",
+  "z": -0.66,
   "calibrating": true,
   "scorer": "lexicon",
   "new_stories": 38,
   "climate": {
-    "fast": -0.5007,
-    "slow": -0.4698,
-    "normal": -0.466,
-    "spread": 0.0304
+    "fast": -0.5015,
+    "slow": -0.4704,
+    "normal": -0.4661,
+    "spread": 0.0302
   },
   "top_stories_24h": [
     {
@@ -62,6 +62,14 @@
       "outlets": 1
     },
     {
+      "title": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss",
+      "valence": -0.935,
+      "impact": 0.92,
+      "outlets": 1
+    },
+    {
       "title": "Miami helicopter crash leaves one person dead and two injured",
       "source": "Guardian",
       "link": "https://www.theguardian.com/us-news/2026/nov/04/miami-helicopter-crash-deadly",
@@ -84,19 +92,11 @@
       "valence": -0.862,
       "impact": 0.946,
       "outlets": 1
-    },
-    {
-      "title": "Iran war, Epstein, impeachment? What will Democrats do with control of Congress?",
-      "source": "France24",
-      "link": "https://www.france24.com/en/video/20261104-iran-war-epstein-impeachment-what-will-democrats-do-with-control-of-congress",
-      "valence": -0.762,
-      "impact": 1.0,
-      "outlets": 2
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
