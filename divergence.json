@@ -1,16 +1,16 @@
 {
-  "divergence": "1.065237",
+  "divergence": "1.062494",
   "field": "beta",
-  "updated_at": "2026-11-04T08:09:25+00:00",
-  "z": 0.685,
+  "updated_at": "2026-11-04T09:22:49+00:00",
+  "z": 0.572,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 31,
+  "new_stories": 39,
   "climate": {
-    "fast": -0.4352,
-    "slow": -0.4518,
-    "normal": -0.4657,
-    "spread": 0.0327
+    "fast": -0.4414,
+    "slow": -0.4529,
+    "normal": -0.4656,
+    "spread": 0.0324
   },
   "top_stories_24h": [
     {
@@ -19,14 +19,6 @@
       "link": "https://timesofindia.indiatimes.com/world/uk/british-wedding-venue-shut-down-after-workers-found-five-world-war-ii-bombs-while-digging-for-solar-panels-guests-and-residents-forced-to-leave-while-explosives-were-detonated/articleshow/135490591.cms",
       "valence": -0.989,
       "impact": 0.992,
-      "outlets": 1
-    },
-    {
-      "title": "US strikes key Iranian island as Trump talks up prospect of peace deal",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/middle-east/us-strikes-key-iranian-island-as-trump-talks-up-prospects-of-peace-deal",
-      "valence": 0.984,
-      "impact": 0.975,
       "outlets": 1
     },
     {
@@ -92,11 +84,19 @@
       "valence": -0.922,
       "impact": 0.92,
       "outlets": 1
+    },
+    {
+      "title": "Darfur survivors vow to tell story of those killed after Sudan camp attacks",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/features/2026/11/3/darfur-survivors-vow-to-tell-story-of-those-killed-after-sudan-camp-attacks?traffic_source=rss",
+      "valence": -0.935,
+      "impact": 0.91,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 35,
+    "live": 38,
     "total": 38
   }
 }
