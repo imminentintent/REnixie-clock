@@ -1,16 +1,16 @@
 {
-  "divergence": "1.062494",
+  "divergence": "1.062695",
   "field": "beta",
-  "updated_at": "2026-11-04T09:22:49+00:00",
-  "z": 0.572,
+  "updated_at": "2026-11-04T11:46:05+00:00",
+  "z": 0.58,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 39,
+  "new_stories": 102,
   "climate": {
-    "fast": -0.4414,
-    "slow": -0.4529,
-    "normal": -0.4656,
-    "spread": 0.0324
+    "fast": -0.4415,
+    "slow": -0.4526,
+    "normal": -0.4655,
+    "spread": 0.032
   },
   "top_stories_24h": [
     {
@@ -22,27 +22,11 @@
       "outlets": 1
     },
     {
-      "title": "Dozens still missing from deadly Russian guided-bomb attack in southern Ukraine",
-      "source": "CBC",
-      "link": "https://www.cbc.ca/news/world/ukraine-russia-missing-civilians-abu-dhabi-talks-9.7406815?cmp=rss",
-      "valence": -0.97,
-      "impact": 0.964,
-      "outlets": 1
-    },
-    {
       "title": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack",
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
       "valence": -0.947,
       "impact": 0.97,
-      "outlets": 1
-    },
-    {
-      "title": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
-      "source": "ABCNews",
-      "link": "https://abcnews.com/International/wireStory/death-toll-hits-29-after-russian-strike-ukrainian-137799736",
-      "valence": -0.935,
-      "impact": 0.971,
       "outlets": 1
     },
     {
@@ -92,11 +76,27 @@
       "valence": -0.935,
       "impact": 0.91,
       "outlets": 1
+    },
+    {
+      "title": "Iran war, Epstein, impeachment? What will Democrats do with control of Congress?",
+      "source": "France24",
+      "link": "https://www.france24.com/en/video/20261104-iran-war-epstein-impeachment-what-will-democrats-do-with-control-of-congress",
+      "valence": -0.762,
+      "impact": 1.0,
+      "outlets": 2
+    },
+    {
+      "title": "Nasa telescope launched in 2004 to plunge back to Earth after failed rescue mission",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/science/2026/nov/03/nasa-telescope-neil-gehrels-swift-observatory",
+      "valence": 0.716,
+      "impact": 1.0,
+      "outlets": 2
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
