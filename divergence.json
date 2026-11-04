@@ -1,16 +1,16 @@
 {
-  "divergence": "1.030159",
+  "divergence": "1.030620",
   "field": "beta",
-  "updated_at": "2026-11-04T18:44:04+00:00",
-  "z": -0.759,
+  "updated_at": "2026-11-04T19:47:33+00:00",
+  "z": -0.74,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 61,
+  "new_stories": 48,
   "climate": {
-    "fast": -0.5075,
-    "slow": -0.4705,
-    "normal": -0.4658,
-    "spread": 0.0308
+    "fast": -0.5061,
+    "slow": -0.4707,
+    "normal": -0.4659,
+    "spread": 0.0306
   },
   "top_stories_24h": [
     {
@@ -62,6 +62,14 @@
       "outlets": 1
     },
     {
+      "title": "Miami helicopter crash leaves one person dead and two injured",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/04/miami-helicopter-crash-deadly",
+      "valence": -0.964,
+      "impact": 0.904,
+      "outlets": 1
+    },
+    {
       "title": "Family receives remains of Hiroshima A-bomb victim 81 years after his death",
       "source": "JapanTimes",
       "link": "https://www.japantimes.co.jp/news/2026/11/04/japan/society/hiroshima-atomic-victim-remains/",
@@ -84,19 +92,11 @@
       "valence": -0.762,
       "impact": 1.0,
       "outlets": 2
-    },
-    {
-      "title": "US midterm elections 2026 live updates: Vance blames Iran war for Republicans’ brutal midterms losses as Democrats retake Congress",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
-      "valence": -0.762,
-      "impact": 1.0,
-      "outlets": 2
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
