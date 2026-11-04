@@ -1,16 +1,16 @@
 {
-  "divergence": "1.053849",
+  "divergence": "1.047089",
   "field": "beta",
-  "updated_at": "2026-11-04T13:58:27+00:00",
-  "z": 0.216,
+  "updated_at": "2026-11-04T14:52:49+00:00",
+  "z": -0.062,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 74,
+  "new_stories": 58,
   "climate": {
-    "fast": -0.4606,
-    "slow": -0.4566,
+    "fast": -0.4746,
+    "slow": -0.46,
     "normal": -0.4654,
-    "spread": 0.0316
+    "spread": 0.0315
   },
   "top_stories_24h": [
     {
@@ -27,6 +27,14 @@
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
       "valence": -0.947,
       "impact": 0.97,
+      "outlets": 1
+    },
+    {
+      "title": "Iran unveils ‘We will kill Trump’ banner – but US president may now be tempted to resume bombing",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/04/joy-iran-trump-defeat-us-midterm-elections-war",
+      "valence": -0.947,
+      "impact": 0.94,
       "outlets": 1
     },
     {
@@ -81,14 +89,6 @@
       "title": "Anthrax Outbreak in Africa’s Oldest National Park Is Killing Hippos",
       "source": "NYTimes",
       "link": "https://www.nytimes.com/2026/11/03/world/africa/congo-anthrax-hippos-virunga-park.html",
-      "valence": -0.922,
-      "impact": 0.88,
-      "outlets": 1
-    },
-    {
-      "title": "Investigators say they found tail pieces of Learjet that crashed in Florida, killing nine",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/us-news/2026/nov/03/florida-plane-crash-tail-pieces-discovered",
       "valence": -0.922,
       "impact": 0.88,
       "outlets": 1
