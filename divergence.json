@@ -1,18 +1,26 @@
 {
-  "divergence": "1.076557",
+  "divergence": "1.074781",
   "field": "beta",
-  "updated_at": "2026-11-03T23:15:59+00:00",
-  "z": 1.151,
+  "updated_at": "2026-11-04T00:00:24+00:00",
+  "z": 1.078,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 33,
+  "new_stories": 17,
   "climate": {
-    "fast": -0.4092,
-    "slow": -0.4465,
-    "normal": -0.467,
-    "spread": 0.0342
+    "fast": -0.4131,
+    "slow": -0.4474,
+    "normal": -0.4668,
+    "spread": 0.0341
   },
   "top_stories_24h": [
+    {
+      "title": "British wedding venue evacuated after workers uncover five World War II bombs while digging for solar panels; guests and residents forced to flee",
+      "source": "TimesOfIndia",
+      "link": "https://timesofindia.indiatimes.com/world/uk/british-wedding-venue-shut-down-after-workers-found-five-world-war-ii-bombs-while-digging-for-solar-panels-guests-and-residents-forced-to-leave-while-explosives-were-detonated/articleshow/135490591.cms",
+      "valence": -0.989,
+      "impact": 0.992,
+      "outlets": 1
+    },
     {
       "title": "US strikes key Iranian island as Trump talks up prospect of peace deal",
       "source": "StraitsTimes",
@@ -83,14 +91,6 @@
       "link": "https://www.aljazeera.com/features/2026/11/3/darfur-survivors-vow-to-tell-story-of-those-killed-after-sudan-camp-attacks?traffic_source=rss",
       "valence": -0.935,
       "impact": 0.91,
-      "outlets": 1
-    },
-    {
-      "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss",
-      "valence": -0.862,
-      "impact": 0.945,
       "outlets": 1
     }
   ],
