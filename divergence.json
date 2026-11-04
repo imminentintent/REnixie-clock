@@ -1,16 +1,16 @@
 {
-  "divergence": "1.068837",
+  "divergence": "1.067322",
   "field": "beta",
-  "updated_at": "2026-11-04T03:39:43+00:00",
-  "z": 0.833,
+  "updated_at": "2026-11-04T04:44:00+00:00",
+  "z": 0.771,
   "calibrating": true,
   "scorer": "lexicon",
-  "new_stories": 28,
+  "new_stories": 34,
   "climate": {
-    "fast": -0.4268,
-    "slow": -0.4503,
-    "normal": -0.4663,
-    "spread": 0.0335
+    "fast": -0.4303,
+    "slow": -0.451,
+    "normal": -0.4661,
+    "spread": 0.0333
   },
   "top_stories_24h": [
     {
@@ -96,7 +96,7 @@
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
