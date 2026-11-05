@@ -1,14 +1,14 @@
 {
-  "divergence": "1.058710",
+  "divergence": "1.054013",
   "field": "beta",
-  "updated_at": "2026-11-05T04:47:39+00:00",
-  "z": 0.416,
+  "updated_at": "2026-11-05T05:49:09+00:00",
+  "z": 0.223,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 17,
+  "new_stories": 38,
   "climate": {
-    "fast": -0.4486,
-    "slow": -0.4589,
+    "fast": -0.4582,
+    "slow": -0.4608,
     "normal": -0.4662,
     "spread": 0.03
   },
@@ -54,14 +54,6 @@
       "outlets": 1
     },
     {
-      "title": "Family receives remains of Hiroshima A-bomb victim 81 years after his death",
-      "source": "JapanTimes",
-      "link": "https://www.japantimes.co.jp/news/2026/11/04/japan/society/hiroshima-atomic-victim-remains/",
-      "valence": -0.922,
-      "impact": 0.92,
-      "outlets": 1
-    },
-    {
       "title": "Ukraine says \"insane attack\" on aid center may have killed 70",
       "source": "CBSNews",
       "link": "https://www.cbsnews.com/news/ukraine-russia-war-zelenskyy-aid-center-attack-death-toll/",
@@ -86,6 +78,14 @@
       "outlets": 2
     },
     {
+      "title": "Historians say King Verica persuaded Rome to invade Britain. But could Verica actually have been a queen?",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/05/verica-rome-invade-britain-queen-or-king",
+      "valence": -0.762,
+      "impact": 1.0,
+      "outlets": 2
+    },
+    {
       "title": "How Trump's broken promises on war, inflation handed Democrats the midterms",
       "source": "France24",
       "link": "https://www.france24.com/en/video/20261104-how-trump-s-broken-promises-on-war-inflation-handed-democrats-the-midterms",
@@ -96,7 +96,7 @@
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
