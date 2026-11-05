@@ -1,15 +1,15 @@
 {
-  "divergence": "1.053255",
+  "divergence": "1.044272",
   "field": "beta",
-  "updated_at": "2026-11-05T11:25:54+00:00",
-  "z": 0.192,
+  "updated_at": "2026-11-05T12:20:09+00:00",
+  "z": -0.178,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 48,
+  "new_stories": 45,
   "climate": {
-    "fast": -0.4597,
-    "slow": -0.4608,
-    "normal": -0.4659,
+    "fast": -0.4778,
+    "slow": -0.4648,
+    "normal": -0.466,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -62,6 +62,22 @@
       "outlets": 1
     },
     {
+      "title": "Security officer attacked and killed near Sri Lankan Embassy in Jordan's capital",
+      "source": "ABCNews",
+      "link": "https://abcnews.com/International/wireStory/security-officer-attacked-killed-sri-lankan-embassy-jordans-137871485",
+      "valence": -0.935,
+      "impact": 0.91,
+      "outlets": 1
+    },
+    {
+      "title": "Jordanian officer killed in Amman stabbing, suspect arrested, state media says",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/middle-east/jordanian-officer-killed-in-amman-stabbing-suspect-arrested-state-media-says",
+      "valence": -0.964,
+      "impact": 0.895,
+      "outlets": 1
+    },
+    {
       "title": "Ukraine says \"insane attack\" on aid center may have killed 70",
       "source": "CBSNews",
       "link": "https://www.cbsnews.com/news/ukraine-russia-war-zelenskyy-aid-center-attack-death-toll/",
@@ -76,27 +92,11 @@
       "valence": -0.922,
       "impact": 0.91,
       "outlets": 1
-    },
-    {
-      "title": "US midterm elections 2026 live updates: Vance blames Iran war for Republicans’ brutal midterms losses as Democrats retake Congress",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
-      "valence": -0.762,
-      "impact": 1.0,
-      "outlets": 2
-    },
-    {
-      "title": "Historians say King Verica persuaded Rome to invade Britain. But could Verica actually have been a queen?",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/05/verica-rome-invade-britain-queen-or-king",
-      "valence": -0.762,
-      "impact": 1.0,
-      "outlets": 2
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 36,
     "total": 38
   }
 }
