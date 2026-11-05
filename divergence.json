@@ -1,14 +1,14 @@
 {
-  "divergence": "1.062676",
+  "divergence": "1.049083",
   "field": "beta",
-  "updated_at": "2026-11-05T09:28:01+00:00",
-  "z": 0.579,
+  "updated_at": "2026-11-05T10:29:12+00:00",
+  "z": 0.02,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 46,
+  "new_stories": 41,
   "climate": {
-    "fast": -0.4404,
-    "slow": -0.457,
+    "fast": -0.4682,
+    "slow": -0.4626,
     "normal": -0.466,
     "spread": 0.03
   },
@@ -54,11 +54,27 @@
       "outlets": 1
     },
     {
+      "title": "Death toll from Russian strike on Ukrainian aid centre reaches 42, police say",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/europe/death-toll-from-russian-strike-on-ukrainian-aid-centre-reaches-42-police-say",
+      "valence": -0.862,
+      "impact": 0.952,
+      "outlets": 1
+    },
+    {
       "title": "Ukraine says \"insane attack\" on aid center may have killed 70",
       "source": "CBSNews",
       "link": "https://www.cbsnews.com/news/ukraine-russia-war-zelenskyy-aid-center-attack-death-toll/",
       "valence": -0.862,
       "impact": 0.946,
+      "outlets": 1
+    },
+    {
+      "title": "Ukraine: Russian drone and missile attack sparks fire in Kyiv region",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/video/2026/11/05/ukraine-russian-drone-and-missile-attack-sparks-fire-in-kyiv-region",
+      "valence": -0.922,
+      "impact": 0.91,
       "outlets": 1
     },
     {
@@ -76,27 +92,11 @@
       "valence": -0.762,
       "impact": 1.0,
       "outlets": 2
-    },
-    {
-      "title": "How Trump's broken promises on war, inflation handed Democrats the midterms",
-      "source": "France24",
-      "link": "https://www.france24.com/en/video/20261104-how-trump-s-broken-promises-on-war-inflation-handed-democrats-the-midterms",
-      "valence": -0.862,
-      "impact": 0.94,
-      "outlets": 1
-    },
-    {
-      "title": "Bank of England set to hike interest rates to tackle higher inflation caused by Iran war",
-      "source": "ABCNews",
-      "link": "https://abcnews.com/International/wireStory/bank-england-set-hike-interest-rates-tackle-higher-137867519",
-      "valence": -0.862,
-      "impact": 0.94,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
