@@ -1,13 +1,13 @@
 {
-  "divergence": "1.044448",
+  "divergence": "1.044629",
   "field": "beta",
-  "updated_at": "2026-11-04T23:33:48+00:00",
-  "z": -0.171,
+  "updated_at": "2026-11-05T00:41:02+00:00",
+  "z": -0.163,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 26,
+  "new_stories": 46,
   "climate": {
-    "fast": -0.4777,
+    "fast": -0.4773,
     "slow": -0.465,
     "normal": -0.4662,
     "spread": 0.03
@@ -19,14 +19,6 @@
       "link": "https://www.thehindu.com/news/international/russian-attacks-disrupt-power-in-kyiv-while-death-toll-in-a-stricken-village-rises-to-40/article71667169.ece",
       "valence": -0.987,
       "impact": 0.976,
-      "outlets": 1
-    },
-    {
-      "title": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
-      "valence": -0.947,
-      "impact": 0.97,
       "outlets": 1
     },
     {
@@ -92,6 +84,14 @@
       "valence": -0.762,
       "impact": 1.0,
       "outlets": 2
+    },
+    {
+      "title": "How Trump's broken promises on war, inflation handed Democrats the midterms",
+      "source": "France24",
+      "link": "https://www.france24.com/en/video/20261104-how-trump-s-broken-promises-on-war-inflation-handed-democrats-the-midterms",
+      "valence": -0.862,
+      "impact": 0.94,
+      "outlets": 1
     }
   ],
   "version": "1.0",
