@@ -1,26 +1,18 @@
 {
-  "divergence": "1.061328",
+  "divergence": "1.073059",
   "field": "beta",
-  "updated_at": "2026-11-05T16:56:22+00:00",
-  "z": 0.524,
+  "updated_at": "2026-11-05T17:49:13+00:00",
+  "z": 1.007,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 56,
+  "new_stories": 51,
   "climate": {
-    "fast": -0.4432,
-    "slow": -0.4571,
-    "normal": -0.4658,
+    "fast": -0.4194,
+    "slow": -0.4517,
+    "normal": -0.4656,
     "spread": 0.03
   },
   "top_stories_24h": [
-    {
-      "title": "Russian attacks disrupt power in Kyiv, while death toll in a stricken village rises to 40",
-      "source": "TheHindu",
-      "link": "https://www.thehindu.com/news/international/russian-attacks-disrupt-power-in-kyiv-while-death-toll-in-a-stricken-village-rises-to-40/article71667169.ece",
-      "valence": -0.987,
-      "impact": 0.976,
-      "outlets": 1
-    },
     {
       "title": "Children at risk as war zone attacks on water and sanitation more than triple",
       "source": "UNNews",
@@ -92,11 +84,19 @@
       "valence": -0.935,
       "impact": 0.91,
       "outlets": 1
+    },
+    {
+      "title": "Jordanian officer killed in Amman stabbing, suspect arrested, state media says",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/middle-east/jordanian-officer-killed-in-amman-stabbing-suspect-arrested-state-media-says",
+      "valence": -0.964,
+      "impact": 0.895,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
