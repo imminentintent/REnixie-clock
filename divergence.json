@@ -1,14 +1,14 @@
 {
-  "divergence": "1.059827",
+  "divergence": "1.061328",
   "field": "beta",
-  "updated_at": "2026-11-05T15:47:49+00:00",
-  "z": 0.462,
+  "updated_at": "2026-11-05T16:56:22+00:00",
+  "z": 0.524,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 46,
+  "new_stories": 56,
   "climate": {
-    "fast": -0.4461,
-    "slow": -0.458,
+    "fast": -0.4432,
+    "slow": -0.4571,
     "normal": -0.4658,
     "spread": 0.03
   },
@@ -19,6 +19,14 @@
       "link": "https://www.thehindu.com/news/international/russian-attacks-disrupt-power-in-kyiv-while-death-toll-in-a-stricken-village-rises-to-40/article71667169.ece",
       "valence": -0.987,
       "impact": 0.976,
+      "outlets": 1
+    },
+    {
+      "title": "Children at risk as war zone attacks on water and sanitation more than triple",
+      "source": "UNNews",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168743",
+      "valence": -0.947,
+      "impact": 0.97,
       "outlets": 1
     },
     {
@@ -83,14 +91,6 @@
       "link": "https://www.aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
       "valence": -0.935,
       "impact": 0.91,
-      "outlets": 1
-    },
-    {
-      "title": "Jordanian officer killed in Amman stabbing, suspect arrested, state media says",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/middle-east/jordanian-officer-killed-in-amman-stabbing-suspect-arrested-state-media-says",
-      "valence": -0.964,
-      "impact": 0.895,
       "outlets": 1
     }
   ],
