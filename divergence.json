@@ -1,15 +1,15 @@
 {
-  "divergence": "1.025999",
+  "divergence": "1.015448",
   "field": "beta",
-  "updated_at": "2026-11-06T10:26:35+00:00",
-  "z": -0.93,
+  "updated_at": "2026-11-06T11:23:00+00:00",
+  "z": -1.364,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 44,
+  "new_stories": 56,
   "climate": {
-    "fast": -0.5142,
-    "slow": -0.4736,
-    "normal": -0.4661,
+    "fast": -0.5356,
+    "slow": -0.4786,
+    "normal": -0.4663,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -38,11 +38,27 @@
       "outlets": 1
     },
     {
+      "title": "Death toll rises to 50 in Russian attack on aid distribution ‌point in Ukraine",
+      "source": "France24",
+      "link": "https://www.france24.com/en/europe/20261106-death-toll-rises-to-50-in-russian-attack-on-aid-distribution-point-in-ukraine",
+      "valence": -0.97,
+      "impact": 0.986,
+      "outlets": 1
+    },
+    {
       "title": "Children at risk as war zone attacks on water and sanitation more than triple",
       "source": "UNNews",
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168743",
       "valence": -0.947,
       "impact": 0.97,
+      "outlets": 1
+    },
+    {
+      "title": "Offices of Irish media groups evacuated due to bomb threats, one deemed a hoax",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/europe/offices-of-irish-media-groups-evacuated-due-to-bomb-threats-one-deemed-a-hoax",
+      "valence": -0.964,
+      "impact": 0.952,
       "outlets": 1
     },
     {
@@ -76,27 +92,11 @@
       "valence": -0.935,
       "impact": 0.91,
       "outlets": 1
-    },
-    {
-      "title": "Four people, including a child, killed in Israeli attacks on Gaza",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
-      "valence": -0.935,
-      "impact": 0.91,
-      "outlets": 1
-    },
-    {
-      "title": "Jordanian officer killed in Amman stabbing, suspect arrested, state media says",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/middle-east/jordanian-officer-killed-in-amman-stabbing-suspect-arrested-state-media-says",
-      "valence": -0.964,
-      "impact": 0.895,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
