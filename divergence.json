@@ -1,15 +1,15 @@
 {
-  "divergence": "1.050255",
+  "divergence": "1.049015",
   "field": "beta",
-  "updated_at": "2026-11-06T01:57:20+00:00",
-  "z": 0.068,
+  "updated_at": "2026-11-06T02:47:24+00:00",
+  "z": 0.017,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 46,
+  "new_stories": 21,
   "climate": {
-    "fast": -0.4651,
-    "slow": -0.4619,
-    "normal": -0.4656,
+    "fast": -0.4676,
+    "slow": -0.4625,
+    "normal": -0.4655,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -34,6 +34,14 @@
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/europe/death-toll-from-russian-strike-on-ukrainian-aid-centre-reaches-42-police-say",
       "valence": -0.947,
+      "impact": 0.94,
+      "outlets": 1
+    },
+    {
+      "title": "US pro-Trump election deniers crash against ‘blue tsunami’",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/united-states/us-pro-trump-election-deniers-crash-against-blue-tsunami",
+      "valence": -0.935,
       "impact": 0.94,
       "outlets": 1
     },
@@ -84,14 +92,6 @@
       "valence": -0.922,
       "impact": 0.91,
       "outlets": 1
-    },
-    {
-      "title": "Historians say King Verica persuaded Rome to invade Britain. But could Verica actually have been a queen?",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/05/verica-rome-invade-britain-queen-or-king",
-      "valence": -0.762,
-      "impact": 1.0,
-      "outlets": 2
     }
   ],
   "version": "1.0",
