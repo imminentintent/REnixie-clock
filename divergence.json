@@ -1,15 +1,15 @@
 {
-  "divergence": "1.030447",
+  "divergence": "1.025999",
   "field": "beta",
-  "updated_at": "2026-11-06T09:21:36+00:00",
-  "z": -0.747,
+  "updated_at": "2026-11-06T10:26:35+00:00",
+  "z": -0.93,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 32,
+  "new_stories": 44,
   "climate": {
-    "fast": -0.5051,
-    "slow": -0.4715,
-    "normal": -0.466,
+    "fast": -0.5142,
+    "slow": -0.4736,
+    "normal": -0.4661,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -46,9 +46,9 @@
       "outlets": 1
     },
     {
-      "title": "One survivor found three days after Zaporizhzhia bombing that killed 43",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/death-toll-from-russian-strike-on-ukrainian-aid-centre-reaches-42-police-say",
+      "title": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say",
+      "source": "NYTimes",
+      "link": "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html",
       "valence": -0.947,
       "impact": 0.94,
       "outlets": 1
@@ -70,33 +70,33 @@
       "outlets": 1
     },
     {
-      "title": "Death toll from Russian strike on Ukrainian aid centre reaches 42, police say",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/death-toll-from-russian-strike-on-ukrainian-aid-centre-reaches-42-police-say",
-      "valence": -0.862,
-      "impact": 0.952,
-      "outlets": 1
-    },
-    {
-      "title": "Death toll from Russian strike on Ukraine aid centre reaches 43, survivor found",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/death-toll-from-russian-strike-on-ukrainian-aid-centre-reaches-42-police-say",
-      "valence": -0.862,
-      "impact": 0.952,
-      "outlets": 1
-    },
-    {
       "title": "Security officer attacked and killed near Sri Lankan Embassy in Jordan's capital",
       "source": "ABCNews",
       "link": "https://abcnews.com/International/wireStory/security-officer-attacked-killed-sri-lankan-embassy-jordans-137871485",
       "valence": -0.935,
       "impact": 0.91,
       "outlets": 1
+    },
+    {
+      "title": "Four people, including a child, killed in Israeli attacks on Gaza",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
+      "valence": -0.935,
+      "impact": 0.91,
+      "outlets": 1
+    },
+    {
+      "title": "Jordanian officer killed in Amman stabbing, suspect arrested, state media says",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/middle-east/jordanian-officer-killed-in-amman-stabbing-suspect-arrested-state-media-says",
+      "valence": -0.964,
+      "impact": 0.895,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 36,
+    "live": 37,
     "total": 38
   }
 }
