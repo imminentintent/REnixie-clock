@@ -1,15 +1,15 @@
 {
-  "divergence": "1.038875",
+  "divergence": "1.034317",
   "field": "beta",
-  "updated_at": "2026-11-06T04:46:45+00:00",
-  "z": -0.4,
+  "updated_at": "2026-11-06T05:48:42+00:00",
+  "z": -0.588,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 25,
+  "new_stories": 30,
   "climate": {
-    "fast": -0.4883,
-    "slow": -0.4669,
-    "normal": -0.4656,
+    "fast": -0.4974,
+    "slow": -0.4691,
+    "normal": -0.4657,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -62,6 +62,14 @@
       "outlets": 1
     },
     {
+      "title": "In French City Hit by Terrorist Attack, Residents Blame Far-Right Rhetoric",
+      "source": "NYTimes",
+      "link": "https://www.nytimes.com/2026/11/06/world/europe/france-shooting-trappes.html",
+      "valence": -0.935,
+      "impact": 0.94,
+      "outlets": 1
+    },
+    {
       "title": "Death toll from Russian strike on Ukrainian aid centre reaches 42, police say",
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/europe/death-toll-from-russian-strike-on-ukrainian-aid-centre-reaches-42-police-say",
@@ -84,19 +92,11 @@
       "valence": -0.935,
       "impact": 0.91,
       "outlets": 1
-    },
-    {
-      "title": "Four people, including a child, killed in Israeli attacks on Gaza",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
-      "valence": -0.935,
-      "impact": 0.91,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 35,
     "total": 38
   }
 }
