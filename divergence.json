@@ -1,15 +1,15 @@
 {
-  "divergence": "1.015800",
+  "divergence": "1.012016",
   "field": "beta",
-  "updated_at": "2026-11-06T12:15:18+00:00",
-  "z": -1.35,
+  "updated_at": "2026-11-06T13:37:18+00:00",
+  "z": -1.505,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 49,
+  "new_stories": 60,
   "climate": {
-    "fast": -0.5343,
-    "slow": -0.4794,
-    "normal": -0.4665,
+    "fast": -0.5414,
+    "slow": -0.4819,
+    "normal": -0.4667,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -78,19 +78,19 @@
       "outlets": 1
     },
     {
-      "title": "Four people, including a child, killed in Israeli attacks on Gaza",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
-      "valence": -0.935,
-      "impact": 0.91,
+      "title": "Iranians face looming war threat with no reliable info",
+      "source": "DW",
+      "link": "https://www.dw.com/en/iranians-face-looming-war-threat-with-no-reliable-info/a-79875438?maca=en-rss-en-world-4025-rdf",
+      "valence": -0.885,
+      "impact": 0.94,
       "outlets": 1
     },
     {
-      "title": "Italy's Meloni warns Europe risks irrelevance in Ukraine peace talks",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/italys-meloni-warns-europe-risks-irrelevance-in-ukraine-peace-talks",
-      "valence": 0.905,
-      "impact": 0.895,
+      "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss",
+      "valence": -0.922,
+      "impact": 0.88,
       "outlets": 1
     }
   ],
