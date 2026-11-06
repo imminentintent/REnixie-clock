@@ -1,15 +1,15 @@
 {
-  "divergence": "1.015448",
+  "divergence": "1.015800",
   "field": "beta",
-  "updated_at": "2026-11-06T11:23:00+00:00",
-  "z": -1.364,
+  "updated_at": "2026-11-06T12:15:18+00:00",
+  "z": -1.35,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 56,
+  "new_stories": 49,
   "climate": {
-    "fast": -0.5356,
-    "slow": -0.4786,
-    "normal": -0.4663,
+    "fast": -0.5343,
+    "slow": -0.4794,
+    "normal": -0.4665,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -46,14 +46,6 @@
       "outlets": 1
     },
     {
-      "title": "Children at risk as war zone attacks on water and sanitation more than triple",
-      "source": "UNNews",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168743",
-      "valence": -0.947,
-      "impact": 0.97,
-      "outlets": 1
-    },
-    {
       "title": "Offices of Irish media groups evacuated due to bomb threats, one deemed a hoax",
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/europe/offices-of-irish-media-groups-evacuated-due-to-bomb-threats-one-deemed-a-hoax",
@@ -86,17 +78,25 @@
       "outlets": 1
     },
     {
-      "title": "Security officer attacked and killed near Sri Lankan Embassy in Jordan's capital",
-      "source": "ABCNews",
-      "link": "https://abcnews.com/International/wireStory/security-officer-attacked-killed-sri-lankan-embassy-jordans-137871485",
+      "title": "Four people, including a child, killed in Israeli attacks on Gaza",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
       "valence": -0.935,
       "impact": 0.91,
+      "outlets": 1
+    },
+    {
+      "title": "Italy's Meloni warns Europe risks irrelevance in Ukraine peace talks",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/europe/italys-meloni-warns-europe-risks-irrelevance-in-ukraine-peace-talks",
+      "valence": 0.905,
+      "impact": 0.895,
       "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
