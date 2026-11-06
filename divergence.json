@@ -1,15 +1,15 @@
 {
-  "divergence": "1.012016",
+  "divergence": "1.016333",
   "field": "beta",
-  "updated_at": "2026-11-06T13:37:18+00:00",
-  "z": -1.505,
+  "updated_at": "2026-11-06T14:44:46+00:00",
+  "z": -1.328,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 60,
+  "new_stories": 70,
   "climate": {
-    "fast": -0.5414,
-    "slow": -0.4819,
-    "normal": -0.4667,
+    "fast": -0.5317,
+    "slow": -0.4814,
+    "normal": -0.4669,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -46,6 +46,22 @@
       "outlets": 1
     },
     {
+      "title": "Seafarer killed in suspected missile attack on tanker in Gulf",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/europe/seafarer-killed-in-suspected-missile-attack-on-tanker-in-gulf",
+      "valence": -0.987,
+      "impact": 0.973,
+      "outlets": 1
+    },
+    {
+      "title": "EU says 'a lot of work' still needed to reach Ukraine peace deal",
+      "source": "TheHindu",
+      "link": "https://www.thehindu.com/news/international/eu-says-a-lot-of-work-still-needed-to-reach-ukraine-peace-deal/article71674795.ece",
+      "valence": 0.976,
+      "impact": 0.964,
+      "outlets": 1
+    },
+    {
       "title": "Offices of Irish media groups evacuated due to bomb threats, one deemed a hoax",
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/europe/offices-of-irish-media-groups-evacuated-due-to-bomb-threats-one-deemed-a-hoax",
@@ -54,43 +70,27 @@
       "outlets": 1
     },
     {
+      "title": "Airstrikes on market in southwestern Yemen kill at least 20, Houthis say",
+      "source": "TheHindu",
+      "link": "https://www.thehindu.com/news/international/airstrikes-on-market-in-southwestern-yemen-kill-at-least-20-houthis-say/article71674991.ece",
+      "valence": -0.956,
+      "impact": 0.94,
+      "outlets": 1
+    },
+    {
+      "title": "Iran war spurs crackdown on clerics in tiny Gulf state Bahrain",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/middle-east/iran-war-spurs-crackdown-on-clerics-in-tiny-gulf-state-bahrain",
+      "valence": -0.935,
+      "impact": 0.95,
+      "outlets": 1
+    },
+    {
       "title": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say",
       "source": "NYTimes",
       "link": "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html",
       "valence": -0.947,
       "impact": 0.94,
-      "outlets": 1
-    },
-    {
-      "title": "US pro-Trump election deniers crash against ‘blue tsunami’",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/united-states/us-pro-trump-election-deniers-crash-against-blue-tsunami",
-      "valence": -0.935,
-      "impact": 0.94,
-      "outlets": 1
-    },
-    {
-      "title": "In French City Hit by Terrorist Attack, Residents Blame Far-Right Rhetoric",
-      "source": "NYTimes",
-      "link": "https://www.nytimes.com/2026/11/06/world/europe/france-shooting-trappes.html",
-      "valence": -0.935,
-      "impact": 0.94,
-      "outlets": 1
-    },
-    {
-      "title": "Iranians face looming war threat with no reliable info",
-      "source": "DW",
-      "link": "https://www.dw.com/en/iranians-face-looming-war-threat-with-no-reliable-info/a-79875438?maca=en-rss-en-world-4025-rdf",
-      "valence": -0.885,
-      "impact": 0.94,
-      "outlets": 1
-    },
-    {
-      "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss",
-      "valence": -0.922,
-      "impact": 0.88,
       "outlets": 1
     }
   ],
