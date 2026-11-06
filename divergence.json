@@ -1,14 +1,14 @@
 {
-  "divergence": "1.045418",
+  "divergence": "1.038875",
   "field": "beta",
-  "updated_at": "2026-11-06T03:42:19+00:00",
-  "z": -0.131,
+  "updated_at": "2026-11-06T04:46:45+00:00",
+  "z": -0.4,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 23,
+  "new_stories": 25,
   "climate": {
-    "fast": -0.4749,
-    "slow": -0.464,
+    "fast": -0.4883,
+    "slow": -0.4669,
     "normal": -0.4656,
     "spread": 0.03
   },
@@ -23,6 +23,14 @@
     },
     {
       "title": "Bondi beach shooting: Woman, 90, shot during massacre dies in hospital year after antisemitic attack",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb",
+      "valence": -0.997,
+      "impact": 0.994,
+      "outlets": 1
+    },
+    {
+      "title": "Bondi beach shooting: Eva Geller, 90, shot during massacre dies in hospital year after antisemitic attack",
       "source": "Guardian",
       "link": "https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb",
       "valence": -0.997,
@@ -84,19 +92,11 @@
       "valence": -0.935,
       "impact": 0.91,
       "outlets": 1
-    },
-    {
-      "title": "Jordanian officer killed in Amman stabbing, suspect arrested, state media says",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/middle-east/jordanian-officer-killed-in-amman-stabbing-suspect-arrested-state-media-says",
-      "valence": -0.964,
-      "impact": 0.895,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
