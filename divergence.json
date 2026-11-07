@@ -1,15 +1,15 @@
 {
-  "divergence": "1.033056",
+  "divergence": "1.029544",
   "field": "beta",
-  "updated_at": "2026-11-07T13:22:52+00:00",
-  "z": -0.64,
+  "updated_at": "2026-11-07T14:11:19+00:00",
+  "z": -0.784,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 37,
+  "new_stories": 30,
   "climate": {
-    "fast": -0.4978,
-    "slow": -0.4773,
-    "normal": -0.4685,
+    "fast": -0.5051,
+    "slow": -0.4788,
+    "normal": -0.4686,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -22,27 +22,11 @@
       "outlets": 1
     },
     {
-      "title": "Seafarer killed in suspected missile attack on tanker in Gulf",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/seafarer-killed-in-suspected-missile-attack-on-tanker-in-gulf",
-      "valence": -0.987,
-      "impact": 0.973,
-      "outlets": 1
-    },
-    {
       "title": "How climate change worsens heatwaves, droughts, wildfires and floods",
       "source": "BBCScience",
       "link": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss",
       "valence": -0.989,
       "impact": 0.96,
-      "outlets": 1
-    },
-    {
-      "title": "EU says 'a lot of work' still needed to reach Ukraine peace deal",
-      "source": "TheHindu",
-      "link": "https://www.thehindu.com/news/international/eu-says-a-lot-of-work-still-needed-to-reach-ukraine-peace-deal/article71674795.ece",
-      "valence": 0.976,
-      "impact": 0.964,
       "outlets": 1
     },
     {
@@ -70,14 +54,6 @@
       "outlets": 1
     },
     {
-      "title": "Iran war spurs crackdown on clerics in tiny Gulf state Bahrain",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/middle-east/iran-war-spurs-crackdown-on-clerics-in-tiny-gulf-state-bahrain",
-      "valence": -0.935,
-      "impact": 0.95,
-      "outlets": 1
-    },
-    {
       "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
@@ -86,17 +62,41 @@
       "outlets": 1
     },
     {
-      "title": "Islamic State-linked militants kill at least 33 in eastern Congo village attack, civil society says",
-      "source": "TheHindu",
-      "link": "https://www.thehindu.com/news/international/islamic-state-linked-militants-kill-at-least-33-in-eastern-congo-village-attack-civil-society-says/article71674797.ece",
+      "title": "‘They started bombing us with drones’: Russian attacks unnerve Zaporizhzhia",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/7/they-started-bombing-us-with-drones-russian-attacks-unnerve-zaporizhzhia?traffic_source=rss",
+      "valence": -0.935,
+      "impact": 0.94,
+      "outlets": 1
+    },
+    {
+      "title": "Guatemalan lawmaker, three police officers killed in attack",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/guatemalan-lawmaker-three-police-officers-killed-in-attack",
       "valence": -0.935,
       "impact": 0.91,
+      "outlets": 1
+    },
+    {
+      "title": "Russian forces launch missile attack on Ukrainian capital Kyiv, mayor says",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/europe/russian-forces-launch-missile-attack-on-ukrainian-capital-kyiv-mayor-says",
+      "valence": -0.862,
+      "impact": 0.946,
+      "outlets": 1
+    },
+    {
+      "title": "Two men arrested after boy injured in Gloucester sword attack",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured",
+      "valence": -0.922,
+      "impact": 0.874,
       "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
