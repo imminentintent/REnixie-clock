@@ -1,15 +1,15 @@
 {
-  "divergence": "1.021562",
+  "divergence": "1.018530",
   "field": "beta",
-  "updated_at": "2026-11-07T17:57:47+00:00",
-  "z": -1.113,
+  "updated_at": "2026-11-07T18:32:21+00:00",
+  "z": -1.237,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 28,
+  "new_stories": 10,
   "climate": {
-    "fast": -0.5216,
-    "slow": -0.4829,
-    "normal": -0.469,
+    "fast": -0.5281,
+    "slow": -0.4842,
+    "normal": -0.4691,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -54,6 +54,14 @@
       "outlets": 1
     },
     {
+      "title": "What we know about Krakow mass shooting so far",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "valence": -0.947,
+      "impact": 0.94,
+      "outlets": 1
+    },
+    {
       "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
@@ -83,14 +91,6 @@
       "link": "https://www.straitstimes.com/world/guatemalan-lawmaker-three-police-officers-killed-in-armed-attack",
       "valence": -0.935,
       "impact": 0.91,
-      "outlets": 1
-    },
-    {
-      "title": "Russian forces launch missile attack on Ukrainian capital Kyiv, mayor says",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/russian-forces-launch-missile-attack-on-ukrainian-capital-kyiv-mayor-says",
-      "valence": -0.862,
-      "impact": 0.946,
       "outlets": 1
     }
   ],
