@@ -1,15 +1,15 @@
 {
-  "divergence": "1.029322",
+  "divergence": "1.026991",
   "field": "beta",
-  "updated_at": "2026-11-07T16:01:49+00:00",
-  "z": -0.793,
+  "updated_at": "2026-11-07T17:02:07+00:00",
+  "z": -0.889,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 32,
+  "new_stories": 18,
   "climate": {
-    "fast": -0.5055,
-    "slow": -0.4794,
-    "normal": -0.4688,
+    "fast": -0.5103,
+    "slow": -0.4805,
+    "normal": -0.4689,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -30,19 +30,19 @@
       "outlets": 1
     },
     {
-      "title": "How climate change worsens heatwaves, droughts, wildfires and floods",
-      "source": "BBCScience",
-      "link": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss",
-      "valence": -0.989,
-      "impact": 0.96,
-      "outlets": 1
-    },
-    {
       "title": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life",
       "source": "NYTimes",
       "link": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
       "valence": -0.97,
       "impact": 0.964,
+      "outlets": 1
+    },
+    {
+      "title": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
+      "source": "NYTimes",
+      "link": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
+      "valence": -0.956,
+      "impact": 0.97,
       "outlets": 1
     },
     {
