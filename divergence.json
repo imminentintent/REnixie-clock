@@ -1,26 +1,18 @@
 {
-  "divergence": "1.044981",
+  "divergence": "1.040576",
   "field": "beta",
-  "updated_at": "2026-11-07T09:36:03+00:00",
-  "z": -0.149,
+  "updated_at": "2026-11-07T10:30:24+00:00",
+  "z": -0.33,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 12,
+  "new_stories": 32,
   "climate": {
-    "fast": -0.4728,
-    "slow": -0.4727,
+    "fast": -0.4821,
+    "slow": -0.4743,
     "normal": -0.4683,
     "spread": 0.03
   },
   "top_stories_24h": [
-    {
-      "title": "Death toll rises to 50 in Russian attack on aid distribution ‌point in Ukraine",
-      "source": "France24",
-      "link": "https://www.france24.com/en/europe/20261106-death-toll-rises-to-50-in-russian-attack-on-aid-distribution-point-in-ukraine",
-      "valence": -0.97,
-      "impact": 0.986,
-      "outlets": 1
-    },
     {
       "title": "Seafarer killed in suspected missile attack on tanker in Gulf",
       "source": "StraitsTimes",
@@ -42,6 +34,14 @@
       "source": "TheHindu",
       "link": "https://www.thehindu.com/news/international/eu-says-a-lot-of-work-still-needed-to-reach-ukraine-peace-deal/article71674795.ece",
       "valence": 0.976,
+      "impact": 0.964,
+      "outlets": 1
+    },
+    {
+      "title": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life",
+      "source": "NYTimes",
+      "link": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
+      "valence": -0.97,
       "impact": 0.964,
       "outlets": 1
     },
@@ -78,25 +78,25 @@
       "outlets": 1
     },
     {
-      "title": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say",
-      "source": "NYTimes",
-      "link": "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html",
-      "valence": -0.947,
-      "impact": 0.94,
-      "outlets": 1
-    },
-    {
       "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
       "valence": 0.834,
       "impact": 0.996,
       "outlets": 1
+    },
+    {
+      "title": "Iranians face looming war threat with no reliable info",
+      "source": "DW",
+      "link": "https://www.dw.com/en/iranians-face-looming-war-threat-with-no-reliable-info/a-79875438?maca=en-rss-en-world-4025-rdf",
+      "valence": -0.885,
+      "impact": 0.94,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 36,
+    "live": 38,
     "total": 38
   }
 }
