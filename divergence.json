@@ -1,15 +1,15 @@
 {
-  "divergence": "1.022245",
+  "divergence": "1.018509",
   "field": "beta",
-  "updated_at": "2026-11-07T21:02:18+00:00",
-  "z": -1.084,
+  "updated_at": "2026-11-07T21:59:55+00:00",
+  "z": -1.238,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 19,
+  "new_stories": 15,
   "climate": {
-    "fast": -0.5204,
-    "slow": -0.4835,
-    "normal": -0.4695,
+    "fast": -0.5283,
+    "slow": -0.4851,
+    "normal": -0.4697,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -54,6 +54,14 @@
       "outlets": 1
     },
     {
+      "title": "3 bodies found in home of Krakow shooting suspect, Polish PM says, after 6 killed, 16 injured in city square",
+      "source": "CBC",
+      "link": "https://www.cbc.ca/news/world/krakow-poland-shooting-9.7413582?cmp=rss",
+      "valence": -0.976,
+      "impact": 0.928,
+      "outlets": 1
+    },
+    {
       "title": "What we know about Krakow mass shooting so far",
       "source": "BBC",
       "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
@@ -84,19 +92,11 @@
       "valence": -0.935,
       "impact": 0.91,
       "outlets": 1
-    },
-    {
-      "title": "Guatemalan lawmaker, three police officers killed in armed attack",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/guatemalan-lawmaker-three-police-officers-killed-in-armed-attack",
-      "valence": -0.935,
-      "impact": 0.91,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
