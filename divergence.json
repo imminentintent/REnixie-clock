@@ -1,26 +1,18 @@
 {
-  "divergence": "1.044248",
+  "divergence": "1.044796",
   "field": "beta",
-  "updated_at": "2026-11-07T02:38:18+00:00",
-  "z": -0.179,
+  "updated_at": "2026-11-07T03:38:24+00:00",
+  "z": -0.156,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 14,
+  "new_stories": 11,
   "climate": {
-    "fast": -0.474,
-    "slow": -0.4732,
+    "fast": -0.4729,
+    "slow": -0.473,
     "normal": -0.4682,
     "spread": 0.03
   },
   "top_stories_24h": [
-    {
-      "title": "Bondi beach shooting: Woman, 90, shot during massacre dies in hospital year after antisemitic attack",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb",
-      "valence": -0.997,
-      "impact": 0.994,
-      "outlets": 1
-    },
     {
       "title": "Bondi beach shooting: Eva Geller, 90, shot during massacre dies in hospital year after antisemitic attack",
       "source": "Guardian",
@@ -92,11 +84,19 @@
       "valence": -0.935,
       "impact": 0.95,
       "outlets": 1
+    },
+    {
+      "title": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say",
+      "source": "NYTimes",
+      "link": "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html",
+      "valence": -0.947,
+      "impact": 0.94,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
