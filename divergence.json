@@ -1,14 +1,14 @@
 {
-  "divergence": "1.048903",
+  "divergence": "1.045790",
   "field": "beta",
-  "updated_at": "2026-11-07T06:39:58+00:00",
-  "z": 0.013,
+  "updated_at": "2026-11-07T07:48:51+00:00",
+  "z": -0.115,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 16,
+  "new_stories": 21,
   "climate": {
-    "fast": -0.4644,
-    "slow": -0.4714,
+    "fast": -0.471,
+    "slow": -0.4724,
     "normal": -0.4683,
     "spread": 0.03
   },
@@ -96,7 +96,7 @@
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
