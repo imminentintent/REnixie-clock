@@ -1,15 +1,15 @@
 {
-  "divergence": "1.029544",
+  "divergence": "1.026829",
   "field": "beta",
-  "updated_at": "2026-11-07T14:11:19+00:00",
-  "z": -0.784,
+  "updated_at": "2026-11-07T15:04:25+00:00",
+  "z": -0.896,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 30,
+  "new_stories": 27,
   "climate": {
-    "fast": -0.5051,
-    "slow": -0.4788,
-    "normal": -0.4686,
+    "fast": -0.5107,
+    "slow": -0.4801,
+    "normal": -0.4687,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -35,14 +35,6 @@
       "link": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
       "valence": -0.97,
       "impact": 0.964,
-      "outlets": 1
-    },
-    {
-      "title": "Airstrikes on market in southwestern Yemen kill at least 20, Houthis say",
-      "source": "TheHindu",
-      "link": "https://www.thehindu.com/news/international/airstrikes-on-market-in-southwestern-yemen-kill-at-least-20-houthis-say/article71674991.ece",
-      "valence": -0.956,
-      "impact": 0.94,
       "outlets": 1
     },
     {
@@ -78,6 +70,14 @@
       "outlets": 1
     },
     {
+      "title": "Guatemalan lawmaker, three police officers killed in armed attack",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/guatemalan-lawmaker-three-police-officers-killed-in-armed-attack",
+      "valence": -0.935,
+      "impact": 0.91,
+      "outlets": 1
+    },
+    {
       "title": "Russian forces launch missile attack on Ukrainian capital Kyiv, mayor says",
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/europe/russian-forces-launch-missile-attack-on-ukrainian-capital-kyiv-mayor-says",
@@ -96,7 +96,7 @@
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
