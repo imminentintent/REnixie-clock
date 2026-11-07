@@ -1,15 +1,15 @@
 {
-  "divergence": "1.016168",
+  "divergence": "1.014491",
   "field": "beta",
-  "updated_at": "2026-11-07T22:35:09+00:00",
-  "z": -1.335,
+  "updated_at": "2026-11-07T23:24:49+00:00",
+  "z": -1.404,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 12,
+  "new_stories": 11,
   "climate": {
-    "fast": -0.5333,
-    "slow": -0.4861,
-    "normal": -0.4698,
+    "fast": -0.537,
+    "slow": -0.4869,
+    "normal": -0.47,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -62,6 +62,14 @@
       "outlets": 1
     },
     {
+      "title": "Kraków shooting latest updates: six killed and more than a dozen injured – as it happened",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
+      "valence": -0.976,
+      "impact": 0.928,
+      "outlets": 1
+    },
+    {
       "title": "What we know about Krakow mass shooting so far",
       "source": "BBC",
       "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
@@ -84,19 +92,11 @@
       "valence": -0.935,
       "impact": 0.94,
       "outlets": 1
-    },
-    {
-      "title": "Guatemalan lawmaker, three police officers killed in attack",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/guatemalan-lawmaker-three-police-officers-killed-in-attack",
-      "valence": -0.935,
-      "impact": 0.91,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
