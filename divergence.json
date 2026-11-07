@@ -1,15 +1,15 @@
 {
-  "divergence": "1.026991",
+  "divergence": "1.021562",
   "field": "beta",
-  "updated_at": "2026-11-07T17:02:07+00:00",
-  "z": -0.889,
+  "updated_at": "2026-11-07T17:57:47+00:00",
+  "z": -1.113,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 18,
+  "new_stories": 28,
   "climate": {
-    "fast": -0.5103,
-    "slow": -0.4805,
-    "normal": -0.4689,
+    "fast": -0.5216,
+    "slow": -0.4829,
+    "normal": -0.469,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -46,11 +46,11 @@
       "outlets": 1
     },
     {
-      "title": "Airstrikes on market in southwestern Yemen kill at least 30, Houthis say",
-      "source": "TheHindu",
-      "link": "https://www.thehindu.com/news/international/airstrikes-on-market-in-southwestern-yemen-kill-at-least-20-houthis-say/article71674991.ece",
-      "valence": -0.956,
-      "impact": 0.94,
+      "title": "Kraków shooting latest updates: six killed and more than a dozen injured, police say",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
+      "valence": -0.976,
+      "impact": 0.928,
       "outlets": 1
     },
     {
@@ -96,7 +96,7 @@
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
