@@ -1,18 +1,26 @@
 {
-  "divergence": "1.047293",
+  "divergence": "1.033056",
   "field": "beta",
-  "updated_at": "2026-11-07T12:02:43+00:00",
-  "z": -0.054,
+  "updated_at": "2026-11-07T13:22:52+00:00",
+  "z": -0.64,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 16,
+  "new_stories": 37,
   "climate": {
-    "fast": -0.468,
-    "slow": -0.472,
-    "normal": -0.4684,
+    "fast": -0.4978,
+    "slow": -0.4773,
+    "normal": -0.4685,
     "spread": 0.03
   },
   "top_stories_24h": [
+    {
+      "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss",
+      "valence": -0.989,
+      "impact": 0.988,
+      "outlets": 1
+    },
     {
       "title": "Seafarer killed in suspected missile attack on tanker in Gulf",
       "source": "StraitsTimes",
@@ -78,19 +86,11 @@
       "outlets": 1
     },
     {
-      "title": "Iranians face looming war threat with no reliable info",
-      "source": "DW",
-      "link": "https://www.dw.com/en/iranians-face-looming-war-threat-with-no-reliable-info/a-79875438?maca=en-rss-en-world-4025-rdf",
-      "valence": -0.885,
-      "impact": 0.94,
-      "outlets": 1
-    },
-    {
-      "title": "For people in Iran, a constant threat of war and dearth of information",
-      "source": "DW",
-      "link": "https://www.dw.com/en/for-people-in-iran-a-constant-threat-of-war-and-dearth-of-information/a-79875438?maca=en-rss-en-world-4025-rdf",
-      "valence": -0.885,
-      "impact": 0.94,
+      "title": "Islamic State-linked militants kill at least 33 in eastern Congo village attack, civil society says",
+      "source": "TheHindu",
+      "link": "https://www.thehindu.com/news/international/islamic-state-linked-militants-kill-at-least-33-in-eastern-congo-village-attack-civil-society-says/article71674797.ece",
+      "valence": -0.935,
+      "impact": 0.91,
       "outlets": 1
     }
   ],
