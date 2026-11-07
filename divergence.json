@@ -1,15 +1,15 @@
 {
-  "divergence": "1.040576",
+  "divergence": "1.041487",
   "field": "beta",
-  "updated_at": "2026-11-07T10:30:24+00:00",
-  "z": -0.33,
+  "updated_at": "2026-11-07T11:25:27+00:00",
+  "z": -0.293,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 32,
+  "new_stories": 26,
   "climate": {
-    "fast": -0.4821,
-    "slow": -0.4743,
-    "normal": -0.4683,
+    "fast": -0.4802,
+    "slow": -0.4741,
+    "normal": -0.4684,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -43,14 +43,6 @@
       "link": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
       "valence": -0.97,
       "impact": 0.964,
-      "outlets": 1
-    },
-    {
-      "title": "Offices of Irish media groups evacuated due to bomb threats, one deemed a hoax",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/offices-of-irish-media-groups-evacuated-due-to-bomb-threats-one-deemed-a-hoax",
-      "valence": -0.964,
-      "impact": 0.952,
       "outlets": 1
     },
     {
@@ -89,6 +81,14 @@
       "title": "Iranians face looming war threat with no reliable info",
       "source": "DW",
       "link": "https://www.dw.com/en/iranians-face-looming-war-threat-with-no-reliable-info/a-79875438?maca=en-rss-en-world-4025-rdf",
+      "valence": -0.885,
+      "impact": 0.94,
+      "outlets": 1
+    },
+    {
+      "title": "For people in Iran, a constant threat of war and dearth of information",
+      "source": "DW",
+      "link": "https://www.dw.com/en/for-people-in-iran-a-constant-threat-of-war-and-dearth-of-information/a-79875438?maca=en-rss-en-world-4025-rdf",
       "valence": -0.885,
       "impact": 0.94,
       "outlets": 1
