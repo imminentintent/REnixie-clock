@@ -1,15 +1,15 @@
 {
-  "divergence": "1.003243",
+  "divergence": "1.004284",
   "field": "beta",
-  "updated_at": "2026-11-08T20:25:06+00:00",
-  "z": -1.867,
+  "updated_at": "2026-11-08T21:02:02+00:00",
+  "z": -1.824,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 12,
+  "new_stories": 15,
   "climate": {
-    "fast": -0.5606,
-    "slow": -0.5006,
-    "normal": -0.4748,
+    "fast": -0.558,
+    "slow": -0.501,
+    "normal": -0.475,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -34,6 +34,14 @@
       "source": "JapanTimes",
       "link": "https://www.japantimes.co.jp/news/2026/11/08/world/crime-legal/poland-krakow-mass-shooting/",
       "valence": -0.987,
+      "impact": 0.97,
+      "outlets": 1
+    },
+    {
+      "title": "Iran threatens to ‘rain down hell’ if US escalates war",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
+      "valence": -0.947,
       "impact": 0.97,
       "outlets": 1
     },
@@ -78,14 +86,6 @@
       "outlets": 1
     },
     {
-      "title": "Abdul El-Sayed slams Trump’s tariff war with Canada",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss",
-      "valence": -0.862,
-      "impact": 0.945,
-      "outlets": 1
-    },
-    {
       "title": "Drone attack on a Colombian military base leaves 3 soldiers dead",
       "source": "ABCNews",
       "link": "https://abcnews.com/International/wireStory/drone-attack-colombian-military-base-leaves-3-soldiers-137945487",
@@ -96,7 +96,7 @@
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
