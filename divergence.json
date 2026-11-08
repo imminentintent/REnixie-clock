@@ -1,15 +1,15 @@
 {
-  "divergence": "1.008413",
+  "divergence": "1.000731",
   "field": "beta",
-  "updated_at": "2026-11-08T17:02:20+00:00",
-  "z": -1.654,
+  "updated_at": "2026-11-08T17:57:19+00:00",
+  "z": -1.97,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 32,
+  "new_stories": 25,
   "climate": {
-    "fast": -0.5493,
-    "slow": -0.4976,
-    "normal": -0.474,
+    "fast": -0.5655,
+    "slow": -0.5007,
+    "normal": -0.4742,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -20,6 +20,14 @@
       "valence": -0.989,
       "impact": 0.976,
       "outlets": 1
+    },
+    {
+      "title": "Rosstat hack: data obtained suggests over 390,000 Russian deaths in Ukraine war",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/08/rosstat-hack-data-obtained-suggests-over-390000-russian-deaths-in-ukraine-war",
+      "valence": -0.935,
+      "impact": 1.0,
+      "outlets": 2
     },
     {
       "title": "Poland in shock after six die in Krakow mass shooting",
@@ -43,14 +51,6 @@
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
       "valence": -0.935,
       "impact": 0.96,
-      "outlets": 1
-    },
-    {
-      "title": "Kraków shooting latest updates: six killed and more than a dozen injured, police say",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
-      "valence": -0.976,
-      "impact": 0.928,
       "outlets": 1
     },
     {
