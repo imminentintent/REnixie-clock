@@ -1,15 +1,15 @@
 {
-  "divergence": "1.001283",
-  "field": "beta",
-  "updated_at": "2026-11-08T08:40:01+00:00",
-  "z": -1.947,
+  "divergence": "0.962733",
+  "field": "alpha",
+  "updated_at": "2026-11-08T09:35:30+00:00",
+  "z": -2.095,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 12,
+  "new_stories": 24,
   "climate": {
-    "fast": -0.5652,
-    "slow": -0.4953,
-    "normal": -0.4721,
+    "fast": -0.5726,
+    "slow": -0.4972,
+    "normal": -0.4723,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -62,6 +62,14 @@
       "outlets": 1
     },
     {
+      "title": "Crew member missing as Indonesian water-bombing helicopter crashes",
+      "source": "CNA",
+      "link": "https://www.channelnewsasia.com/asia/indonesian-water-bombing-helicopter-crashes-crew-missing-6534066",
+      "valence": -0.964,
+      "impact": 0.952,
+      "outlets": 1
+    },
+    {
       "title": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
@@ -84,19 +92,11 @@
       "valence": -0.976,
       "impact": 0.928,
       "outlets": 1
-    },
-    {
-      "title": "Kraków shooting latest updates: six killed and more than a dozen injured – as it happened",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
-      "valence": -0.976,
-      "impact": 0.928,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
