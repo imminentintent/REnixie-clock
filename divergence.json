@@ -1,15 +1,15 @@
 {
-  "divergence": "1.004284",
+  "divergence": "1.003442",
   "field": "beta",
-  "updated_at": "2026-11-08T21:02:02+00:00",
-  "z": -1.824,
+  "updated_at": "2026-11-08T22:00:49+00:00",
+  "z": -1.858,
   "calibrating": false,
   "scorer": "lexicon",
   "new_stories": 15,
   "climate": {
-    "fast": -0.558,
-    "slow": -0.501,
-    "normal": -0.475,
+    "fast": -0.5599,
+    "slow": -0.5016,
+    "normal": -0.4752,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -70,6 +70,14 @@
       "outlets": 1
     },
     {
+      "title": "Reeling From Rare Mass Shooting, Poles Ask What Set Off Young Suspect",
+      "source": "NYTimes",
+      "link": "https://www.nytimes.com/2026/11/08/world/europe/poland-shooting-family.html",
+      "valence": -0.947,
+      "impact": 0.94,
+      "outlets": 1
+    },
+    {
       "title": "Four dead and 88 injured in train crash near Cairo",
       "source": "SkyNews",
       "link": "https://news.sky.com/story/four-dead-and-88-injured-in-train-crash-near-cairo-13609748",
@@ -83,14 +91,6 @@
       "link": "https://timesofindia.indiatimes.com/world/europe/cynicism-and-brutality-russia-targets-ukrainian-rescue-workers-at-site-of-zaporizhzhia-bombing-that-killed-55/articleshow/135657241.cms",
       "valence": -0.834,
       "impact": 0.97,
-      "outlets": 1
-    },
-    {
-      "title": "Drone attack on a Colombian military base leaves 3 soldiers dead",
-      "source": "ABCNews",
-      "link": "https://abcnews.com/International/wireStory/drone-attack-colombian-military-base-leaves-3-soldiers-137945487",
-      "valence": -0.922,
-      "impact": 0.88,
       "outlets": 1
     }
   ],
