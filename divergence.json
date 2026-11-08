@@ -1,15 +1,15 @@
 {
-  "divergence": "0.959150",
+  "divergence": "0.958179",
   "field": "alpha",
-  "updated_at": "2026-11-08T11:25:48+00:00",
-  "z": -2.104,
+  "updated_at": "2026-11-08T12:04:05+00:00",
+  "z": -2.107,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 30,
+  "new_stories": 20,
   "climate": {
-    "fast": -0.5727,
-    "slow": -0.4987,
-    "normal": -0.4728,
+    "fast": -0.573,
+    "slow": -0.499,
+    "normal": -0.473,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -20,14 +20,6 @@
       "valence": -0.976,
       "impact": 1.0,
       "outlets": 7
-    },
-    {
-      "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss",
-      "valence": -0.989,
-      "impact": 0.988,
-      "outlets": 1
     },
     {
       "title": "Two women, man found dead in Krakow mass-shooting suspect’s home, says Prime Minister",
@@ -92,11 +84,19 @@
       "valence": -0.976,
       "impact": 0.928,
       "outlets": 1
+    },
+    {
+      "title": "What we know about Krakow mass shooting so far",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "valence": -0.947,
+      "impact": 0.94,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
