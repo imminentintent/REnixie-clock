@@ -1,15 +1,15 @@
 {
-  "divergence": "1.003442",
+  "divergence": "1.015725",
   "field": "beta",
-  "updated_at": "2026-11-08T22:00:49+00:00",
-  "z": -1.858,
+  "updated_at": "2026-11-08T22:59:39+00:00",
+  "z": -1.353,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 15,
+  "new_stories": 31,
   "climate": {
-    "fast": -0.5599,
-    "slow": -0.5016,
-    "normal": -0.4752,
+    "fast": -0.5334,
+    "slow": -0.4982,
+    "normal": -0.4753,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -62,14 +62,6 @@
       "outlets": 1
     },
     {
-      "title": "Kraków shooting latest updates: six killed and more than a dozen injured – as it happened",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
-      "valence": -0.976,
-      "impact": 0.928,
-      "outlets": 1
-    },
-    {
       "title": "Reeling From Rare Mass Shooting, Poles Ask What Set Off Young Suspect",
       "source": "NYTimes",
       "link": "https://www.nytimes.com/2026/11/08/world/europe/poland-shooting-family.html",
@@ -92,11 +84,19 @@
       "valence": -0.834,
       "impact": 0.97,
       "outlets": 1
+    },
+    {
+      "title": "One dead in Russia after Ukraine drone attack - as emergency workers struck by Moscow",
+      "source": "SkyNews",
+      "link": "https://news.sky.com/story/one-dead-in-russia-after-ukraine-drone-attack-as-emergency-workers-struck-by-moscow-13609678",
+      "valence": -0.922,
+      "impact": 0.88,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
