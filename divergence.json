@@ -1,15 +1,15 @@
 {
-  "divergence": "1.010046",
+  "divergence": "1.002204",
   "field": "beta",
-  "updated_at": "2026-11-08T00:44:52+00:00",
-  "z": -1.587,
+  "updated_at": "2026-11-08T01:52:39+00:00",
+  "z": -1.909,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 18,
+  "new_stories": 14,
   "climate": {
-    "fast": -0.5465,
-    "slow": -0.489,
-    "normal": -0.4703,
+    "fast": -0.563,
+    "slow": -0.4922,
+    "normal": -0.4706,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -27,6 +27,14 @@
       "link": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss",
       "valence": -0.989,
       "impact": 0.988,
+      "outlets": 1
+    },
+    {
+      "title": "Poland in shock after six die in Krakow mass shooting",
+      "source": "JapanTimes",
+      "link": "https://www.japantimes.co.jp/news/2026/11/08/world/crime-legal/poland-krakow-mass-shooting/",
+      "valence": -0.987,
+      "impact": 0.97,
       "outlets": 1
     },
     {
@@ -82,14 +90,6 @@
       "source": "BBC",
       "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
       "valence": -0.947,
-      "impact": 0.94,
-      "outlets": 1
-    },
-    {
-      "title": "‘They started bombing us with drones’: Russian attacks unnerve Zaporizhzhia",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/7/they-started-bombing-us-with-drones-russian-attacks-unnerve-zaporizhzhia?traffic_source=rss",
-      "valence": -0.935,
       "impact": 0.94,
       "outlets": 1
     }
