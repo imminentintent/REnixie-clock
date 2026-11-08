@@ -1,15 +1,15 @@
 {
-  "divergence": "1.007285",
+  "divergence": "1.008413",
   "field": "beta",
-  "updated_at": "2026-11-08T16:00:10+00:00",
-  "z": -1.7,
+  "updated_at": "2026-11-08T17:02:20+00:00",
+  "z": -1.654,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 15,
+  "new_stories": 32,
   "climate": {
-    "fast": -0.5514,
-    "slow": -0.4978,
-    "normal": -0.4738,
+    "fast": -0.5493,
+    "slow": -0.4976,
+    "normal": -0.474,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -26,14 +26,6 @@
       "source": "JapanTimes",
       "link": "https://www.japantimes.co.jp/news/2026/11/08/world/crime-legal/poland-krakow-mass-shooting/",
       "valence": -0.987,
-      "impact": 0.97,
-      "outlets": 1
-    },
-    {
-      "title": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
-      "source": "NYTimes",
-      "link": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
-      "valence": -0.956,
       "impact": 0.97,
       "outlets": 1
     },
@@ -91,6 +83,14 @@
       "link": "https://timesofindia.indiatimes.com/world/europe/cynicism-and-brutality-russia-targets-ukrainian-rescue-workers-at-site-of-zaporizhzhia-bombing-that-killed-55/articleshow/135657241.cms",
       "valence": -0.834,
       "impact": 0.97,
+      "outlets": 1
+    },
+    {
+      "title": "Abdul El-Sayed slams Trump’s tariff war with Canada",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss",
+      "valence": -0.862,
+      "impact": 0.945,
       "outlets": 1
     }
   ],
