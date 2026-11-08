@@ -1,26 +1,18 @@
 {
-  "divergence": "1.004769",
+  "divergence": "1.007285",
   "field": "beta",
-  "updated_at": "2026-11-08T15:03:21+00:00",
-  "z": -1.804,
+  "updated_at": "2026-11-08T16:00:10+00:00",
+  "z": -1.7,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 26,
+  "new_stories": 15,
   "climate": {
-    "fast": -0.5567,
-    "slow": -0.4984,
-    "normal": -0.4736,
+    "fast": -0.5514,
+    "slow": -0.4978,
+    "normal": -0.4738,
     "spread": 0.03
   },
   "top_stories_24h": [
-    {
-      "title": "Kraków shooting latest updates: five killed and more than a dozen injured, police say",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
-      "valence": -0.976,
-      "impact": 1.0,
-      "outlets": 7
-    },
     {
       "title": "Two women, man found dead in Krakow mass-shooting suspect’s home, says Prime Minister",
       "source": "TheHindu",
@@ -70,14 +62,6 @@
       "outlets": 1
     },
     {
-      "title": "3 bodies found in home of Krakow shooting suspect, Polish PM says, after 6 killed, 16 injured in city square",
-      "source": "CBC",
-      "link": "https://www.cbc.ca/news/world/krakow-poland-shooting-9.7413582?cmp=rss",
-      "valence": -0.976,
-      "impact": 0.928,
-      "outlets": 1
-    },
-    {
       "title": "Kraków shooting latest updates: six killed and more than a dozen injured – as it happened",
       "source": "Guardian",
       "link": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
@@ -92,11 +76,27 @@
       "valence": -0.947,
       "impact": 0.94,
       "outlets": 1
+    },
+    {
+      "title": "Four dead and 88 injured in train crash near Cairo",
+      "source": "SkyNews",
+      "link": "https://news.sky.com/story/four-dead-and-88-injured-in-train-crash-near-cairo-13609748",
+      "valence": -0.964,
+      "impact": 0.904,
+      "outlets": 1
+    },
+    {
+      "title": "Russia targets Ukrainian rescue workers at site of Zaporizhzhia bombing that killed 55",
+      "source": "TimesOfIndia",
+      "link": "https://timesofindia.indiatimes.com/world/europe/cynicism-and-brutality-russia-targets-ukrainian-rescue-workers-at-site-of-zaporizhzhia-bombing-that-killed-55/articleshow/135657241.cms",
+      "valence": -0.834,
+      "impact": 0.97,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 36,
+    "live": 37,
     "total": 38
   }
 }
