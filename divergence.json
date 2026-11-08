@@ -1,15 +1,15 @@
 {
-  "divergence": "1.013674",
+  "divergence": "1.010046",
   "field": "beta",
-  "updated_at": "2026-11-07T23:57:27+00:00",
-  "z": -1.437,
+  "updated_at": "2026-11-08T00:44:52+00:00",
+  "z": -1.587,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 5,
+  "new_stories": 18,
   "climate": {
-    "fast": -0.5388,
-    "slow": -0.4874,
-    "normal": -0.4702,
+    "fast": -0.5465,
+    "slow": -0.489,
+    "normal": -0.4703,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -46,6 +46,14 @@
       "outlets": 1
     },
     {
+      "title": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+      "valence": -0.935,
+      "impact": 0.96,
+      "outlets": 1
+    },
+    {
       "title": "Kraków shooting latest updates: six killed and more than a dozen injured, police say",
       "source": "Guardian",
       "link": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
@@ -75,14 +83,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
       "valence": -0.947,
       "impact": 0.94,
-      "outlets": 1
-    },
-    {
-      "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
-      "valence": 0.834,
-      "impact": 0.996,
       "outlets": 1
     },
     {
