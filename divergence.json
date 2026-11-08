@@ -1,15 +1,15 @@
 {
-  "divergence": "1.000731",
+  "divergence": "1.002320",
   "field": "beta",
-  "updated_at": "2026-11-08T17:57:19+00:00",
-  "z": -1.97,
+  "updated_at": "2026-11-08T18:31:46+00:00",
+  "z": -1.905,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 25,
+  "new_stories": 14,
   "climate": {
-    "fast": -0.5655,
-    "slow": -0.5007,
-    "normal": -0.4742,
+    "fast": -0.5624,
+    "slow": -0.5003,
+    "normal": -0.4744,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -62,14 +62,6 @@
       "outlets": 1
     },
     {
-      "title": "What we know about Krakow mass shooting so far",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "valence": -0.947,
-      "impact": 0.94,
-      "outlets": 1
-    },
-    {
       "title": "Four dead and 88 injured in train crash near Cairo",
       "source": "SkyNews",
       "link": "https://news.sky.com/story/four-dead-and-88-injured-in-train-crash-near-cairo-13609748",
@@ -92,11 +84,19 @@
       "valence": -0.862,
       "impact": 0.945,
       "outlets": 1
+    },
+    {
+      "title": "Drone attack on a Colombian military base leaves 3 soldiers dead",
+      "source": "ABCNews",
+      "link": "https://abcnews.com/International/wireStory/drone-attack-colombian-military-base-leaves-3-soldiers-137945487",
+      "valence": -0.922,
+      "impact": 0.88,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 36,
     "total": 38
   }
 }
