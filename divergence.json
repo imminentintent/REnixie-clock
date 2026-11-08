@@ -1,15 +1,15 @@
 {
-  "divergence": "0.962733",
+  "divergence": "0.930562",
   "field": "alpha",
-  "updated_at": "2026-11-08T09:35:30+00:00",
-  "z": -2.095,
+  "updated_at": "2026-11-08T10:30:32+00:00",
+  "z": -2.18,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 24,
+  "new_stories": 23,
   "climate": {
-    "fast": -0.5726,
-    "slow": -0.4972,
-    "normal": -0.4723,
+    "fast": -0.5768,
+    "slow": -0.4986,
+    "normal": -0.4726,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -43,14 +43,6 @@
       "link": "https://www.japantimes.co.jp/news/2026/11/08/world/crime-legal/poland-krakow-mass-shooting/",
       "valence": -0.987,
       "impact": 0.97,
-      "outlets": 1
-    },
-    {
-      "title": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life",
-      "source": "NYTimes",
-      "link": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
-      "valence": -0.97,
-      "impact": 0.964,
       "outlets": 1
     },
     {
@@ -89,6 +81,14 @@
       "title": "3 bodies found in home of Krakow shooting suspect, Polish PM says, after 6 killed, 16 injured in city square",
       "source": "CBC",
       "link": "https://www.cbc.ca/news/world/krakow-poland-shooting-9.7413582?cmp=rss",
+      "valence": -0.976,
+      "impact": 0.928,
+      "outlets": 1
+    },
+    {
+      "title": "Kraków shooting latest updates: six killed and more than a dozen injured – as it happened",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
       "valence": -0.976,
       "impact": 0.928,
       "outlets": 1
