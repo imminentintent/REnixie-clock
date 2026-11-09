@@ -1,26 +1,18 @@
 {
-  "divergence": "1.040159",
+  "divergence": "1.050933",
   "field": "beta",
-  "updated_at": "2026-11-09T16:29:16+00:00",
-  "z": -0.347,
+  "updated_at": "2026-11-09T17:29:34+00:00",
+  "z": 0.096,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 65,
+  "new_stories": 41,
   "climate": {
-    "fast": -0.4824,
-    "slow": -0.4917,
+    "fast": -0.4604,
+    "slow": -0.4872,
     "normal": -0.4767,
     "spread": 0.03
   },
   "top_stories_24h": [
-    {
-      "title": "Rosstat hack: data obtained suggests over 390,000 Russian deaths in Ukraine war",
-      "source": "Euronews",
-      "link": "https://www.euronews.com/2026/11/08/rosstat-hack-data-obtained-suggests-over-390000-russian-deaths-in-ukraine-war",
-      "valence": -0.935,
-      "impact": 1.0,
-      "outlets": 2
-    },
     {
       "title": "Explosion at steel plant in Turkey kills at least six, officials say",
       "source": "SkyNews",
@@ -81,6 +73,14 @@
       "title": "US-led peace talks for Russia and Ukraine will look at security guarantees for both sides",
       "source": "ABCNews",
       "link": "https://abcnews.com/International/wireStory/us-led-peace-talks-russia-ukraine-security-guarantees-137966016",
+      "valence": 0.905,
+      "impact": 0.895,
+      "outlets": 1
+    },
+    {
+      "title": "Security Council LIVE: Strikes on Ukraine’s power grid, as peace talks loom",
+      "source": "UNNews",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168761",
       "valence": 0.905,
       "impact": 0.895,
       "outlets": 1
