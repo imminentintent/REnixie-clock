@@ -1,14 +1,14 @@
 {
-  "divergence": "1.047550",
+  "divergence": "1.045864",
   "field": "beta",
-  "updated_at": "2026-11-09T21:17:30+00:00",
-  "z": -0.043,
+  "updated_at": "2026-11-09T22:12:17+00:00",
+  "z": -0.112,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 34,
+  "new_stories": 37,
   "climate": {
-    "fast": -0.4681,
-    "slow": -0.4878,
+    "fast": -0.4717,
+    "slow": -0.4883,
     "normal": -0.4767,
     "spread": 0.03
   },
@@ -34,14 +34,6 @@
       "source": "TheHindu",
       "link": "https://www.thehindu.com/news/international/houthi-rebels-say-at-least-44-killed-in-airstrike-near-yemeni-capital/article71683574.ece",
       "valence": -0.956,
-      "impact": 0.94,
-      "outlets": 1
-    },
-    {
-      "title": "Reeling From Rare Mass Shooting, Poles Ask What Set Off Young Suspect",
-      "source": "NYTimes",
-      "link": "https://www.nytimes.com/2026/11/08/world/europe/poland-shooting-family.html",
-      "valence": -0.947,
       "impact": 0.94,
       "outlets": 1
     },
@@ -89,6 +81,14 @@
       "title": "What to know about the shooting in the Polish city of Krakow that killed 6 people",
       "source": "ABCNews",
       "link": "https://abcnews.com/International/wireStory/shooting-polish-city-krakow-killed-6-people-137952518",
+      "valence": -0.935,
+      "impact": 0.88,
+      "outlets": 1
+    },
+    {
+      "title": "Storm killed five in Gaza as sandstone slab collapsed onto tents",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/09/storm-killed-five-in-gaza-as-sandstone-slab-collapsed-onto-tents",
       "valence": -0.935,
       "impact": 0.88,
       "outlets": 1
