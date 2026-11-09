@@ -1,14 +1,14 @@
 {
-  "divergence": "1.033889",
+  "divergence": "1.048134",
   "field": "beta",
-  "updated_at": "2026-11-09T10:45:54+00:00",
-  "z": -0.605,
+  "updated_at": "2026-11-09T11:44:55+00:00",
+  "z": -0.019,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 30,
+  "new_stories": 51,
   "climate": {
-    "fast": -0.4946,
-    "slow": -0.4946,
+    "fast": -0.4648,
+    "slow": -0.4894,
     "normal": -0.4765,
     "spread": 0.03
   },
@@ -54,14 +54,6 @@
       "outlets": 1
     },
     {
-      "title": "Russia targets Ukrainian rescue workers at site of Zaporizhzhia bombing that killed 55",
-      "source": "TimesOfIndia",
-      "link": "https://timesofindia.indiatimes.com/world/europe/cynicism-and-brutality-russia-targets-ukrainian-rescue-workers-at-site-of-zaporizhzhia-bombing-that-killed-55/articleshow/135657241.cms",
-      "valence": -0.834,
-      "impact": 0.97,
-      "outlets": 1
-    },
-    {
       "title": "What to know about upcoming peace talks involving Russian, Ukrainian and U.S. officials",
       "source": "TheHindu",
       "link": "https://www.thehindu.com/news/international/russia-ukraine-us-peace-talks-in-abu-dhabi-on-november-10-2026/article71681520.ece",
@@ -73,6 +65,14 @@
       "title": "Iran defends two-day proposal for peace talks after US rejects conditions",
       "source": "CNA",
       "link": "https://www.channelnewsasia.com/world/iran-defends-peace-talks-proposal-us-6535786",
+      "valence": 0.905,
+      "impact": 0.895,
+      "outlets": 1
+    },
+    {
+      "title": "US-led peace talks for Russia and Ukraine will look at security guarantees for both sides",
+      "source": "ABCNews",
+      "link": "https://abcnews.com/International/wireStory/us-led-peace-talks-russia-ukraine-security-guarantees-137966016",
       "valence": 0.905,
       "impact": 0.895,
       "outlets": 1
