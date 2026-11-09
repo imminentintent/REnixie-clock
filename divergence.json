@@ -1,14 +1,14 @@
 {
-  "divergence": "1.029047",
+  "divergence": "1.033889",
   "field": "beta",
-  "updated_at": "2026-11-09T09:48:57+00:00",
-  "z": -0.805,
+  "updated_at": "2026-11-09T10:45:54+00:00",
+  "z": -0.605,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 26,
+  "new_stories": 30,
   "climate": {
-    "fast": -0.5049,
-    "slow": -0.4962,
+    "fast": -0.4946,
+    "slow": -0.4946,
     "normal": -0.4765,
     "spread": 0.03
   },
@@ -70,6 +70,14 @@
       "outlets": 1
     },
     {
+      "title": "Iran defends two-day proposal for peace talks after US rejects conditions",
+      "source": "CNA",
+      "link": "https://www.channelnewsasia.com/world/iran-defends-peace-talks-proposal-us-6535786",
+      "valence": 0.905,
+      "impact": 0.895,
+      "outlets": 1
+    },
+    {
       "title": "What to know about the shooting in the Polish city of Krakow that killed 6 people",
       "source": "ABCNews",
       "link": "https://abcnews.com/International/wireStory/shooting-polish-city-krakow-killed-6-people-137952518",
@@ -78,25 +86,17 @@
       "outlets": 1
     },
     {
-      "title": "One dead in Russia after Ukraine drone attack - as emergency workers struck by Moscow",
-      "source": "SkyNews",
-      "link": "https://news.sky.com/story/one-dead-in-russia-after-ukraine-drone-attack-as-emergency-workers-struck-by-moscow-13609678",
-      "valence": -0.922,
-      "impact": 0.88,
-      "outlets": 1
-    },
-    {
-      "title": "Iran suggests blasts are not U.S. attacks as both sides report ships hit",
-      "source": "JapanTimes",
-      "link": "https://www.japantimes.co.jp/news/2026/11/09/world/iran-us-ship-attacks/",
-      "valence": -0.905,
+      "title": "Storm killed five in Gaza as sandstone slab collapsed onto tents",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/09/storm-killed-five-in-gaza-as-sandstone-slab-collapsed-onto-tents",
+      "valence": -0.935,
       "impact": 0.88,
       "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 36,
+    "live": 37,
     "total": 38
   }
 }
