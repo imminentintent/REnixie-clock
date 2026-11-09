@@ -1,15 +1,15 @@
 {
-  "divergence": "1.017329",
+  "divergence": "1.022951",
   "field": "beta",
-  "updated_at": "2026-11-09T01:57:52+00:00",
-  "z": -1.287,
+  "updated_at": "2026-11-09T02:47:57+00:00",
+  "z": -1.055,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 39,
+  "new_stories": 23,
   "climate": {
-    "fast": -0.5299,
-    "slow": -0.4985,
-    "normal": -0.4757,
+    "fast": -0.5178,
+    "slow": -0.497,
+    "normal": -0.4759,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -86,11 +86,11 @@
       "outlets": 1
     },
     {
-      "title": "Dozens Killed In Yemen Strikes: Saudi raids reportedly hit homes; UN truce collapse feared",
-      "source": "TimesOfIndia",
-      "link": "https://timesofindia.indiatimes.com/world/middle-east/at-least-33-killed-in-saudi-airstrikes-on-yemen-village-most-casualties-women-children/articleshow/135649654.cms",
-      "valence": -0.762,
-      "impact": 0.952,
+      "title": "Iran suggests blasts are not U.S. attacks as both sides report ships hit",
+      "source": "JapanTimes",
+      "link": "https://www.japantimes.co.jp/news/2026/11/09/world/iran-us-ship-attacks/",
+      "valence": -0.905,
+      "impact": 0.88,
       "outlets": 1
     }
   ],
