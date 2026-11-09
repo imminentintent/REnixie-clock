@@ -1,15 +1,15 @@
 {
-  "divergence": "1.034828",
+  "divergence": "1.026389",
   "field": "beta",
-  "updated_at": "2026-11-09T07:04:18+00:00",
-  "z": -0.567,
+  "updated_at": "2026-11-09T08:43:14+00:00",
+  "z": -0.914,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 34,
+  "new_stories": 40,
   "climate": {
-    "fast": -0.4924,
-    "slow": -0.4941,
-    "normal": -0.4763,
+    "fast": -0.5105,
+    "slow": -0.4969,
+    "normal": -0.4764,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -78,25 +78,25 @@
       "outlets": 1
     },
     {
+      "title": "What to know about the shooting in the Polish city of Krakow that killed 6 people",
+      "source": "ABCNews",
+      "link": "https://abcnews.com/International/wireStory/shooting-polish-city-krakow-killed-6-people-137952518",
+      "valence": -0.935,
+      "impact": 0.88,
+      "outlets": 1
+    },
+    {
       "title": "One dead in Russia after Ukraine drone attack - as emergency workers struck by Moscow",
       "source": "SkyNews",
       "link": "https://news.sky.com/story/one-dead-in-russia-after-ukraine-drone-attack-as-emergency-workers-struck-by-moscow-13609678",
       "valence": -0.922,
       "impact": 0.88,
       "outlets": 1
-    },
-    {
-      "title": "Iran suggests blasts are not U.S. attacks as both sides report ships hit",
-      "source": "JapanTimes",
-      "link": "https://www.japantimes.co.jp/news/2026/11/09/world/iran-us-ship-attacks/",
-      "valence": -0.905,
-      "impact": 0.88,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
