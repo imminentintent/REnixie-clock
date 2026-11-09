@@ -1,15 +1,15 @@
 {
-  "divergence": "1.026389",
+  "divergence": "1.029047",
   "field": "beta",
-  "updated_at": "2026-11-09T08:43:14+00:00",
-  "z": -0.914,
+  "updated_at": "2026-11-09T09:48:57+00:00",
+  "z": -0.805,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 40,
+  "new_stories": 26,
   "climate": {
-    "fast": -0.5105,
-    "slow": -0.4969,
-    "normal": -0.4764,
+    "fast": -0.5049,
+    "slow": -0.4962,
+    "normal": -0.4765,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -35,14 +35,6 @@
       "link": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
       "valence": -0.947,
       "impact": 0.97,
-      "outlets": 1
-    },
-    {
-      "title": "Crew member missing as Indonesian water-bombing helicopter crashes",
-      "source": "CNA",
-      "link": "https://www.channelnewsasia.com/asia/indonesian-water-bombing-helicopter-crashes-crew-missing-6534066",
-      "valence": -0.964,
-      "impact": 0.952,
       "outlets": 1
     },
     {
@@ -92,11 +84,19 @@
       "valence": -0.922,
       "impact": 0.88,
       "outlets": 1
+    },
+    {
+      "title": "Iran suggests blasts are not U.S. attacks as both sides report ships hit",
+      "source": "JapanTimes",
+      "link": "https://www.japantimes.co.jp/news/2026/11/09/world/iran-us-ship-attacks/",
+      "valence": -0.905,
+      "impact": 0.88,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 36,
     "total": 38
   }
 }
