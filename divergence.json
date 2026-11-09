@@ -1,26 +1,18 @@
 {
-  "divergence": "1.020207",
+  "divergence": "1.018130",
   "field": "beta",
-  "updated_at": "2026-11-09T04:52:38+00:00",
-  "z": -1.168,
+  "updated_at": "2026-11-09T05:53:25+00:00",
+  "z": -1.254,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 15,
+  "new_stories": 25,
   "climate": {
-    "fast": -0.5237,
-    "slow": -0.4984,
-    "normal": -0.4761,
+    "fast": -0.5282,
+    "slow": -0.4993,
+    "normal": -0.4762,
     "spread": 0.03
   },
   "top_stories_24h": [
-    {
-      "title": "Two women, man found dead in Krakow mass-shooting suspect’s home, says Prime Minister",
-      "source": "TheHindu",
-      "link": "https://www.thehindu.com/news/international/people-found-dead-in-krakow-mass-shooting-suspects-home-says-prime-minister/article71680538.ece",
-      "valence": -0.989,
-      "impact": 0.976,
-      "outlets": 1
-    },
     {
       "title": "Rosstat hack: data obtained suggests over 390,000 Russian deaths in Ukraine war",
       "source": "Euronews",
@@ -92,11 +84,19 @@
       "valence": -0.905,
       "impact": 0.88,
       "outlets": 1
+    },
+    {
+      "title": "Drone attack on Iraqi Kurdistan gas field triggers mass blackout",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/drone-attack-on-iraqi-kurdistan-gas-field-triggers-mass-blackout?traffic_source=rss",
+      "valence": -0.885,
+      "impact": 0.88,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
