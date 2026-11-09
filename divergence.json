@@ -1,15 +1,15 @@
 {
-  "divergence": "1.018130",
+  "divergence": "1.034828",
   "field": "beta",
-  "updated_at": "2026-11-09T05:53:25+00:00",
-  "z": -1.254,
+  "updated_at": "2026-11-09T07:04:18+00:00",
+  "z": -0.567,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 25,
+  "new_stories": 34,
   "climate": {
-    "fast": -0.5282,
-    "slow": -0.4993,
-    "normal": -0.4762,
+    "fast": -0.4924,
+    "slow": -0.4941,
+    "normal": -0.4763,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -70,6 +70,14 @@
       "outlets": 1
     },
     {
+      "title": "What to know about upcoming peace talks involving Russian, Ukrainian and U.S. officials",
+      "source": "TheHindu",
+      "link": "https://www.thehindu.com/news/international/russia-ukraine-us-peace-talks-in-abu-dhabi-on-november-10-2026/article71681520.ece",
+      "valence": 0.905,
+      "impact": 0.895,
+      "outlets": 1
+    },
+    {
       "title": "One dead in Russia after Ukraine drone attack - as emergency workers struck by Moscow",
       "source": "SkyNews",
       "link": "https://news.sky.com/story/one-dead-in-russia-after-ukraine-drone-attack-as-emergency-workers-struck-by-moscow-13609678",
@@ -84,19 +92,11 @@
       "valence": -0.905,
       "impact": 0.88,
       "outlets": 1
-    },
-    {
-      "title": "Drone attack on Iraqi Kurdistan gas field triggers mass blackout",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/drone-attack-on-iraqi-kurdistan-gas-field-triggers-mass-blackout?traffic_source=rss",
-      "valence": -0.885,
-      "impact": 0.88,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
