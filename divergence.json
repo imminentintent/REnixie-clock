@@ -1,15 +1,15 @@
 {
-  "divergence": "1.016871",
+  "divergence": "1.017541",
   "field": "beta",
-  "updated_at": "2026-11-08T23:33:36+00:00",
-  "z": -1.306,
+  "updated_at": "2026-11-09T00:37:06+00:00",
+  "z": -1.278,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 6,
+  "new_stories": 15,
   "climate": {
-    "fast": -0.5311,
+    "fast": -0.5296,
     "slow": -0.498,
-    "normal": -0.4755,
+    "normal": -0.4756,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -43,14 +43,6 @@
       "link": "https://www.channelnewsasia.com/asia/indonesian-water-bombing-helicopter-crashes-crew-missing-6534066",
       "valence": -0.964,
       "impact": 0.952,
-      "outlets": 1
-    },
-    {
-      "title": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
-      "valence": -0.935,
-      "impact": 0.96,
       "outlets": 1
     },
     {
@@ -91,6 +83,14 @@
       "link": "https://timesofindia.indiatimes.com/world/middle-east/at-least-33-killed-in-saudi-airstrikes-on-yemen-village-most-casualties-women-children/articleshow/135649654.cms",
       "valence": -0.762,
       "impact": 0.952,
+      "outlets": 1
+    },
+    {
+      "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
+      "valence": -0.834,
+      "impact": 0.88,
       "outlets": 1
     }
   ],
