@@ -1,15 +1,15 @@
 {
-  "divergence": "1.051649",
+  "divergence": "1.051826",
   "field": "beta",
-  "updated_at": "2026-11-09T19:25:13+00:00",
-  "z": 0.126,
+  "updated_at": "2026-11-09T20:19:55+00:00",
+  "z": 0.133,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 45,
+  "new_stories": 38,
   "climate": {
-    "fast": -0.4593,
-    "slow": -0.4865,
-    "normal": -0.4767,
+    "fast": -0.4591,
+    "slow": -0.4863,
+    "normal": -0.4766,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -27,14 +27,6 @@
       "link": "https://www.thehindu.com/news/international/rubio-says-trumps-war-against-iran-not-necessarily-popular-but-needed-to-stop-a-nuclear-threat/article71681264.ece",
       "valence": -0.947,
       "impact": 0.976,
-      "outlets": 1
-    },
-    {
-      "title": "Iran threatens to ‘rain down hell’ if US escalates war",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
-      "valence": -0.947,
-      "impact": 0.97,
       "outlets": 1
     },
     {
@@ -92,11 +84,19 @@
       "valence": -0.935,
       "impact": 0.88,
       "outlets": 1
+    },
+    {
+      "title": "Storm killed five in Gaza as sandstone slab collapsed onto tents",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/09/storm-killed-five-in-gaza-as-sandstone-slab-collapsed-onto-tents",
+      "valence": -0.935,
+      "impact": 0.88,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
