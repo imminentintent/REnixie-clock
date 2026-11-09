@@ -1,14 +1,14 @@
 {
-  "divergence": "1.032711",
+  "divergence": "1.044969",
   "field": "beta",
-  "updated_at": "2026-11-09T14:08:23+00:00",
-  "z": -0.654,
+  "updated_at": "2026-11-09T15:21:22+00:00",
+  "z": -0.149,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 52,
+  "new_stories": 60,
   "climate": {
-    "fast": -0.4975,
-    "slow": -0.4948,
+    "fast": -0.4723,
+    "slow": -0.4899,
     "normal": -0.4766,
     "spread": 0.03
   },
@@ -54,14 +54,6 @@
       "outlets": 1
     },
     {
-      "title": "Four dead and 88 injured in train crash near Cairo",
-      "source": "SkyNews",
-      "link": "https://news.sky.com/story/four-dead-and-88-injured-in-train-crash-near-cairo-13609748",
-      "valence": -0.964,
-      "impact": 0.904,
-      "outlets": 1
-    },
-    {
       "title": "What to know about upcoming peace talks involving Russian, Ukrainian and U.S. officials",
       "source": "TheHindu",
       "link": "https://www.thehindu.com/news/international/russia-ukraine-us-peace-talks-in-abu-dhabi-on-november-10-2026/article71681520.ece",
@@ -89,6 +81,14 @@
       "title": "What to know about the shooting in the Polish city of Krakow that killed 6 people",
       "source": "ABCNews",
       "link": "https://abcnews.com/International/wireStory/shooting-polish-city-krakow-killed-6-people-137952518",
+      "valence": -0.935,
+      "impact": 0.88,
+      "outlets": 1
+    },
+    {
+      "title": "Storm killed five in Gaza as sandstone slab collapsed onto tents",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/09/storm-killed-five-in-gaza-as-sandstone-slab-collapsed-onto-tents",
       "valence": -0.935,
       "impact": 0.88,
       "outlets": 1
