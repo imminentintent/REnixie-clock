@@ -1,15 +1,15 @@
 {
-  "divergence": "1.035988",
+  "divergence": "1.029409",
   "field": "beta",
-  "updated_at": "2026-11-10T11:15:40+00:00",
-  "z": -0.519,
+  "updated_at": "2026-11-10T12:12:42+00:00",
+  "z": -0.79,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 38,
+  "new_stories": 45,
   "climate": {
-    "fast": -0.4936,
-    "slow": -0.4917,
-    "normal": -0.4771,
+    "fast": -0.5071,
+    "slow": -0.4946,
+    "normal": -0.4772,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -18,14 +18,6 @@
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/europe/spanish-police-officer-killed-another-injured-in-blast-after-family-dispute",
       "valence": -0.97,
-      "impact": 1.0,
-      "outlets": 2
-    },
-    {
-      "title": "Explosion at steel plant in Turkey kills at least six, officials say",
-      "source": "SkyNews",
-      "link": "https://news.sky.com/story/explosion-at-steel-plant-in-turkey-kills-at-least-six-officials-say-13610161",
-      "valence": -0.935,
       "impact": 1.0,
       "outlets": 2
     },
@@ -78,6 +70,14 @@
       "outlets": 2
     },
     {
+      "title": "Eight people killed in Kenya's northeast in suspected al Shabaab attack",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/eight-people-killed-in-kenyas-northeast-in-suspected-al-shabaab-attack",
+      "valence": -0.935,
+      "impact": 0.91,
+      "outlets": 1
+    },
+    {
       "title": "South African police arrest 9 foreigners for trying to join Russia-Ukraine war",
       "source": "ABCNews",
       "link": "https://abcnews.com/International/wireStory/south-african-police-arrest-9-foreign-nationals-suspected-137970412",
@@ -86,12 +86,12 @@
       "outlets": 1
     },
     {
-      "title": "Security Council LIVE: Strikes on Ukraine’s power grid, as peace talks loom",
-      "source": "UNNews",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168761",
-      "valence": 0.905,
-      "impact": 0.895,
-      "outlets": 1
+      "title": "Suspect in Charlie Kirk killing to stand trial for murder in July 2028",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/09/charlie-kirk-murder-trial",
+      "valence": -0.716,
+      "impact": 1.0,
+      "outlets": 2
     }
   ],
   "version": "1.0",
