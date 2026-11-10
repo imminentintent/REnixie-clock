@@ -1,15 +1,15 @@
 {
-  "divergence": "1.025882",
+  "divergence": "1.026134",
   "field": "beta",
-  "updated_at": "2026-11-10T19:41:14+00:00",
-  "z": -0.935,
+  "updated_at": "2026-11-10T20:34:38+00:00",
+  "z": -0.924,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 39,
+  "new_stories": 38,
   "climate": {
-    "fast": -0.5137,
+    "fast": -0.5131,
     "slow": -0.4979,
-    "normal": -0.4778,
+    "normal": -0.4779,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -28,6 +28,14 @@
       "valence": 0.905,
       "impact": 1.0,
       "outlets": 2
+    },
+    {
+      "title": "Sudan war: First ‘suicide’ drone attacks, now long-range strikes are the norm",
+      "source": "UNNews",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168771",
+      "valence": -0.947,
+      "impact": 0.97,
+      "outlets": 1
     },
     {
       "title": "Guinea-Bissau to investigate killing of rapper who criticised coup leaders",
@@ -83,14 +91,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
       "valence": -0.964,
       "impact": 0.91,
-      "outlets": 1
-    },
-    {
-      "title": "Vanishing vessels and missing sailors: The Iran war’s human cost at sea",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/middle-east/vanishing-vessels-and-missing-sailors-the-iran-wars-human-cost-at-sea",
-      "valence": -0.885,
-      "impact": 0.94,
       "outlets": 1
     }
   ],
