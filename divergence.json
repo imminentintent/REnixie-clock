@@ -1,15 +1,15 @@
 {
-  "divergence": "1.031784",
+  "divergence": "1.026726",
   "field": "beta",
-  "updated_at": "2026-11-10T13:33:36+00:00",
-  "z": -0.692,
+  "updated_at": "2026-11-10T14:42:27+00:00",
+  "z": -0.9,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 66,
+  "new_stories": 73,
   "climate": {
-    "fast": -0.5021,
-    "slow": -0.4939,
-    "normal": -0.4773,
+    "fast": -0.5121,
+    "slow": -0.4965,
+    "normal": -0.4774,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -20,6 +20,22 @@
       "valence": -0.97,
       "impact": 1.0,
       "outlets": 2
+    },
+    {
+      "title": "US seeks to bridge gaps at first Russia-Ukraine peace talks in nine months",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/europe/trump-envoys-bring-russia-and-ukraine-together-for-first-peace-talks-in-9-months",
+      "valence": 0.905,
+      "impact": 1.0,
+      "outlets": 2
+    },
+    {
+      "title": "Guinea-Bissau to investigate killing of rapper who criticised coup leaders",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/guinea-bissau-to-investigate-killing-of-rapper-who-criticised-coup-leaders",
+      "valence": -0.956,
+      "impact": 0.955,
+      "outlets": 1
     },
     {
       "title": "Houthi rebels say at least 44 killed in airstrike near Yemeni capital",
@@ -70,33 +86,17 @@
       "outlets": 2
     },
     {
-      "title": "Eight people killed in Kenya's northeast in suspected al Shabaab attack",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/eight-people-killed-in-kenyas-northeast-in-suspected-al-shabaab-attack",
-      "valence": -0.935,
+      "title": "Police officer dies and another injured after backpack explosion in northern Spain",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
+      "valence": -0.964,
       "impact": 0.91,
-      "outlets": 1
-    },
-    {
-      "title": "South African police arrest 9 foreigners for trying to join Russia-Ukraine war",
-      "source": "ABCNews",
-      "link": "https://abcnews.com/International/wireStory/south-african-police-arrest-9-foreign-nationals-suspected-137970412",
-      "valence": -0.862,
-      "impact": 0.93,
-      "outlets": 1
-    },
-    {
-      "title": "Trump envoys bring Russia and Ukraine together for first peace talks in 9 months",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/trump-envoys-bring-russia-and-ukraine-together-for-first-peace-talks-in-9-months",
-      "valence": 0.905,
-      "impact": 0.895,
       "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 36,
     "total": 38
   }
 }
