@@ -1,15 +1,15 @@
 {
-  "divergence": "1.038153",
+  "divergence": "1.040944",
   "field": "beta",
-  "updated_at": "2026-11-09T23:59:56+00:00",
-  "z": -0.43,
+  "updated_at": "2026-11-10T00:55:47+00:00",
+  "z": -0.315,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 21,
+  "new_stories": 36,
   "climate": {
-    "fast": -0.488,
-    "slow": -0.4912,
-    "normal": -0.4767,
+    "fast": -0.4823,
+    "slow": -0.4901,
+    "normal": -0.4768,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -43,6 +43,14 @@
       "link": "https://www.straitstimes.com/world/europe/thousands-participate-in-silent-march-after-krakow-mass-shooting-that-shocked-the-nation",
       "valence": -0.947,
       "impact": 0.94,
+      "outlets": 1
+    },
+    {
+      "title": "Gatineau Park foliage reveals local Cold War nuclear testing legacy",
+      "source": "PhysOrg",
+      "link": "https://phys.org/news/2026-11-gatineau-foliage-reveals-local-cold.html",
+      "valence": -0.885,
+      "impact": 0.96,
       "outlets": 1
     },
     {
@@ -84,19 +92,11 @@
       "valence": -0.935,
       "impact": 0.88,
       "outlets": 1
-    },
-    {
-      "title": "Storm killed five in Gaza as sandstone slab collapsed onto tents",
-      "source": "Euronews",
-      "link": "https://www.euronews.com/2026/11/09/storm-killed-five-in-gaza-as-sandstone-slab-collapsed-onto-tents",
-      "valence": -0.935,
-      "impact": 0.88,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
