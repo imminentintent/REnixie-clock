@@ -1,14 +1,14 @@
 {
-  "divergence": "1.042732",
+  "divergence": "1.037579",
   "field": "beta",
-  "updated_at": "2026-11-10T03:39:19+00:00",
-  "z": -0.241,
+  "updated_at": "2026-11-10T04:41:54+00:00",
+  "z": -0.453,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 27,
+  "new_stories": 20,
   "climate": {
-    "fast": -0.4788,
-    "slow": -0.4894,
+    "fast": -0.4897,
+    "slow": -0.4914,
     "normal": -0.4769,
     "spread": 0.03
   },
@@ -54,6 +54,14 @@
       "outlets": 1
     },
     {
+      "title": "South African police arrest 9 foreigners for trying to join Russia-Ukraine war",
+      "source": "ABCNews",
+      "link": "https://abcnews.com/International/wireStory/south-african-police-arrest-9-foreign-nationals-suspected-137970412",
+      "valence": -0.862,
+      "impact": 0.93,
+      "outlets": 1
+    },
+    {
       "title": "What to know about upcoming peace talks involving Russian, Ukrainian and U.S. officials",
       "source": "TheHindu",
       "link": "https://www.thehindu.com/news/international/russia-ukraine-us-peace-talks-in-abu-dhabi-on-november-10-2026/article71681520.ece",
@@ -84,19 +92,11 @@
       "valence": 0.905,
       "impact": 0.895,
       "outlets": 1
-    },
-    {
-      "title": "What to know about the shooting in the Polish city of Krakow that killed 6 people",
-      "source": "ABCNews",
-      "link": "https://abcnews.com/International/wireStory/shooting-polish-city-krakow-killed-6-people-137952518",
-      "valence": -0.935,
-      "impact": 0.88,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 36,
     "total": 38
   }
 }
