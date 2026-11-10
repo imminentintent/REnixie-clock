@@ -1,15 +1,15 @@
 {
-  "divergence": "1.026134",
+  "divergence": "1.026500",
   "field": "beta",
-  "updated_at": "2026-11-10T20:34:38+00:00",
-  "z": -0.924,
+  "updated_at": "2026-11-10T21:29:57+00:00",
+  "z": -0.909,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 38,
+  "new_stories": 37,
   "climate": {
-    "fast": -0.5131,
+    "fast": -0.5124,
     "slow": -0.4979,
-    "normal": -0.4779,
+    "normal": -0.478,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -43,14 +43,6 @@
       "link": "https://www.straitstimes.com/world/guinea-bissau-to-investigate-killing-of-rapper-who-criticised-coup-leaders",
       "valence": -0.956,
       "impact": 0.955,
-      "outlets": 1
-    },
-    {
-      "title": "Thousands participate in silent march after Krakow mass shooting that shocked the nation",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/thousands-participate-in-silent-march-after-krakow-mass-shooting-that-shocked-the-nation",
-      "valence": -0.947,
-      "impact": 0.94,
       "outlets": 1
     },
     {
@@ -91,6 +83,14 @@
       "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
       "valence": -0.964,
       "impact": 0.91,
+      "outlets": 1
+    },
+    {
+      "title": "Vanishing vessels and missing sailors: The Iran war’s human cost at sea",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/middle-east/vanishing-vessels-and-missing-sailors-the-iran-wars-human-cost-at-sea",
+      "valence": -0.885,
+      "impact": 0.94,
       "outlets": 1
     }
   ],
