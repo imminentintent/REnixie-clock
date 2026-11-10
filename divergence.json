@@ -1,15 +1,15 @@
 {
-  "divergence": "1.023051",
+  "divergence": "1.023678",
   "field": "beta",
-  "updated_at": "2026-11-10T15:36:15+00:00",
-  "z": -1.051,
+  "updated_at": "2026-11-10T16:39:50+00:00",
+  "z": -1.026,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 40,
+  "new_stories": 46,
   "climate": {
-    "fast": -0.5194,
-    "slow": -0.4984,
-    "normal": -0.4775,
+    "fast": -0.5181,
+    "slow": -0.4983,
+    "normal": -0.4776,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -35,14 +35,6 @@
       "link": "https://www.straitstimes.com/world/guinea-bissau-to-investigate-killing-of-rapper-who-criticised-coup-leaders",
       "valence": -0.956,
       "impact": 0.955,
-      "outlets": 1
-    },
-    {
-      "title": "Houthi rebels say at least 44 killed in airstrike near Yemeni capital",
-      "source": "TheHindu",
-      "link": "https://www.thehindu.com/news/international/houthi-rebels-say-at-least-44-killed-in-airstrike-near-yemeni-capital/article71683574.ece",
-      "valence": -0.956,
-      "impact": 0.94,
       "outlets": 1
     },
     {
@@ -91,6 +83,14 @@
       "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
       "valence": -0.964,
       "impact": 0.91,
+      "outlets": 1
+    },
+    {
+      "title": "Vanishing vessels and missing sailors: The Iran war’s human cost at sea",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/middle-east/vanishing-vessels-and-missing-sailors-the-iran-wars-human-cost-at-sea",
+      "valence": -0.885,
+      "impact": 0.94,
       "outlets": 1
     }
   ],
