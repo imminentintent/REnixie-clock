@@ -1,18 +1,26 @@
 {
-  "divergence": "1.043442",
+  "divergence": "1.041235",
   "field": "beta",
-  "updated_at": "2026-11-10T09:16:08+00:00",
-  "z": -0.212,
+  "updated_at": "2026-11-10T10:19:12+00:00",
+  "z": -0.303,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 28,
+  "new_stories": 59,
   "climate": {
-    "fast": -0.4779,
-    "slow": -0.4889,
+    "fast": -0.4827,
+    "slow": -0.4896,
     "normal": -0.4771,
     "spread": 0.03
   },
   "top_stories_24h": [
+    {
+      "title": "Spanish police officer killed, another injured in blast after family dispute",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/europe/spanish-police-officer-killed-another-injured-in-blast-after-family-dispute",
+      "valence": -0.97,
+      "impact": 1.0,
+      "outlets": 2
+    },
     {
       "title": "Explosion at steel plant in Turkey kills at least six, officials say",
       "source": "SkyNews",
@@ -70,14 +78,6 @@
       "outlets": 1
     },
     {
-      "title": "Iran defends two-day proposal for peace talks after US rejects conditions",
-      "source": "CNA",
-      "link": "https://www.channelnewsasia.com/world/iran-defends-peace-talks-proposal-us-6535786",
-      "valence": 0.905,
-      "impact": 0.895,
-      "outlets": 1
-    },
-    {
       "title": "US-led peace talks for Russia and Ukraine will look at security guarantees for both sides",
       "source": "ABCNews",
       "link": "https://abcnews.com/International/wireStory/us-led-peace-talks-russia-ukraine-security-guarantees-137966016",
@@ -96,7 +96,7 @@
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
