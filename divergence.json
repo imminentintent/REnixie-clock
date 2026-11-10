@@ -1,14 +1,14 @@
 {
-  "divergence": "1.040944",
+  "divergence": "1.036536",
   "field": "beta",
-  "updated_at": "2026-11-10T00:55:47+00:00",
-  "z": -0.315,
+  "updated_at": "2026-11-10T01:52:59+00:00",
+  "z": -0.496,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 36,
+  "new_stories": 30,
   "climate": {
-    "fast": -0.4823,
-    "slow": -0.4901,
+    "fast": -0.4916,
+    "slow": -0.4917,
     "normal": -0.4768,
     "spread": 0.03
   },
@@ -20,14 +20,6 @@
       "valence": -0.935,
       "impact": 1.0,
       "outlets": 2
-    },
-    {
-      "title": "Rubio says Trump's war against Iran not 'necessarily popular' but needed to stop a nuclear threat",
-      "source": "TheHindu",
-      "link": "https://www.thehindu.com/news/international/rubio-says-trumps-war-against-iran-not-necessarily-popular-but-needed-to-stop-a-nuclear-threat/article71681264.ece",
-      "valence": -0.947,
-      "impact": 0.976,
-      "outlets": 1
     },
     {
       "title": "Houthi rebels say at least 44 killed in airstrike near Yemeni capital",
@@ -42,6 +34,14 @@
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/europe/thousands-participate-in-silent-march-after-krakow-mass-shooting-that-shocked-the-nation",
       "valence": -0.947,
+      "impact": 0.94,
+      "outlets": 1
+    },
+    {
+      "title": "Teenager who planned terror attack in Sydney tells court he was radicalised online and used AI to strategise",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/10/teen-planned-sydney-terror-attack-using-chatgpt-radicalised-tiktok-ntwnfb",
+      "valence": -0.935,
       "impact": 0.94,
       "outlets": 1
     },
