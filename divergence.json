@@ -1,14 +1,14 @@
 {
-  "divergence": "1.041235",
+  "divergence": "1.035988",
   "field": "beta",
-  "updated_at": "2026-11-10T10:19:12+00:00",
-  "z": -0.303,
+  "updated_at": "2026-11-10T11:15:40+00:00",
+  "z": -0.519,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 59,
+  "new_stories": 38,
   "climate": {
-    "fast": -0.4827,
-    "slow": -0.4896,
+    "fast": -0.4936,
+    "slow": -0.4917,
     "normal": -0.4771,
     "spread": 0.03
   },
@@ -46,6 +46,14 @@
       "outlets": 1
     },
     {
+      "title": "Fact check: Online disinformation rife after Krakow mass shooting",
+      "source": "DW",
+      "link": "https://www.dw.com/en/fact-check-online-disinformation-rife-after-krakow-mass-shooting/a-79900620?maca=en-rss-en-world-4025-rdf",
+      "valence": -0.947,
+      "impact": 0.94,
+      "outlets": 1
+    },
+    {
       "title": "Teenager who planned terror attack in Sydney tells court he was radicalised online and used AI to strategise",
       "source": "Guardian",
       "link": "https://www.theguardian.com/australia-news/2026/nov/10/teen-planned-sydney-terror-attack-using-chatgpt-radicalised-tiktok-ntwnfb",
@@ -75,14 +83,6 @@
       "link": "https://abcnews.com/International/wireStory/south-african-police-arrest-9-foreign-nationals-suspected-137970412",
       "valence": -0.862,
       "impact": 0.93,
-      "outlets": 1
-    },
-    {
-      "title": "US-led peace talks for Russia and Ukraine will look at security guarantees for both sides",
-      "source": "ABCNews",
-      "link": "https://abcnews.com/International/wireStory/us-led-peace-talks-russia-ukraine-security-guarantees-137966016",
-      "valence": 0.905,
-      "impact": 0.895,
       "outlets": 1
     },
     {
