@@ -1,14 +1,14 @@
 {
-  "divergence": "1.030186",
+  "divergence": "1.044263",
   "field": "beta",
-  "updated_at": "2026-11-10T05:42:40+00:00",
-  "z": -0.758,
+  "updated_at": "2026-11-10T06:49:05+00:00",
+  "z": -0.178,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 27,
+  "new_stories": 47,
   "climate": {
-    "fast": -0.5051,
-    "slow": -0.4943,
+    "fast": -0.4759,
+    "slow": -0.4889,
     "normal": -0.477,
     "spread": 0.03
   },
@@ -70,14 +70,6 @@
       "outlets": 1
     },
     {
-      "title": "What to know about upcoming peace talks involving Russian, Ukrainian and U.S. officials",
-      "source": "TheHindu",
-      "link": "https://www.thehindu.com/news/international/russia-ukraine-us-peace-talks-in-abu-dhabi-on-november-10-2026/article71681520.ece",
-      "valence": 0.905,
-      "impact": 0.895,
-      "outlets": 1
-    },
-    {
       "title": "Iran defends two-day proposal for peace talks after US rejects conditions",
       "source": "CNA",
       "link": "https://www.channelnewsasia.com/world/iran-defends-peace-talks-proposal-us-6535786",
@@ -89,6 +81,14 @@
       "title": "US-led peace talks for Russia and Ukraine will look at security guarantees for both sides",
       "source": "ABCNews",
       "link": "https://abcnews.com/International/wireStory/us-led-peace-talks-russia-ukraine-security-guarantees-137966016",
+      "valence": 0.905,
+      "impact": 0.895,
+      "outlets": 1
+    },
+    {
+      "title": "Security Council LIVE: Strikes on Ukraine’s power grid, as peace talks loom",
+      "source": "UNNews",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168761",
       "valence": 0.905,
       "impact": 0.895,
       "outlets": 1
