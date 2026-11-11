@@ -1,14 +1,14 @@
 {
-  "divergence": "1.035641",
+  "divergence": "1.048317",
   "field": "beta",
-  "updated_at": "2026-11-11T12:19:51+00:00",
-  "z": -0.533,
+  "updated_at": "2026-11-11T13:40:42+00:00",
+  "z": -0.011,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 51,
+  "new_stories": 70,
   "climate": {
-    "fast": -0.4943,
-    "slow": -0.4956,
+    "fast": -0.4686,
+    "slow": -0.4901,
     "normal": -0.479,
     "spread": 0.03
   },
@@ -26,14 +26,6 @@
       "source": "BBC",
       "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
       "valence": -0.922,
-      "impact": 1.0,
-      "outlets": 2
-    },
-    {
-      "title": "US seeks to bridge gaps at first Russia-Ukraine peace talks in nine months",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/trump-envoys-bring-russia-and-ukraine-together-for-first-peace-talks-in-9-months",
-      "valence": 0.905,
       "impact": 1.0,
       "outlets": 2
     },
@@ -78,25 +70,33 @@
       "outlets": 1
     },
     {
-      "title": "Attacks escalate between Saudi-led forces and Yemen’s Iran-backed Houthis",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/attacks-escalate-between-saudi-led-forces-and-yemens-iran-backed-houthis?traffic_source=rss",
-      "valence": -0.922,
-      "impact": 0.91,
-      "outlets": 1
-    },
-    {
       "title": "Scientists Warn of a Growing Tsunami Threat Lurking in Greenland's Fjords",
       "source": "ScienceAlert",
       "link": "https://www.sciencealert.com/scientists-warn-of-a-growing-tsunami-threat-lurking-in-greenlands-fjords",
       "valence": -0.885,
       "impact": 0.91,
       "outlets": 1
+    },
+    {
+      "title": "US envoys to meet Putin and Zelenskyy separately after peace talks see some progress - Europe Live",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
+      "valence": 0.905,
+      "impact": 0.895,
+      "outlets": 1
+    },
+    {
+      "title": "Spain holds state funeral for 69 killed in high-speed rail crash",
+      "source": "ABCNews",
+      "link": "https://abcnews.com/International/wireStory/spain-holds-state-funeral-69-killed-high-speed-138022635",
+      "valence": -0.922,
+      "impact": 0.88,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
