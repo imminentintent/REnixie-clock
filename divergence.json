@@ -1,15 +1,15 @@
 {
-  "divergence": "1.038011",
+  "divergence": "1.040079",
   "field": "beta",
-  "updated_at": "2026-11-11T10:25:15+00:00",
-  "z": -0.436,
+  "updated_at": "2026-11-11T11:22:09+00:00",
+  "z": -0.351,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 48,
+  "new_stories": 33,
   "climate": {
-    "fast": -0.4892,
-    "slow": -0.4947,
-    "normal": -0.4789,
+    "fast": -0.4851,
+    "slow": -0.4938,
+    "normal": -0.479,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -62,6 +62,14 @@
       "outlets": 1
     },
     {
+      "title": "At least 300 Italian schools evacuated after email bomb alerts",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/europe/at-least-300-italian-schools-evacuated-after-email-bomb-alerts",
+      "valence": -0.922,
+      "impact": 0.92,
+      "outlets": 1
+    },
+    {
       "title": "Eight people killed in Kenya's northeast in suspected al Shabaab attack",
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/eight-people-killed-in-kenyas-northeast-in-suspected-al-shabaab-attack",
@@ -82,14 +90,6 @@
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/attacks-escalate-between-saudi-led-forces-and-yemens-iran-backed-houthis?traffic_source=rss",
       "valence": -0.922,
-      "impact": 0.91,
-      "outlets": 1
-    },
-    {
-      "title": "Scientists Warn of a Growing Tsunami Threat Lurking in Greenland's Fjords",
-      "source": "ScienceAlert",
-      "link": "https://www.sciencealert.com/scientists-warn-of-a-growing-tsunami-threat-lurking-in-greenlands-fjords",
-      "valence": -0.885,
       "impact": 0.91,
       "outlets": 1
     }
