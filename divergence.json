@@ -1,14 +1,14 @@
 {
-  "divergence": "1.023342",
+  "divergence": "1.024229",
   "field": "beta",
-  "updated_at": "2026-11-10T23:58:04+00:00",
-  "z": -1.039,
+  "updated_at": "2026-11-11T00:48:19+00:00",
+  "z": -1.003,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 25,
+  "new_stories": 29,
   "climate": {
-    "fast": -0.5188,
-    "slow": -0.4999,
+    "fast": -0.517,
+    "slow": -0.4997,
     "normal": -0.4783,
     "spread": 0.03
   },
@@ -18,6 +18,14 @@
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/europe/spanish-police-officer-killed-another-injured-in-blast-after-family-dispute",
       "valence": -0.97,
+      "impact": 1.0,
+      "outlets": 2
+    },
+    {
+      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+      "valence": -0.922,
       "impact": 1.0,
       "outlets": 2
     },
@@ -70,14 +78,6 @@
       "outlets": 1
     },
     {
-      "title": "Gatineau Park foliage reveals local Cold War nuclear testing legacy",
-      "source": "PhysOrg",
-      "link": "https://phys.org/news/2026-11-gatineau-foliage-reveals-local-cold.html",
-      "valence": -0.885,
-      "impact": 0.96,
-      "outlets": 1
-    },
-    {
       "title": "US aircraft evacuated from second British base due to Iran threat: Wall Street Journal",
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/europe/us-aircraft-evacuated-from-second-uk-base-due-to-iran-threat-wsj-reports",
@@ -96,7 +96,7 @@
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
