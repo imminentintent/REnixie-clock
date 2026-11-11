@@ -1,14 +1,14 @@
 {
-  "divergence": "1.039491",
+  "divergence": "1.038823",
   "field": "beta",
-  "updated_at": "2026-11-11T22:24:58+00:00",
-  "z": -0.375,
+  "updated_at": "2026-11-11T23:16:24+00:00",
+  "z": -0.402,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 28,
+  "new_stories": 21,
   "climate": {
-    "fast": -0.4878,
-    "slow": -0.493,
+    "fast": -0.4893,
+    "slow": -0.4933,
     "normal": -0.4792,
     "spread": 0.03
   },
@@ -43,14 +43,6 @@
       "link": "https://timesofindia.indiatimes.com/world/europe/france-fears-german-long-range-missiles-could-trigger-nuclear-escalation-with-russia/articleshow/135739089.cms",
       "valence": -0.964,
       "impact": 0.964,
-      "outlets": 1
-    },
-    {
-      "title": "3 charged in U.S. with planning terror attacks, including alleged planned assault on British airbase",
-      "source": "CBC",
-      "link": "https://www.cbc.ca/news/world/us-charges-3-with-planning-terror-attacks-uk-airbase-9.7417230?cmp=rss",
-      "valence": -0.935,
-      "impact": 0.94,
       "outlets": 1
     },
     {
@@ -91,6 +83,14 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/gaza-goalkeeper-killed-in-israeli-attack?traffic_source=rss",
       "valence": -0.935,
       "impact": 0.91,
+      "outlets": 1
+    },
+    {
+      "title": "Drone attack triggers fire in Russia’s Baltic port of Ust-Luga, Ukraine says it launched attack",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/europe/drone-attack-triggers-fire-in-russias-baltic-port-of-ust-luga-ukraine-says-it-launched-attack",
+      "valence": -0.862,
+      "impact": 0.946,
       "outlets": 1
     }
   ],
