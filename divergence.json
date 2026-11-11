@@ -1,14 +1,14 @@
 {
-  "divergence": "1.041772",
+  "divergence": "1.042625",
   "field": "beta",
-  "updated_at": "2026-11-11T19:49:04+00:00",
-  "z": -0.281,
+  "updated_at": "2026-11-11T21:21:46+00:00",
+  "z": -0.246,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 34,
+  "new_stories": 58,
   "climate": {
-    "fast": -0.4829,
-    "slow": -0.4923,
+    "fast": -0.4813,
+    "slow": -0.4917,
     "normal": -0.4792,
     "spread": 0.03
   },
@@ -25,6 +25,14 @@
       "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
       "source": "BBC",
       "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+      "valence": -0.922,
+      "impact": 1.0,
+      "outlets": 2
+    },
+    {
+      "title": "Driver faces DUI and murder charges after three killed in LA crash, officials say",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/10/los-angeles-vehicle-crash",
       "valence": -0.922,
       "impact": 1.0,
       "outlets": 2
@@ -78,25 +86,17 @@
       "outlets": 1
     },
     {
-      "title": "US envoys to meet Putin and Zelenskyy separately after peace talks see some progress - Europe Live",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
-      "valence": 0.905,
-      "impact": 0.895,
-      "outlets": 1
-    },
-    {
-      "title": "US envoys to meet Putin and Zelenskyy separately after peace talks see some progress - as it happened",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
-      "valence": 0.905,
-      "impact": 0.895,
+      "title": "Gaza goalkeeper killed in Israeli attack",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/gaza-goalkeeper-killed-in-israeli-attack?traffic_source=rss",
+      "valence": -0.935,
+      "impact": 0.91,
       "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
