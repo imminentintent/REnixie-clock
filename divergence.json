@@ -1,14 +1,14 @@
 {
-  "divergence": "1.025423",
+  "divergence": "1.024354",
   "field": "beta",
-  "updated_at": "2026-11-11T04:47:28+00:00",
-  "z": -0.954,
+  "updated_at": "2026-11-11T05:47:43+00:00",
+  "z": -0.998,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 27,
+  "new_stories": 23,
   "climate": {
-    "fast": -0.5146,
-    "slow": -0.4997,
+    "fast": -0.5168,
+    "slow": -0.5004,
     "normal": -0.4787,
     "spread": 0.03
   },
@@ -70,14 +70,6 @@
       "outlets": 1
     },
     {
-      "title": "US aircraft evacuated from second British base due to Iran threat: Wall Street Journal",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/us-aircraft-evacuated-from-second-uk-base-due-to-iran-threat-wsj-reports",
-      "valence": -0.8,
-      "impact": 1.0,
-      "outlets": 2
-    },
-    {
       "title": "Police officer dies and another injured after backpack explosion in northern Spain",
       "source": "BBC",
       "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
@@ -92,11 +84,19 @@
       "valence": -0.885,
       "impact": 0.94,
       "outlets": 1
+    },
+    {
+      "title": "Eight people killed in Kenya's northeast in suspected al Shabaab attack",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/eight-people-killed-in-kenyas-northeast-in-suspected-al-shabaab-attack",
+      "valence": -0.935,
+      "impact": 0.91,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
