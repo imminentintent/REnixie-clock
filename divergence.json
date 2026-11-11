@@ -1,26 +1,18 @@
 {
-  "divergence": "1.037546",
+  "divergence": "1.038011",
   "field": "beta",
-  "updated_at": "2026-11-11T09:21:38+00:00",
-  "z": -0.455,
+  "updated_at": "2026-11-11T10:25:15+00:00",
+  "z": -0.436,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 45,
+  "new_stories": 48,
   "climate": {
-    "fast": -0.4901,
-    "slow": -0.4949,
+    "fast": -0.4892,
+    "slow": -0.4947,
     "normal": -0.4789,
     "spread": 0.03
   },
   "top_stories_24h": [
-    {
-      "title": "Spanish police officer killed, another injured in blast after family dispute",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/spanish-police-officer-killed-another-injured-in-blast-after-family-dispute",
-      "valence": -0.97,
-      "impact": 1.0,
-      "outlets": 2
-    },
     {
       "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
       "source": "BBC",
@@ -54,14 +46,6 @@
       "outlets": 1
     },
     {
-      "title": "Fact check: Online disinformation rife after Krakow mass shooting",
-      "source": "DW",
-      "link": "https://www.dw.com/en/fact-check-online-disinformation-rife-after-krakow-mass-shooting/a-79900620?maca=en-rss-en-world-4025-rdf",
-      "valence": -0.947,
-      "impact": 0.94,
-      "outlets": 1
-    },
-    {
       "title": "3 charged in U.S. with planning terror attacks, including alleged planned assault on British airbase",
       "source": "CBC",
       "link": "https://www.cbc.ca/news/world/us-charges-3-with-planning-terror-attacks-uk-airbase-9.7417230?cmp=rss",
@@ -78,18 +62,34 @@
       "outlets": 1
     },
     {
-      "title": "Vanishing vessels and missing sailors: The Iran war’s human cost at sea",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/middle-east/vanishing-vessels-and-missing-sailors-the-iran-wars-human-cost-at-sea",
-      "valence": -0.885,
-      "impact": 0.94,
-      "outlets": 1
-    },
-    {
       "title": "Eight people killed in Kenya's northeast in suspected al Shabaab attack",
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/eight-people-killed-in-kenyas-northeast-in-suspected-al-shabaab-attack",
       "valence": -0.935,
+      "impact": 0.91,
+      "outlets": 1
+    },
+    {
+      "title": "Canadian Authorities Kill 4 Bears Involved in Deadly Attack on Hikers",
+      "source": "NYTimes",
+      "link": "https://www.nytimes.com/2026/11/10/world/canada/british-columbia-bear-attack.html",
+      "valence": -0.935,
+      "impact": 0.91,
+      "outlets": 1
+    },
+    {
+      "title": "Attacks escalate between Saudi-led forces and Yemen’s Iran-backed Houthis",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/attacks-escalate-between-saudi-led-forces-and-yemens-iran-backed-houthis?traffic_source=rss",
+      "valence": -0.922,
+      "impact": 0.91,
+      "outlets": 1
+    },
+    {
+      "title": "Scientists Warn of a Growing Tsunami Threat Lurking in Greenland's Fjords",
+      "source": "ScienceAlert",
+      "link": "https://www.sciencealert.com/scientists-warn-of-a-growing-tsunami-threat-lurking-in-greenlands-fjords",
+      "valence": -0.885,
       "impact": 0.91,
       "outlets": 1
     }
