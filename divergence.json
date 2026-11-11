@@ -1,14 +1,14 @@
 {
-  "divergence": "1.048317",
+  "divergence": "1.041239",
   "field": "beta",
-  "updated_at": "2026-11-11T13:40:42+00:00",
-  "z": -0.011,
+  "updated_at": "2026-11-11T14:44:16+00:00",
+  "z": -0.303,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 70,
+  "new_stories": 42,
   "climate": {
-    "fast": -0.4686,
-    "slow": -0.4901,
+    "fast": -0.4833,
+    "slow": -0.4929,
     "normal": -0.479,
     "spread": 0.03
   },
@@ -30,11 +30,11 @@
       "outlets": 2
     },
     {
-      "title": "Guinea-Bissau to investigate killing of rapper who criticised coup leaders",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/guinea-bissau-to-investigate-killing-of-rapper-who-criticised-coup-leaders",
-      "valence": -0.956,
-      "impact": 0.955,
+      "title": "France fears German long-range missiles could trigger nuclear escalation with Russia",
+      "source": "TimesOfIndia",
+      "link": "https://timesofindia.indiatimes.com/world/europe/france-fears-german-long-range-missiles-could-trigger-nuclear-escalation-with-russia/articleshow/135739089.cms",
+      "valence": -0.964,
+      "impact": 0.964,
       "outlets": 1
     },
     {
@@ -70,19 +70,19 @@
       "outlets": 1
     },
     {
-      "title": "Scientists Warn of a Growing Tsunami Threat Lurking in Greenland's Fjords",
-      "source": "ScienceAlert",
-      "link": "https://www.sciencealert.com/scientists-warn-of-a-growing-tsunami-threat-lurking-in-greenlands-fjords",
-      "valence": -0.885,
-      "impact": 0.91,
-      "outlets": 1
-    },
-    {
       "title": "US envoys to meet Putin and Zelenskyy separately after peace talks see some progress - Europe Live",
       "source": "Guardian",
       "link": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
       "valence": 0.905,
       "impact": 0.895,
+      "outlets": 1
+    },
+    {
+      "title": "British DJ named as one of six people killed in Krakow shooting",
+      "source": "SkyNews",
+      "link": "https://news.sky.com/story/british-dj-named-as-one-of-six-people-killed-in-krakow-shooting-13611042",
+      "valence": -0.935,
+      "impact": 0.88,
       "outlets": 1
     },
     {
@@ -96,7 +96,7 @@
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
