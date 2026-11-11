@@ -1,18 +1,26 @@
 {
-  "divergence": "1.040079",
+  "divergence": "1.035641",
   "field": "beta",
-  "updated_at": "2026-11-11T11:22:09+00:00",
-  "z": -0.351,
+  "updated_at": "2026-11-11T12:19:51+00:00",
+  "z": -0.533,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 33,
+  "new_stories": 51,
   "climate": {
-    "fast": -0.4851,
-    "slow": -0.4938,
+    "fast": -0.4943,
+    "slow": -0.4956,
     "normal": -0.479,
     "spread": 0.03
   },
   "top_stories_24h": [
+    {
+      "title": "'Genocide against Italians': Over 300 schools evacuated after bomb threats in Italy",
+      "source": "TimesOfIndia",
+      "link": "https://timesofindia.indiatimes.com/world/europe/genocide-against-italians-over-300-schools-evacuated-after-bomb-threats-in-italy/articleshow/135735451.cms",
+      "valence": -0.964,
+      "impact": 1.0,
+      "outlets": 4
+    },
     {
       "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
       "source": "BBC",
@@ -28,14 +36,6 @@
       "valence": 0.905,
       "impact": 1.0,
       "outlets": 2
-    },
-    {
-      "title": "Sudan war: First ‘suicide’ drone attacks, now long-range strikes are the norm",
-      "source": "UNNews",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168771",
-      "valence": -0.947,
-      "impact": 0.97,
-      "outlets": 1
     },
     {
       "title": "Guinea-Bissau to investigate killing of rapper who criticised coup leaders",
@@ -54,27 +54,11 @@
       "outlets": 1
     },
     {
-      "title": "Police officer dies and another injured after backpack explosion in northern Spain",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
-      "valence": -0.964,
-      "impact": 0.91,
-      "outlets": 1
-    },
-    {
       "title": "At least 300 Italian schools evacuated after email bomb alerts",
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/europe/at-least-300-italian-schools-evacuated-after-email-bomb-alerts",
       "valence": -0.922,
       "impact": 0.92,
-      "outlets": 1
-    },
-    {
-      "title": "Eight people killed in Kenya's northeast in suspected al Shabaab attack",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/eight-people-killed-in-kenyas-northeast-in-suspected-al-shabaab-attack",
-      "valence": -0.935,
-      "impact": 0.91,
       "outlets": 1
     },
     {
@@ -86,17 +70,33 @@
       "outlets": 1
     },
     {
+      "title": "Pakistan militant attack kills 10 policemen in KPK's Kohat, gunbattle still under way",
+      "source": "TimesOfIndia",
+      "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-militant-attack-kills-10-policemen-in-kpks-kohat-gunbattle-still-under-way/articleshow/135735108.cms",
+      "valence": -0.935,
+      "impact": 0.91,
+      "outlets": 1
+    },
+    {
       "title": "Attacks escalate between Saudi-led forces and Yemen’s Iran-backed Houthis",
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/attacks-escalate-between-saudi-led-forces-and-yemens-iran-backed-houthis?traffic_source=rss",
       "valence": -0.922,
       "impact": 0.91,
       "outlets": 1
+    },
+    {
+      "title": "Scientists Warn of a Growing Tsunami Threat Lurking in Greenland's Fjords",
+      "source": "ScienceAlert",
+      "link": "https://www.sciencealert.com/scientists-warn-of-a-growing-tsunami-threat-lurking-in-greenlands-fjords",
+      "valence": -0.885,
+      "impact": 0.91,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
