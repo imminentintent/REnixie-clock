@@ -1,15 +1,15 @@
 {
-  "divergence": "1.024229",
+  "divergence": "1.025445",
   "field": "beta",
-  "updated_at": "2026-11-11T00:48:19+00:00",
-  "z": -1.003,
+  "updated_at": "2026-11-11T01:52:29+00:00",
+  "z": -0.953,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 29,
+  "new_stories": 24,
   "climate": {
-    "fast": -0.517,
-    "slow": -0.4997,
-    "normal": -0.4783,
+    "fast": -0.5145,
+    "slow": -0.4993,
+    "normal": -0.4784,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -62,14 +62,6 @@
       "outlets": 1
     },
     {
-      "title": "Teenager who planned terror attack in Sydney tells court he was radicalised online and used AI to strategise",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/10/teen-planned-sydney-terror-attack-using-chatgpt-radicalised-tiktok-ntwnfb",
-      "valence": -0.935,
-      "impact": 0.94,
-      "outlets": 1
-    },
-    {
       "title": "3 charged in U.S. with planning terror attacks, including alleged planned assault on British airbase",
       "source": "CBC",
       "link": "https://www.cbc.ca/news/world/us-charges-3-with-planning-terror-attacks-uk-airbase-9.7417230?cmp=rss",
@@ -91,6 +83,14 @@
       "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
       "valence": -0.964,
       "impact": 0.91,
+      "outlets": 1
+    },
+    {
+      "title": "Vanishing vessels and missing sailors: The Iran war’s human cost at sea",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/middle-east/vanishing-vessels-and-missing-sailors-the-iran-wars-human-cost-at-sea",
+      "valence": -0.885,
+      "impact": 0.94,
       "outlets": 1
     }
   ],
