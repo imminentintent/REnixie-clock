@@ -1,14 +1,14 @@
 {
-  "divergence": "1.040049",
+  "divergence": "1.042912",
   "field": "beta",
-  "updated_at": "2026-11-11T15:38:40+00:00",
-  "z": -0.352,
+  "updated_at": "2026-11-11T16:42:58+00:00",
+  "z": -0.234,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 28,
+  "new_stories": 85,
   "climate": {
-    "fast": -0.4858,
-    "slow": -0.4934,
+    "fast": -0.4802,
+    "slow": -0.4919,
     "normal": -0.4791,
     "spread": 0.03
   },
@@ -46,6 +46,14 @@
       "outlets": 1
     },
     {
+      "title": "Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi’s Diplomacy",
+      "source": "NYTimes",
+      "link": "https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html",
+      "valence": -0.905,
+      "impact": 0.94,
+      "outlets": 1
+    },
+    {
       "title": "At least 300 Italian schools evacuated after email bomb alerts",
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/europe/at-least-300-italian-schools-evacuated-after-email-bomb-alerts",
@@ -78,19 +86,11 @@
       "outlets": 1
     },
     {
-      "title": "British DJ named as one of six people killed in Krakow shooting",
-      "source": "SkyNews",
-      "link": "https://news.sky.com/story/british-dj-named-as-one-of-six-people-killed-in-krakow-shooting-13611042",
-      "valence": -0.935,
-      "impact": 0.88,
-      "outlets": 1
-    },
-    {
-      "title": "Spain holds state funeral for 69 killed in high-speed rail crash",
-      "source": "ABCNews",
-      "link": "https://abcnews.com/International/wireStory/spain-holds-state-funeral-69-killed-high-speed-138022635",
-      "valence": -0.922,
-      "impact": 0.88,
+      "title": "US envoys to meet Putin and Zelenskyy separately after peace talks see some progress - as it happened",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
+      "valence": 0.905,
+      "impact": 0.895,
       "outlets": 1
     }
   ],
