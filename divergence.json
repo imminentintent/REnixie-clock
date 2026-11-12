@@ -1,14 +1,14 @@
 {
-  "divergence": "1.046863",
+  "divergence": "1.040179",
   "field": "beta",
-  "updated_at": "2026-11-12T13:43:05+00:00",
-  "z": -0.071,
+  "updated_at": "2026-11-12T14:45:34+00:00",
+  "z": -0.346,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 62,
+  "new_stories": 71,
   "climate": {
-    "fast": -0.4738,
-    "slow": -0.4898,
+    "fast": -0.4878,
+    "slow": -0.4923,
     "normal": -0.4797,
     "spread": 0.03
   },
@@ -54,6 +54,14 @@
       "outlets": 2
     },
     {
+      "title": "‘Horrific crime’: Gaza doctor killed as Israel expands war on healthcare",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare?traffic_source=rss",
+      "valence": -0.956,
+      "impact": 0.97,
+      "outlets": 1
+    },
+    {
       "title": "Iran war live: Iran warns of Europe retaliation, Israel attacks Gaza",
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss",
@@ -83,14 +91,6 @@
       "link": "https://abcnews.com/International/wireStory/van-crashes-mountain-road-nepal-10-killed-5-138069991",
       "valence": -0.97,
       "impact": 0.928,
-      "outlets": 1
-    },
-    {
-      "title": "Arrest In Ghanaian Teen Killing: NYPD nabs 17-year-old over Bronx shooting; family still seeks justice",
-      "source": "TimesOfIndia",
-      "link": "https://timesofindia.indiatimes.com/world/us/ghanaian-teen-shot-dead-on-way-to-school-in-new-york-17-year-old-arrested/articleshow/135755573.cms",
-      "valence": -0.964,
-      "impact": 0.916,
       "outlets": 1
     }
   ],
