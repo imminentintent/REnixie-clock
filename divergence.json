@@ -1,15 +1,15 @@
 {
-  "divergence": "1.037315",
+  "divergence": "1.035731",
   "field": "beta",
-  "updated_at": "2026-11-12T01:44:40+00:00",
-  "z": -0.464,
+  "updated_at": "2026-11-12T02:40:22+00:00",
+  "z": -0.529,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 27,
+  "new_stories": 22,
   "climate": {
-    "fast": -0.4926,
-    "slow": -0.4938,
-    "normal": -0.4793,
+    "fast": -0.4959,
+    "slow": -0.4945,
+    "normal": -0.4794,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -54,6 +54,14 @@
       "outlets": 1
     },
     {
+      "title": "Over 11,000 foreign military deaths recorded by Russia in war on Ukraine",
+      "source": "JapanTimes",
+      "link": "https://www.japantimes.co.jp/news/2026/11/12/world/foreign-military-deaths-russia-ukraine/",
+      "valence": -0.935,
+      "impact": 0.96,
+      "outlets": 1
+    },
+    {
       "title": "Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi’s Diplomacy",
       "source": "NYTimes",
       "link": "https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html",
@@ -84,19 +92,11 @@
       "valence": -0.935,
       "impact": 0.91,
       "outlets": 1
-    },
-    {
-      "title": "Gaza goalkeeper killed in Israeli attack",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/gaza-goalkeeper-killed-in-israeli-attack?traffic_source=rss",
-      "valence": -0.935,
-      "impact": 0.91,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
