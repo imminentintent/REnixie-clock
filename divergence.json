@@ -1,14 +1,14 @@
 {
-  "divergence": "1.048828",
+  "divergence": "1.051189",
   "field": "beta",
-  "updated_at": "2026-11-12T19:43:46+00:00",
-  "z": 0.01,
+  "updated_at": "2026-11-12T20:38:59+00:00",
+  "z": 0.107,
   "calibrating": false,
   "scorer": "lexicon",
   "new_stories": 43,
   "climate": {
-    "fast": -0.4707,
-    "slow": -0.4884,
+    "fast": -0.466,
+    "slow": -0.4872,
     "normal": -0.4798,
     "spread": 0.03
   },
@@ -54,14 +54,6 @@
       "outlets": 1
     },
     {
-      "title": "Driver faces DUI and murder charges after three killed in LA crash, officials say",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/us-news/2026/nov/10/los-angeles-vehicle-crash",
-      "valence": -0.922,
-      "impact": 1.0,
-      "outlets": 2
-    },
-    {
       "title": "Military helicopter crashes in southern Turkey, killing 4",
       "source": "TheHindu",
       "link": "https://www.thehindu.com/news/international/turkiye-samankoy-army-helicopter-crash-personnel-killed/article71695300.ece",
@@ -92,6 +84,14 @@
       "valence": -0.947,
       "impact": 0.97,
       "outlets": 1
+    },
+    {
+      "title": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident?traffic_source=rss",
+      "valence": -0.885,
+      "impact": 1.0,
+      "outlets": 2
     }
   ],
   "version": "1.0",
