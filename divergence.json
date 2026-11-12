@@ -1,15 +1,15 @@
 {
-  "divergence": "1.036615",
+  "divergence": "1.031654",
   "field": "beta",
-  "updated_at": "2026-11-12T15:48:16+00:00",
-  "z": -0.493,
+  "updated_at": "2026-11-12T16:50:21+00:00",
+  "z": -0.697,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 43,
+  "new_stories": 45,
   "climate": {
-    "fast": -0.4952,
-    "slow": -0.4938,
-    "normal": -0.4797,
+    "fast": -0.5053,
+    "slow": -0.496,
+    "normal": -0.4798,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -20,6 +20,14 @@
       "valence": -0.993,
       "impact": 1.0,
       "outlets": 2
+    },
+    {
+      "title": "Washington DC shooting latest updates: one person killed and four injured, police confirm",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
+      "valence": -0.976,
+      "impact": 1.0,
+      "outlets": 3
     },
     {
       "title": "1 dead, 4 critically injured after building collapse in New York City",
@@ -70,33 +78,25 @@
       "outlets": 1
     },
     {
+      "title": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident?traffic_source=rss",
+      "valence": -0.885,
+      "impact": 1.0,
+      "outlets": 2
+    },
+    {
       "title": "Over 11,000 foreign military deaths recorded by Russia in war on Ukraine",
       "source": "JapanTimes",
       "link": "https://www.japantimes.co.jp/news/2026/11/12/world/foreign-military-deaths-russia-ukraine/",
       "valence": -0.935,
       "impact": 0.96,
       "outlets": 1
-    },
-    {
-      "title": "This Beirut family has sold falafel for 100 years, through war and crisis. It has no plan to stop",
-      "source": "ABCNews",
-      "link": "https://abcnews.com/International/wireStory/beirut-family-sold-falafel-100-years-war-crisis-138070081",
-      "valence": -0.935,
-      "impact": 0.96,
-      "outlets": 1
-    },
-    {
-      "title": "Van crashes on mountain road in Nepal, 10 killed and 5 injured",
-      "source": "ABCNews",
-      "link": "https://abcnews.com/International/wireStory/van-crashes-mountain-road-nepal-10-killed-5-138069991",
-      "valence": -0.97,
-      "impact": 0.928,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
