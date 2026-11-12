@@ -1,14 +1,14 @@
 {
-  "divergence": "1.025924",
+  "divergence": "1.036417",
   "field": "beta",
-  "updated_at": "2026-11-12T06:55:14+00:00",
-  "z": -0.933,
+  "updated_at": "2026-11-12T08:11:49+00:00",
+  "z": -0.501,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 56,
+  "new_stories": 36,
   "climate": {
-    "fast": -0.5164,
-    "slow": -0.4985,
+    "fast": -0.4947,
+    "slow": -0.4945,
     "normal": -0.4796,
     "spread": 0.03
   },
@@ -42,6 +42,14 @@
       "source": "Guardian",
       "link": "https://www.theguardian.com/us-news/2026/nov/10/los-angeles-vehicle-crash",
       "valence": -0.922,
+      "impact": 1.0,
+      "outlets": 2
+    },
+    {
+      "title": "US envoys arrive in Moscow for latest round of Ukrainian peace talks with Putin",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/europe/us-envoys-arrive-in-moscow-for-latest-round-of-ukrainian-peace-talks-with-putin",
+      "valence": 0.905,
       "impact": 1.0,
       "outlets": 2
     },
@@ -83,14 +91,6 @@
       "link": "https://abcnews.com/International/wireStory/van-crashes-mountain-road-nepal-10-killed-5-138069991",
       "valence": -0.97,
       "impact": 0.928,
-      "outlets": 1
-    },
-    {
-      "title": "Arrest In Ghanaian Teen Killing: NYPD nabs 17-year-old over Bronx shooting; family still seeks justice",
-      "source": "TimesOfIndia",
-      "link": "https://timesofindia.indiatimes.com/world/us/ghanaian-teen-shot-dead-on-way-to-school-in-new-york-17-year-old-arrested/articleshow/135755573.cms",
-      "valence": -0.964,
-      "impact": 0.916,
       "outlets": 1
     }
   ],
