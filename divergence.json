@@ -1,14 +1,14 @@
 {
-  "divergence": "1.037290",
+  "divergence": "1.038341",
   "field": "beta",
-  "updated_at": "2026-11-12T03:42:10+00:00",
-  "z": -0.465,
+  "updated_at": "2026-11-12T04:47:38+00:00",
+  "z": -0.422,
   "calibrating": false,
   "scorer": "lexicon",
   "new_stories": 24,
   "climate": {
-    "fast": -0.4927,
-    "slow": -0.4939,
+    "fast": -0.4906,
+    "slow": -0.4935,
     "normal": -0.4794,
     "spread": 0.03
   },
@@ -28,6 +28,14 @@
       "valence": -0.964,
       "impact": 1.0,
       "outlets": 4
+    },
+    {
+      "title": "Iran war live: IRGC chief says sanctions won’t stop missile programme",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss",
+      "valence": -0.98,
+      "impact": 0.985,
+      "outlets": 1
     },
     {
       "title": "Driver faces DUI and murder charges after three killed in LA crash, officials say",
@@ -84,19 +92,11 @@
       "valence": -0.935,
       "impact": 0.91,
       "outlets": 1
-    },
-    {
-      "title": "Pakistan militant attack kills 10 policemen in KPK's Kohat, gunbattle still under way",
-      "source": "TimesOfIndia",
-      "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-militant-attack-kills-10-policemen-in-kpks-kohat-gunbattle-still-under-way/articleshow/135735108.cms",
-      "valence": -0.935,
-      "impact": 0.91,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
