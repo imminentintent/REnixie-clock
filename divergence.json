@@ -1,14 +1,14 @@
 {
-  "divergence": "1.031654",
+  "divergence": "1.046988",
   "field": "beta",
-  "updated_at": "2026-11-12T16:50:21+00:00",
-  "z": -0.697,
+  "updated_at": "2026-11-12T17:43:37+00:00",
+  "z": -0.066,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 45,
+  "new_stories": 47,
   "climate": {
-    "fast": -0.5053,
-    "slow": -0.496,
+    "fast": -0.4742,
+    "slow": -0.4894,
     "normal": -0.4798,
     "spread": 0.03
   },
@@ -43,6 +43,14 @@
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss",
       "valence": -0.98,
       "impact": 0.985,
+      "outlets": 1
+    },
+    {
+      "title": "‘Labelled terrorists’: How France is using anti-terror powers to deter protests",
+      "source": "France24",
+      "link": "https://www.france24.com/en/france/20261112-labelled-terrorists-france-authorities-used-anti-terrorism-powers-to-deter-protests",
+      "valence": -0.97,
+      "impact": 0.976,
       "outlets": 1
     },
     {
@@ -84,14 +92,6 @@
       "valence": -0.885,
       "impact": 1.0,
       "outlets": 2
-    },
-    {
-      "title": "Over 11,000 foreign military deaths recorded by Russia in war on Ukraine",
-      "source": "JapanTimes",
-      "link": "https://www.japantimes.co.jp/news/2026/11/12/world/foreign-military-deaths-russia-ukraine/",
-      "valence": -0.935,
-      "impact": 0.96,
-      "outlets": 1
     }
   ],
   "version": "1.0",
