@@ -1,15 +1,15 @@
 {
-  "divergence": "1.034181",
+  "divergence": "1.025924",
   "field": "beta",
-  "updated_at": "2026-11-12T05:49:44+00:00",
-  "z": -0.593,
+  "updated_at": "2026-11-12T06:55:14+00:00",
+  "z": -0.933,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 23,
+  "new_stories": 56,
   "climate": {
-    "fast": -0.4994,
-    "slow": -0.4951,
-    "normal": -0.4795,
+    "fast": -0.5164,
+    "slow": -0.4985,
+    "normal": -0.4796,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -70,33 +70,33 @@
       "outlets": 1
     },
     {
+      "title": "This Beirut family has sold falafel for 100 years, through war and crisis. It has no plan to stop",
+      "source": "ABCNews",
+      "link": "https://abcnews.com/International/wireStory/beirut-family-sold-falafel-100-years-war-crisis-138070081",
+      "valence": -0.935,
+      "impact": 0.96,
+      "outlets": 1
+    },
+    {
+      "title": "Van crashes on mountain road in Nepal, 10 killed and 5 injured",
+      "source": "ABCNews",
+      "link": "https://abcnews.com/International/wireStory/van-crashes-mountain-road-nepal-10-killed-5-138069991",
+      "valence": -0.97,
+      "impact": 0.928,
+      "outlets": 1
+    },
+    {
       "title": "Arrest In Ghanaian Teen Killing: NYPD nabs 17-year-old over Bronx shooting; family still seeks justice",
       "source": "TimesOfIndia",
       "link": "https://timesofindia.indiatimes.com/world/us/ghanaian-teen-shot-dead-on-way-to-school-in-new-york-17-year-old-arrested/articleshow/135755573.cms",
       "valence": -0.964,
       "impact": 0.916,
       "outlets": 1
-    },
-    {
-      "title": "Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi’s Diplomacy",
-      "source": "NYTimes",
-      "link": "https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html",
-      "valence": -0.905,
-      "impact": 0.94,
-      "outlets": 1
-    },
-    {
-      "title": "At least 300 Italian schools evacuated after email bomb alerts",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/at-least-300-italian-schools-evacuated-after-email-bomb-alerts",
-      "valence": -0.922,
-      "impact": 0.92,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
