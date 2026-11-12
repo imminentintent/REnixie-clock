@@ -1,14 +1,14 @@
 {
-  "divergence": "1.046988",
+  "divergence": "1.044963",
   "field": "beta",
-  "updated_at": "2026-11-12T17:43:37+00:00",
-  "z": -0.066,
+  "updated_at": "2026-11-12T18:40:38+00:00",
+  "z": -0.15,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 47,
+  "new_stories": 39,
   "climate": {
-    "fast": -0.4742,
-    "slow": -0.4894,
+    "fast": -0.4784,
+    "slow": -0.4901,
     "normal": -0.4798,
     "spread": 0.03
   },
@@ -62,6 +62,14 @@
       "outlets": 2
     },
     {
+      "title": "Military helicopter crashes in southern Turkey, killing 4",
+      "source": "TheHindu",
+      "link": "https://www.thehindu.com/news/international/turkiye-samankoy-army-helicopter-crash-personnel-killed/article71695300.ece",
+      "valence": -0.922,
+      "impact": 1.0,
+      "outlets": 2
+    },
+    {
       "title": "US envoys arrive in Moscow for latest round of Ukrainian peace talks with Putin",
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/europe/us-envoys-arrive-in-moscow-for-latest-round-of-ukrainian-peace-talks-with-putin",
@@ -84,14 +92,6 @@
       "valence": -0.947,
       "impact": 0.97,
       "outlets": 1
-    },
-    {
-      "title": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident?traffic_source=rss",
-      "valence": -0.885,
-      "impact": 1.0,
-      "outlets": 2
     }
   ],
   "version": "1.0",
