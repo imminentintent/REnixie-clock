@@ -1,14 +1,14 @@
 {
-  "divergence": "1.045282",
+  "divergence": "1.046863",
   "field": "beta",
-  "updated_at": "2026-11-12T12:21:08+00:00",
-  "z": -0.136,
+  "updated_at": "2026-11-12T13:43:05+00:00",
+  "z": -0.071,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 39,
+  "new_stories": 62,
   "climate": {
-    "fast": -0.4769,
-    "slow": -0.4906,
+    "fast": -0.4738,
+    "slow": -0.4898,
     "normal": -0.4797,
     "spread": 0.03
   },
@@ -54,14 +54,6 @@
       "outlets": 2
     },
     {
-      "title": "France fears German long-range missiles could trigger nuclear escalation with Russia",
-      "source": "TimesOfIndia",
-      "link": "https://timesofindia.indiatimes.com/world/europe/france-fears-german-long-range-missiles-could-trigger-nuclear-escalation-with-russia/articleshow/135739089.cms",
-      "valence": -0.964,
-      "impact": 0.964,
-      "outlets": 1
-    },
-    {
       "title": "Iran war live: Iran warns of Europe retaliation, Israel attacks Gaza",
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss",
@@ -92,11 +84,19 @@
       "valence": -0.97,
       "impact": 0.928,
       "outlets": 1
+    },
+    {
+      "title": "Arrest In Ghanaian Teen Killing: NYPD nabs 17-year-old over Bronx shooting; family still seeks justice",
+      "source": "TimesOfIndia",
+      "link": "https://timesofindia.indiatimes.com/world/us/ghanaian-teen-shot-dead-on-way-to-school-in-new-york-17-year-old-arrested/articleshow/135755573.cms",
+      "valence": -0.964,
+      "impact": 0.916,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
