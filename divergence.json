@@ -1,14 +1,14 @@
 {
-  "divergence": "1.035339",
+  "divergence": "1.034795",
   "field": "beta",
-  "updated_at": "2026-11-13T12:20:00+00:00",
-  "z": -0.546,
+  "updated_at": "2026-11-13T13:39:52+00:00",
+  "z": -0.568,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 34,
+  "new_stories": 65,
   "climate": {
-    "fast": -0.5002,
-    "slow": -0.4924,
+    "fast": -0.5013,
+    "slow": -0.4927,
     "normal": -0.48,
     "spread": 0.03
   },
@@ -78,19 +78,19 @@
       "outlets": 1
     },
     {
+      "title": "Pakistan military reports it killed 74 ‘terrorists’ during raids",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/13/pakistan-military-reports-it-killed-74-terrorists-during-raids?traffic_source=rss",
+      "valence": -0.947,
+      "impact": 0.94,
+      "outlets": 1
+    },
+    {
       "title": "France remembers victims of 2015 Paris terror attacks",
       "source": "France24",
       "link": "https://www.france24.com/en/video/20261113-france-remembers-victims-of-2015-paris-terror-attacks",
       "valence": -0.935,
       "impact": 0.94,
-      "outlets": 1
-    },
-    {
-      "title": "Man dies after eating bomb disguised as traditional sweet",
-      "source": "CBSNews",
-      "link": "https://www.cbsnews.com/news/man-dies-eats-bomb-disguised-indian-sweet/",
-      "valence": -0.922,
-      "impact": 0.9,
       "outlets": 1
     }
   ],
