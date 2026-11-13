@@ -1,14 +1,14 @@
 {
-  "divergence": "1.045725",
+  "divergence": "1.040162",
   "field": "beta",
-  "updated_at": "2026-11-13T06:54:20+00:00",
-  "z": -0.118,
+  "updated_at": "2026-11-13T08:10:47+00:00",
+  "z": -0.347,
   "calibrating": false,
   "scorer": "lexicon",
   "new_stories": 32,
   "climate": {
-    "fast": -0.4782,
-    "slow": -0.4886,
+    "fast": -0.4899,
+    "slow": -0.4907,
     "normal": -0.4799,
     "spread": 0.03
   },
@@ -54,14 +54,6 @@
       "outlets": 2
     },
     {
-      "title": "US envoys arrive in Moscow for latest round of Ukrainian peace talks with Putin",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/us-envoys-arrive-in-moscow-for-latest-round-of-ukrainian-peace-talks-with-putin",
-      "valence": 0.905,
-      "impact": 1.0,
-      "outlets": 2
-    },
-    {
       "title": "‘Horrific crime’: Gaza doctor killed as Israel expands war on healthcare",
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare?traffic_source=rss",
@@ -83,6 +75,14 @@
       "link": "https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc",
       "valence": -0.976,
       "impact": 0.928,
+      "outlets": 1
+    },
+    {
+      "title": "74 terrorists killed in multiple operations: Pakistani Army",
+      "source": "TheHindu",
+      "link": "https://www.thehindu.com/news/international/74-terrorists-killed-in-multiple-operations-pakistani-army/article71696886.ece",
+      "valence": -0.947,
+      "impact": 0.94,
       "outlets": 1
     },
     {
