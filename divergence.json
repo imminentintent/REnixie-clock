@@ -1,14 +1,14 @@
 {
-  "divergence": "1.050493",
+  "divergence": "1.047376",
   "field": "beta",
-  "updated_at": "2026-11-13T17:41:00+00:00",
-  "z": 0.078,
+  "updated_at": "2026-11-13T18:39:10+00:00",
+  "z": -0.05,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 70,
+  "new_stories": 30,
   "climate": {
-    "fast": -0.4695,
-    "slow": -0.4861,
+    "fast": -0.4758,
+    "slow": -0.4874,
     "normal": -0.4801,
     "spread": 0.03
   },
@@ -30,19 +30,19 @@
       "outlets": 2
     },
     {
-      "title": "Military helicopter crashes in southern Turkey, killing 4",
-      "source": "TheHindu",
-      "link": "https://www.thehindu.com/news/international/turkiye-samankoy-army-helicopter-crash-personnel-killed/article71695300.ece",
-      "valence": -0.922,
-      "impact": 1.0,
-      "outlets": 2
-    },
-    {
       "title": "Suicide car bombing at security checkpoint in Pakistan kills 5, injures 13",
       "source": "TimesOfIndia",
       "link": "https://timesofindia.indiatimes.com/world/pakistan/suicide-car-bombing-at-security-checkpoint-in-pakistan-kills-5-injures-13/articleshow/135806931.cms",
       "valence": -0.98,
       "impact": 0.964,
+      "outlets": 1
+    },
+    {
+      "title": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display?traffic_source=rss",
+      "valence": -0.947,
+      "impact": 0.97,
       "outlets": 1
     },
     {
@@ -96,7 +96,7 @@
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
