@@ -1,14 +1,14 @@
 {
-  "divergence": "1.044099",
+  "divergence": "1.046332",
   "field": "beta",
-  "updated_at": "2026-11-12T23:31:34+00:00",
-  "z": -0.185,
+  "updated_at": "2026-11-13T00:42:39+00:00",
+  "z": -0.093,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 43,
+  "new_stories": 33,
   "climate": {
-    "fast": -0.481,
-    "slow": -0.4897,
+    "fast": -0.4765,
+    "slow": -0.4887,
     "normal": -0.4798,
     "spread": 0.03
   },
@@ -30,36 +30,12 @@
       "outlets": 3
     },
     {
-      "title": "1 dead, 4 critically injured after building collapse in New York City",
-      "source": "CBC",
-      "link": "https://www.cbc.ca/news/world/new-york-fire-brooklyn-building-collapse-9.7418579?cmp=rss",
-      "valence": -0.97,
-      "impact": 1.0,
-      "outlets": 2
-    },
-    {
-      "title": "Iran war live: IRGC chief says sanctions won’t stop missile programme",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss",
-      "valence": -0.98,
-      "impact": 0.985,
-      "outlets": 1
-    },
-    {
       "title": "New York mayor expands probe after Brooklyn building collapse kills 8",
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/united-states/new-york-city-building-collapse-kills-8-mayor-expands-probe",
       "valence": -0.935,
       "impact": 1.0,
       "outlets": 2
-    },
-    {
-      "title": "Death toll climbs to 8 in Brooklyn building collapse as fire department ends rescue operation",
-      "source": "CBC",
-      "link": "https://www.cbc.ca/news/world/new-york-fire-brooklyn-building-collapse-9.7418579?cmp=rss",
-      "valence": -0.956,
-      "impact": 0.984,
-      "outlets": 1
     },
     {
       "title": "‘Labelled terrorists’: How France is using anti-terror powers to deter protests",
@@ -92,11 +68,35 @@
       "valence": -0.956,
       "impact": 0.97,
       "outlets": 1
+    },
+    {
+      "title": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident?traffic_source=rss",
+      "valence": -0.885,
+      "impact": 1.0,
+      "outlets": 2
+    },
+    {
+      "title": "Over 11,000 foreign military deaths recorded by Russia in war on Ukraine",
+      "source": "JapanTimes",
+      "link": "https://www.japantimes.co.jp/news/2026/11/12/world/foreign-military-deaths-russia-ukraine/",
+      "valence": -0.935,
+      "impact": 0.96,
+      "outlets": 1
+    },
+    {
+      "title": "This Beirut family has sold falafel for 100 years, through war and crisis. It has no plan to stop",
+      "source": "ABCNews",
+      "link": "https://abcnews.com/International/wireStory/beirut-family-sold-falafel-100-years-war-crisis-138070081",
+      "valence": -0.935,
+      "impact": 0.96,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
