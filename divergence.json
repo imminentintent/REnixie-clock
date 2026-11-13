@@ -1,14 +1,14 @@
 {
-  "divergence": "1.028660",
+  "divergence": "1.035697",
   "field": "beta",
-  "updated_at": "2026-11-13T14:43:47+00:00",
-  "z": -0.82,
+  "updated_at": "2026-11-13T15:37:36+00:00",
+  "z": -0.531,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 47,
+  "new_stories": 43,
   "climate": {
-    "fast": -0.5138,
-    "slow": -0.4955,
+    "fast": -0.4993,
+    "slow": -0.4927,
     "normal": -0.4801,
     "spread": 0.03
   },
@@ -86,17 +86,17 @@
       "outlets": 1
     },
     {
-      "title": "France remembers victims of 2015 Paris terror attacks",
+      "title": "Most Ukrainians 'think there's no chance of a peace deal' with Russia",
       "source": "France24",
-      "link": "https://www.france24.com/en/video/20261113-france-remembers-victims-of-2015-paris-terror-attacks",
-      "valence": -0.935,
+      "link": "https://www.france24.com/en/video/20261113-most-ukrainians-think-there-s-no-chance-of-a-peace-deal-with-russia",
+      "valence": 0.947,
       "impact": 0.94,
       "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
