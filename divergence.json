@@ -1,14 +1,14 @@
 {
-  "divergence": "1.054487",
+  "divergence": "1.055585",
   "field": "beta",
-  "updated_at": "2026-11-13T21:38:18+00:00",
-  "z": 0.242,
+  "updated_at": "2026-11-13T22:35:10+00:00",
+  "z": 0.288,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 24,
+  "new_stories": 29,
   "climate": {
-    "fast": -0.4616,
-    "slow": -0.4841,
+    "fast": -0.4594,
+    "slow": -0.4836,
     "normal": -0.4801,
     "spread": 0.03
   },
@@ -35,14 +35,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display?traffic_source=rss",
       "valence": -0.947,
       "impact": 0.97,
-      "outlets": 1
-    },
-    {
-      "title": "Brooklyn building collapse kills at least two children and six adults, injuring 18",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc",
-      "valence": -0.976,
-      "impact": 0.928,
       "outlets": 1
     },
     {
@@ -92,11 +84,19 @@
       "valence": -0.922,
       "impact": 0.9,
       "outlets": 1
+    },
+    {
+      "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+      "valence": 0.905,
+      "impact": 0.895,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 36,
     "total": 38
   }
 }
