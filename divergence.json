@@ -1,14 +1,14 @@
 {
-  "divergence": "1.046332",
+  "divergence": "1.042137",
   "field": "beta",
-  "updated_at": "2026-11-13T00:42:39+00:00",
-  "z": -0.093,
+  "updated_at": "2026-11-13T01:56:21+00:00",
+  "z": -0.266,
   "calibrating": false,
   "scorer": "lexicon",
   "new_stories": 33,
   "climate": {
-    "fast": -0.4765,
-    "slow": -0.4887,
+    "fast": -0.4852,
+    "slow": -0.4904,
     "normal": -0.4798,
     "spread": 0.03
   },
@@ -78,25 +78,25 @@
       "outlets": 2
     },
     {
-      "title": "Over 11,000 foreign military deaths recorded by Russia in war on Ukraine",
-      "source": "JapanTimes",
-      "link": "https://www.japantimes.co.jp/news/2026/11/12/world/foreign-military-deaths-russia-ukraine/",
-      "valence": -0.935,
-      "impact": 0.96,
-      "outlets": 1
-    },
-    {
       "title": "This Beirut family has sold falafel for 100 years, through war and crisis. It has no plan to stop",
       "source": "ABCNews",
       "link": "https://abcnews.com/International/wireStory/beirut-family-sold-falafel-100-years-war-crisis-138070081",
       "valence": -0.935,
       "impact": 0.96,
       "outlets": 1
+    },
+    {
+      "title": "Brooklyn building collapse kills at least two children and six adults, injuring 18",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc",
+      "valence": -0.976,
+      "impact": 0.928,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
