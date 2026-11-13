@@ -1,14 +1,14 @@
 {
-  "divergence": "1.044147",
+  "divergence": "1.045725",
   "field": "beta",
-  "updated_at": "2026-11-13T05:48:53+00:00",
-  "z": -0.183,
+  "updated_at": "2026-11-13T06:54:20+00:00",
+  "z": -0.118,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 36,
+  "new_stories": 32,
   "climate": {
-    "fast": -0.4815,
-    "slow": -0.4893,
+    "fast": -0.4782,
+    "slow": -0.4886,
     "normal": -0.4799,
     "spread": 0.03
   },
@@ -78,25 +78,25 @@
       "outlets": 2
     },
     {
-      "title": "This Beirut family has sold falafel for 100 years, through war and crisis. It has no plan to stop",
-      "source": "ABCNews",
-      "link": "https://abcnews.com/International/wireStory/beirut-family-sold-falafel-100-years-war-crisis-138070081",
-      "valence": -0.935,
-      "impact": 0.96,
-      "outlets": 1
-    },
-    {
       "title": "Brooklyn building collapse kills at least two children and six adults, injuring 18",
       "source": "Guardian",
       "link": "https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc",
       "valence": -0.976,
       "impact": 0.928,
       "outlets": 1
+    },
+    {
+      "title": "10th suspect arrested in South Africa over alleged bid to fight in Russia-Ukraine war",
+      "source": "ABCNews",
+      "link": "https://abcnews.com/International/wireStory/10th-suspect-arrested-south-africa-alleged-bid-fight-138072640",
+      "valence": -0.862,
+      "impact": 0.93,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
