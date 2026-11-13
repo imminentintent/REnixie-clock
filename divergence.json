@@ -1,15 +1,15 @@
 {
-  "divergence": "1.034795",
+  "divergence": "1.028660",
   "field": "beta",
-  "updated_at": "2026-11-13T13:39:52+00:00",
-  "z": -0.568,
+  "updated_at": "2026-11-13T14:43:47+00:00",
+  "z": -0.82,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 65,
+  "new_stories": 47,
   "climate": {
-    "fast": -0.5013,
-    "slow": -0.4927,
-    "normal": -0.48,
+    "fast": -0.5138,
+    "slow": -0.4955,
+    "normal": -0.4801,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -46,11 +46,11 @@
       "outlets": 2
     },
     {
-      "title": "‘Horrific crime’: Gaza doctor killed as Israel expands war on healthcare",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare?traffic_source=rss",
-      "valence": -0.956,
-      "impact": 0.97,
+      "title": "Suicide car bombing at security checkpoint in Pakistan kills 5, injures 13",
+      "source": "TimesOfIndia",
+      "link": "https://timesofindia.indiatimes.com/world/pakistan/suicide-car-bombing-at-security-checkpoint-in-pakistan-kills-5-injures-13/articleshow/135806931.cms",
+      "valence": -0.98,
+      "impact": 0.964,
       "outlets": 1
     },
     {
@@ -96,7 +96,7 @@
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
