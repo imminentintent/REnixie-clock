@@ -1,14 +1,14 @@
 {
-  "divergence": "1.035697",
+  "divergence": "1.042952",
   "field": "beta",
-  "updated_at": "2026-11-13T15:37:36+00:00",
-  "z": -0.531,
+  "updated_at": "2026-11-13T16:42:25+00:00",
+  "z": -0.232,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 43,
+  "new_stories": 39,
   "climate": {
-    "fast": -0.4993,
-    "slow": -0.4927,
+    "fast": -0.4845,
+    "slow": -0.4896,
     "normal": -0.4801,
     "spread": 0.03
   },
@@ -54,14 +54,6 @@
       "outlets": 1
     },
     {
-      "title": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident?traffic_source=rss",
-      "valence": -0.885,
-      "impact": 1.0,
-      "outlets": 2
-    },
-    {
       "title": "Brooklyn building collapse kills at least two children and six adults, injuring 18",
       "source": "Guardian",
       "link": "https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc",
@@ -92,11 +84,19 @@
       "valence": 0.947,
       "impact": 0.94,
       "outlets": 1
+    },
+    {
+      "title": "France remembers victims of 2015 Paris terror attacks",
+      "source": "France24",
+      "link": "https://www.france24.com/en/video/20261113-france-remembers-victims-of-2015-paris-terror-attacks",
+      "valence": -0.935,
+      "impact": 0.94,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
