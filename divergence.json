@@ -1,25 +1,25 @@
 {
-  "divergence": "1.042952",
+  "divergence": "1.050493",
   "field": "beta",
-  "updated_at": "2026-11-13T16:42:25+00:00",
-  "z": -0.232,
+  "updated_at": "2026-11-13T17:41:00+00:00",
+  "z": 0.078,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 39,
+  "new_stories": 70,
   "climate": {
-    "fast": -0.4845,
-    "slow": -0.4896,
+    "fast": -0.4695,
+    "slow": -0.4861,
     "normal": -0.4801,
     "spread": 0.03
   },
   "top_stories_24h": [
     {
-      "title": "Washington DC shooting latest updates: one person killed and four injured, police confirm",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
-      "valence": -0.976,
-      "impact": 1.0,
-      "outlets": 3
+      "title": "As EU grapples with fierce AI competition, summit overshadowed by elusive Ukraine-Russia peace deal",
+      "source": "France24",
+      "link": "https://www.france24.com/en/video/20261113-as-eu-grapples-with-fierce-ai-competition-summit-overshadowed-by-elusive-ukraine-russia-peace-deal-1",
+      "valence": 0.987,
+      "impact": 0.978,
+      "outlets": 1
     },
     {
       "title": "New York mayor expands probe after Brooklyn building collapse kills 8",
@@ -28,14 +28,6 @@
       "valence": -0.935,
       "impact": 1.0,
       "outlets": 2
-    },
-    {
-      "title": "‘Labelled terrorists’: How France is using anti-terror powers to deter protests",
-      "source": "France24",
-      "link": "https://www.france24.com/en/france/20261112-labelled-terrorists-france-authorities-used-anti-terrorism-powers-to-deter-protests",
-      "valence": -0.97,
-      "impact": 0.976,
-      "outlets": 1
     },
     {
       "title": "Military helicopter crashes in southern Turkey, killing 4",
@@ -92,11 +84,19 @@
       "valence": -0.935,
       "impact": 0.94,
       "outlets": 1
+    },
+    {
+      "title": "'A lot of emotion' as Paris marks 11 years since terror attacks",
+      "source": "France24",
+      "link": "https://www.france24.com/en/video/20261113-a-lot-of-emotion-as-paris-marks-11-years-since-terror-attacks",
+      "valence": -0.935,
+      "impact": 0.94,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
