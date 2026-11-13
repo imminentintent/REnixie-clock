@@ -1,26 +1,18 @@
 {
-  "divergence": "1.050981",
+  "divergence": "1.038644",
   "field": "beta",
-  "updated_at": "2026-11-13T10:25:33+00:00",
-  "z": 0.098,
+  "updated_at": "2026-11-13T11:21:50+00:00",
+  "z": -0.41,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 54,
+  "new_stories": 41,
   "climate": {
-    "fast": -0.4678,
-    "slow": -0.4861,
+    "fast": -0.4934,
+    "slow": -0.491,
     "normal": -0.4799,
     "spread": 0.03
   },
   "top_stories_24h": [
-    {
-      "title": "Car bomb kills Russian soldier near St Petersburg in latest targeted assassination",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/car-bomb-kills-russian-soldier-near-st-petersburg-in-latest-targeted-assassination",
-      "valence": -0.993,
-      "impact": 1.0,
-      "outlets": 2
-    },
     {
       "title": "Washington DC shooting latest updates: one person killed and four injured, police confirm",
       "source": "Guardian",
@@ -86,11 +78,19 @@
       "outlets": 1
     },
     {
-      "title": "10th suspect arrested in South Africa over alleged bid to fight in Russia-Ukraine war",
-      "source": "ABCNews",
-      "link": "https://abcnews.com/International/wireStory/10th-suspect-arrested-south-africa-alleged-bid-fight-138072640",
-      "valence": -0.862,
-      "impact": 0.93,
+      "title": "France remembers victims of 2015 Paris terror attacks",
+      "source": "France24",
+      "link": "https://www.france24.com/en/video/20261113-france-remembers-victims-of-2015-paris-terror-attacks",
+      "valence": -0.935,
+      "impact": 0.94,
+      "outlets": 1
+    },
+    {
+      "title": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
+      "source": "NYTimes",
+      "link": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
+      "valence": 0.905,
+      "impact": 0.895,
       "outlets": 1
     }
   ],
