@@ -1,15 +1,15 @@
 {
-  "divergence": "1.075594",
+  "divergence": "1.076494",
   "field": "beta",
-  "updated_at": "2026-11-14T10:30:04+00:00",
-  "z": 1.111,
+  "updated_at": "2026-11-14T11:13:01+00:00",
+  "z": 1.149,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 24,
+  "new_stories": 31,
   "climate": {
-    "fast": -0.4179,
-    "slow": -0.4747,
-    "normal": -0.4796,
+    "fast": -0.4162,
+    "slow": -0.4741,
+    "normal": -0.4795,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -62,14 +62,6 @@
       "outlets": 1
     },
     {
-      "title": "France remembers victims of 2015 Paris terror attacks",
-      "source": "France24",
-      "link": "https://www.france24.com/en/video/20261113-france-remembers-victims-of-2015-paris-terror-attacks",
-      "valence": -0.935,
-      "impact": 0.94,
-      "outlets": 1
-    },
-    {
       "title": "'A lot of emotion' as Paris marks 11 years since terror attacks",
       "source": "France24",
       "link": "https://www.france24.com/en/video/20261113-a-lot-of-emotion-as-paris-marks-11-years-since-terror-attacks",
@@ -92,11 +84,19 @@
       "valence": -0.922,
       "impact": 0.9,
       "outlets": 1
+    },
+    {
+      "title": "Watch: CCTV captures chilling moment Brooklyn apartment building collapses, killing 8",
+      "source": "TimesOfIndia",
+      "link": "https://timesofindia.indiatimes.com/world/us/watch-cctv-captures-chilling-moment-brooklyn-apartment-building-collapses-killing-8/articleshow/135810824.cms",
+      "valence": -0.935,
+      "impact": 0.88,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
