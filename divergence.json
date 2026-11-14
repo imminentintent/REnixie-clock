@@ -1,15 +1,15 @@
 {
-  "divergence": "1.073938",
+  "divergence": "1.072892",
   "field": "beta",
-  "updated_at": "2026-11-14T17:59:14+00:00",
-  "z": 1.043,
+  "updated_at": "2026-11-14T18:37:32+00:00",
+  "z": 1.0,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 20,
+  "new_stories": 11,
   "climate": {
-    "fast": -0.4226,
-    "slow": -0.4731,
-    "normal": -0.4791,
+    "fast": -0.4248,
+    "slow": -0.4733,
+    "normal": -0.479,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -18,14 +18,6 @@
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss",
       "valence": -0.956,
-      "impact": 0.97,
-      "outlets": 1
-    },
-    {
-      "title": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display?traffic_source=rss",
-      "valence": -0.947,
       "impact": 0.97,
       "outlets": 1
     },
@@ -78,17 +70,25 @@
       "outlets": 1
     },
     {
-      "title": "Amnesty demands answers over failure to prevent South Sudan massacre",
-      "source": "RFI",
-      "link": "https://www.rfi.fr/en/africa/20261113-amnesty-demands-answers-over-failure-to-prevent-south-sudan-massacre",
+      "title": "Gold smuggled from war zones entered the UAE despite new regulations, report says",
+      "source": "ABCNews",
+      "link": "https://abcnews.com/International/wireStory/gold-smuggled-war-zones-entered-uae-despite-new-138117227",
       "valence": -0.762,
       "impact": 0.9,
       "outlets": 1
     },
     {
-      "title": "Gold smuggled from war zones entered the UAE despite new regulations, report says",
-      "source": "ABCNews",
-      "link": "https://abcnews.com/International/wireStory/gold-smuggled-war-zones-entered-uae-despite-new-138117227",
+      "title": "Iran war live: Tehran says tanker hit naval mine, caught fire",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
+      "valence": -0.762,
+      "impact": 0.9,
+      "outlets": 1
+    },
+    {
+      "title": "Ukraine, Russia race to build military satellite networks as war rages on",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss",
       "valence": -0.762,
       "impact": 0.9,
       "outlets": 1
@@ -96,7 +96,7 @@
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
