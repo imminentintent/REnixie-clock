@@ -1,14 +1,14 @@
 {
-  "divergence": "1.062914",
+  "divergence": "1.069703",
   "field": "beta",
-  "updated_at": "2026-11-14T14:12:51+00:00",
-  "z": 0.589,
+  "updated_at": "2026-11-14T15:06:28+00:00",
+  "z": 0.869,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 17,
+  "new_stories": 24,
   "climate": {
-    "fast": -0.4459,
-    "slow": -0.4776,
+    "fast": -0.4315,
+    "slow": -0.4751,
     "normal": -0.4793,
     "spread": 0.03
   },
@@ -19,14 +19,6 @@
       "link": "https://www.france24.com/en/video/20261113-as-eu-grapples-with-fierce-ai-competition-summit-overshadowed-by-elusive-ukraine-russia-peace-deal-1",
       "valence": 0.987,
       "impact": 0.978,
-      "outlets": 1
-    },
-    {
-      "title": "Suicide car bombing at security checkpoint in Pakistan kills 5, injures 13",
-      "source": "TimesOfIndia",
-      "link": "https://timesofindia.indiatimes.com/world/pakistan/suicide-car-bombing-at-security-checkpoint-in-pakistan-kills-5-injures-13/articleshow/135806931.cms",
-      "valence": -0.98,
-      "impact": 0.964,
       "outlets": 1
     },
     {
@@ -50,14 +42,6 @@
       "source": "CNA",
       "link": "https://www.channelnewsasia.com/asia/myanmar-airstrike-displaced-persons-camp-6551681",
       "valence": -0.956,
-      "impact": 0.94,
-      "outlets": 1
-    },
-    {
-      "title": "Most Ukrainians 'think there's no chance of a peace deal' with Russia",
-      "source": "France24",
-      "link": "https://www.france24.com/en/video/20261113-most-ukrainians-think-there-s-no-chance-of-a-peace-deal-with-russia",
-      "valence": 0.947,
       "impact": 0.94,
       "outlets": 1
     },
@@ -92,11 +76,27 @@
       "valence": -0.664,
       "impact": 1.0,
       "outlets": 2
+    },
+    {
+      "title": "SpaceX's Starship soars into orbit after booster explosion prevents an unprecedented double catch",
+      "source": "PhysOrg",
+      "link": "https://phys.org/news/2026-11-spacex-starship-soars-orbit-booster.html",
+      "valence": -0.664,
+      "impact": 1.0,
+      "outlets": 2
+    },
+    {
+      "title": "Measles-associated deaths reach 10 in US after two more deaths reported",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported?traffic_source=rss",
+      "valence": -0.885,
+      "impact": 0.84,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
