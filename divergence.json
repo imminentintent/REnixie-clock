@@ -1,15 +1,15 @@
 {
-  "divergence": "1.072892",
+  "divergence": "1.067102",
   "field": "beta",
-  "updated_at": "2026-11-14T18:37:32+00:00",
-  "z": 1.0,
+  "updated_at": "2026-11-14T19:33:07+00:00",
+  "z": 0.762,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 11,
+  "new_stories": 16,
   "climate": {
-    "fast": -0.4248,
-    "slow": -0.4733,
-    "normal": -0.479,
+    "fast": -0.4376,
+    "slow": -0.4747,
+    "normal": -0.4789,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -27,6 +27,22 @@
       "link": "https://www.channelnewsasia.com/asia/myanmar-airstrike-displaced-persons-camp-6551681",
       "valence": -0.956,
       "impact": 0.94,
+      "outlets": 1
+    },
+    {
+      "title": "Bomb rips through Damascus suburb killing 2 including a child",
+      "source": "ABCNews",
+      "link": "https://abcnews.com/International/wireStory/bomb-rips-damascus-suburb-killing-2-including-child-138145860",
+      "valence": -0.947,
+      "impact": 0.94,
+      "outlets": 1
+    },
+    {
+      "title": "Methane blast kills 2 at Colombian mine, search continues for 2 missing",
+      "source": "ABCNews",
+      "link": "https://abcnews.com/International/wireStory/methane-blast-kills-2-colombian-mine-search-continues-138145217",
+      "valence": -0.964,
+      "impact": 0.928,
       "outlets": 1
     },
     {
@@ -73,22 +89,6 @@
       "title": "Gold smuggled from war zones entered the UAE despite new regulations, report says",
       "source": "ABCNews",
       "link": "https://abcnews.com/International/wireStory/gold-smuggled-war-zones-entered-uae-despite-new-138117227",
-      "valence": -0.762,
-      "impact": 0.9,
-      "outlets": 1
-    },
-    {
-      "title": "Iran war live: Tehran says tanker hit naval mine, caught fire",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
-      "valence": -0.762,
-      "impact": 0.9,
-      "outlets": 1
-    },
-    {
-      "title": "Ukraine, Russia race to build military satellite networks as war rages on",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss",
       "valence": -0.762,
       "impact": 0.9,
       "outlets": 1
