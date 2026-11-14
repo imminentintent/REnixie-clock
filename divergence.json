@@ -1,15 +1,15 @@
 {
-  "divergence": "1.071517",
+  "divergence": "1.069930",
   "field": "beta",
-  "updated_at": "2026-11-14T07:50:57+00:00",
-  "z": 0.944,
+  "updated_at": "2026-11-14T08:39:41+00:00",
+  "z": 0.878,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 30,
+  "new_stories": 23,
   "climate": {
-    "fast": -0.4262,
-    "slow": -0.4769,
-    "normal": -0.4798,
+    "fast": -0.4298,
+    "slow": -0.4771,
+    "normal": -0.4797,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -27,6 +27,14 @@
       "link": "https://timesofindia.indiatimes.com/world/pakistan/suicide-car-bombing-at-security-checkpoint-in-pakistan-kills-5-injures-13/articleshow/135806931.cms",
       "valence": -0.98,
       "impact": 0.964,
+      "outlets": 1
+    },
+    {
+      "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss",
+      "valence": -0.956,
+      "impact": 0.97,
       "outlets": 1
     },
     {
@@ -83,14 +91,6 @@
       "link": "https://www.cbsnews.com/news/man-dies-eats-bomb-disguised-indian-sweet/",
       "valence": -0.922,
       "impact": 0.9,
-      "outlets": 1
-    },
-    {
-      "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-      "valence": 0.905,
-      "impact": 0.895,
       "outlets": 1
     }
   ],
