@@ -1,15 +1,15 @@
 {
-  "divergence": "1.063371",
+  "divergence": "1.071517",
   "field": "beta",
-  "updated_at": "2026-11-14T06:42:44+00:00",
-  "z": 0.608,
+  "updated_at": "2026-11-14T07:50:57+00:00",
+  "z": 0.944,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 33,
+  "new_stories": 30,
   "climate": {
-    "fast": -0.4434,
-    "slow": -0.4799,
-    "normal": -0.4799,
+    "fast": -0.4262,
+    "slow": -0.4769,
+    "normal": -0.4798,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -35,14 +35,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display?traffic_source=rss",
       "valence": -0.947,
       "impact": 0.97,
-      "outlets": 1
-    },
-    {
-      "title": "74 terrorists killed in multiple operations: Pakistani Army",
-      "source": "TheHindu",
-      "link": "https://www.thehindu.com/news/international/74-terrorists-killed-in-multiple-operations-pakistani-army/article71696886.ece",
-      "valence": -0.947,
-      "impact": 0.94,
       "outlets": 1
     },
     {
@@ -92,11 +84,19 @@
       "valence": -0.922,
       "impact": 0.9,
       "outlets": 1
+    },
+    {
+      "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+      "valence": 0.905,
+      "impact": 0.895,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
