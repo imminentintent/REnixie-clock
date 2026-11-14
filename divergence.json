@@ -1,14 +1,14 @@
 {
-  "divergence": "1.063982",
+  "divergence": "1.061032",
   "field": "beta",
-  "updated_at": "2026-11-14T22:01:31+00:00",
-  "z": 0.633,
+  "updated_at": "2026-11-14T22:59:56+00:00",
+  "z": 0.512,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 17,
+  "new_stories": 16,
   "climate": {
-    "fast": -0.4444,
-    "slow": -0.4753,
+    "fast": -0.4508,
+    "slow": -0.4761,
     "normal": -0.4788,
     "spread": 0.03
   },
@@ -54,11 +54,11 @@
       "outlets": 1
     },
     {
-      "title": "Russia sets cull limits to help control bear population after attacks kill 36 people",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/russia-sets-cull-limits-to-help-control-bear-population-after-attacks-kill-36-people",
+      "title": "Panamanian authorities investigate bombing attack on investigative reporter's home",
+      "source": "ABCNews",
+      "link": "https://abcnews.com/International/wireStory/panamanian-authorities-investigate-bombing-attack-investigative-reporters-home-138147790",
       "valence": -0.935,
-      "impact": 0.91,
+      "impact": 0.94,
       "outlets": 1
     },
     {
