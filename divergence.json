@@ -1,15 +1,15 @@
 {
-  "divergence": "1.061032",
+  "divergence": "1.057202",
   "field": "beta",
-  "updated_at": "2026-11-14T22:59:56+00:00",
-  "z": 0.512,
+  "updated_at": "2026-11-14T23:32:37+00:00",
+  "z": 0.354,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 16,
+  "new_stories": 13,
   "climate": {
-    "fast": -0.4508,
-    "slow": -0.4761,
-    "normal": -0.4788,
+    "fast": -0.4592,
+    "slow": -0.4771,
+    "normal": -0.4787,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -62,6 +62,14 @@
       "outlets": 1
     },
     {
+      "title": "Explosion near Syria’s capital kills father and child",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss",
+      "valence": -0.935,
+      "impact": 0.91,
+      "outlets": 1
+    },
+    {
       "title": "Why did a Brooklyn building collapse suddenly, killing eight? Experts point to excavation work at neighbouring construction site",
       "source": "TimesOfIndia",
       "link": "https://timesofindia.indiatimes.com/world/us/why-did-a-brooklyn-building-collapse-suddenly-killing-eight-experts-point-to-excavation-work-at-neighbouring-construction-site/articleshow/135833971.cms",
@@ -84,14 +92,6 @@
       "valence": -0.664,
       "impact": 1.0,
       "outlets": 2
-    },
-    {
-      "title": "Measles-associated deaths reach 10 in US after two more deaths reported",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported?traffic_source=rss",
-      "valence": -0.885,
-      "impact": 0.84,
-      "outlets": 1
     }
   ],
   "version": "1.0",
