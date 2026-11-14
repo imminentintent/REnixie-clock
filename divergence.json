@@ -1,15 +1,15 @@
 {
-  "divergence": "1.063941",
+  "divergence": "1.062914",
   "field": "beta",
-  "updated_at": "2026-11-14T13:23:27+00:00",
-  "z": 0.632,
+  "updated_at": "2026-11-14T14:12:51+00:00",
+  "z": 0.589,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 38,
+  "new_stories": 17,
   "climate": {
-    "fast": -0.4436,
-    "slow": -0.4774,
-    "normal": -0.4794,
+    "fast": -0.4459,
+    "slow": -0.4776,
+    "normal": -0.4793,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -62,14 +62,6 @@
       "outlets": 1
     },
     {
-      "title": "'A lot of emotion' as Paris marks 11 years since terror attacks",
-      "source": "France24",
-      "link": "https://www.france24.com/en/video/20261113-a-lot-of-emotion-as-paris-marks-11-years-since-terror-attacks",
-      "valence": -0.935,
-      "impact": 0.94,
-      "outlets": 1
-    },
-    {
       "title": "Russia sets cull limits to help control bear population after attacks kill 36 people",
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/russia-sets-cull-limits-to-help-control-bear-population-after-attacks-kill-36-people",
@@ -81,6 +73,14 @@
       "title": "Watch: CCTV captures chilling moment Brooklyn apartment building collapses, killing 8",
       "source": "TimesOfIndia",
       "link": "https://timesofindia.indiatimes.com/world/us/watch-cctv-captures-chilling-moment-brooklyn-apartment-building-collapses-killing-8/articleshow/135810824.cms",
+      "valence": -0.935,
+      "impact": 0.88,
+      "outlets": 1
+    },
+    {
+      "title": "Why did a Brooklyn building collapse suddenly, killing eight? Experts point to excavation work at neighbouring construction site",
+      "source": "TimesOfIndia",
+      "link": "https://timesofindia.indiatimes.com/world/us/why-did-a-brooklyn-building-collapse-suddenly-killing-eight-experts-point-to-excavation-work-at-neighbouring-construction-site/articleshow/135833971.cms",
       "valence": -0.935,
       "impact": 0.88,
       "outlets": 1
