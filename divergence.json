@@ -1,15 +1,15 @@
 {
-  "divergence": "1.072614",
+  "divergence": "1.070541",
   "field": "beta",
-  "updated_at": "2026-11-14T16:04:43+00:00",
-  "z": 0.989,
+  "updated_at": "2026-11-14T17:05:22+00:00",
+  "z": 0.903,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 29,
+  "new_stories": 18,
   "climate": {
-    "fast": -0.4253,
-    "slow": -0.474,
-    "normal": -0.4792,
+    "fast": -0.4299,
+    "slow": -0.4743,
+    "normal": -0.4791,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -70,12 +70,12 @@
       "outlets": 1
     },
     {
-      "title": "Eisenkot urges respect for Israel's Arab minority after Netanyahu attacks",
-      "source": "TheHindu",
-      "link": "https://www.thehindu.com/news/international/eisenkot-urges-respect-for-israels-arab-minority-after-netanyahu-attacks/article71699274.ece",
-      "valence": -0.664,
-      "impact": 1.0,
-      "outlets": 2
+      "title": "Jury finds Fairview liable in $84M heart attack death",
+      "source": "TimesOfIndia",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-minnesota-man-reported-chest-pain-during-an-in-person-consultation-and-a-virtual-appointment-three-months-later-before-dying-from-heart-attack-complications-while-exercising-at-home-his-family-wins-an-84-million-malpractice-verdict-against-fairview/articleshow/135836103.cms",
+      "valence": -0.905,
+      "impact": 0.88,
+      "outlets": 1
     },
     {
       "title": "SpaceX's Starship soars into orbit after booster explosion prevents an unprecedented double catch",
@@ -96,7 +96,7 @@
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
