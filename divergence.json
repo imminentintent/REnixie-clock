@@ -1,14 +1,14 @@
 {
-  "divergence": "1.057145",
+  "divergence": "1.053742",
   "field": "beta",
-  "updated_at": "2026-11-14T03:38:55+00:00",
-  "z": 0.352,
+  "updated_at": "2026-11-14T04:41:38+00:00",
+  "z": 0.212,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 11,
+  "new_stories": 10,
   "climate": {
-    "fast": -0.4564,
-    "slow": -0.4825,
+    "fast": -0.4636,
+    "slow": -0.4836,
     "normal": -0.4799,
     "spread": 0.03
   },
@@ -78,25 +78,25 @@
       "outlets": 1
     },
     {
+      "title": "Russia sets cull limits to help control bear population after attacks kill 36 people",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/russia-sets-cull-limits-to-help-control-bear-population-after-attacks-kill-36-people",
+      "valence": -0.935,
+      "impact": 0.91,
+      "outlets": 1
+    },
+    {
       "title": "Man dies after eating bomb disguised as traditional sweet",
       "source": "CBSNews",
       "link": "https://www.cbsnews.com/news/man-dies-eats-bomb-disguised-indian-sweet/",
       "valence": -0.922,
       "impact": 0.9,
       "outlets": 1
-    },
-    {
-      "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-      "valence": 0.905,
-      "impact": 0.895,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 36,
     "total": 38
   }
 }
