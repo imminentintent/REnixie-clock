@@ -1,14 +1,14 @@
 {
-  "divergence": "1.068544",
+  "divergence": "1.063699",
   "field": "beta",
-  "updated_at": "2026-11-15T16:06:30+00:00",
-  "z": 0.821,
+  "updated_at": "2026-11-15T17:06:56+00:00",
+  "z": 0.622,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 31,
+  "new_stories": 24,
   "climate": {
-    "fast": -0.4356,
-    "slow": -0.4717,
+    "fast": -0.4462,
+    "slow": -0.4729,
     "normal": -0.4782,
     "spread": 0.03
   },
@@ -86,9 +86,9 @@
       "outlets": 1
     },
     {
-      "title": "Jury finds Fairview liable in $84M heart attack death",
-      "source": "TimesOfIndia",
-      "link": "https://timesofindia.indiatimes.com/world/us/a-minnesota-man-reported-chest-pain-during-an-in-person-consultation-and-a-virtual-appointment-three-months-later-before-dying-from-heart-attack-complications-while-exercising-at-home-his-family-wins-an-84-million-malpractice-verdict-against-fairview/articleshow/135836103.cms",
+      "title": "Jordan sentences three men to death by hanging after deadly church attack",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss",
       "valence": -0.905,
       "impact": 0.88,
       "outlets": 1
@@ -96,7 +96,7 @@
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
