@@ -1,14 +1,14 @@
 {
-  "divergence": "1.069448",
+  "divergence": "1.066068",
   "field": "beta",
-  "updated_at": "2026-11-15T11:28:48+00:00",
-  "z": 0.858,
+  "updated_at": "2026-11-15T12:10:29+00:00",
+  "z": 0.719,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 22,
+  "new_stories": 15,
   "climate": {
-    "fast": -0.4328,
-    "slow": -0.4726,
+    "fast": -0.4403,
+    "slow": -0.4734,
     "normal": -0.4784,
     "spread": 0.03
   },
@@ -36,14 +36,6 @@
       "valence": -0.922,
       "impact": 1.0,
       "outlets": 2
-    },
-    {
-      "title": "Myanmar airstrike on displaced persons camp kills 12",
-      "source": "CNA",
-      "link": "https://www.channelnewsasia.com/asia/myanmar-airstrike-displaced-persons-camp-6551681",
-      "valence": -0.956,
-      "impact": 0.94,
-      "outlets": 1
     },
     {
       "title": "Bomb rips through Damascus suburb killing 2 including a child",
@@ -89,6 +81,14 @@
       "title": "Jury finds Fairview liable in $84M heart attack death",
       "source": "TimesOfIndia",
       "link": "https://timesofindia.indiatimes.com/world/us/a-minnesota-man-reported-chest-pain-during-an-in-person-consultation-and-a-virtual-appointment-three-months-later-before-dying-from-heart-attack-complications-while-exercising-at-home-his-family-wins-an-84-million-malpractice-verdict-against-fairview/articleshow/135836103.cms",
+      "valence": -0.905,
+      "impact": 0.88,
+      "outlets": 1
+    },
+    {
+      "title": "Jordan sentences three men to death by hanging after deadly church attack",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss",
       "valence": -0.905,
       "impact": 0.88,
       "outlets": 1
