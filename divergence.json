@@ -1,15 +1,15 @@
 {
-  "divergence": "1.066068",
+  "divergence": "1.062604",
   "field": "beta",
-  "updated_at": "2026-11-15T12:10:29+00:00",
-  "z": 0.719,
+  "updated_at": "2026-11-15T13:25:12+00:00",
+  "z": 0.577,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 15,
+  "new_stories": 37,
   "climate": {
-    "fast": -0.4403,
-    "slow": -0.4734,
-    "normal": -0.4784,
+    "fast": -0.4481,
+    "slow": -0.474,
+    "normal": -0.4783,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -62,19 +62,19 @@
       "outlets": 1
     },
     {
+      "title": "Two killed as car fleeing police crashes into Volkswagen in UK; 4 arrested",
+      "source": "TimesOfIndia",
+      "link": "https://timesofindia.indiatimes.com/world/uk/two-killed-as-car-fleeing-police-crashes-into-volkswagen-in-uk-4-arrested/articleshow/135856381.cms",
+      "valence": -0.956,
+      "impact": 0.916,
+      "outlets": 1
+    },
+    {
       "title": "Explosion near Syria’s capital kills father and child",
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss",
       "valence": -0.935,
       "impact": 0.91,
-      "outlets": 1
-    },
-    {
-      "title": "Why did a Brooklyn building collapse suddenly, killing eight? Experts point to excavation work at neighbouring construction site",
-      "source": "TimesOfIndia",
-      "link": "https://timesofindia.indiatimes.com/world/us/why-did-a-brooklyn-building-collapse-suddenly-killing-eight-experts-point-to-excavation-work-at-neighbouring-construction-site/articleshow/135833971.cms",
-      "valence": -0.935,
-      "impact": 0.88,
       "outlets": 1
     },
     {
@@ -96,7 +96,7 @@
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
