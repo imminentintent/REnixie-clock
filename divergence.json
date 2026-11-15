@@ -1,26 +1,18 @@
 {
-  "divergence": "1.063274",
+  "divergence": "1.063657",
   "field": "beta",
-  "updated_at": "2026-11-15T19:35:26+00:00",
-  "z": 0.604,
+  "updated_at": "2026-11-15T20:28:25+00:00",
+  "z": 0.62,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 21,
+  "new_stories": 15,
   "climate": {
-    "fast": -0.4473,
-    "slow": -0.4725,
+    "fast": -0.4465,
+    "slow": -0.4724,
     "normal": -0.478,
     "spread": 0.03
   },
   "top_stories_24h": [
-    {
-      "title": "Deadly car bomb blast kills two near Syria’s capital",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss",
-      "valence": -0.987,
-      "impact": 0.976,
-      "outlets": 1
-    },
     {
       "title": "Guatemala decrees state of emergency in two departments after lawmaker killed in attack",
       "source": "StraitsTimes",
@@ -92,6 +84,14 @@
       "valence": -0.762,
       "impact": 0.95,
       "outlets": 1
+    },
+    {
+      "title": "Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/middle-east/saudi-led-coalition-intercepts-missiles-towards-riyadh-drones-in-eastern-province",
+      "valence": -0.664,
+      "impact": 1.0,
+      "outlets": 2
     }
   ],
   "version": "1.0",
