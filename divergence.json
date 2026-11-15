@@ -1,14 +1,14 @@
 {
-  "divergence": "1.055563",
+  "divergence": "1.062610",
   "field": "beta",
-  "updated_at": "2026-11-15T06:47:27+00:00",
-  "z": 0.287,
+  "updated_at": "2026-11-15T07:55:33+00:00",
+  "z": 0.577,
   "calibrating": false,
   "scorer": "lexicon",
   "new_stories": 23,
   "climate": {
-    "fast": -0.463,
-    "slow": -0.477,
+    "fast": -0.4477,
+    "slow": -0.4749,
     "normal": -0.4786,
     "spread": 0.03
   },
@@ -27,14 +27,6 @@
       "link": "https://www.straitstimes.com/world/guatemala-decrees-state-of-emergency-in-two-departments-after-lawmaker-killed-in-attack",
       "valence": -0.987,
       "impact": 0.973,
-      "outlets": 1
-    },
-    {
-      "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss",
-      "valence": -0.956,
-      "impact": 0.97,
       "outlets": 1
     },
     {
@@ -91,6 +83,14 @@
       "link": "https://timesofindia.indiatimes.com/world/us/a-minnesota-man-reported-chest-pain-during-an-in-person-consultation-and-a-virtual-appointment-three-months-later-before-dying-from-heart-attack-complications-while-exercising-at-home-his-family-wins-an-84-million-malpractice-verdict-against-fairview/articleshow/135836103.cms",
       "valence": -0.905,
       "impact": 0.88,
+      "outlets": 1
+    },
+    {
+      "title": "World’s top court to rule if Myanmar committed genocide against Rohingya",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj",
+      "valence": -0.762,
+      "impact": 0.95,
       "outlets": 1
     }
   ],
