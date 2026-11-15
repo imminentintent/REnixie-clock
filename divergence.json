@@ -1,15 +1,15 @@
 {
-  "divergence": "1.068014",
+  "divergence": "1.063274",
   "field": "beta",
-  "updated_at": "2026-11-15T18:38:19+00:00",
-  "z": 0.799,
+  "updated_at": "2026-11-15T19:35:26+00:00",
+  "z": 0.604,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 9,
+  "new_stories": 21,
   "climate": {
-    "fast": -0.4368,
-    "slow": -0.4715,
-    "normal": -0.4781,
+    "fast": -0.4473,
+    "slow": -0.4725,
+    "normal": -0.478,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -36,22 +36,6 @@
       "valence": -0.922,
       "impact": 1.0,
       "outlets": 2
-    },
-    {
-      "title": "Bomb rips through Damascus suburb killing 2 including a child",
-      "source": "ABCNews",
-      "link": "https://abcnews.com/International/wireStory/bomb-rips-damascus-suburb-killing-2-including-child-138145860",
-      "valence": -0.947,
-      "impact": 0.94,
-      "outlets": 1
-    },
-    {
-      "title": "Methane blast kills 2 at Colombian mine, search continues for 2 missing",
-      "source": "ABCNews",
-      "link": "https://abcnews.com/International/wireStory/methane-blast-kills-2-colombian-mine-search-continues-138145217",
-      "valence": -0.964,
-      "impact": 0.928,
-      "outlets": 1
     },
     {
       "title": "Panamanian authorities investigate bombing attack on investigative reporter's home",
@@ -86,11 +70,27 @@
       "outlets": 1
     },
     {
+      "title": "Charleston opens $25m memorial 11 years after church shooting killed nine Black worshippers",
+      "source": "TimesOfIndia",
+      "link": "https://timesofindia.indiatimes.com/world/us/eleven-years-after-chris-singleton-lost-his-mother-in-the-charleston-church-shooting-a-memorial-backed-by-25-million-in-fundraising-has-opened-he-now-has-a-place-to-visit-when-he-wants-to-remember-her/articleshow/135864039.cms",
+      "valence": -0.935,
+      "impact": 0.88,
+      "outlets": 1
+    },
+    {
       "title": "Jordan sentences three men to death by hanging after deadly church attack",
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss",
       "valence": -0.905,
       "impact": 0.88,
+      "outlets": 1
+    },
+    {
+      "title": "World’s top court to rule if Myanmar committed genocide against Rohingya",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj",
+      "valence": -0.762,
+      "impact": 0.95,
       "outlets": 1
     }
   ],
