@@ -1,14 +1,14 @@
 {
-  "divergence": "1.054405",
+  "divergence": "1.060888",
   "field": "beta",
-  "updated_at": "2026-11-16T15:57:03+00:00",
-  "z": 0.239,
+  "updated_at": "2026-11-16T17:03:54+00:00",
+  "z": 0.506,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 116,
+  "new_stories": 47,
   "climate": {
-    "fast": -0.4669,
-    "slow": -0.4743,
+    "fast": -0.4535,
+    "slow": -0.4716,
     "normal": -0.4777,
     "spread": 0.03
   },
@@ -86,17 +86,17 @@
       "outlets": 1
     },
     {
-      "title": "Israeli opposition chiefs denounce Netanyahu over ‘attempted coup’",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/middle-east/israeli-opposition-chiefs-denounce-netanyahu-over-attempted-coup",
-      "valence": -0.762,
-      "impact": 1.0,
-      "outlets": 2
+      "title": "US now \"comfortable\" with children dying of measles as death toll hits 10",
+      "source": "ArsTechnica",
+      "link": "https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/",
+      "valence": -0.935,
+      "impact": 0.92,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 36,
+    "live": 37,
     "total": 38
   }
 }
