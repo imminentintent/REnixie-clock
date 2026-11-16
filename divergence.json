@@ -1,26 +1,18 @@
 {
-  "divergence": "1.045191",
+  "divergence": "1.045970",
   "field": "beta",
-  "updated_at": "2026-11-16T05:23:10+00:00",
-  "z": -0.14,
+  "updated_at": "2026-11-16T07:00:49+00:00",
+  "z": -0.108,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 35,
+  "new_stories": 44,
   "climate": {
-    "fast": -0.4877,
-    "slow": -0.476,
+    "fast": -0.4859,
+    "slow": -0.4759,
     "normal": -0.4777,
     "spread": 0.03
   },
   "top_stories_24h": [
-    {
-      "title": "Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/middle-east/bahrain-issues-first-threat-alerts-since-september-as-iran-says-it-attacked-us-base",
-      "valence": -0.922,
-      "impact": 1.0,
-      "outlets": 2
-    },
     {
       "title": "Iran war live: Tehran warns it may strike first before another US attack",
       "source": "AlJazeera",
@@ -86,17 +78,25 @@
       "outlets": 1
     },
     {
-      "title": "World’s top court to rule if Myanmar committed genocide against Rohingya",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj",
+      "title": "NYPD shoots kidnapping suspect dead after van chase on busy highway; no child found",
+      "source": "TimesOfIndia",
+      "link": "https://timesofindia.indiatimes.com/world/us/nypd-shoots-kidnapping-suspect-dead-after-van-chase-on-busy-highway-no-child-found/articleshow/135857354.cms",
+      "valence": -0.922,
+      "impact": 0.84,
+      "outlets": 1
+    },
+    {
+      "title": "Yemeni government force retreats from strait in major setback in war against Houthis",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/middle-east/yemen-government-forces-withdraw-from-area-near-bab-el-mandeb-strait-houthis-in-control",
       "valence": -0.762,
-      "impact": 0.95,
+      "impact": 0.9,
       "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 36,
+    "live": 38,
     "total": 38
   }
 }
