@@ -1,14 +1,14 @@
 {
-  "divergence": "1.032084",
+  "divergence": "1.042811",
   "field": "beta",
-  "updated_at": "2026-11-16T11:20:18+00:00",
-  "z": -0.68,
+  "updated_at": "2026-11-16T13:06:43+00:00",
+  "z": -0.238,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 81,
+  "new_stories": 87,
   "climate": {
-    "fast": -0.5144,
-    "slow": -0.4817,
+    "fast": -0.4914,
+    "slow": -0.4784,
     "normal": -0.4777,
     "spread": 0.03
   },
@@ -70,11 +70,11 @@
       "outlets": 1
     },
     {
-      "title": "Two killed as car fleeing police crashes into Volkswagen in UK; 4 arrested",
+      "title": "New York stabbing: Man killed, woman injured outside convenience store in Bronx",
       "source": "TimesOfIndia",
-      "link": "https://timesofindia.indiatimes.com/world/uk/two-killed-as-car-fleeing-police-crashes-into-volkswagen-in-uk-4-arrested/articleshow/135856381.cms",
-      "valence": -0.956,
-      "impact": 0.916,
+      "link": "https://timesofindia.indiatimes.com/world/us/new-york-stabbing-man-killed-woman-injured-outside-convenience-store-in-bronx/articleshow/135885977.cms",
+      "valence": -0.976,
+      "impact": 0.91,
       "outlets": 1
     },
     {
@@ -86,17 +86,17 @@
       "outlets": 2
     },
     {
-      "title": "Charleston opens $25m memorial 11 years after church shooting killed nine Black worshippers",
-      "source": "TimesOfIndia",
-      "link": "https://timesofindia.indiatimes.com/world/us/eleven-years-after-chris-singleton-lost-his-mother-in-the-charleston-church-shooting-a-memorial-backed-by-25-million-in-fundraising-has-opened-he-now-has-a-place-to-visit-when-he-wants-to-remember-her/articleshow/135864039.cms",
-      "valence": -0.935,
-      "impact": 0.88,
+      "title": "EU accuses Russia of stalling Ukraine peace talks to target power plants as winter nears",
+      "source": "TheHindu",
+      "link": "https://www.thehindu.com/news/international/eu-accuses-russia-of-stalling-ukraine-peace-talks-to-target-power-plants-as-winter-nears/article71707737.ece",
+      "valence": 0.905,
+      "impact": 0.895,
       "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
