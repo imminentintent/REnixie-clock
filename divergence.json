@@ -1,26 +1,18 @@
 {
-  "divergence": "1.052913",
+  "divergence": "1.045191",
   "field": "beta",
-  "updated_at": "2026-11-16T03:55:28+00:00",
-  "z": 0.178,
+  "updated_at": "2026-11-16T05:23:10+00:00",
+  "z": -0.14,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 20,
+  "new_stories": 35,
   "climate": {
-    "fast": -0.4709,
-    "slow": -0.4738,
-    "normal": -0.4776,
+    "fast": -0.4877,
+    "slow": -0.476,
+    "normal": -0.4777,
     "spread": 0.03
   },
   "top_stories_24h": [
-    {
-      "title": "Guatemala decrees state of emergency in two departments after lawmaker killed in attack",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/guatemala-decrees-state-of-emergency-in-two-departments-after-lawmaker-killed-in-attack",
-      "valence": -0.987,
-      "impact": 0.973,
-      "outlets": 1
-    },
     {
       "title": "Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base",
       "source": "StraitsTimes",
@@ -70,6 +62,14 @@
       "outlets": 1
     },
     {
+      "title": "11 people killed after fire breaks out in Phuket building: Thai police",
+      "source": "CNA",
+      "link": "https://www.channelnewsasia.com/asia/11-dead-fire-building-phuket-thailand-6554316",
+      "valence": -0.716,
+      "impact": 1.0,
+      "outlets": 3
+    },
+    {
       "title": "Colorado jury awards $65 million, after mother killed in crash",
       "source": "TimesOfIndia",
       "link": "https://timesofindia.indiatimes.com/world/us/a-colorado-single-mother-took-her-10-year-old-son-to-a-water-park-as-a-surprise-but-a-truck-towing-an-excavator-caused-a-fatal-crash-on-their-way-home-killing-her-four-years-later-a-jury-awarded-her-family-65-million/articleshow/135830137.cms",
@@ -96,7 +96,7 @@
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 36,
     "total": 38
   }
 }
