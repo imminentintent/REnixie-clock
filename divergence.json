@@ -1,14 +1,14 @@
 {
-  "divergence": "1.071622",
+  "divergence": "1.057473",
   "field": "beta",
-  "updated_at": "2026-11-16T00:07:52+00:00",
-  "z": 0.948,
+  "updated_at": "2026-11-16T01:53:32+00:00",
+  "z": 0.365,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 24,
+  "new_stories": 43,
   "climate": {
-    "fast": -0.4298,
-    "slow": -0.4689,
+    "fast": -0.4609,
+    "slow": -0.4725,
     "normal": -0.4777,
     "spread": 0.03
   },
@@ -28,6 +28,14 @@
       "valence": -0.922,
       "impact": 1.0,
       "outlets": 2
+    },
+    {
+      "title": "Iran war live: Tehran warns it may strike first before another US attack",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
+      "valence": -0.947,
+      "impact": 0.97,
+      "outlets": 1
     },
     {
       "title": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - Middle East crisis live",
@@ -84,14 +92,6 @@
       "valence": -0.762,
       "impact": 0.95,
       "outlets": 1
-    },
-    {
-      "title": "Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/middle-east/saudi-led-coalition-intercepts-missiles-towards-riyadh-drones-in-eastern-province",
-      "valence": -0.664,
-      "impact": 1.0,
-      "outlets": 2
     }
   ],
   "version": "1.0",
