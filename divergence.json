@@ -1,15 +1,15 @@
 {
-  "divergence": "1.073406",
+  "divergence": "1.071622",
   "field": "beta",
-  "updated_at": "2026-11-15T23:00:44+00:00",
-  "z": 1.021,
+  "updated_at": "2026-11-16T00:07:52+00:00",
+  "z": 0.948,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 23,
+  "new_stories": 24,
   "climate": {
-    "fast": -0.4257,
-    "slow": -0.4687,
-    "normal": -0.4778,
+    "fast": -0.4298,
+    "slow": -0.4689,
+    "normal": -0.4777,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -54,6 +54,22 @@
       "outlets": 1
     },
     {
+      "title": "Rescuers recover last 2 bodies after methane blast kills 4 at a Colombia coal mine",
+      "source": "ABCNews",
+      "link": "https://abcnews.com/International/wireStory/rescuers-recover-2-bodies-after-methane-blast-kills-138163211",
+      "valence": -0.834,
+      "impact": 0.928,
+      "outlets": 1
+    },
+    {
+      "title": "Colorado jury awards $65 million, after mother killed in crash",
+      "source": "TimesOfIndia",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-colorado-single-mother-took-her-10-year-old-son-to-a-water-park-as-a-surprise-but-a-truck-towing-an-excavator-caused-a-fatal-crash-on-their-way-home-killing-her-four-years-later-a-jury-awarded-her-family-65-million/articleshow/135830137.cms",
+      "valence": -0.922,
+      "impact": 0.88,
+      "outlets": 1
+    },
+    {
       "title": "Jordan sentences three men to death by hanging after deadly church attack",
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss",
@@ -76,27 +92,11 @@
       "valence": -0.664,
       "impact": 1.0,
       "outlets": 2
-    },
-    {
-      "title": "NYPD shoots kidnapping suspect dead after van chase on busy highway; no child found",
-      "source": "TimesOfIndia",
-      "link": "https://timesofindia.indiatimes.com/world/us/nypd-shoots-kidnapping-suspect-dead-after-van-chase-on-busy-highway-no-child-found/articleshow/135857354.cms",
-      "valence": -0.922,
-      "impact": 0.84,
-      "outlets": 1
-    },
-    {
-      "title": "Aussies crashes to record ODI loss against England after top order collapse",
-      "source": "ABC-AU",
-      "link": "https://www.abc.net.au/news/2026-11-15/australia-crashes-to-record-odi-loss-to-england/107387540",
-      "valence": -0.905,
-      "impact": 0.84,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
