@@ -1,18 +1,34 @@
 {
-  "divergence": "1.040615",
+  "divergence": "1.032084",
   "field": "beta",
-  "updated_at": "2026-11-16T09:59:10+00:00",
-  "z": -0.328,
+  "updated_at": "2026-11-16T11:20:18+00:00",
+  "z": -0.68,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 96,
+  "new_stories": 81,
   "climate": {
-    "fast": -0.497,
-    "slow": -0.4781,
+    "fast": -0.5144,
+    "slow": -0.4817,
     "normal": -0.4777,
     "spread": 0.03
   },
   "top_stories_24h": [
+    {
+      "title": "Ukraine launches biggest drone attack on Russia since war began, defence ministry data shows",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/europe/ukraine-launches-biggest-drone-attack-on-russia-since-war-began-defence-ministry-data-shows",
+      "valence": -0.905,
+      "impact": 1.0,
+      "outlets": 2
+    },
+    {
+      "title": "ICJ to rule on Rohingya ‘genocide’: Refugee crisis, timeline of the case, and more",
+      "source": "TheHindu",
+      "link": "https://www.thehindu.com/news/international/icj-to-rule-on-rohingya-genocide-refugee-crisis-timeline-of-the-case-and-more/article71707225.ece",
+      "valence": -0.935,
+      "impact": 0.98,
+      "outlets": 1
+    },
     {
       "title": "Iran war live: Tehran warns it may strike first before another US attack",
       "source": "AlJazeera",
@@ -28,6 +44,14 @@
       "valence": -0.885,
       "impact": 1.0,
       "outlets": 2
+    },
+    {
+      "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
+      "source": "NYTimes",
+      "link": "https://www.nytimes.com/2026/11/16/world/europe/iran-dams-missile-sites-environmentalists.html",
+      "valence": -0.947,
+      "impact": 0.94,
+      "outlets": 1
     },
     {
       "title": "Poland detains three teenagers suspected of preparing terrorist attack",
@@ -68,30 +92,6 @@
       "valence": -0.935,
       "impact": 0.88,
       "outlets": 1
-    },
-    {
-      "title": "Rescuers recover last 2 bodies after methane blast kills 4 at a Colombia coal mine",
-      "source": "ABCNews",
-      "link": "https://abcnews.com/International/wireStory/rescuers-recover-2-bodies-after-methane-blast-kills-138163211",
-      "valence": -0.834,
-      "impact": 0.928,
-      "outlets": 1
-    },
-    {
-      "title": "11 people killed after fire breaks out in Phuket building: Thai police",
-      "source": "CNA",
-      "link": "https://www.channelnewsasia.com/asia/11-dead-fire-building-phuket-thailand-6554316",
-      "valence": -0.716,
-      "impact": 1.0,
-      "outlets": 3
-    },
-    {
-      "title": "At least 17 people were killed in separate shootings in South Africa",
-      "source": "ABCNews",
-      "link": "https://abcnews.com/International/wireStory/17-people-killed-separate-shootings-south-africa-138171068",
-      "valence": -0.716,
-      "impact": 1.0,
-      "outlets": 4
     }
   ],
   "version": "1.0",
