@@ -1,14 +1,14 @@
 {
-  "divergence": "1.069440",
+  "divergence": "1.067578",
   "field": "beta",
-  "updated_at": "2026-11-17T16:23:50+00:00",
-  "z": 0.858,
+  "updated_at": "2026-11-17T17:28:20+00:00",
+  "z": 0.781,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 56,
+  "new_stories": 51,
   "climate": {
-    "fast": -0.4407,
-    "slow": -0.4608,
+    "fast": -0.4448,
+    "slow": -0.4612,
     "normal": -0.4764,
     "spread": 0.03
   },
@@ -70,14 +70,6 @@
       "outlets": 1
     },
     {
-      "title": "US now \"comfortable\" with children dying of measles as death toll hits 10",
-      "source": "ArsTechnica",
-      "link": "https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/",
-      "valence": -0.935,
-      "impact": 0.92,
-      "outlets": 1
-    },
-    {
       "title": "Did the US use ‘blackout bombs’ in Iran? Images reveal mysterious fibres at infrastructure sites",
       "source": "France24",
       "link": "https://www.france24.com/en/middle-east/20261117-iran-us-graphite-blackout-bombs-infrastructure",
@@ -92,6 +84,14 @@
       "valence": -0.762,
       "impact": 1.0,
       "outlets": 2
+    },
+    {
+      "title": "Costa Rican journalist shot dead in first such killing in 25 years",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/costa-rican-journalist-shot-dead-in-first-such-killing-in-25-years",
+      "valence": -0.935,
+      "impact": 0.88,
+      "outlets": 1
     }
   ],
   "version": "1.0",
