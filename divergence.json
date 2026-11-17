@@ -1,26 +1,18 @@
 {
-  "divergence": "1.080507",
+  "divergence": "1.084247",
   "field": "beta",
-  "updated_at": "2026-11-17T12:48:23+00:00",
-  "z": 1.314,
+  "updated_at": "2026-11-17T14:05:00+00:00",
+  "z": 1.468,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 62,
+  "new_stories": 68,
   "climate": {
-    "fast": -0.4165,
-    "slow": -0.4581,
-    "normal": -0.4766,
+    "fast": -0.4092,
+    "slow": -0.456,
+    "normal": -0.4765,
     "spread": 0.03
   },
   "top_stories_24h": [
-    {
-      "title": "Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war?traffic_source=rss",
-      "valence": -0.991,
-      "impact": 0.991,
-      "outlets": 1
-    },
     {
       "title": "Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’",
       "source": "AlJazeera",
@@ -92,11 +84,19 @@
       "valence": -0.862,
       "impact": 0.92,
       "outlets": 1
+    },
+    {
+      "title": "Kremlin aide denies Russia agreed to include Europe in Ukraine peace talks",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/europe/kremlin-aide-denies-russia-agreed-to-include-europe-in-ukraine-peace-talks",
+      "valence": 0.905,
+      "impact": 0.895,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
