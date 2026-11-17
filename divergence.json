@@ -1,15 +1,15 @@
 {
-  "divergence": "1.064209",
+  "divergence": "1.059911",
   "field": "beta",
-  "updated_at": "2026-11-17T20:43:04+00:00",
-  "z": 0.643,
+  "updated_at": "2026-11-17T21:41:46+00:00",
+  "z": 0.466,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 69,
+  "new_stories": 37,
   "climate": {
-    "fast": -0.4518,
-    "slow": -0.4622,
-    "normal": -0.4763,
+    "fast": -0.4606,
+    "slow": -0.464,
+    "normal": -0.4762,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -25,6 +25,14 @@
       "title": "Iran fires drones at U.S. base in Bahrain, denies reports of planned dirty bomb attack in D.C.",
       "source": "CBC",
       "link": "https://www.cbc.ca/news/world/iran-us-war-bahrain-drones-dirty-bomb-report-9.7424686?cmp=rss",
+      "valence": -0.935,
+      "impact": 1.0,
+      "outlets": 2
+    },
+    {
+      "title": "At hearing, US Navy chief blasted over Iran war and its toll on sailors",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/middle-east/at-hearing-us-navy-chief-blasted-over-iran-war-and-its-toll-on-sailors",
       "valence": -0.935,
       "impact": 1.0,
       "outlets": 2
@@ -84,14 +92,6 @@
       "valence": -0.905,
       "impact": 0.92,
       "outlets": 1
-    },
-    {
-      "title": "4 detained in North Macedonia for alleged Iran-backed assassination plot in Greece",
-      "source": "ABCNews",
-      "link": "https://abcnews.com/International/wireStory/4-detained-north-macedonia-alleged-iran-backed-assassination-138214034",
-      "valence": -0.762,
-      "impact": 1.0,
-      "outlets": 2
     }
   ],
   "version": "1.0",
