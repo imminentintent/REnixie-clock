@@ -1,14 +1,14 @@
 {
-  "divergence": "1.084247",
+  "divergence": "1.073705",
   "field": "beta",
-  "updated_at": "2026-11-17T14:05:00+00:00",
-  "z": 1.468,
+  "updated_at": "2026-11-17T15:18:04+00:00",
+  "z": 1.034,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 68,
+  "new_stories": 67,
   "climate": {
-    "fast": -0.4092,
-    "slow": -0.456,
+    "fast": -0.4318,
+    "slow": -0.4593,
     "normal": -0.4765,
     "spread": 0.03
   },
@@ -20,6 +20,14 @@
       "valence": -0.964,
       "impact": 0.99,
       "outlets": 1
+    },
+    {
+      "title": "Iran fires drones at U.S. base in Bahrain, denies reports of planned dirty bomb attack in D.C.",
+      "source": "CBC",
+      "link": "https://www.cbc.ca/news/world/iran-us-war-bahrain-drones-dirty-bomb-report-9.7424686?cmp=rss",
+      "valence": -0.935,
+      "impact": 1.0,
+      "outlets": 2
     },
     {
       "title": "Iran war live: Bahrain says intercepted Iranian drones, IRGC claims attack",
@@ -62,18 +70,18 @@
       "outlets": 1
     },
     {
-      "title": "Iranian leaders fret over public mood as gas shortages add to war ills",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/middle-east/iranian-leaders-fret-over-public-mood-as-gas-shortages-add-to-war-ills",
-      "valence": -0.905,
-      "impact": 0.95,
-      "outlets": 1
-    },
-    {
       "title": "US now \"comfortable\" with children dying of measles as death toll hits 10",
       "source": "ArsTechnica",
       "link": "https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/",
       "valence": -0.935,
+      "impact": 0.92,
+      "outlets": 1
+    },
+    {
+      "title": "Did the US use ‘blackout bombs’ in Iran? Images reveal mysterious fibres at infrastructure sites",
+      "source": "France24",
+      "link": "https://www.france24.com/en/middle-east/20261117-iran-us-graphite-blackout-bombs-infrastructure",
+      "valence": -0.905,
       "impact": 0.92,
       "outlets": 1
     },
@@ -84,19 +92,11 @@
       "valence": -0.862,
       "impact": 0.92,
       "outlets": 1
-    },
-    {
-      "title": "Kremlin aide denies Russia agreed to include Europe in Ukraine peace talks",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/kremlin-aide-denies-russia-agreed-to-include-europe-in-ukraine-peace-talks",
-      "valence": 0.905,
-      "impact": 0.895,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
