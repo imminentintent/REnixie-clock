@@ -1,15 +1,15 @@
 {
-  "divergence": "1.073705",
+  "divergence": "1.069440",
   "field": "beta",
-  "updated_at": "2026-11-17T15:18:04+00:00",
-  "z": 1.034,
+  "updated_at": "2026-11-17T16:23:50+00:00",
+  "z": 0.858,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 67,
+  "new_stories": 56,
   "climate": {
-    "fast": -0.4318,
-    "slow": -0.4593,
-    "normal": -0.4765,
+    "fast": -0.4407,
+    "slow": -0.4608,
+    "normal": -0.4764,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -86,17 +86,17 @@
       "outlets": 1
     },
     {
-      "title": "Nuclear bomb in space would disable 98 per cent of satellites within a week",
-      "source": "NewScientist",
-      "link": "https://www.newscientist.com/article/2598378-nuclear-bomb-in-space-would-disable-98-per-cent-of-satellites-within-a-week/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "valence": -0.862,
-      "impact": 0.92,
-      "outlets": 1
+      "title": "4 detained in North Macedonia for alleged Iran-backed assassination plot in Greece",
+      "source": "ABCNews",
+      "link": "https://abcnews.com/International/wireStory/4-detained-north-macedonia-alleged-iran-backed-assassination-138214034",
+      "valence": -0.762,
+      "impact": 1.0,
+      "outlets": 2
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 36,
     "total": 38
   }
 }
