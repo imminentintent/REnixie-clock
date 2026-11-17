@@ -1,15 +1,15 @@
 {
-  "divergence": "1.090362",
+  "divergence": "1.090958",
   "field": "beta",
-  "updated_at": "2026-11-17T09:28:57+00:00",
-  "z": 1.72,
+  "updated_at": "2026-11-17T10:31:51+00:00",
+  "z": 1.745,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 40,
+  "new_stories": 54,
   "climate": {
-    "fast": -0.3936,
-    "slow": -0.4572,
-    "normal": -0.4769,
+    "fast": -0.3933,
+    "slow": -0.4559,
+    "normal": -0.4768,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -38,14 +38,6 @@
       "outlets": 2
     },
     {
-      "title": "ICJ to rule on Rohingya ‘genocide’: Refugee crisis, timeline of the case, and more",
-      "source": "TheHindu",
-      "link": "https://www.thehindu.com/news/international/icj-to-rule-on-rohingya-genocide-refugee-crisis-timeline-of-the-case-and-more/article71707225.ece",
-      "valence": -0.935,
-      "impact": 0.98,
-      "outlets": 1
-    },
-    {
       "title": "Iran war live: Bahrain says intercepted Iranian drones, IRGC claims attack",
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
@@ -70,27 +62,35 @@
       "outlets": 1
     },
     {
-      "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
-      "source": "NYTimes",
-      "link": "https://www.nytimes.com/2026/11/16/world/europe/iran-dams-missile-sites-environmentalists.html",
-      "valence": -0.947,
-      "impact": 0.94,
-      "outlets": 1
-    },
-    {
-      "title": "Poland detains three teenagers suspected of preparing terrorist attack",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/poland-detains-three-teenagers-suspected-of-preparing-terrorist-attack",
-      "valence": -0.935,
-      "impact": 0.94,
-      "outlets": 1
-    },
-    {
       "title": "Iranian leaders fret over public mood as gas shortages add to war ills",
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/middle-east/iranian-leaders-fret-over-public-mood-as-gas-shortages-add-to-war-ills",
       "valence": -0.905,
       "impact": 0.95,
+      "outlets": 1
+    },
+    {
+      "title": "New York stabbing: Man killed, woman injured outside convenience store in Bronx",
+      "source": "TimesOfIndia",
+      "link": "https://timesofindia.indiatimes.com/world/us/new-york-stabbing-man-killed-woman-injured-outside-convenience-store-in-bronx/articleshow/135885977.cms",
+      "valence": -0.976,
+      "impact": 0.91,
+      "outlets": 1
+    },
+    {
+      "title": "US now \"comfortable\" with children dying of measles as death toll hits 10",
+      "source": "ArsTechnica",
+      "link": "https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/",
+      "valence": -0.935,
+      "impact": 0.92,
+      "outlets": 1
+    },
+    {
+      "title": "Nuclear bomb in space would disable 98 per cent of satellites within a week",
+      "source": "NewScientist",
+      "link": "https://www.newscientist.com/article/2598378-nuclear-bomb-in-space-would-disable-98-per-cent-of-satellites-within-a-week/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "valence": -0.862,
+      "impact": 0.92,
       "outlets": 1
     }
   ],
