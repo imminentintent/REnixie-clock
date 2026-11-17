@@ -1,15 +1,15 @@
 {
-  "divergence": "1.074294",
+  "divergence": "1.081400",
   "field": "beta",
-  "updated_at": "2026-11-17T06:57:36+00:00",
-  "z": 1.058,
+  "updated_at": "2026-11-17T08:16:36+00:00",
+  "z": 1.351,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 56,
+  "new_stories": 40,
   "climate": {
-    "fast": -0.4268,
-    "slow": -0.4641,
-    "normal": -0.4771,
+    "fast": -0.412,
+    "slow": -0.4611,
+    "normal": -0.477,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -46,12 +46,12 @@
       "outlets": 1
     },
     {
-      "title": "Iran rules out UN inspections of damaged nuclear sites until war ends",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/middle-east/iran-rules-out-un-inspections-of-damaged-nuclear-sites-until-war-ends",
-      "valence": -0.885,
-      "impact": 1.0,
-      "outlets": 2
+      "title": "Iran war live: Bahrain says intercepted Iranian drones, IRGC claims attack",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
+      "valence": -0.947,
+      "impact": 0.97,
+      "outlets": 1
     },
     {
       "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
