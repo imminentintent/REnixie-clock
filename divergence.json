@@ -1,15 +1,15 @@
 {
-  "divergence": "1.066610",
+  "divergence": "1.067108",
   "field": "beta",
-  "updated_at": "2026-11-16T23:11:31+00:00",
-  "z": 0.741,
+  "updated_at": "2026-11-17T00:06:22+00:00",
+  "z": 0.762,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 32,
+  "new_stories": 30,
   "climate": {
-    "fast": -0.4423,
-    "slow": -0.4682,
-    "normal": -0.4775,
+    "fast": -0.4413,
+    "slow": -0.4679,
+    "normal": -0.4774,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -35,14 +35,6 @@
       "link": "https://www.thehindu.com/news/international/icj-to-rule-on-rohingya-genocide-refugee-crisis-timeline-of-the-case-and-more/article71707225.ece",
       "valence": -0.935,
       "impact": 0.98,
-      "outlets": 1
-    },
-    {
-      "title": "Iran war live: Tehran warns it may strike first before another US attack",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
-      "valence": -0.947,
-      "impact": 0.97,
       "outlets": 1
     },
     {
@@ -92,6 +84,14 @@
       "valence": -0.935,
       "impact": 0.92,
       "outlets": 1
+    },
+    {
+      "title": "Israeli opposition chiefs denounce Netanyahu over ‘attempted coup’",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/middle-east/israeli-opposition-chiefs-denounce-netanyahu-over-attempted-coup",
+      "valence": -0.762,
+      "impact": 1.0,
+      "outlets": 2
     }
   ],
   "version": "1.0",
