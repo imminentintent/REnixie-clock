@@ -1,15 +1,15 @@
 {
-  "divergence": "1.079196",
+  "divergence": "1.080507",
   "field": "beta",
-  "updated_at": "2026-11-17T11:40:24+00:00",
-  "z": 1.26,
+  "updated_at": "2026-11-17T12:48:23+00:00",
+  "z": 1.314,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 64,
+  "new_stories": 62,
   "climate": {
-    "fast": -0.4187,
-    "slow": -0.4594,
-    "normal": -0.4767,
+    "fast": -0.4165,
+    "slow": -0.4581,
+    "normal": -0.4766,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -35,6 +35,14 @@
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
       "valence": -0.947,
       "impact": 0.97,
+      "outlets": 1
+    },
+    {
+      "title": "‘Death is near’: Inside the hoax bomb threats that rattled Europe’s schools and airports",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/europe/death-is-near-inside-the-hoax-bomb-threats-that-rattled-europes-schools-and-airports",
+      "valence": -0.964,
+      "impact": 0.952,
       "outlets": 1
     },
     {
@@ -84,19 +92,11 @@
       "valence": -0.862,
       "impact": 0.92,
       "outlets": 1
-    },
-    {
-      "title": "EU accuses Russia of stalling Ukraine peace talks to target power plants as winter nears",
-      "source": "TheHindu",
-      "link": "https://www.thehindu.com/news/international/eu-accuses-russia-of-stalling-ukraine-peace-talks-to-target-power-plants-as-winter-nears/article71707737.ece",
-      "valence": 0.905,
-      "impact": 0.895,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 36,
+    "live": 37,
     "total": 38
   }
 }
