@@ -1,15 +1,15 @@
 {
-  "divergence": "1.081400",
+  "divergence": "1.090362",
   "field": "beta",
-  "updated_at": "2026-11-17T08:16:36+00:00",
-  "z": 1.351,
+  "updated_at": "2026-11-17T09:28:57+00:00",
+  "z": 1.72,
   "calibrating": false,
   "scorer": "lexicon",
   "new_stories": 40,
   "climate": {
-    "fast": -0.412,
-    "slow": -0.4611,
-    "normal": -0.477,
+    "fast": -0.3936,
+    "slow": -0.4572,
+    "normal": -0.4769,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -54,6 +54,14 @@
       "outlets": 1
     },
     {
+      "title": "Drones account for nearly three-quarters of Sudan war deaths this year, UN says",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/drones-account-for-nearly-three-quarters-of-sudan-war-deaths-this-year-un-says",
+      "valence": -0.935,
+      "impact": 0.96,
+      "outlets": 1
+    },
+    {
       "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
       "source": "Guardian",
       "link": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
@@ -83,14 +91,6 @@
       "link": "https://www.straitstimes.com/world/middle-east/iranian-leaders-fret-over-public-mood-as-gas-shortages-add-to-war-ills",
       "valence": -0.905,
       "impact": 0.95,
-      "outlets": 1
-    },
-    {
-      "title": "New York stabbing: Man killed, woman injured outside convenience store in Bronx",
-      "source": "TimesOfIndia",
-      "link": "https://timesofindia.indiatimes.com/world/us/new-york-stabbing-man-killed-woman-injured-outside-convenience-store-in-bronx/articleshow/135885977.cms",
-      "valence": -0.976,
-      "impact": 0.91,
       "outlets": 1
     }
   ],
