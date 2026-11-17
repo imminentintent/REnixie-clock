@@ -1,15 +1,15 @@
 {
-  "divergence": "1.076423",
+  "divergence": "1.074294",
   "field": "beta",
-  "updated_at": "2026-11-17T05:50:11+00:00",
-  "z": 1.146,
+  "updated_at": "2026-11-17T06:57:36+00:00",
+  "z": 1.058,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 37,
+  "new_stories": 56,
   "climate": {
-    "fast": -0.422,
-    "slow": -0.4638,
-    "normal": -0.4772,
+    "fast": -0.4268,
+    "slow": -0.4641,
+    "normal": -0.4771,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -54,6 +54,14 @@
       "outlets": 2
     },
     {
+      "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
+      "valence": -0.922,
+      "impact": 0.958,
+      "outlets": 1
+    },
+    {
       "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
       "source": "NYTimes",
       "link": "https://www.nytimes.com/2026/11/16/world/europe/iran-dams-missile-sites-environmentalists.html",
@@ -83,14 +91,6 @@
       "link": "https://timesofindia.indiatimes.com/world/us/new-york-stabbing-man-killed-woman-injured-outside-convenience-store-in-bronx/articleshow/135885977.cms",
       "valence": -0.976,
       "impact": 0.91,
-      "outlets": 1
-    },
-    {
-      "title": "US now \"comfortable\" with children dying of measles as death toll hits 10",
-      "source": "ArsTechnica",
-      "link": "https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/",
-      "valence": -0.935,
-      "impact": 0.92,
       "outlets": 1
     }
   ],
