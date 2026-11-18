@@ -1,14 +1,14 @@
 {
-  "divergence": "1.075979",
+  "divergence": "1.078754",
   "field": "beta",
-  "updated_at": "2026-11-18T04:25:52+00:00",
-  "z": 1.127,
+  "updated_at": "2026-11-18T05:29:15+00:00",
+  "z": 1.242,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 30,
+  "new_stories": 31,
   "climate": {
-    "fast": -0.4276,
-    "slow": -0.4568,
+    "fast": -0.4221,
+    "slow": -0.4553,
     "normal": -0.4759,
     "spread": 0.03
   },
@@ -39,6 +39,14 @@
     },
     {
       "title": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
+      "valence": -0.947,
+      "impact": 0.97,
+      "outlets": 1
+    },
+    {
+      "title": "Iran war live: Bahrain, Kuwait intercept attacks, Manama blames Iran",
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
       "valence": -0.947,
@@ -84,19 +92,11 @@
       "valence": -0.964,
       "impact": 0.928,
       "outlets": 1
-    },
-    {
-      "title": "Did the US use ‘blackout bombs’ in Iran? Images reveal mysterious fibres at infrastructure sites",
-      "source": "France24",
-      "link": "https://www.france24.com/en/middle-east/20261117-iran-us-graphite-blackout-bombs-infrastructure",
-      "valence": -0.905,
-      "impact": 0.92,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
