@@ -1,14 +1,14 @@
 {
-  "divergence": "1.078541",
+  "divergence": "1.081955",
   "field": "beta",
-  "updated_at": "2026-11-18T11:27:07+00:00",
-  "z": 1.233,
+  "updated_at": "2026-11-18T12:22:20+00:00",
+  "z": 1.373,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 49,
+  "new_stories": 41,
   "climate": {
-    "fast": -0.4238,
-    "slow": -0.4533,
+    "fast": -0.4167,
+    "slow": -0.4517,
     "normal": -0.4754,
     "spread": 0.03
   },
@@ -63,14 +63,6 @@
     },
     {
       "title": "‘Death is near’: Inside the hoax bomb threats that rattled Europe’s schools and airports",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/death-is-near-inside-the-hoax-bomb-threats-that-rattled-europes-schools-and-airports",
-      "valence": -0.964,
-      "impact": 0.952,
-      "outlets": 1
-    },
-    {
-      "title": "‘Death is near’: Inside the hoax bomb threats that rattled Europe’s schools and airports",
       "source": "JapanTimes",
       "link": "https://www.japantimes.co.jp/news/2026/11/18/world/hoax-bomb-threats-europe/",
       "valence": -0.964,
@@ -92,11 +84,19 @@
       "valence": -0.905,
       "impact": 0.975,
       "outlets": 1
+    },
+    {
+      "title": "Gun control activist faces long recovery after Washington DC mass shooting",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/18/washington-dc-logan-circle-shooting-activist",
+      "valence": -0.885,
+      "impact": 0.964,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
