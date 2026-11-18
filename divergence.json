@@ -1,15 +1,15 @@
 {
-  "divergence": "1.083004",
+  "divergence": "1.080039",
   "field": "beta",
-  "updated_at": "2026-11-18T20:43:49+00:00",
-  "z": 1.417,
+  "updated_at": "2026-11-18T21:43:00+00:00",
+  "z": 1.295,
   "calibrating": false,
   "scorer": "lexicon",
   "new_stories": 38,
   "climate": {
-    "fast": -0.4172,
-    "slow": -0.4472,
-    "normal": -0.4746,
+    "fast": -0.4234,
+    "slow": -0.4481,
+    "normal": -0.4745,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -20,14 +20,6 @@
       "valence": -0.964,
       "impact": 0.99,
       "outlets": 1
-    },
-    {
-      "title": "At hearing, US Navy chief blasted over Iran war and its toll on sailors",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/middle-east/at-hearing-us-navy-chief-blasted-over-iran-war-and-its-toll-on-sailors",
-      "valence": -0.935,
-      "impact": 1.0,
-      "outlets": 2
     },
     {
       "title": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
@@ -89,6 +81,14 @@
       "title": "Dozens more children killed in Yemen amid escalating hostilities",
       "source": "UNNews",
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168830",
+      "valence": -0.935,
+      "impact": 0.91,
+      "outlets": 1
+    },
+    {
+      "title": "Russian attacks on Ukraine kill at least five people",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/18/russian-attacks-on-ukraine-kill-at-least-five-people?traffic_source=rss",
       "valence": -0.935,
       "impact": 0.91,
       "outlets": 1
