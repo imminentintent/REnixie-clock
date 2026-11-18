@@ -1,15 +1,15 @@
 {
-  "divergence": "1.077068",
+  "divergence": "1.078541",
   "field": "beta",
-  "updated_at": "2026-11-18T10:29:31+00:00",
-  "z": 1.172,
+  "updated_at": "2026-11-18T11:27:07+00:00",
+  "z": 1.233,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 41,
+  "new_stories": 49,
   "climate": {
-    "fast": -0.4265,
-    "slow": -0.4544,
-    "normal": -0.4755,
+    "fast": -0.4238,
+    "slow": -0.4533,
+    "normal": -0.4754,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -86,11 +86,11 @@
       "outlets": 1
     },
     {
-      "title": "Well-known journalist who reported death threats is killed on street",
-      "source": "CBSNews",
-      "link": "https://www.cbsnews.com/news/journalist-killed-costa-rica-camilo-rodriguez-reported-death-threats/",
-      "valence": -0.964,
-      "impact": 0.928,
+      "title": "Fears grow that US will impose sanctions on ICJ judges ahead of Myanmar genocide ruling",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+      "valence": -0.905,
+      "impact": 0.975,
       "outlets": 1
     }
   ],
