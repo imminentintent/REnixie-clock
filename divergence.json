@@ -1,15 +1,15 @@
 {
-  "divergence": "1.083462",
+  "divergence": "1.087752",
   "field": "beta",
-  "updated_at": "2026-11-18T06:32:53+00:00",
-  "z": 1.436,
+  "updated_at": "2026-11-18T08:10:11+00:00",
+  "z": 1.612,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 38,
+  "new_stories": 50,
   "climate": {
-    "fast": -0.4123,
-    "slow": -0.4533,
-    "normal": -0.4758,
+    "fast": -0.4037,
+    "slow": -0.4511,
+    "normal": -0.4757,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -78,25 +78,25 @@
       "outlets": 1
     },
     {
-      "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
-      "valence": -0.922,
-      "impact": 0.958,
-      "outlets": 1
-    },
-    {
       "title": "Well-known journalist who reported death threats is killed on street",
       "source": "CBSNews",
       "link": "https://www.cbsnews.com/news/journalist-killed-costa-rica-camilo-rodriguez-reported-death-threats/",
       "valence": -0.964,
       "impact": 0.928,
       "outlets": 1
+    },
+    {
+      "title": "Did the US use ‘blackout bombs’ in Iran? Images reveal mysterious fibres at infrastructure sites",
+      "source": "France24",
+      "link": "https://www.france24.com/en/middle-east/20261117-iran-us-graphite-blackout-bombs-infrastructure",
+      "valence": -0.905,
+      "impact": 0.92,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
