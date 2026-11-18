@@ -1,26 +1,18 @@
 {
-  "divergence": "1.066275",
+  "divergence": "1.063032",
   "field": "beta",
-  "updated_at": "2026-11-17T23:40:00+00:00",
-  "z": 0.728,
+  "updated_at": "2026-11-18T00:49:08+00:00",
+  "z": 0.594,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 33,
+  "new_stories": 46,
   "climate": {
-    "fast": -0.4475,
-    "slow": -0.4612,
-    "normal": -0.4762,
+    "fast": -0.4543,
+    "slow": -0.4624,
+    "normal": -0.4761,
     "spread": 0.03
   },
   "top_stories_24h": [
-    {
-      "title": "Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
-      "valence": -0.964,
-      "impact": 0.99,
-      "outlets": 1
-    },
     {
       "title": "Iran fires drones at U.S. base in Bahrain, denies reports of planned dirty bomb attack in D.C.",
       "source": "CBC",
@@ -46,9 +38,9 @@
       "outlets": 1
     },
     {
-      "title": "Iran war live: Bahrain says intercepted Iranian drones, IRGC claims attack",
+      "title": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
       "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
       "valence": -0.947,
       "impact": 0.97,
       "outlets": 1
@@ -57,6 +49,14 @@
       "title": "‘Death is near’: Inside the hoax bomb threats that rattled Europe’s schools and airports",
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/europe/death-is-near-inside-the-hoax-bomb-threats-that-rattled-europes-schools-and-airports",
+      "valence": -0.964,
+      "impact": 0.952,
+      "outlets": 1
+    },
+    {
+      "title": "‘Death is near’: Inside the hoax bomb threats that rattled Europe’s schools and airports",
+      "source": "JapanTimes",
+      "link": "https://www.japantimes.co.jp/news/2026/11/18/world/hoax-bomb-threats-europe/",
       "valence": -0.964,
       "impact": 0.952,
       "outlets": 1
