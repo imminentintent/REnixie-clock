@@ -1,15 +1,15 @@
 {
-  "divergence": "1.090833",
+  "divergence": "1.085500",
   "field": "beta",
-  "updated_at": "2026-11-19T02:07:05+00:00",
-  "z": 1.739,
+  "updated_at": "2026-11-19T03:19:25+00:00",
+  "z": 1.52,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 53,
+  "new_stories": 32,
   "climate": {
-    "fast": -0.4016,
-    "slow": -0.4426,
-    "normal": -0.4742,
+    "fast": -0.4129,
+    "slow": -0.4443,
+    "normal": -0.4741,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -19,6 +19,14 @@
       "link": "https://www.aljazeera.com/opinions/2026/11/18/piecemeal-wars-a-new-kind-of-world-war-is-already-under-way?traffic_source=rss",
       "valence": -0.964,
       "impact": 0.99,
+      "outlets": 1
+    },
+    {
+      "title": "Clashes between Ethiopia and Eritrea threaten to escalate into full-scale war",
+      "source": "JapanTimes",
+      "link": "https://www.japantimes.co.jp/news/2026/11/19/world/society/ethiopia-eritrea-clashes-war/",
+      "valence": -0.947,
+      "impact": 0.97,
       "outlets": 1
     },
     {
@@ -54,6 +62,14 @@
       "outlets": 1
     },
     {
+      "title": "Xi-Trump-Putin trilateral meeting LIVE: Leaders meet with nuclear arms and two wars on table",
+      "source": "TheHindu",
+      "link": "https://www.thehindu.com/news/international/donald-trump-xi-jinping-vladimir-putin-trilateral-meeting-in-shenzhen-live-updates-november-19-2026/article71718525.ece",
+      "valence": -0.885,
+      "impact": 0.96,
+      "outlets": 1
+    },
+    {
       "title": "Dozens more children killed in Yemen amid escalating hostilities",
       "source": "UNNews",
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168830",
@@ -76,27 +92,11 @@
       "valence": -0.922,
       "impact": 0.91,
       "outlets": 1
-    },
-    {
-      "title": "Remains of Ecuadorian killed in New York building collapse arrive in Quito",
-      "source": "ABCNews",
-      "link": "https://abcnews.com/International/wireStory/remains-ecuadorian-killed-new-york-building-collapse-arrive-138252749",
-      "valence": -0.935,
-      "impact": 0.88,
-      "outlets": 1
-    },
-    {
-      "title": "At least 12 dead in organized crime attacks in Honduras, police spokesman says",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/at-least-12-dead-in-organized-crime-attacks-in-honduras-police-spokesman-says",
-      "valence": -0.922,
-      "impact": 0.88,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 36,
+    "live": 38,
     "total": 38
   }
 }
