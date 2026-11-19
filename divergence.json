@@ -1,18 +1,26 @@
 {
-  "divergence": "1.091943",
+  "divergence": "1.098409",
   "field": "beta",
-  "updated_at": "2026-11-19T12:56:24+00:00",
-  "z": 1.785,
+  "updated_at": "2026-11-19T14:14:38+00:00",
+  "z": 2.052,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 64,
+  "new_stories": 63,
   "climate": {
-    "fast": -0.4005,
-    "slow": -0.4393,
-    "normal": -0.4734,
+    "fast": -0.3877,
+    "slow": -0.436,
+    "normal": -0.4733,
     "spread": 0.03
   },
   "top_stories_24h": [
+    {
+      "title": "‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/video/al-jazeera-originals/2026/11/19/gaza-syndrome-israels-soldiers-haunted-by-genocide-cost-of-war?traffic_source=rss",
+      "valence": -0.964,
+      "impact": 0.995,
+      "outlets": 1
+    },
     {
       "title": "A Village Burned, Its People Killed or Exiled. Was It Genocide?",
       "source": "NYTimes",
@@ -82,14 +90,6 @@
       "source": "ABCNews",
       "link": "https://abcnews.com/International/wireStory/remains-ecuadorian-killed-new-york-building-collapse-arrive-138252749",
       "valence": -0.935,
-      "impact": 0.88,
-      "outlets": 1
-    },
-    {
-      "title": "At least 12 dead in organized crime attacks in Honduras, police spokesman says",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/at-least-12-dead-in-organized-crime-attacks-in-honduras-police-spokesman-says",
-      "valence": -0.922,
       "impact": 0.88,
       "outlets": 1
     }
