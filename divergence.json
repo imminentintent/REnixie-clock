@@ -1,15 +1,15 @@
 {
-  "divergence": "1.087795",
+  "divergence": "1.082475",
   "field": "beta",
-  "updated_at": "2026-11-19T19:29:41+00:00",
-  "z": 1.614,
+  "updated_at": "2026-11-19T20:26:27+00:00",
+  "z": 1.395,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 57,
+  "new_stories": 46,
   "climate": {
-    "fast": -0.4114,
-    "slow": -0.4374,
-    "normal": -0.4728,
+    "fast": -0.4224,
+    "slow": -0.4395,
+    "normal": -0.4727,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -54,6 +54,14 @@
       "outlets": 1
     },
     {
+      "title": "Photos: Genocide ruling spotlights human toll of 2017 Rohingya crisis",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/gallery/2026/11/19/photos-genocide-ruling-spotlights-2017-rohingya-crisis-human-toll?traffic_source=rss",
+      "valence": -0.935,
+      "impact": 0.98,
+      "outlets": 1
+    },
+    {
       "title": "Clashes between Ethiopia and Eritrea threaten to escalate into full-scale war",
       "source": "JapanTimes",
       "link": "https://www.japantimes.co.jp/news/2026/11/19/world/society/ethiopia-eritrea-clashes-war/",
@@ -67,14 +75,6 @@
       "link": "https://www.thehindu.com/news/international/donald-trump-xi-jinping-vladimir-putin-trilateral-meeting-in-shenzhen-live-updates-november-19-2026/article71718525.ece",
       "valence": -0.885,
       "impact": 0.96,
-      "outlets": 1
-    },
-    {
-      "title": "Explosion heard in Saudi capital, missiles intercepted",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/middle-east/explosion-heard-in-saudi-capital-missiles-intercepted",
-      "valence": -0.922,
-      "impact": 0.91,
       "outlets": 1
     },
     {
@@ -96,7 +96,7 @@
   ],
   "version": "1.0",
   "sources": {
-    "live": 36,
+    "live": 38,
     "total": 38
   }
 }
