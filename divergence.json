@@ -1,15 +1,15 @@
 {
-  "divergence": "1.084304",
+  "divergence": "1.088423",
   "field": "beta",
-  "updated_at": "2026-11-19T09:31:29+00:00",
-  "z": 1.47,
+  "updated_at": "2026-11-19T10:51:47+00:00",
+  "z": 1.64,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 37,
+  "new_stories": 40,
   "climate": {
-    "fast": -0.4158,
-    "slow": -0.4435,
-    "normal": -0.4737,
+    "fast": -0.4075,
+    "slow": -0.4415,
+    "normal": -0.4736,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -22,35 +22,19 @@
       "outlets": 1
     },
     {
+      "title": "A village was burned, its people killed or exiled. Was it part of a genocide?",
+      "source": "NYTimes",
+      "link": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-camps-photos",
+      "valence": -0.956,
+      "impact": 0.985,
+      "outlets": 1
+    },
+    {
       "title": "Clashes between Ethiopia and Eritrea threaten to escalate into full-scale war",
       "source": "JapanTimes",
       "link": "https://www.japantimes.co.jp/news/2026/11/19/world/society/ethiopia-eritrea-clashes-war/",
       "valence": -0.947,
       "impact": 0.97,
-      "outlets": 1
-    },
-    {
-      "title": "Fears grow over US sanctions on ICJ judges ahead of Myanmar genocide ruling",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
-      "valence": -0.905,
-      "impact": 0.975,
-      "outlets": 1
-    },
-    {
-      "title": "Fears grow that US will impose sanctions on ICJ judges ahead of Myanmar genocide ruling",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
-      "valence": -0.905,
-      "impact": 0.975,
-      "outlets": 1
-    },
-    {
-      "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
-      "valence": -0.905,
-      "impact": 0.975,
       "outlets": 1
     },
     {
@@ -92,11 +76,27 @@
       "valence": -0.922,
       "impact": 0.91,
       "outlets": 1
+    },
+    {
+      "title": "Low Turn Led to Crash: NTSB says helicopter hit water; pilot died, two crew critically injured",
+      "source": "TimesOfIndia",
+      "link": "https://timesofindia.indiatimes.com/world/us/flying-too-low-ntsb-reveals-how-helicopter-crashed-into-florida-bay-killing-pilot/articleshow/135975818.cms",
+      "valence": -0.956,
+      "impact": 0.88,
+      "outlets": 1
+    },
+    {
+      "title": "Remains of Ecuadorian killed in New York building collapse arrive in Quito",
+      "source": "ABCNews",
+      "link": "https://abcnews.com/International/wireStory/remains-ecuadorian-killed-new-york-building-collapse-arrive-138252749",
+      "valence": -0.935,
+      "impact": 0.88,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 36,
     "total": 38
   }
 }
