@@ -1,15 +1,15 @@
 {
-  "divergence": "1.081453",
+  "divergence": "1.078832",
   "field": "beta",
-  "updated_at": "2026-11-19T04:28:17+00:00",
-  "z": 1.353,
+  "updated_at": "2026-11-19T05:31:50+00:00",
+  "z": 1.245,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 28,
+  "new_stories": 37,
   "climate": {
-    "fast": -0.4213,
-    "slow": -0.4457,
-    "normal": -0.474,
+    "fast": -0.4269,
+    "slow": -0.4465,
+    "normal": -0.4739,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -19,6 +19,14 @@
       "link": "https://www.aljazeera.com/opinions/2026/11/18/piecemeal-wars-a-new-kind-of-world-war-is-already-under-way?traffic_source=rss",
       "valence": -0.964,
       "impact": 0.99,
+      "outlets": 1
+    },
+    {
+      "title": "A Village Burned, Its People Killed or Exiled. Was It Genocide?",
+      "source": "NYTimes",
+      "link": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
+      "valence": -0.956,
+      "impact": 0.985,
       "outlets": 1
     },
     {
@@ -82,14 +90,6 @@
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/2026/11/18/russian-attacks-on-ukraine-kill-at-least-five-people?traffic_source=rss",
       "valence": -0.935,
-      "impact": 0.91,
-      "outlets": 1
-    },
-    {
-      "title": "Explosion heard in Saudi capital, missiles intercepted",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/middle-east/explosion-heard-in-saudi-capital-missiles-intercepted",
-      "valence": -0.922,
       "impact": 0.91,
       "outlets": 1
     }
