@@ -1,15 +1,15 @@
 {
-  "divergence": "1.098409",
+  "divergence": "1.096282",
   "field": "beta",
-  "updated_at": "2026-11-19T14:14:38+00:00",
-  "z": 2.052,
+  "updated_at": "2026-11-19T15:23:49+00:00",
+  "z": 1.964,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 63,
+  "new_stories": 70,
   "climate": {
-    "fast": -0.3877,
+    "fast": -0.3927,
     "slow": -0.436,
-    "normal": -0.4733,
+    "normal": -0.4731,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -46,6 +46,14 @@
       "outlets": 1
     },
     {
+      "title": "Putin, Trump and Xi Condemn Nuclear War as Europe Watches Closely",
+      "source": "NYTimes",
+      "link": "https://www.nytimes.com/2026/11/19/world/europe/trump-xi-putin-nuclear-weapons-ukraine.html",
+      "valence": -0.947,
+      "impact": 0.976,
+      "outlets": 1
+    },
+    {
       "title": "Clashes between Ethiopia and Eritrea threaten to escalate into full-scale war",
       "source": "JapanTimes",
       "link": "https://www.japantimes.co.jp/news/2026/11/19/world/society/ethiopia-eritrea-clashes-war/",
@@ -78,19 +86,11 @@
       "outlets": 1
     },
     {
-      "title": "Low Turn Led to Crash: NTSB says helicopter hit water; pilot died, two crew critically injured",
-      "source": "TimesOfIndia",
-      "link": "https://timesofindia.indiatimes.com/world/us/flying-too-low-ntsb-reveals-how-helicopter-crashed-into-florida-bay-killing-pilot/articleshow/135975818.cms",
-      "valence": -0.956,
-      "impact": 0.88,
-      "outlets": 1
-    },
-    {
-      "title": "Remains of Ecuadorian killed in New York building collapse arrive in Quito",
-      "source": "ABCNews",
-      "link": "https://abcnews.com/International/wireStory/remains-ecuadorian-killed-new-york-building-collapse-arrive-138252749",
-      "valence": -0.935,
-      "impact": 0.88,
+      "title": "Iran's attacks on ships in the Strait of Hormuz escalate",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate",
+      "valence": -0.922,
+      "impact": 0.91,
       "outlets": 1
     }
   ],
