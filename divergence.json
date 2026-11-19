@@ -1,15 +1,15 @@
 {
-  "divergence": "1.084396",
+  "divergence": "1.083305",
   "field": "beta",
-  "updated_at": "2026-11-18T23:40:34+00:00",
-  "z": 1.474,
+  "updated_at": "2026-11-19T00:50:34+00:00",
+  "z": 1.429,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 26,
+  "new_stories": 45,
   "climate": {
-    "fast": -0.4144,
+    "fast": -0.4169,
     "slow": -0.4461,
-    "normal": -0.4744,
+    "normal": -0.4743,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -19,30 +19,6 @@
       "link": "https://www.aljazeera.com/opinions/2026/11/18/piecemeal-wars-a-new-kind-of-world-war-is-already-under-way?traffic_source=rss",
       "valence": -0.964,
       "impact": 0.99,
-      "outlets": 1
-    },
-    {
-      "title": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
-      "valence": -0.947,
-      "impact": 0.97,
-      "outlets": 1
-    },
-    {
-      "title": "Iran war live: Bahrain, Kuwait intercept attacks, Manama blames Iran",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
-      "valence": -0.947,
-      "impact": 0.97,
-      "outlets": 1
-    },
-    {
-      "title": "‘Death is near’: Inside the hoax bomb threats that rattled Europe’s schools and airports",
-      "source": "JapanTimes",
-      "link": "https://www.japantimes.co.jp/news/2026/11/18/world/hoax-bomb-threats-europe/",
-      "valence": -0.964,
-      "impact": 0.952,
       "outlets": 1
     },
     {
@@ -92,11 +68,35 @@
       "valence": -0.935,
       "impact": 0.91,
       "outlets": 1
+    },
+    {
+      "title": "Explosion heard in Saudi capital, missiles intercepted",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/middle-east/explosion-heard-in-saudi-capital-missiles-intercepted",
+      "valence": -0.922,
+      "impact": 0.91,
+      "outlets": 1
+    },
+    {
+      "title": "Remains of Ecuadorian killed in New York building collapse arrive in Quito",
+      "source": "ABCNews",
+      "link": "https://abcnews.com/International/wireStory/remains-ecuadorian-killed-new-york-building-collapse-arrive-138252749",
+      "valence": -0.935,
+      "impact": 0.88,
+      "outlets": 1
+    },
+    {
+      "title": "At least 12 dead in organized crime attacks in Honduras, police spokesman says",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/at-least-12-dead-in-organized-crime-attacks-in-honduras-police-spokesman-says",
+      "valence": -0.922,
+      "impact": 0.88,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 36,
     "total": 38
   }
 }
