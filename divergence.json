@@ -1,15 +1,15 @@
 {
-  "divergence": "1.092178",
+  "divergence": "1.091943",
   "field": "beta",
-  "updated_at": "2026-11-19T11:48:30+00:00",
-  "z": 1.795,
+  "updated_at": "2026-11-19T12:56:24+00:00",
+  "z": 1.785,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 44,
+  "new_stories": 64,
   "climate": {
-    "fast": -0.3996,
-    "slow": -0.4399,
-    "normal": -0.4735,
+    "fast": -0.4005,
+    "slow": -0.4393,
+    "normal": -0.4734,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -30,6 +30,14 @@
       "outlets": 1
     },
     {
+      "title": "A Village Burned, Its People Killed or Exiled. A Court Ruled It Was Genocide.",
+      "source": "NYTimes",
+      "link": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
+      "valence": -0.956,
+      "impact": 0.985,
+      "outlets": 1
+    },
+    {
       "title": "Clashes between Ethiopia and Eritrea threaten to escalate into full-scale war",
       "source": "JapanTimes",
       "link": "https://www.japantimes.co.jp/news/2026/11/19/world/society/ethiopia-eritrea-clashes-war/",
@@ -43,14 +51,6 @@
       "link": "https://www.thehindu.com/news/international/donald-trump-xi-jinping-vladimir-putin-trilateral-meeting-in-shenzhen-live-updates-november-19-2026/article71718525.ece",
       "valence": -0.885,
       "impact": 0.96,
-      "outlets": 1
-    },
-    {
-      "title": "Dozens more children killed in Yemen amid escalating hostilities",
-      "source": "UNNews",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168830",
-      "valence": -0.935,
-      "impact": 0.91,
       "outlets": 1
     },
     {
@@ -96,7 +96,7 @@
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
