@@ -1,15 +1,15 @@
 {
-  "divergence": "1.088423",
+  "divergence": "1.092178",
   "field": "beta",
-  "updated_at": "2026-11-19T10:51:47+00:00",
-  "z": 1.64,
+  "updated_at": "2026-11-19T11:48:30+00:00",
+  "z": 1.795,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 40,
+  "new_stories": 44,
   "climate": {
-    "fast": -0.4075,
-    "slow": -0.4415,
-    "normal": -0.4736,
+    "fast": -0.3996,
+    "slow": -0.4399,
+    "normal": -0.4735,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -35,14 +35,6 @@
       "link": "https://www.japantimes.co.jp/news/2026/11/19/world/society/ethiopia-eritrea-clashes-war/",
       "valence": -0.947,
       "impact": 0.97,
-      "outlets": 1
-    },
-    {
-      "title": "Gun control activist faces long recovery after Washington DC mass shooting",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/us-news/2026/nov/18/washington-dc-logan-circle-shooting-activist",
-      "valence": -0.885,
-      "impact": 0.964,
       "outlets": 1
     },
     {
@@ -92,11 +84,19 @@
       "valence": -0.935,
       "impact": 0.88,
       "outlets": 1
+    },
+    {
+      "title": "At least 12 dead in organized crime attacks in Honduras, police spokesman says",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/at-least-12-dead-in-organized-crime-attacks-in-honduras-police-spokesman-says",
+      "valence": -0.922,
+      "impact": 0.88,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 36,
+    "live": 37,
     "total": 38
   }
 }
