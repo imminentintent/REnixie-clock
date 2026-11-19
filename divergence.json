@@ -1,14 +1,14 @@
 {
-  "divergence": "1.096282",
+  "divergence": "1.090879",
   "field": "beta",
-  "updated_at": "2026-11-19T15:23:49+00:00",
-  "z": 1.964,
+  "updated_at": "2026-11-19T16:28:20+00:00",
+  "z": 1.741,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 70,
+  "new_stories": 55,
   "climate": {
-    "fast": -0.3927,
-    "slow": -0.436,
+    "fast": -0.4042,
+    "slow": -0.4376,
     "normal": -0.4731,
     "spread": 0.03
   },
@@ -70,14 +70,6 @@
       "outlets": 1
     },
     {
-      "title": "Russian attacks on Ukraine kill at least five people",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/18/russian-attacks-on-ukraine-kill-at-least-five-people?traffic_source=rss",
-      "valence": -0.935,
-      "impact": 0.91,
-      "outlets": 1
-    },
-    {
       "title": "Explosion heard in Saudi capital, missiles intercepted",
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/middle-east/explosion-heard-in-saudi-capital-missiles-intercepted",
@@ -91,6 +83,14 @@
       "link": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate",
       "valence": -0.922,
       "impact": 0.91,
+      "outlets": 1
+    },
+    {
+      "title": "Low Turn Led to Crash: NTSB says helicopter hit water; pilot died, two crew critically injured",
+      "source": "TimesOfIndia",
+      "link": "https://timesofindia.indiatimes.com/world/us/flying-too-low-ntsb-reveals-how-helicopter-crashed-into-florida-bay-killing-pilot/articleshow/135975818.cms",
+      "valence": -0.956,
+      "impact": 0.88,
       "outlets": 1
     }
   ],
