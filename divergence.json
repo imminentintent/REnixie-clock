@@ -1,15 +1,15 @@
 {
-  "divergence": "1.094959",
+  "divergence": "1.094822",
   "field": "beta",
-  "updated_at": "2026-11-20T18:48:08+00:00",
-  "z": 1.91,
+  "updated_at": "2026-11-20T19:51:26+00:00",
+  "z": 1.904,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 49,
+  "new_stories": 42,
   "climate": {
-    "fast": -0.3992,
-    "slow": -0.4276,
-    "normal": -0.4706,
+    "fast": -0.3994,
+    "slow": -0.4275,
+    "normal": -0.4705,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -43,14 +43,6 @@
       "link": "https://www.straitstimes.com/world/europe/three-killed-in-missile-strikes-on-kyiv-mayor-says-in-biggest-attack-on-bridges",
       "valence": -0.987,
       "impact": 0.973,
-      "outlets": 1
-    },
-    {
-      "title": "Photos: Genocide ruling spotlights human toll of 2017 Rohingya crisis",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/gallery/2026/11/19/photos-genocide-ruling-spotlights-2017-rohingya-crisis-human-toll?traffic_source=rss",
-      "valence": -0.935,
-      "impact": 0.98,
       "outlets": 1
     },
     {
@@ -92,11 +84,19 @@
       "valence": -0.935,
       "impact": 0.91,
       "outlets": 1
+    },
+    {
+      "title": "Russia pounds Ukraine, killing 8, as missile lands in Poland",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/europe/russia-pounds-ukraine-killing-8-as-missile-lands-in-poland",
+      "valence": -0.935,
+      "impact": 0.91,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
