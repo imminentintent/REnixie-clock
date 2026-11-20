@@ -1,15 +1,15 @@
 {
-  "divergence": "1.093004",
+  "divergence": "1.090160",
   "field": "beta",
-  "updated_at": "2026-11-20T20:40:15+00:00",
-  "z": 1.829,
+  "updated_at": "2026-11-20T21:37:44+00:00",
+  "z": 1.712,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 30,
+  "new_stories": 38,
   "climate": {
-    "fast": -0.4031,
-    "slow": -0.4281,
-    "normal": -0.4704,
+    "fast": -0.4092,
+    "slow": -0.4289,
+    "normal": -0.4703,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -70,6 +70,14 @@
       "outlets": 1
     },
     {
+      "title": "Sudan’s war leaves disabled children missing out on education",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/20/sudans-war-leaves-disabled-children-missing-out-on-education?traffic_source=rss",
+      "valence": -0.885,
+      "impact": 0.94,
+      "outlets": 1
+    },
+    {
       "title": "Six killed in suspected gas explosion at Georgia apartment building",
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/2026/11/19/six-killed-in-suspected-gas-explosion-at-georgia-apartment-building?traffic_source=rss",
@@ -84,19 +92,11 @@
       "valence": -0.935,
       "impact": 0.91,
       "outlets": 1
-    },
-    {
-      "title": "Russia pounds Ukraine, killing 8, as missile lands in Poland",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/russia-pounds-ukraine-killing-8-as-missile-lands-in-poland",
-      "valence": -0.935,
-      "impact": 0.91,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
