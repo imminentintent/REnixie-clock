@@ -1,15 +1,15 @@
 {
-  "divergence": "1.104839",
+  "divergence": "1.101305",
   "field": "beta",
-  "updated_at": "2026-11-20T10:29:47+00:00",
-  "z": 2.317,
+  "updated_at": "2026-11-20T11:26:46+00:00",
+  "z": 2.171,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 34,
+  "new_stories": 49,
   "climate": {
-    "fast": -0.376,
-    "slow": -0.4284,
-    "normal": -0.4715,
+    "fast": -0.3838,
+    "slow": -0.429,
+    "normal": -0.4714,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -78,19 +78,19 @@
       "outlets": 1
     },
     {
-      "title": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss",
-      "valence": -0.762,
-      "impact": 1.0,
-      "outlets": 2
+      "title": "Eight killed in Ukraine as Russia hits back after Crimea bridge attacks",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/europe/three-killed-in-missile-strikes-on-kyiv-mayor-says-in-biggest-attack-on-bridges",
+      "valence": -0.935,
+      "impact": 0.91,
+      "outlets": 1
     },
     {
-      "title": "West presses Iran at IAEA to let inspections resume at bombed nuclear sites",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/middle-east/west-presses-iran-at-iaea-to-let-inspections-resume-at-bombed-nuclear-sites",
-      "valence": -0.862,
-      "impact": 0.92,
+      "title": "Live: Russia fired than 100 missiles overnight in 'one of largest attacks ever', Zelensky says",
+      "source": "France24",
+      "link": "https://www.france24.com/en/europe/20261120-live-deadly-russian-attacks-damage-two-bridges-in-kyiv-mayor-says",
+      "valence": -0.922,
+      "impact": 0.91,
       "outlets": 1
     }
   ],
