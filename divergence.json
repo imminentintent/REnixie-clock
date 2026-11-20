@@ -1,14 +1,14 @@
 {
-  "divergence": "1.080382",
+  "divergence": "1.082922",
   "field": "beta",
-  "updated_at": "2026-11-20T04:50:11+00:00",
-  "z": 1.309,
+  "updated_at": "2026-11-20T05:53:21+00:00",
+  "z": 1.413,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 26,
+  "new_stories": 38,
   "climate": {
-    "fast": -0.4267,
-    "slow": -0.4389,
+    "fast": -0.4215,
+    "slow": -0.4377,
     "normal": -0.472,
     "spread": 0.03
   },
@@ -22,11 +22,11 @@
       "outlets": 1
     },
     {
-      "title": "A Village Burned, Its People Killed or Exiled. Was It Genocide?",
-      "source": "NYTimes",
-      "link": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
-      "valence": -0.956,
-      "impact": 0.985,
+      "title": "Three killed in missile strikes on Kyiv, mayor says, in biggest attack on bridges",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/europe/three-killed-in-missile-strikes-on-kyiv-mayor-says-in-biggest-attack-on-bridges",
+      "valence": -0.987,
+      "impact": 0.973,
       "outlets": 1
     },
     {
