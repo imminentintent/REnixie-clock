@@ -1,15 +1,15 @@
 {
-  "divergence": "1.101497",
+  "divergence": "1.107791",
   "field": "beta",
-  "updated_at": "2026-11-20T13:43:29+00:00",
-  "z": 2.179,
+  "updated_at": "2026-11-20T14:46:14+00:00",
+  "z": 2.439,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 72,
+  "new_stories": 40,
   "climate": {
-    "fast": -0.3844,
-    "slow": -0.4275,
-    "normal": -0.4712,
+    "fast": -0.3717,
+    "slow": -0.4244,
+    "normal": -0.4711,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -30,14 +30,6 @@
       "outlets": 1
     },
     {
-      "title": "‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/video/al-jazeera-originals/2026/11/19/gaza-syndrome-israels-soldiers-haunted-by-genocide-cost-of-war?traffic_source=rss",
-      "valence": -0.964,
-      "impact": 0.995,
-      "outlets": 1
-    },
-    {
       "title": "Three killed in missile strikes on Kyiv, mayor says, in biggest attack on bridges",
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/europe/three-killed-in-missile-strikes-on-kyiv-mayor-says-in-biggest-attack-on-bridges",
@@ -46,19 +38,19 @@
       "outlets": 1
     },
     {
-      "title": "Putin, Trump and Xi Condemn Nuclear War as Europe Watches Closely",
-      "source": "NYTimes",
-      "link": "https://www.nytimes.com/2026/11/19/world/europe/trump-xi-putin-nuclear-weapons-ukraine.html",
-      "valence": -0.947,
-      "impact": 0.976,
-      "outlets": 1
-    },
-    {
       "title": "Photos: Genocide ruling spotlights human toll of 2017 Rohingya crisis",
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/gallery/2026/11/19/photos-genocide-ruling-spotlights-2017-rohingya-crisis-human-toll?traffic_source=rss",
       "valence": -0.935,
       "impact": 0.98,
+      "outlets": 1
+    },
+    {
+      "title": "'Daddy, please don’t shoot me': US man kills wife, three young children before shooting self",
+      "source": "TimesOfIndia",
+      "link": "https://timesofindia.indiatimes.com/world/us/daddy-please-dont-shoot-me-florida-father-kills-wife-three-young-children-before-shooting-self/articleshow/136029909.cms",
+      "valence": -0.987,
+      "impact": 0.952,
       "outlets": 1
     },
     {
@@ -90,6 +82,14 @@
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/europe/russia-pounds-ukraine-killing-8-as-missile-lands-in-poland",
       "valence": -0.935,
+      "impact": 0.91,
+      "outlets": 1
+    },
+    {
+      "title": "Live: Russia fired than 100 missiles overnight in 'one of largest attacks ever', Zelensky says",
+      "source": "France24",
+      "link": "https://www.france24.com/en/europe/20261120-live-deadly-russian-attacks-damage-two-bridges-in-kyiv-mayor-says",
+      "valence": -0.922,
       "impact": 0.91,
       "outlets": 1
     }
