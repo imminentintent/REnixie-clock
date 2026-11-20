@@ -1,18 +1,26 @@
 {
-  "divergence": "1.082922",
+  "divergence": "1.085616",
   "field": "beta",
-  "updated_at": "2026-11-20T05:53:21+00:00",
-  "z": 1.413,
+  "updated_at": "2026-11-20T06:56:35+00:00",
+  "z": 1.524,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 38,
+  "new_stories": 41,
   "climate": {
-    "fast": -0.4215,
-    "slow": -0.4377,
-    "normal": -0.472,
+    "fast": -0.4159,
+    "slow": -0.4365,
+    "normal": -0.4719,
     "spread": 0.03
   },
   "top_stories_24h": [
+    {
+      "title": "Iran war live: Houthis escalate attacks on Saudi Arabia",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
+      "valence": -0.989,
+      "impact": 0.991,
+      "outlets": 1
+    },
     {
       "title": "‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War",
       "source": "AlJazeera",
@@ -84,14 +92,6 @@
       "valence": -0.922,
       "impact": 0.91,
       "outlets": 1
-    },
-    {
-      "title": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss",
-      "valence": -0.762,
-      "impact": 1.0,
-      "outlets": 2
     }
   ],
   "version": "1.0",
