@@ -1,15 +1,15 @@
 {
-  "divergence": "1.102898",
+  "divergence": "1.101497",
   "field": "beta",
-  "updated_at": "2026-11-20T12:23:26+00:00",
-  "z": 2.237,
+  "updated_at": "2026-11-20T13:43:29+00:00",
+  "z": 2.179,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 62,
+  "new_stories": 72,
   "climate": {
-    "fast": -0.381,
-    "slow": -0.4276,
-    "normal": -0.4713,
+    "fast": -0.3844,
+    "slow": -0.4275,
+    "normal": -0.4712,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -46,14 +46,6 @@
       "outlets": 1
     },
     {
-      "title": "A Village Burned, Its People Killed or Exiled. A Court Ruled It Was Genocide.",
-      "source": "NYTimes",
-      "link": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
-      "valence": -0.956,
-      "impact": 0.985,
-      "outlets": 1
-    },
-    {
       "title": "Putin, Trump and Xi Condemn Nuclear War as Europe Watches Closely",
       "source": "NYTimes",
       "link": "https://www.nytimes.com/2026/11/19/world/europe/trump-xi-putin-nuclear-weapons-ukraine.html",
@@ -67,6 +59,14 @@
       "link": "https://www.aljazeera.com/gallery/2026/11/19/photos-genocide-ruling-spotlights-2017-rohingya-crisis-human-toll?traffic_source=rss",
       "valence": -0.935,
       "impact": 0.98,
+      "outlets": 1
+    },
+    {
+      "title": "Ukraine child death toll climbs to near 2022 levels, UNICEF says",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/europe/ukraine-child-death-toll-climbs-to-near-2022-levels-unicef-says",
+      "valence": -0.935,
+      "impact": 0.92,
       "outlets": 1
     },
     {
@@ -86,10 +86,10 @@
       "outlets": 1
     },
     {
-      "title": "Live: Russia fired than 100 missiles overnight in 'one of largest attacks ever', Zelensky says",
-      "source": "France24",
-      "link": "https://www.france24.com/en/europe/20261120-live-deadly-russian-attacks-damage-two-bridges-in-kyiv-mayor-says",
-      "valence": -0.922,
+      "title": "Russia pounds Ukraine, killing 8, as missile lands in Poland",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/europe/russia-pounds-ukraine-killing-8-as-missile-lands-in-poland",
+      "valence": -0.935,
       "impact": 0.91,
       "outlets": 1
     }
