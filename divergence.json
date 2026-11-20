@@ -1,14 +1,14 @@
 {
-  "divergence": "1.085668",
+  "divergence": "1.078992",
   "field": "beta",
-  "updated_at": "2026-11-20T01:40:51+00:00",
-  "z": 1.526,
+  "updated_at": "2026-11-20T02:43:41+00:00",
+  "z": 1.251,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 56,
+  "new_stories": 29,
   "climate": {
-    "fast": -0.4159,
-    "slow": -0.4371,
+    "fast": -0.4298,
+    "slow": -0.4396,
     "normal": -0.4722,
     "spread": 0.03
   },
@@ -62,22 +62,6 @@
       "outlets": 1
     },
     {
-      "title": "Clashes between Ethiopia and Eritrea threaten to escalate into full-scale war",
-      "source": "JapanTimes",
-      "link": "https://www.japantimes.co.jp/news/2026/11/19/world/society/ethiopia-eritrea-clashes-war/",
-      "valence": -0.947,
-      "impact": 0.97,
-      "outlets": 1
-    },
-    {
-      "title": "Xi-Trump-Putin trilateral meeting LIVE: Leaders meet with nuclear arms and two wars on table",
-      "source": "TheHindu",
-      "link": "https://www.thehindu.com/news/international/donald-trump-xi-jinping-vladimir-putin-trilateral-meeting-in-shenzhen-live-updates-november-19-2026/article71718525.ece",
-      "valence": -0.885,
-      "impact": 0.96,
-      "outlets": 1
-    },
-    {
       "title": "With Putin in the room, Carney condemns Russia's illegal invasion of Ukraine",
       "source": "CBC",
       "link": "https://www.cbc.ca/news/politics/carney-putin-apec-ukraine-9.7428573?cmp=rss",
@@ -92,11 +76,27 @@
       "valence": -0.935,
       "impact": 0.91,
       "outlets": 1
+    },
+    {
+      "title": "Iran's attacks on ships in the Strait of Hormuz escalate",
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate",
+      "valence": -0.922,
+      "impact": 0.91,
+      "outlets": 1
+    },
+    {
+      "title": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss",
+      "valence": -0.762,
+      "impact": 1.0,
+      "outlets": 2
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
