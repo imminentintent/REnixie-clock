@@ -1,15 +1,15 @@
 {
-  "divergence": "1.107791",
+  "divergence": "1.101018",
   "field": "beta",
-  "updated_at": "2026-11-20T14:46:14+00:00",
-  "z": 2.439,
+  "updated_at": "2026-11-20T15:46:40+00:00",
+  "z": 2.16,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 40,
+  "new_stories": 62,
   "climate": {
-    "fast": -0.3717,
-    "slow": -0.4244,
-    "normal": -0.4711,
+    "fast": -0.3863,
+    "slow": -0.4262,
+    "normal": -0.4709,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -27,6 +27,14 @@
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
       "valence": -0.989,
       "impact": 0.991,
+      "outlets": 1
+    },
+    {
+      "title": "Russia's war spills into Poland as missile crashes near Ukraine border",
+      "source": "TimesOfIndia",
+      "link": "https://timesofindia.indiatimes.com/world/europe/russias-war-spills-into-poland-as-missile-crashes-near-ukraine-border-pm-tusk-suspects-provocation/articleshow/136030531.cms",
+      "valence": -0.987,
+      "impact": 0.988,
       "outlets": 1
     },
     {
@@ -54,6 +62,14 @@
       "outlets": 1
     },
     {
+      "title": "UK man convicted of planning petrol bomb attack on migrant hotel",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/europe/uk-man-convicted-of-planning-petrol-bomb-attack-on-migrant-hotel",
+      "valence": -0.935,
+      "impact": 0.94,
+      "outlets": 1
+    },
+    {
       "title": "Ukraine child death toll climbs to near 2022 levels, UNICEF says",
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/europe/ukraine-child-death-toll-climbs-to-near-2022-levels-unicef-says",
@@ -76,27 +92,11 @@
       "valence": -0.935,
       "impact": 0.91,
       "outlets": 1
-    },
-    {
-      "title": "Russia pounds Ukraine, killing 8, as missile lands in Poland",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/russia-pounds-ukraine-killing-8-as-missile-lands-in-poland",
-      "valence": -0.935,
-      "impact": 0.91,
-      "outlets": 1
-    },
-    {
-      "title": "Live: Russia fired than 100 missiles overnight in 'one of largest attacks ever', Zelensky says",
-      "source": "France24",
-      "link": "https://www.france24.com/en/europe/20261120-live-deadly-russian-attacks-damage-two-bridges-in-kyiv-mayor-says",
-      "valence": -0.922,
-      "impact": 0.91,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
