@@ -1,15 +1,15 @@
 {
-  "divergence": "1.093415",
+  "divergence": "1.104839",
   "field": "beta",
-  "updated_at": "2026-11-20T09:28:42+00:00",
-  "z": 1.846,
+  "updated_at": "2026-11-20T10:29:47+00:00",
+  "z": 2.317,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 49,
+  "new_stories": 34,
   "climate": {
-    "fast": -0.3997,
-    "slow": -0.4331,
-    "normal": -0.4717,
+    "fast": -0.376,
+    "slow": -0.4284,
+    "normal": -0.4715,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -46,14 +46,6 @@
       "outlets": 1
     },
     {
-      "title": "A village was burned, its people killed or exiled. Was it part of a genocide?",
-      "source": "NYTimes",
-      "link": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-camps-photos",
-      "valence": -0.956,
-      "impact": 0.985,
-      "outlets": 1
-    },
-    {
       "title": "A Village Burned, Its People Killed or Exiled. A Court Ruled It Was Genocide.",
       "source": "NYTimes",
       "link": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
@@ -78,19 +70,27 @@
       "outlets": 1
     },
     {
-      "title": "With Putin in the room, Carney condemns Russia's illegal invasion of Ukraine",
-      "source": "CBC",
-      "link": "https://www.cbc.ca/news/politics/carney-putin-apec-ukraine-9.7428573?cmp=rss",
-      "valence": -0.885,
-      "impact": 0.94,
-      "outlets": 1
-    },
-    {
       "title": "Six killed in suspected gas explosion at Georgia apartment building",
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/2026/11/19/six-killed-in-suspected-gas-explosion-at-georgia-apartment-building?traffic_source=rss",
       "valence": -0.935,
       "impact": 0.91,
+      "outlets": 1
+    },
+    {
+      "title": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss",
+      "valence": -0.762,
+      "impact": 1.0,
+      "outlets": 2
+    },
+    {
+      "title": "West presses Iran at IAEA to let inspections resume at bombed nuclear sites",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/middle-east/west-presses-iran-at-iaea-to-let-inspections-resume-at-bombed-nuclear-sites",
+      "valence": -0.862,
+      "impact": 0.92,
       "outlets": 1
     }
   ],
