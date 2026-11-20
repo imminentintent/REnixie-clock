@@ -1,15 +1,15 @@
 {
-  "divergence": "1.089725",
+  "divergence": "1.083332",
   "field": "beta",
-  "updated_at": "2026-11-20T22:37:07+00:00",
-  "z": 1.694,
+  "updated_at": "2026-11-20T23:37:20+00:00",
+  "z": 1.43,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 37,
+  "new_stories": 27,
   "climate": {
-    "fast": -0.4101,
-    "slow": -0.4289,
-    "normal": -0.4702,
+    "fast": -0.4233,
+    "slow": -0.4313,
+    "normal": -0.4701,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -78,17 +78,17 @@
       "outlets": 1
     },
     {
-      "title": "Six killed in suspected gas explosion at Georgia apartment building",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/19/six-killed-in-suspected-gas-explosion-at-georgia-apartment-building?traffic_source=rss",
+      "title": "Eight killed in Ukraine as Russia hits back after Crimea bridge attacks",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/europe/three-killed-in-missile-strikes-on-kyiv-mayor-says-in-biggest-attack-on-bridges",
       "valence": -0.935,
       "impact": 0.91,
       "outlets": 1
     },
     {
-      "title": "Eight killed in Ukraine as Russia hits back after Crimea bridge attacks",
+      "title": "Russia pounds Ukraine, killing 8, as missile lands in Poland",
       "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/three-killed-in-missile-strikes-on-kyiv-mayor-says-in-biggest-attack-on-bridges",
+      "link": "https://www.straitstimes.com/world/europe/russia-pounds-ukraine-killing-8-as-missile-lands-in-poland",
       "valence": -0.935,
       "impact": 0.91,
       "outlets": 1
