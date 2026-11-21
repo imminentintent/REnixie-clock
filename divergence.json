@@ -1,15 +1,15 @@
 {
-  "divergence": "1.060981",
+  "divergence": "1.054912",
   "field": "beta",
-  "updated_at": "2026-11-21T10:38:16+00:00",
-  "z": 0.51,
+  "updated_at": "2026-11-21T11:36:05+00:00",
+  "z": 0.26,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 21,
+  "new_stories": 27,
   "climate": {
-    "fast": -0.4697,
-    "slow": -0.4389,
-    "normal": -0.4696,
+    "fast": -0.4824,
+    "slow": -0.4411,
+    "normal": -0.4695,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -19,6 +19,14 @@
       "link": "https://timesofindia.indiatimes.com/world/europe/russias-war-spills-into-poland-as-missile-crashes-near-ukraine-border-pm-tusk-suspects-provocation/articleshow/136030531.cms",
       "valence": -0.987,
       "impact": 0.988,
+      "outlets": 1
+    },
+    {
+      "title": "Ballistic missile attack on Zelenskyy's hometown in central Ukraine kills 2 and wounds scores",
+      "source": "ABCNews",
+      "link": "https://abcnews.com/International/wireStory/ballistic-missile-attack-zelenskyys-hometown-central-ukraine-kills-138340723",
+      "valence": -0.987,
+      "impact": 0.973,
       "outlets": 1
     },
     {
@@ -82,14 +90,6 @@
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss",
       "valence": -0.935,
-      "impact": 0.91,
-      "outlets": 1
-    },
-    {
-      "title": "Russia hits Ukraine with 400 drones, 110 missiles in one of war's largest attacks",
-      "source": "TimesOfIndia",
-      "link": "https://timesofindia.indiatimes.com/world/europe/compensating-with-terror-russia-hits-ukraine-with-400-drones-110-missiles-in-one-of-wars-largest-attacks/articleshow/136025133.cms",
-      "valence": -0.922,
       "impact": 0.91,
       "outlets": 1
     }
