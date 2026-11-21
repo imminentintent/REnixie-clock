@@ -1,15 +1,15 @@
 {
-  "divergence": "1.077266",
+  "divergence": "1.078235",
   "field": "beta",
-  "updated_at": "2026-11-21T05:22:45+00:00",
-  "z": 1.18,
+  "updated_at": "2026-11-21T06:21:09+00:00",
+  "z": 1.22,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 14,
+  "new_stories": 29,
   "climate": {
-    "fast": -0.4357,
-    "slow": -0.4332,
-    "normal": -0.4698,
+    "fast": -0.4335,
+    "slow": -0.4328,
+    "normal": -0.4697,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -19,14 +19,6 @@
       "link": "https://timesofindia.indiatimes.com/world/europe/russias-war-spills-into-poland-as-missile-crashes-near-ukraine-border-pm-tusk-suspects-provocation/articleshow/136030531.cms",
       "valence": -0.987,
       "impact": 0.988,
-      "outlets": 1
-    },
-    {
-      "title": "Three killed in missile strikes on Kyiv, mayor says, in biggest attack on bridges",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/three-killed-in-missile-strikes-on-kyiv-mayor-says-in-biggest-attack-on-bridges",
-      "valence": -0.987,
-      "impact": 0.973,
       "outlets": 1
     },
     {
@@ -70,14 +62,6 @@
       "outlets": 1
     },
     {
-      "title": "Eight killed in Ukraine as Russia hits back after Crimea bridge attacks",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/three-killed-in-missile-strikes-on-kyiv-mayor-says-in-biggest-attack-on-bridges",
-      "valence": -0.935,
-      "impact": 0.91,
-      "outlets": 1
-    },
-    {
       "title": "Russia pounds Ukraine, killing 8, as missile lands in Poland",
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/europe/russia-pounds-ukraine-killing-8-as-missile-lands-in-poland",
@@ -92,11 +76,27 @@
       "valence": -0.935,
       "impact": 0.91,
       "outlets": 1
+    },
+    {
+      "title": "Live: Russia fired than 100 missiles overnight in 'one of largest attacks ever', Zelensky says",
+      "source": "France24",
+      "link": "https://www.france24.com/en/europe/20261120-live-deadly-russian-attacks-damage-two-bridges-in-kyiv-mayor-says",
+      "valence": -0.922,
+      "impact": 0.91,
+      "outlets": 1
+    },
+    {
+      "title": "Russia hits Ukraine with 400 drones, 110 missiles in one of war's largest attacks",
+      "source": "TimesOfIndia",
+      "link": "https://timesofindia.indiatimes.com/world/europe/compensating-with-terror-russia-hits-ukraine-with-400-drones-110-missiles-in-one-of-wars-largest-attacks/articleshow/136025133.cms",
+      "valence": -0.922,
+      "impact": 0.91,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
