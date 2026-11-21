@@ -1,15 +1,15 @@
 {
-  "divergence": "1.067042",
+  "divergence": "1.068739",
   "field": "beta",
-  "updated_at": "2026-11-21T17:32:09+00:00",
-  "z": 0.759,
+  "updated_at": "2026-11-21T18:31:35+00:00",
+  "z": 0.829,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 20,
+  "new_stories": 18,
   "climate": {
-    "fast": -0.4549,
-    "slow": -0.4384,
-    "normal": -0.4694,
+    "fast": -0.4512,
+    "slow": -0.4378,
+    "normal": -0.4693,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -70,14 +70,6 @@
       "outlets": 1
     },
     {
-      "title": "Indian man sentenced to 19 years in prison for conspiring to kill Sikh separatist in New York",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist",
-      "valence": -0.716,
-      "impact": 1.0,
-      "outlets": 3
-    },
-    {
       "title": "Magnitude 6.9 earthquake shakes Peru’s Andes, with no damage or casualties immediately reported",
       "source": "TheHindu",
       "link": "https://www.thehindu.com/news/international/peru-andes-earthquake-toll-updates-november-21-2026/article71727128.ece",
@@ -92,11 +84,19 @@
       "valence": -0.716,
       "impact": 1.0,
       "outlets": 2
+    },
+    {
+      "title": "Two Salvadorans killed in Haiti handling explosives in first official deaths since deployment",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/two-salvadorans-killed-in-haiti-while-handling-explosives-military-says",
+      "valence": -0.922,
+      "impact": 0.88,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
