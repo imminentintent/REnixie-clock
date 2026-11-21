@@ -1,18 +1,26 @@
 {
-  "divergence": "1.055674",
+  "divergence": "1.052194",
   "field": "beta",
-  "updated_at": "2026-11-21T12:39:53+00:00",
-  "z": 0.291,
+  "updated_at": "2026-11-21T13:48:58+00:00",
+  "z": 0.148,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 32,
+  "new_stories": 40,
   "climate": {
-    "fast": -0.4805,
-    "slow": -0.4411,
+    "fast": -0.4875,
+    "slow": -0.4426,
     "normal": -0.4695,
     "spread": 0.03
   },
   "top_stories_24h": [
+    {
+      "title": "Missile attack on Zelenskyy's hometown in central Ukraine kills 2 and wounds scores",
+      "source": "ABCNews",
+      "link": "https://abcnews.com/International/wireStory/ballistic-missile-attack-zelenskyys-hometown-central-ukraine-kills-138340723",
+      "valence": -0.987,
+      "impact": 1.0,
+      "outlets": 2
+    },
     {
       "title": "Russia's war spills into Poland as missile crashes near Ukraine border",
       "source": "TimesOfIndia",
@@ -62,27 +70,11 @@
       "outlets": 1
     },
     {
-      "title": "Ukraine child death toll climbs to near 2022 levels, UNICEF says",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/ukraine-child-death-toll-climbs-to-near-2022-levels-unicef-says",
-      "valence": -0.935,
-      "impact": 0.92,
-      "outlets": 1
-    },
-    {
       "title": "Sudan’s war leaves disabled children missing out on education",
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/2026/11/20/sudans-war-leaves-disabled-children-missing-out-on-education?traffic_source=rss",
       "valence": -0.885,
       "impact": 0.94,
-      "outlets": 1
-    },
-    {
-      "title": "Russia pounds Ukraine, killing 8, as missile lands in Poland",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/russia-pounds-ukraine-killing-8-as-missile-lands-in-poland",
-      "valence": -0.935,
-      "impact": 0.91,
       "outlets": 1
     },
     {
@@ -92,11 +84,19 @@
       "valence": -0.935,
       "impact": 0.91,
       "outlets": 1
+    },
+    {
+      "title": "Israeli attacks on Gaza kill at least four Palestinians",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
+      "valence": -0.935,
+      "impact": 0.91,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
