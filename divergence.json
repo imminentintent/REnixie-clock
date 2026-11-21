@@ -1,15 +1,15 @@
 {
-  "divergence": "1.074628",
+  "divergence": "1.074952",
   "field": "beta",
-  "updated_at": "2026-11-21T20:30:17+00:00",
-  "z": 1.072,
+  "updated_at": "2026-11-21T21:28:44+00:00",
+  "z": 1.085,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 17,
+  "new_stories": 24,
   "climate": {
-    "fast": -0.4382,
-    "slow": -0.436,
-    "normal": -0.4692,
+    "fast": -0.4374,
+    "slow": -0.4359,
+    "normal": -0.4691,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -46,18 +46,18 @@
       "outlets": 2
     },
     {
-      "title": "Sudan’s war leaves disabled children missing out on education",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/20/sudans-war-leaves-disabled-children-missing-out-on-education?traffic_source=rss",
-      "valence": -0.885,
-      "impact": 0.94,
-      "outlets": 1
-    },
-    {
       "title": "Israeli attacks on Gaza kill at least four Palestinians",
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
       "valence": -0.935,
+      "impact": 0.91,
+      "outlets": 1
+    },
+    {
+      "title": "Bahrain says Iranian attack hits industrial facility as air defences intercept attacks",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/middle-east/bahrain-says-iranian-attack-hits-industrial-facility-causes-fire",
+      "valence": -0.922,
       "impact": 0.91,
       "outlets": 1
     },
@@ -96,7 +96,7 @@
   ],
   "version": "1.0",
   "sources": {
-    "live": 36,
+    "live": 37,
     "total": 38
   }
 }
