@@ -1,14 +1,14 @@
 {
-  "divergence": "1.078235",
+  "divergence": "1.073884",
   "field": "beta",
-  "updated_at": "2026-11-21T06:21:09+00:00",
-  "z": 1.22,
+  "updated_at": "2026-11-21T07:40:21+00:00",
+  "z": 1.041,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 29,
+  "new_stories": 17,
   "climate": {
-    "fast": -0.4335,
-    "slow": -0.4328,
+    "fast": -0.4427,
+    "slow": -0.4343,
     "normal": -0.4697,
     "spread": 0.03
   },
@@ -36,6 +36,14 @@
       "valence": -0.947,
       "impact": 0.97,
       "outlets": 1
+    },
+    {
+      "title": "Iraq fire at Basra power station kills at least four, injures 30",
+      "source": "TheHindu",
+      "link": "https://www.thehindu.com/news/international/fire-at-basras-hartha-power-station-in-iraq/article71727609.ece",
+      "valence": -0.885,
+      "impact": 1.0,
+      "outlets": 2
     },
     {
       "title": "UK man convicted of planning petrol bomb attack on migrant hotel",
@@ -74,14 +82,6 @@
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss",
       "valence": -0.935,
-      "impact": 0.91,
-      "outlets": 1
-    },
-    {
-      "title": "Live: Russia fired than 100 missiles overnight in 'one of largest attacks ever', Zelensky says",
-      "source": "France24",
-      "link": "https://www.france24.com/en/europe/20261120-live-deadly-russian-attacks-damage-two-bridges-in-kyiv-mayor-says",
-      "valence": -0.922,
       "impact": 0.91,
       "outlets": 1
     },
