@@ -1,34 +1,18 @@
 {
-  "divergence": "1.083332",
+  "divergence": "1.082390",
   "field": "beta",
-  "updated_at": "2026-11-20T23:37:20+00:00",
-  "z": 1.43,
+  "updated_at": "2026-11-21T00:45:28+00:00",
+  "z": 1.391,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 27,
+  "new_stories": 30,
   "climate": {
-    "fast": -0.4233,
-    "slow": -0.4313,
+    "fast": -0.4252,
+    "slow": -0.4315,
     "normal": -0.4701,
     "spread": 0.03
   },
   "top_stories_24h": [
-    {
-      "title": "Iran war live: Houthis escalate attacks on Saudi Arabia",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
-      "valence": -0.989,
-      "impact": 0.991,
-      "outlets": 1
-    },
-    {
-      "title": "Iran war live: Saudi coalition says repels Houthi missile, drone attacks",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
-      "valence": -0.989,
-      "impact": 0.991,
-      "outlets": 1
-    },
     {
       "title": "Russia's war spills into Poland as missile crashes near Ukraine border",
       "source": "TimesOfIndia",
@@ -51,6 +35,14 @@
       "link": "https://timesofindia.indiatimes.com/world/us/daddy-please-dont-shoot-me-florida-father-kills-wife-three-young-children-before-shooting-self/articleshow/136029909.cms",
       "valence": -0.987,
       "impact": 0.952,
+      "outlets": 1
+    },
+    {
+      "title": "Iran war live: Saudi-led coalition downs Houthi missiles",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
+      "valence": -0.947,
+      "impact": 0.97,
       "outlets": 1
     },
     {
@@ -92,11 +84,19 @@
       "valence": -0.935,
       "impact": 0.91,
       "outlets": 1
+    },
+    {
+      "title": "Israeli drone attacks kill seven Palestinians in central Gaza",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss",
+      "valence": -0.935,
+      "impact": 0.91,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
