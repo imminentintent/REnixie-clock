@@ -1,15 +1,15 @@
 {
-  "divergence": "1.064617",
+  "divergence": "1.063977",
   "field": "beta",
-  "updated_at": "2026-11-21T14:40:39+00:00",
-  "z": 0.659,
+  "updated_at": "2026-11-21T15:35:05+00:00",
+  "z": 0.633,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 15,
+  "new_stories": 35,
   "climate": {
-    "fast": -0.4606,
-    "slow": -0.4388,
-    "normal": -0.4695,
+    "fast": -0.4618,
+    "slow": -0.4392,
+    "normal": -0.4694,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -20,14 +20,6 @@
       "valence": -0.987,
       "impact": 1.0,
       "outlets": 2
-    },
-    {
-      "title": "Russia's war spills into Poland as missile crashes near Ukraine border",
-      "source": "TimesOfIndia",
-      "link": "https://timesofindia.indiatimes.com/world/europe/russias-war-spills-into-poland-as-missile-crashes-near-ukraine-border-pm-tusk-suspects-provocation/articleshow/136030531.cms",
-      "valence": -0.987,
-      "impact": 0.988,
-      "outlets": 1
     },
     {
       "title": "Ballistic missile attack on Zelenskyy's hometown in central Ukraine kills 2 and wounds scores",
@@ -52,14 +44,6 @@
       "valence": -0.885,
       "impact": 1.0,
       "outlets": 2
-    },
-    {
-      "title": "UK man convicted of planning petrol bomb attack on migrant hotel",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/uk-man-convicted-of-planning-petrol-bomb-attack-on-migrant-hotel",
-      "valence": -0.935,
-      "impact": 0.94,
-      "outlets": 1
     },
     {
       "title": "Sudan’s war leaves disabled children missing out on education",
@@ -92,11 +76,27 @@
       "valence": -0.716,
       "impact": 1.0,
       "outlets": 3
+    },
+    {
+      "title": "Magnitude 6.9 earthquake shakes Peru’s Andes, with no damage or casualties immediately reported",
+      "source": "TheHindu",
+      "link": "https://www.thehindu.com/news/international/peru-andes-earthquake-toll-updates-november-21-2026/article71727128.ece",
+      "valence": -0.716,
+      "impact": 1.0,
+      "outlets": 2
+    },
+    {
+      "title": "Illicit alcohol kills 11, poisons 180 in northeast India’s Manipur state",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/21/suspected-toxic-alcohol-kills-at-least-11-people-in-northeast-india?traffic_source=rss",
+      "valence": -0.716,
+      "impact": 1.0,
+      "outlets": 2
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
