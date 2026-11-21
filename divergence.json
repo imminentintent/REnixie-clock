@@ -1,15 +1,15 @@
 {
-  "divergence": "1.077733",
+  "divergence": "1.074628",
   "field": "beta",
-  "updated_at": "2026-11-21T19:38:35+00:00",
-  "z": 1.2,
+  "updated_at": "2026-11-21T20:30:17+00:00",
+  "z": 1.072,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 24,
+  "new_stories": 17,
   "climate": {
-    "fast": -0.4317,
-    "slow": -0.435,
-    "normal": -0.4693,
+    "fast": -0.4382,
+    "slow": -0.436,
+    "normal": -0.4692,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -54,14 +54,6 @@
       "outlets": 1
     },
     {
-      "title": "Israeli drone attacks kill seven Palestinians in central Gaza",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss",
-      "valence": -0.935,
-      "impact": 0.91,
-      "outlets": 1
-    },
-    {
       "title": "Israeli attacks on Gaza kill at least four Palestinians",
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
@@ -92,11 +84,19 @@
       "valence": -0.716,
       "impact": 1.0,
       "outlets": 2
+    },
+    {
+      "title": "‘So what if there’s a hole? It hasn’t collapsed’: Kyiv residents unbothered by Russian attacks on city’s bridges",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges",
+      "valence": -0.922,
+      "impact": 0.88,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 36,
     "total": 38
   }
 }
