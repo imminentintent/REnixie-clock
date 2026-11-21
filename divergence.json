@@ -1,14 +1,14 @@
 {
-  "divergence": "1.052194",
+  "divergence": "1.064617",
   "field": "beta",
-  "updated_at": "2026-11-21T13:48:58+00:00",
-  "z": 0.148,
+  "updated_at": "2026-11-21T14:40:39+00:00",
+  "z": 0.659,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 40,
+  "new_stories": 15,
   "climate": {
-    "fast": -0.4875,
-    "slow": -0.4426,
+    "fast": -0.4606,
+    "slow": -0.4388,
     "normal": -0.4695,
     "spread": 0.03
   },
@@ -35,14 +35,6 @@
       "link": "https://abcnews.com/International/wireStory/ballistic-missile-attack-zelenskyys-hometown-central-ukraine-kills-138340723",
       "valence": -0.987,
       "impact": 0.973,
-      "outlets": 1
-    },
-    {
-      "title": "'Daddy, please don’t shoot me': US man kills wife, three young children before shooting self",
-      "source": "TimesOfIndia",
-      "link": "https://timesofindia.indiatimes.com/world/us/daddy-please-dont-shoot-me-florida-father-kills-wife-three-young-children-before-shooting-self/articleshow/136029909.cms",
-      "valence": -0.987,
-      "impact": 0.952,
       "outlets": 1
     },
     {
@@ -92,11 +84,19 @@
       "valence": -0.935,
       "impact": 0.91,
       "outlets": 1
+    },
+    {
+      "title": "Indian man sentenced to 19 years in prison for conspiring to kill Sikh separatist in New York",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist",
+      "valence": -0.716,
+      "impact": 1.0,
+      "outlets": 3
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
