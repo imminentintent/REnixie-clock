@@ -1,14 +1,14 @@
 {
-  "divergence": "1.071153",
+  "divergence": "1.068815",
   "field": "beta",
-  "updated_at": "2026-11-21T23:06:33+00:00",
-  "z": 0.929,
+  "updated_at": "2026-11-22T00:01:47+00:00",
+  "z": 0.832,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 15,
+  "new_stories": 10,
   "climate": {
-    "fast": -0.4454,
-    "slow": -0.437,
+    "fast": -0.4504,
+    "slow": -0.4378,
     "normal": -0.469,
     "spread": 0.03
   },
@@ -27,14 +27,6 @@
       "link": "https://abcnews.com/International/wireStory/ballistic-missile-attack-zelenskyys-hometown-central-ukraine-kills-138340723",
       "valence": -0.987,
       "impact": 0.973,
-      "outlets": 1
-    },
-    {
-      "title": "Iran war live: Saudi-led coalition downs Houthi missiles",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
-      "valence": -0.947,
-      "impact": 0.97,
       "outlets": 1
     },
     {
@@ -92,11 +84,19 @@
       "valence": -0.922,
       "impact": 0.88,
       "outlets": 1
+    },
+    {
+      "title": "When you see smoke, run: Rohingya who escaped Myanmar’s genocide tell their stories",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/21/rohingya-who-escaped-myanmars-genocide-tell-their-stories",
+      "valence": -0.762,
+      "impact": 0.95,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 36,
+    "live": 37,
     "total": 38
   }
 }
