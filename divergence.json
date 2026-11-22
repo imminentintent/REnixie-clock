@@ -1,15 +1,15 @@
 {
-  "divergence": "1.042602",
+  "divergence": "1.036801",
   "field": "beta",
-  "updated_at": "2026-11-22T18:05:04+00:00",
-  "z": -0.247,
+  "updated_at": "2026-11-22T19:21:09+00:00",
+  "z": -0.485,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 25,
+  "new_stories": 26,
   "climate": {
-    "fast": -0.5033,
-    "slow": -0.4491,
-    "normal": -0.4688,
+    "fast": -0.5155,
+    "slow": -0.4513,
+    "normal": -0.4689,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -78,17 +78,17 @@
       "outlets": 1
     },
     {
-      "title": "Bahrain says Iranian attack hits industrial facility as air defences intercept attacks",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/middle-east/bahrain-says-iranian-attack-hits-industrial-facility-causes-fire",
-      "valence": -0.922,
+      "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 7 in Ukraine",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
+      "valence": -0.935,
       "impact": 0.91,
       "outlets": 1
     },
     {
-      "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
+      "title": "Bahrain says Iranian attack hits industrial facility as air defences intercept attacks",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/middle-east/bahrain-says-iranian-attack-hits-industrial-facility-causes-fire",
       "valence": -0.922,
       "impact": 0.91,
       "outlets": 1
