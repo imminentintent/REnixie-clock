@@ -1,15 +1,15 @@
 {
-  "divergence": "1.056632",
+  "divergence": "1.053636",
   "field": "beta",
-  "updated_at": "2026-11-22T11:09:17+00:00",
-  "z": 0.331,
+  "updated_at": "2026-11-22T12:06:51+00:00",
+  "z": 0.207,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 21,
+  "new_stories": 19,
   "climate": {
-    "fast": -0.4747,
-    "slow": -0.4432,
-    "normal": -0.4689,
+    "fast": -0.4811,
+    "slow": -0.4442,
+    "normal": -0.4688,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -27,14 +27,6 @@
       "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-says-428-children-killed-in-two-wars-red-crescent-chief-calls-for-independent-probe-into-minab-school-attack/articleshow/136066538.cms",
       "valence": -0.991,
       "impact": 0.991,
-      "outlets": 1
-    },
-    {
-      "title": "Ballistic missile attack on Zelenskyy's hometown in central Ukraine kills 2 and wounds scores",
-      "source": "ABCNews",
-      "link": "https://abcnews.com/International/wireStory/ballistic-missile-attack-zelenskyys-hometown-central-ukraine-kills-138340723",
-      "valence": -0.987,
-      "impact": 0.973,
       "outlets": 1
     },
     {
@@ -70,6 +62,14 @@
       "outlets": 1
     },
     {
+      "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
+      "valence": -0.922,
+      "impact": 0.91,
+      "outlets": 1
+    },
+    {
       "title": "After Oleshky ceasefire, Melania Trump wants more Ukraine ceasefires before Christmas; Zelenskyy reacts",
       "source": "TimesOfIndia",
       "link": "https://timesofindia.indiatimes.com/world/us/after-oleshky-ceasefire-melania-trump-wants-more-ukraine-ceasefires-before-christmas-zelenskyy-reacts/articleshow/136061877.cms",
@@ -96,7 +96,7 @@
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
