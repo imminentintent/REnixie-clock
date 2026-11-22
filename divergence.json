@@ -1,14 +1,14 @@
 {
-  "divergence": "1.048457",
+  "divergence": "1.042602",
   "field": "beta",
-  "updated_at": "2026-11-22T17:10:28+00:00",
-  "z": -0.006,
+  "updated_at": "2026-11-22T18:05:04+00:00",
+  "z": -0.247,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 20,
+  "new_stories": 25,
   "climate": {
-    "fast": -0.4909,
-    "slow": -0.4471,
+    "fast": -0.5033,
+    "slow": -0.4491,
     "normal": -0.4688,
     "spread": 0.03
   },
@@ -36,6 +36,14 @@
       "valence": -0.976,
       "impact": 0.928,
       "outlets": 1
+    },
+    {
+      "title": "Israel’s Gadi Eisenkot condemns arson attacks by Jewish settlers in West Bank",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/middle-east/israels-eisenkot-condemns-arson-attacks-by-jewish-settlers-in-west-bank",
+      "valence": -0.834,
+      "impact": 1.0,
+      "outlets": 2
     },
     {
       "title": "Death toll from Nigeria boat accident rises to 24",
@@ -81,14 +89,6 @@
       "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
-      "valence": -0.922,
-      "impact": 0.91,
-      "outlets": 1
-    },
-    {
-      "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
       "valence": -0.922,
       "impact": 0.91,
       "outlets": 1
