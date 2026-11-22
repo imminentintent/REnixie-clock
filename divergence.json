@@ -1,14 +1,14 @@
 {
-  "divergence": "1.051045",
+  "divergence": "1.050759",
   "field": "beta",
-  "updated_at": "2026-11-22T04:49:01+00:00",
-  "z": 0.101,
+  "updated_at": "2026-11-22T05:47:13+00:00",
+  "z": 0.089,
   "calibrating": false,
   "scorer": "lexicon",
   "new_stories": 17,
   "climate": {
-    "fast": -0.4881,
-    "slow": -0.4437,
+    "fast": -0.4885,
+    "slow": -0.444,
     "normal": -0.4689,
     "spread": 0.03
   },
@@ -86,9 +86,9 @@
       "outlets": 2
     },
     {
-      "title": "‘So what if there’s a hole? It hasn’t collapsed’: Kyiv residents unbothered by Russian attacks on city’s bridges",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges",
+      "title": "Storm Kills Three, Damages Homes: Supercell storm damaged 5,000 homes; authorities probe possible fourth death",
+      "source": "TimesOfIndia",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/brazil-supercell-storm-3-killed-thousands-of-homes-damaged-as-114-kmph-winds-batter-town/articleshow/136067257.cms",
       "valence": -0.922,
       "impact": 0.88,
       "outlets": 1
@@ -96,7 +96,7 @@
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
