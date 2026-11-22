@@ -1,14 +1,14 @@
 {
-  "divergence": "1.049078",
+  "divergence": "1.048457",
   "field": "beta",
-  "updated_at": "2026-11-22T16:10:20+00:00",
-  "z": 0.02,
+  "updated_at": "2026-11-22T17:10:28+00:00",
+  "z": -0.006,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 17,
+  "new_stories": 20,
   "climate": {
-    "fast": -0.4898,
-    "slow": -0.4467,
+    "fast": -0.4909,
+    "slow": -0.4471,
     "normal": -0.4688,
     "spread": 0.03
   },
@@ -62,6 +62,14 @@
       "outlets": 1
     },
     {
+      "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 5 in Ukraine",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
+      "valence": -0.935,
+      "impact": 0.91,
+      "outlets": 1
+    },
+    {
       "title": "Bahrain says Iranian attack hits industrial facility as air defences intercept attacks",
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/middle-east/bahrain-says-iranian-attack-hits-industrial-facility-causes-fire",
@@ -84,19 +92,11 @@
       "valence": -0.922,
       "impact": 0.91,
       "outlets": 1
-    },
-    {
-      "title": "Libya's eastern government suspects drone attack caused explosion on Russian ship at Benghazi port",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/libyas-eastern-government-suspects-drone-attack-caused-explosion-on-russian-ship-at-benghazi-port",
-      "valence": -0.922,
-      "impact": 0.91,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
