@@ -1,14 +1,14 @@
 {
-  "divergence": "1.050691",
+  "divergence": "1.048213",
   "field": "beta",
-  "updated_at": "2026-11-22T06:51:20+00:00",
-  "z": 0.086,
+  "updated_at": "2026-11-22T08:02:16+00:00",
+  "z": -0.016,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 20,
+  "new_stories": 16,
   "climate": {
-    "fast": -0.4886,
-    "slow": -0.4441,
+    "fast": -0.4939,
+    "slow": -0.4449,
     "normal": -0.4689,
     "spread": 0.03
   },
@@ -38,19 +38,19 @@
       "outlets": 1
     },
     {
-      "title": "Iraq fire at Basra power station kills at least four, injures 30",
-      "source": "TheHindu",
-      "link": "https://www.thehindu.com/news/international/fire-at-basras-hartha-power-station-in-iraq/article71727609.ece",
-      "valence": -0.885,
-      "impact": 1.0,
-      "outlets": 2
-    },
-    {
       "title": "Ohio shooting: 3 killed, 1 injured at event venue; two suspects in custody",
       "source": "TimesOfIndia",
       "link": "https://timesofindia.indiatimes.com/world/us/ohio-shooting-3-killed-1-injured-at-event-venue-two-suspects-in-custody/articleshow/136065741.cms",
       "valence": -0.976,
       "impact": 0.928,
+      "outlets": 1
+    },
+    {
+      "title": "Death toll from Nigeria boat accident rises to 24",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/death-toll-from-nigeria-boat-accident-rises-to-24",
+      "valence": -0.935,
+      "impact": 0.92,
       "outlets": 1
     },
     {
@@ -96,7 +96,7 @@
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 36,
     "total": 38
   }
 }
