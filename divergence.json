@@ -1,14 +1,14 @@
 {
-  "divergence": "1.055277",
+  "divergence": "1.049907",
   "field": "beta",
-  "updated_at": "2026-11-22T14:19:12+00:00",
-  "z": 0.275,
+  "updated_at": "2026-11-22T15:12:00+00:00",
+  "z": 0.054,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 22,
+  "new_stories": 29,
   "climate": {
-    "fast": -0.4768,
-    "slow": -0.4444,
+    "fast": -0.4881,
+    "slow": -0.4463,
     "normal": -0.4688,
     "spread": 0.03
   },
@@ -46,6 +46,14 @@
       "outlets": 1
     },
     {
+      "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 3 in Ukraine",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
+      "valence": -0.935,
+      "impact": 0.91,
+      "outlets": 1
+    },
+    {
       "title": "Bahrain says Iranian attack hits industrial facility as air defences intercept attacks",
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/middle-east/bahrain-says-iranian-attack-hits-industrial-facility-causes-fire",
@@ -62,35 +70,27 @@
       "outlets": 1
     },
     {
+      "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
+      "valence": -0.922,
+      "impact": 0.91,
+      "outlets": 1
+    },
+    {
+      "title": "Libya's eastern government suspects drone attack caused explosion on Russian ship at Benghazi port",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/europe/libyas-eastern-government-suspects-drone-attack-caused-explosion-on-russian-ship-at-benghazi-port",
+      "valence": -0.922,
+      "impact": 0.91,
+      "outlets": 1
+    },
+    {
       "title": "After Oleshky ceasefire, Melania Trump wants more Ukraine ceasefires before Christmas; Zelenskyy reacts",
       "source": "TimesOfIndia",
       "link": "https://timesofindia.indiatimes.com/world/us/after-oleshky-ceasefire-melania-trump-wants-more-ukraine-ceasefires-before-christmas-zelenskyy-reacts/articleshow/136061877.cms",
       "valence": 0.885,
       "impact": 0.91,
-      "outlets": 1
-    },
-    {
-      "title": "Storm Kills Three, Damages Homes: Supercell storm damaged 5,000 homes; authorities probe possible fourth death",
-      "source": "TimesOfIndia",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/brazil-supercell-storm-3-killed-thousands-of-homes-damaged-as-114-kmph-winds-batter-town/articleshow/136067257.cms",
-      "valence": -0.922,
-      "impact": 0.88,
-      "outlets": 1
-    },
-    {
-      "title": "In 2025, a 24-year-old Montreal woman died mysteriously at an Istanbul hotel; food poisoning was suspected. A year later, investigation now points to deadly pesticide used to kill bedbugs",
-      "source": "TimesOfIndia",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/in-2025-a-24-year-old-montreal-woman-died-mysteriously-at-an-istanbul-hotel-food-poisoning-was-suspected-a-year-later-investigation-now-points-to-deadly-pesticide-used-to-kill-bedbugs/articleshow/136056954.cms",
-      "valence": -0.922,
-      "impact": 0.85,
-      "outlets": 1
-    },
-    {
-      "title": "Scientists Tried to Kill This Dirt, but It Wouldn’t Die",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/",
-      "valence": -0.922,
-      "impact": 0.85,
       "outlets": 1
     }
   ],
