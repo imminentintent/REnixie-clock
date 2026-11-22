@@ -1,14 +1,14 @@
 {
-  "divergence": "1.048213",
+  "divergence": "1.056267",
   "field": "beta",
-  "updated_at": "2026-11-22T08:02:16+00:00",
-  "z": -0.016,
+  "updated_at": "2026-11-22T09:11:53+00:00",
+  "z": 0.316,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 16,
+  "new_stories": 15,
   "climate": {
-    "fast": -0.4939,
-    "slow": -0.4449,
+    "fast": -0.476,
+    "slow": -0.4428,
     "normal": -0.4689,
     "spread": 0.03
   },
@@ -78,25 +78,25 @@
       "outlets": 1
     },
     {
-      "title": "Illicit alcohol kills 11, poisons 180 in northeast India’s Manipur state",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/21/suspected-toxic-alcohol-kills-at-least-11-people-in-northeast-india?traffic_source=rss",
-      "valence": -0.716,
-      "impact": 1.0,
-      "outlets": 2
-    },
-    {
       "title": "Storm Kills Three, Damages Homes: Supercell storm damaged 5,000 homes; authorities probe possible fourth death",
       "source": "TimesOfIndia",
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/brazil-supercell-storm-3-killed-thousands-of-homes-damaged-as-114-kmph-winds-batter-town/articleshow/136067257.cms",
       "valence": -0.922,
       "impact": 0.88,
       "outlets": 1
+    },
+    {
+      "title": "In 2025, a 24-year-old Montreal woman died mysteriously at an Istanbul hotel; food poisoning was suspected. A year later, investigation now points to deadly pesticide used to kill bedbugs",
+      "source": "TimesOfIndia",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/in-2025-a-24-year-old-montreal-woman-died-mysteriously-at-an-istanbul-hotel-food-poisoning-was-suspected-a-year-later-investigation-now-points-to-deadly-pesticide-used-to-kill-bedbugs/articleshow/136056954.cms",
+      "valence": -0.922,
+      "impact": 0.85,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 36,
+    "live": 37,
     "total": 38
   }
 }
