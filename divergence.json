@@ -1,14 +1,14 @@
 {
-  "divergence": "1.049907",
+  "divergence": "1.049078",
   "field": "beta",
-  "updated_at": "2026-11-22T15:12:00+00:00",
-  "z": 0.054,
+  "updated_at": "2026-11-22T16:10:20+00:00",
+  "z": 0.02,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 29,
+  "new_stories": 17,
   "climate": {
-    "fast": -0.4881,
-    "slow": -0.4463,
+    "fast": -0.4898,
+    "slow": -0.4467,
     "normal": -0.4688,
     "spread": 0.03
   },
@@ -54,6 +54,14 @@
       "outlets": 1
     },
     {
+      "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss",
+      "valence": -0.935,
+      "impact": 0.91,
+      "outlets": 1
+    },
+    {
       "title": "Bahrain says Iranian attack hits industrial facility as air defences intercept attacks",
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/middle-east/bahrain-says-iranian-attack-hits-industrial-facility-causes-fire",
@@ -84,19 +92,11 @@
       "valence": -0.922,
       "impact": 0.91,
       "outlets": 1
-    },
-    {
-      "title": "After Oleshky ceasefire, Melania Trump wants more Ukraine ceasefires before Christmas; Zelenskyy reacts",
-      "source": "TimesOfIndia",
-      "link": "https://timesofindia.indiatimes.com/world/us/after-oleshky-ceasefire-melania-trump-wants-more-ukraine-ceasefires-before-christmas-zelenskyy-reacts/articleshow/136061877.cms",
-      "valence": 0.885,
-      "impact": 0.91,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
