@@ -1,32 +1,32 @@
 {
-  "divergence": "1.053636",
+  "divergence": "1.052539",
   "field": "beta",
-  "updated_at": "2026-11-22T12:06:51+00:00",
-  "z": 0.207,
+  "updated_at": "2026-11-22T13:27:01+00:00",
+  "z": 0.162,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 19,
+  "new_stories": 33,
   "climate": {
-    "fast": -0.4811,
-    "slow": -0.4442,
+    "fast": -0.483,
+    "slow": -0.4449,
     "normal": -0.4688,
     "spread": 0.03
   },
   "top_stories_24h": [
-    {
-      "title": "Missile attack on Zelenskyy's hometown in central Ukraine kills 2 and wounds scores",
-      "source": "ABCNews",
-      "link": "https://abcnews.com/International/wireStory/ballistic-missile-attack-zelenskyys-hometown-central-ukraine-kills-138340723",
-      "valence": -0.987,
-      "impact": 1.0,
-      "outlets": 2
-    },
     {
       "title": "Iran says 428 children killed in two wars, Red Crescent chief calls for independent probe into Minab school attack",
       "source": "TimesOfIndia",
       "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-says-428-children-killed-in-two-wars-red-crescent-chief-calls-for-independent-probe-into-minab-school-attack/articleshow/136066538.cms",
       "valence": -0.991,
       "impact": 0.991,
+      "outlets": 1
+    },
+    {
+      "title": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss",
+      "valence": -0.964,
+      "impact": 0.99,
       "outlets": 1
     },
     {
@@ -43,14 +43,6 @@
       "link": "https://www.straitstimes.com/world/death-toll-from-nigeria-boat-accident-rises-to-24",
       "valence": -0.935,
       "impact": 0.92,
-      "outlets": 1
-    },
-    {
-      "title": "Israeli attacks on Gaza kill at least four Palestinians",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
-      "valence": -0.935,
-      "impact": 0.91,
       "outlets": 1
     },
     {
@@ -92,11 +84,19 @@
       "valence": -0.922,
       "impact": 0.85,
       "outlets": 1
+    },
+    {
+      "title": "Scientists Tried to Kill This Dirt, but It Wouldn’t Die",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/",
+      "valence": -0.922,
+      "impact": 0.85,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
