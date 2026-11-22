@@ -1,14 +1,14 @@
 {
-  "divergence": "1.036801",
+  "divergence": "1.035610",
   "field": "beta",
-  "updated_at": "2026-11-22T19:21:09+00:00",
-  "z": -0.485,
+  "updated_at": "2026-11-22T20:12:36+00:00",
+  "z": -0.534,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 26,
+  "new_stories": 12,
   "climate": {
-    "fast": -0.5155,
-    "slow": -0.4513,
+    "fast": -0.518,
+    "slow": -0.4518,
     "normal": -0.4689,
     "spread": 0.03
   },
@@ -86,9 +86,9 @@
       "outlets": 1
     },
     {
-      "title": "Bahrain says Iranian attack hits industrial facility as air defences intercept attacks",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/middle-east/bahrain-says-iranian-attack-hits-industrial-facility-causes-fire",
+      "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
       "valence": -0.922,
       "impact": 0.91,
       "outlets": 1
