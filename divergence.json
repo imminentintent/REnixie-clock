@@ -1,15 +1,15 @@
 {
-  "divergence": "1.066278",
+  "divergence": "1.059092",
   "field": "beta",
-  "updated_at": "2026-11-22T01:41:51+00:00",
-  "z": 0.728,
+  "updated_at": "2026-11-22T02:43:55+00:00",
+  "z": 0.432,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 20,
+  "new_stories": 16,
   "climate": {
-    "fast": -0.4557,
-    "slow": -0.4386,
-    "normal": -0.469,
+    "fast": -0.471,
+    "slow": -0.441,
+    "normal": -0.4689,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -38,6 +38,14 @@
       "outlets": 2
     },
     {
+      "title": "Ohio shooting: 3 killed, 1 injured at event venue; two suspects in custody",
+      "source": "TimesOfIndia",
+      "link": "https://timesofindia.indiatimes.com/world/us/ohio-shooting-3-killed-1-injured-at-event-venue-two-suspects-in-custody/articleshow/136065741.cms",
+      "valence": -0.976,
+      "impact": 0.928,
+      "outlets": 1
+    },
+    {
       "title": "Israeli attacks on Gaza kill at least four Palestinians",
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
@@ -60,14 +68,6 @@
       "valence": 0.885,
       "impact": 0.91,
       "outlets": 1
-    },
-    {
-      "title": "Magnitude 6.9 earthquake shakes Peru’s Andes, with no damage or casualties immediately reported",
-      "source": "TheHindu",
-      "link": "https://www.thehindu.com/news/international/peru-andes-earthquake-toll-updates-november-21-2026/article71727128.ece",
-      "valence": -0.716,
-      "impact": 1.0,
-      "outlets": 2
     },
     {
       "title": "Illicit alcohol kills 11, poisons 180 in northeast India’s Manipur state",
@@ -96,7 +96,7 @@
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
