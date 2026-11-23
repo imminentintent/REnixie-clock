@@ -1,26 +1,18 @@
 {
-  "divergence": "1.029345",
+  "divergence": "1.034066",
   "field": "beta",
-  "updated_at": "2026-11-23T03:51:13+00:00",
-  "z": -0.792,
+  "updated_at": "2026-11-23T05:03:34+00:00",
+  "z": -0.598,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 28,
+  "new_stories": 21,
   "climate": {
-    "fast": -0.5293,
-    "slow": -0.4564,
-    "normal": -0.4691,
+    "fast": -0.5187,
+    "slow": -0.4555,
+    "normal": -0.4692,
     "spread": 0.03
   },
   "top_stories_24h": [
-    {
-      "title": "Iran says 428 children killed in two wars, Red Crescent chief calls for independent probe into Minab school attack",
-      "source": "TimesOfIndia",
-      "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-says-428-children-killed-in-two-wars-red-crescent-chief-calls-for-independent-probe-into-minab-school-attack/articleshow/136066538.cms",
-      "valence": -0.991,
-      "impact": 0.991,
-      "outlets": 1
-    },
     {
       "title": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
       "source": "AlJazeera",
@@ -92,11 +84,19 @@
       "valence": -0.922,
       "impact": 0.91,
       "outlets": 1
+    },
+    {
+      "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
+      "valence": -0.922,
+      "impact": 0.91,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
