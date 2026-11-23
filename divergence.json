@@ -1,14 +1,14 @@
 {
-  "divergence": "1.045520",
+  "divergence": "1.043422",
   "field": "beta",
-  "updated_at": "2026-11-23T06:35:26+00:00",
-  "z": -0.127,
+  "updated_at": "2026-11-23T08:22:40+00:00",
+  "z": -0.213,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 48,
+  "new_stories": 45,
   "climate": {
-    "fast": -0.4928,
-    "slow": -0.4532,
+    "fast": -0.4971,
+    "slow": -0.4541,
     "normal": -0.4692,
     "spread": 0.03
   },
@@ -38,11 +38,19 @@
       "outlets": 2
     },
     {
-      "title": "Death toll from Nigeria boat accident rises to 24",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/death-toll-from-nigeria-boat-accident-rises-to-24",
-      "valence": -0.935,
-      "impact": 0.92,
+      "title": "Sanctions, summits and strikes: The war in Ukraine shows no sign of slowing",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2026/11/23/sanctions-summits-and-strikes-the-war-in-ukraine-shows-no-sign-of-slowing",
+      "valence": -0.834,
+      "impact": 0.97,
+      "outlets": 1
+    },
+    {
+      "title": "Iran war live: Hormuz tankers set ablaze; Tehran warns of internal threats",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
+      "valence": -0.885,
+      "impact": 0.94,
       "outlets": 1
     },
     {
@@ -81,14 +89,6 @@
       "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
-      "valence": -0.922,
-      "impact": 0.91,
-      "outlets": 1
-    },
-    {
-      "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
       "valence": -0.922,
       "impact": 0.91,
       "outlets": 1
