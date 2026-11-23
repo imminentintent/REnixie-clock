@@ -1,15 +1,15 @@
 {
-  "divergence": "1.024462",
+  "divergence": "1.030894",
   "field": "beta",
-  "updated_at": "2026-11-23T00:08:17+00:00",
-  "z": -0.993,
+  "updated_at": "2026-11-23T01:47:13+00:00",
+  "z": -0.729,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 14,
+  "new_stories": 26,
   "climate": {
-    "fast": -0.5412,
-    "slow": -0.4564,
-    "normal": -0.469,
+    "fast": -0.5265,
+    "slow": -0.4553,
+    "normal": -0.4691,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -35,14 +35,6 @@
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
       "valence": -0.964,
       "impact": 0.97,
-      "outlets": 1
-    },
-    {
-      "title": "Ohio shooting: 3 killed, 1 injured at event venue; two suspects in custody",
-      "source": "TimesOfIndia",
-      "link": "https://timesofindia.indiatimes.com/world/us/ohio-shooting-3-killed-1-injured-at-event-venue-two-suspects-in-custody/articleshow/136065741.cms",
-      "valence": -0.976,
-      "impact": 0.928,
       "outlets": 1
     },
     {
@@ -92,11 +84,19 @@
       "valence": -0.935,
       "impact": 0.91,
       "outlets": 1
+    },
+    {
+      "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
+      "valence": -0.922,
+      "impact": 0.91,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
