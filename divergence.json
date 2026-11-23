@@ -1,26 +1,18 @@
 {
-  "divergence": "1.079605",
+  "divergence": "1.078752",
   "field": "beta",
-  "updated_at": "2026-11-23T11:45:19+00:00",
-  "z": 1.277,
+  "updated_at": "2026-11-23T12:56:38+00:00",
+  "z": 1.242,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 43,
+  "new_stories": 55,
   "climate": {
-    "fast": -0.4176,
-    "slow": -0.4441,
-    "normal": -0.4691,
+    "fast": -0.4199,
+    "slow": -0.4438,
+    "normal": -0.469,
     "spread": 0.03
   },
   "top_stories_24h": [
-    {
-      "title": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss",
-      "valence": -0.964,
-      "impact": 0.99,
-      "outlets": 1
-    },
     {
       "title": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
       "source": "AlJazeera",
@@ -90,6 +82,14 @@
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
       "valence": -0.935,
+      "impact": 0.91,
+      "outlets": 1
+    },
+    {
+      "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
+      "valence": -0.922,
       "impact": 0.91,
       "outlets": 1
     }
