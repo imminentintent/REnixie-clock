@@ -1,15 +1,15 @@
 {
-  "divergence": "1.073171",
+  "divergence": "1.071612",
   "field": "beta",
-  "updated_at": "2026-11-23T14:19:58+00:00",
-  "z": 1.012,
+  "updated_at": "2026-11-23T15:32:54+00:00",
+  "z": 0.947,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 68,
+  "new_stories": 52,
   "climate": {
-    "fast": -0.432,
-    "slow": -0.4454,
-    "normal": -0.469,
+    "fast": -0.4354,
+    "slow": -0.4457,
+    "normal": -0.4689,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -46,51 +46,51 @@
       "outlets": 1
     },
     {
-      "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 3 in Ukraine",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
-      "valence": -0.935,
-      "impact": 0.91,
-      "outlets": 1
-    },
-    {
-      "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss",
-      "valence": -0.935,
-      "impact": 0.91,
-      "outlets": 1
-    },
-    {
-      "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 5 in Ukraine",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
-      "valence": -0.935,
-      "impact": 0.91,
-      "outlets": 1
-    },
-    {
-      "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 7 in Ukraine",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
-      "valence": -0.935,
-      "impact": 0.91,
-      "outlets": 1
-    },
-    {
-      "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
-      "valence": -0.922,
-      "impact": 0.91,
-      "outlets": 1
-    },
-    {
-      "title": "Libya's eastern government suspects drone attack caused explosion on Russian ship at Benghazi port",
+      "title": "Dozens killed in weekend attacks in Nigeria's Niger state, residents say",
       "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/europe/libyas-eastern-government-suspects-drone-attack-caused-explosion-on-russian-ship-at-benghazi-port",
-      "valence": -0.922,
+      "link": "https://www.straitstimes.com/world/dozens-killed-in-weekend-attacks-in-nigerias-niger-state-residents-say",
+      "valence": -0.935,
       "impact": 0.91,
+      "outlets": 1
+    },
+    {
+      "title": "Ukraine-Russia peace talks: Row over who will represent the EU",
+      "source": "France24",
+      "link": "https://www.france24.com/en/video/20261123-ukraine-russia-peace-talks-row-over-who-will-represent-the-eu",
+      "valence": 0.905,
+      "impact": 0.895,
+      "outlets": 1
+    },
+    {
+      "title": "3 killed and 1 wounded in shooting at Ohio baby shower; 1 man in custody, police say",
+      "source": "TheHindu",
+      "link": "https://www.thehindu.com/news/international/3-killed-and-1-wounded-in-shooting-at-ohio-baby-shower-1-man-in-custody-police-say/article71733198.ece",
+      "valence": -0.935,
+      "impact": 0.88,
+      "outlets": 1
+    },
+    {
+      "title": "A Landmark Genocide Ruling",
+      "source": "NYTimes",
+      "link": "https://www.nytimes.com/2026/11/22/world/genocide-myanmar-un-climate-talks.html",
+      "valence": -0.762,
+      "impact": 0.95,
+      "outlets": 1
+    },
+    {
+      "title": "German police respond to multiple school bomb threats",
+      "source": "DW",
+      "link": "https://www.dw.com/en/german-police-respond-to-multiple-school-bomb-threats/a-80018842?maca=en-rss-en-world-4025-rdf",
+      "valence": -0.862,
+      "impact": 0.88,
+      "outlets": 1
+    },
+    {
+      "title": "Around 450 schools in Germany receive bomb threats via email: Report",
+      "source": "TimesOfIndia",
+      "link": "https://timesofindia.indiatimes.com/world/europe/around-450-schools-in-germany-receive-bomb-threats-via-email-report/articleshow/136099371.cms",
+      "valence": -0.862,
+      "impact": 0.88,
       "outlets": 1
     }
   ],
