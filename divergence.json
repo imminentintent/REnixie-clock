@@ -1,14 +1,14 @@
 {
-  "divergence": "1.060710",
+  "divergence": "1.060614",
   "field": "beta",
-  "updated_at": "2026-11-23T16:50:16+00:00",
-  "z": 0.499,
+  "updated_at": "2026-11-23T17:50:23+00:00",
+  "z": 0.495,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 60,
+  "new_stories": 53,
   "climate": {
     "fast": -0.4585,
-    "slow": -0.4495,
+    "slow": -0.4497,
     "normal": -0.4689,
     "spread": 0.03
   },
@@ -46,6 +46,14 @@
       "outlets": 1
     },
     {
+      "title": "EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – as it happened",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+      "valence": -0.905,
+      "impact": 0.95,
+      "outlets": 1
+    },
+    {
       "title": "Sanctions, summits and strikes: The war in Ukraine shows no sign of slowing",
       "source": "Euronews",
       "link": "https://www.euronews.com/2026/11/23/sanctions-summits-and-strikes-the-war-in-ukraine-shows-no-sign-of-slowing",
@@ -70,33 +78,25 @@
       "outlets": 1
     },
     {
+      "title": "17 killed in Saudi attack on Yemeni city: Houthis",
+      "source": "TheHindu",
+      "link": "https://www.thehindu.com/news/international/17-killed-in-saudi-attack-on-yemeni-city-houthis/article71735986.ece",
+      "valence": -0.935,
+      "impact": 0.91,
+      "outlets": 1
+    },
+    {
       "title": "Ukraine-Russia peace talks: Row over who will represent the EU",
       "source": "France24",
       "link": "https://www.france24.com/en/video/20261123-ukraine-russia-peace-talks-row-over-who-will-represent-the-eu",
       "valence": 0.905,
       "impact": 0.895,
       "outlets": 1
-    },
-    {
-      "title": "3 killed and 1 wounded in shooting at Ohio baby shower; 1 man in custody, police say",
-      "source": "TheHindu",
-      "link": "https://www.thehindu.com/news/international/3-killed-and-1-wounded-in-shooting-at-ohio-baby-shower-1-man-in-custody-police-say/article71733198.ece",
-      "valence": -0.935,
-      "impact": 0.88,
-      "outlets": 1
-    },
-    {
-      "title": "A Landmark Genocide Ruling",
-      "source": "NYTimes",
-      "link": "https://www.nytimes.com/2026/11/22/world/genocide-myanmar-un-climate-talks.html",
-      "valence": -0.762,
-      "impact": 0.95,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
