@@ -1,14 +1,14 @@
 {
-  "divergence": "1.031487",
+  "divergence": "1.024462",
   "field": "beta",
-  "updated_at": "2026-11-22T23:09:33+00:00",
-  "z": -0.704,
+  "updated_at": "2026-11-23T00:08:17+00:00",
+  "z": -0.993,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 20,
+  "new_stories": 14,
   "climate": {
-    "fast": -0.5263,
-    "slow": -0.4539,
+    "fast": -0.5412,
+    "slow": -0.4564,
     "normal": -0.469,
     "spread": 0.03
   },
@@ -27,6 +27,14 @@
       "link": "https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss",
       "valence": -0.964,
       "impact": 0.99,
+      "outlets": 1
+    },
+    {
+      "title": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
+      "valence": -0.964,
+      "impact": 0.97,
       "outlets": 1
     },
     {
@@ -82,14 +90,6 @@
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
       "valence": -0.935,
-      "impact": 0.91,
-      "outlets": 1
-    },
-    {
-      "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
-      "valence": -0.922,
       "impact": 0.91,
       "outlets": 1
     }
