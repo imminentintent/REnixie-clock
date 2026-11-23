@@ -1,14 +1,14 @@
 {
-  "divergence": "1.047010",
+  "divergence": "1.068734",
   "field": "beta",
-  "updated_at": "2026-11-23T09:47:57+00:00",
-  "z": -0.065,
+  "updated_at": "2026-11-23T10:54:54+00:00",
+  "z": 0.829,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 34,
+  "new_stories": 37,
   "climate": {
-    "fast": -0.4888,
-    "slow": -0.4535,
+    "fast": -0.441,
+    "slow": -0.4477,
     "normal": -0.4692,
     "spread": 0.03
   },
@@ -27,6 +27,14 @@
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
       "valence": -0.964,
       "impact": 0.97,
+      "outlets": 1
+    },
+    {
+      "title": "Colombia Marks 10 Years Since FARC Peace Deal: In Photos",
+      "source": "NYTimes",
+      "link": "https://www.nytimes.com/2026/11/23/world/americas/colombia-farc-peace-deal.html",
+      "valence": 0.976,
+      "impact": 0.964,
       "outlets": 1
     },
     {
@@ -82,14 +90,6 @@
       "source": "AlJazeera",
       "link": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
       "valence": -0.935,
-      "impact": 0.91,
-      "outlets": 1
-    },
-    {
-      "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
-      "valence": -0.922,
       "impact": 0.91,
       "outlets": 1
     }
