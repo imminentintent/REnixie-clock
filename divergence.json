@@ -1,14 +1,14 @@
 {
-  "divergence": "1.071612",
+  "divergence": "1.060710",
   "field": "beta",
-  "updated_at": "2026-11-23T15:32:54+00:00",
-  "z": 0.947,
+  "updated_at": "2026-11-23T16:50:16+00:00",
+  "z": 0.499,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 52,
+  "new_stories": 60,
   "climate": {
-    "fast": -0.4354,
-    "slow": -0.4457,
+    "fast": -0.4585,
+    "slow": -0.4495,
     "normal": -0.4689,
     "spread": 0.03
   },
@@ -27,6 +27,22 @@
       "link": "https://www.nytimes.com/2026/11/23/world/americas/colombia-farc-peace-deal.html",
       "valence": 0.976,
       "impact": 0.964,
+      "outlets": 1
+    },
+    {
+      "title": "Russia’s war dead: the hidden toll of the Ukraine conflict",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/23/russia-war-dead-hidden-toll-ukraine-conflict",
+      "valence": -0.947,
+      "impact": 0.96,
+      "outlets": 1
+    },
+    {
+      "title": "EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – Europe live",
+      "source": "Guardian",
+      "link": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+      "valence": -0.905,
+      "impact": 0.95,
       "outlets": 1
     },
     {
@@ -75,22 +91,6 @@
       "link": "https://www.nytimes.com/2026/11/22/world/genocide-myanmar-un-climate-talks.html",
       "valence": -0.762,
       "impact": 0.95,
-      "outlets": 1
-    },
-    {
-      "title": "German police respond to multiple school bomb threats",
-      "source": "DW",
-      "link": "https://www.dw.com/en/german-police-respond-to-multiple-school-bomb-threats/a-80018842?maca=en-rss-en-world-4025-rdf",
-      "valence": -0.862,
-      "impact": 0.88,
-      "outlets": 1
-    },
-    {
-      "title": "Around 450 schools in Germany receive bomb threats via email: Report",
-      "source": "TimesOfIndia",
-      "link": "https://timesofindia.indiatimes.com/world/europe/around-450-schools-in-germany-receive-bomb-threats-via-email-report/articleshow/136099371.cms",
-      "valence": -0.862,
-      "impact": 0.88,
       "outlets": 1
     }
   ],
