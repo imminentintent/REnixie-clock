@@ -1,14 +1,14 @@
 {
-  "divergence": "1.078752",
+  "divergence": "1.073171",
   "field": "beta",
-  "updated_at": "2026-11-23T12:56:38+00:00",
-  "z": 1.242,
+  "updated_at": "2026-11-23T14:19:58+00:00",
+  "z": 1.012,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 55,
+  "new_stories": 68,
   "climate": {
-    "fast": -0.4199,
-    "slow": -0.4438,
+    "fast": -0.432,
+    "slow": -0.4454,
     "normal": -0.469,
     "spread": 0.03
   },
@@ -28,14 +28,6 @@
       "valence": 0.976,
       "impact": 0.964,
       "outlets": 1
-    },
-    {
-      "title": "Israel’s Gadi Eisenkot condemns arson attacks by Jewish settlers in West Bank",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/middle-east/israels-eisenkot-condemns-arson-attacks-by-jewish-settlers-in-west-bank",
-      "valence": -0.834,
-      "impact": 1.0,
-      "outlets": 2
     },
     {
       "title": "Sanctions, summits and strikes: The war in Ukraine shows no sign of slowing",
@@ -92,11 +84,19 @@
       "valence": -0.922,
       "impact": 0.91,
       "outlets": 1
+    },
+    {
+      "title": "Libya's eastern government suspects drone attack caused explosion on Russian ship at Benghazi port",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/europe/libyas-eastern-government-suspects-drone-attack-caused-explosion-on-russian-ship-at-benghazi-port",
+      "valence": -0.922,
+      "impact": 0.91,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
