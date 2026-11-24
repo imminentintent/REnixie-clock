@@ -1,18 +1,26 @@
 {
-  "divergence": "1.045869",
+  "divergence": "1.047957",
   "field": "beta",
-  "updated_at": "2026-11-24T12:57:06+00:00",
-  "z": -0.112,
+  "updated_at": "2026-11-24T14:15:42+00:00",
+  "z": -0.026,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 49,
+  "new_stories": 67,
   "climate": {
-    "fast": -0.4855,
-    "slow": -0.4587,
-    "normal": -0.4687,
+    "fast": -0.4807,
+    "slow": -0.4584,
+    "normal": -0.4688,
     "spread": 0.03
   },
   "top_stories_24h": [
+    {
+      "title": "Colombia: Guterres urges renewed commitment to landmark peace deal",
+      "source": "UNNews",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168864",
+      "valence": 0.976,
+      "impact": 0.964,
+      "outlets": 1
+    },
     {
       "title": "Death of Nahel: French police officer who shot dead a teenage boy to stand trial for murder",
       "source": "France24",
@@ -79,14 +87,6 @@
     },
     {
       "title": "EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – Europe live",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
-      "valence": -0.905,
-      "impact": 0.95,
-      "outlets": 1
-    },
-    {
-      "title": "EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – as it happened",
       "source": "Guardian",
       "link": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
       "valence": -0.905,
