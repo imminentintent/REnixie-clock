@@ -1,18 +1,26 @@
 {
-  "divergence": "1.037416",
+  "divergence": "1.031715",
   "field": "beta",
-  "updated_at": "2026-11-24T22:46:56+00:00",
-  "z": -0.46,
+  "updated_at": "2026-11-24T23:40:18+00:00",
+  "z": -0.695,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 36,
+  "new_stories": 29,
   "climate": {
-    "fast": -0.4994,
-    "slow": -0.466,
+    "fast": -0.5107,
+    "slow": -0.4688,
     "normal": -0.4689,
     "spread": 0.03
   },
   "top_stories_24h": [
+    {
+      "title": "<a href='https://news.sky.com/video/life-death-and-terror-24-hours-in-ukraine-s-kill-zone-13458001'>Life, death and terror: 24 hours in Ukraine's 'kill zone'</a>",
+      "source": "SkyNews",
+      "link": "https://news.sky.com/story/life-death-and-terror-24-hours-in-ukraines-kill-zone-13616131",
+      "valence": -0.999,
+      "impact": 0.998,
+      "outlets": 1
+    },
     {
       "title": "Saudi-led coalition condemns ‘terrorist attack’ on tower in Riyadh",
       "source": "AlJazeera",
@@ -84,19 +92,11 @@
       "valence": -0.97,
       "impact": 0.928,
       "outlets": 1
-    },
-    {
-      "title": "North Korea reviews Switzerland relations after sanctions on youth camp linked to war",
-      "source": "ABCNews",
-      "link": "https://abcnews.com/International/wireStory/north-korea-reviews-switzerland-relations-after-sanctions-youth-138402640",
-      "valence": -0.905,
-      "impact": 0.95,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
