@@ -1,14 +1,14 @@
 {
-  "divergence": "1.052376",
+  "divergence": "1.044681",
   "field": "beta",
-  "updated_at": "2026-11-24T10:48:06+00:00",
-  "z": 0.156,
+  "updated_at": "2026-11-24T11:47:42+00:00",
+  "z": -0.161,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 42,
+  "new_stories": 65,
   "climate": {
-    "fast": -0.4727,
-    "slow": -0.4554,
+    "fast": -0.4882,
+    "slow": -0.4589,
     "normal": -0.4687,
     "spread": 0.03
   },
@@ -41,6 +41,14 @@
       "title": "Israeli airstrike kills at least three Palestinians in southern Gaza, medics say",
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/middle-east/israeli-airstrike-kills-at-least-three-palestinians-in-southern-gaza-medics-say",
+      "valence": -0.956,
+      "impact": 0.94,
+      "outlets": 1
+    },
+    {
+      "title": "Israeli airstrike kills senior Hamas security official in Gaza, Hamas sources say",
+      "source": "TheHindu",
+      "link": "https://www.thehindu.com/news/international/hamas-security-official-killed-in-israel-strikes-in-gaza/article71738279.ece",
       "valence": -0.956,
       "impact": 0.94,
       "outlets": 1
@@ -84,19 +92,11 @@
       "valence": -0.905,
       "impact": 0.95,
       "outlets": 1
-    },
-    {
-      "title": "North Korea reviews Switzerland relations after sanctions on youth camp linked to war",
-      "source": "ABCNews",
-      "link": "https://abcnews.com/International/wireStory/north-korea-reviews-switzerland-relations-after-sanctions-youth-138402640",
-      "valence": -0.905,
-      "impact": 0.95,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
