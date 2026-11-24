@@ -1,15 +1,15 @@
 {
-  "divergence": "1.036525",
+  "divergence": "1.038722",
   "field": "beta",
-  "updated_at": "2026-11-24T20:43:54+00:00",
-  "z": -0.497,
+  "updated_at": "2026-11-24T21:46:44+00:00",
+  "z": -0.406,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 43,
+  "new_stories": 31,
   "climate": {
-    "fast": -0.5018,
-    "slow": -0.4657,
-    "normal": -0.4688,
+    "fast": -0.4971,
+    "slow": -0.465,
+    "normal": -0.4689,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -44,14 +44,6 @@
       "valence": -0.905,
       "impact": 1.0,
       "outlets": 2
-    },
-    {
-      "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
-      "valence": -0.905,
-      "impact": 0.975,
-      "outlets": 1
     },
     {
       "title": "Israeli airstrike kills at least three Palestinians in southern Gaza, medics say",
@@ -92,11 +84,19 @@
       "valence": -0.905,
       "impact": 0.95,
       "outlets": 1
+    },
+    {
+      "title": "New hacked data puts Russian death toll in Ukraine near 500,000",
+      "source": "JapanTimes",
+      "link": "https://www.japantimes.co.jp/news/2026/11/24/world/hacked-ukraine-russian-death-toll/",
+      "valence": -0.935,
+      "impact": 0.92,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
