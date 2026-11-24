@@ -1,18 +1,26 @@
 {
-  "divergence": "1.047957",
+  "divergence": "1.047449",
   "field": "beta",
-  "updated_at": "2026-11-24T14:15:42+00:00",
-  "z": -0.026,
+  "updated_at": "2026-11-24T15:29:45+00:00",
+  "z": -0.047,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 67,
+  "new_stories": 63,
   "climate": {
-    "fast": -0.4807,
-    "slow": -0.4584,
+    "fast": -0.4814,
+    "slow": -0.459,
     "normal": -0.4688,
     "spread": 0.03
   },
   "top_stories_24h": [
+    {
+      "title": "Saudi-led coalition condemns ‘terrorist attack’ on tower in Riyadh",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh?traffic_source=rss",
+      "valence": -0.97,
+      "impact": 1.0,
+      "outlets": 2
+    },
     {
       "title": "Colombia: Guterres urges renewed commitment to landmark peace deal",
       "source": "UNNews",
@@ -84,19 +92,11 @@
       "valence": -0.97,
       "impact": 0.928,
       "outlets": 1
-    },
-    {
-      "title": "EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – Europe live",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
-      "valence": -0.905,
-      "impact": 0.95,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
