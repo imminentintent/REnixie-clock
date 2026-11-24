@@ -1,25 +1,25 @@
 {
-  "divergence": "1.048439",
+  "divergence": "1.052376",
   "field": "beta",
-  "updated_at": "2026-11-24T09:40:24+00:00",
-  "z": -0.006,
+  "updated_at": "2026-11-24T10:48:06+00:00",
+  "z": 0.156,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 39,
+  "new_stories": 42,
   "climate": {
-    "fast": -0.4812,
-    "slow": -0.4567,
+    "fast": -0.4727,
+    "slow": -0.4554,
     "normal": -0.4687,
     "spread": 0.03
   },
   "top_stories_24h": [
     {
-      "title": "Colombia Marks 10 Years Since FARC Peace Deal: In Photos",
-      "source": "NYTimes",
-      "link": "https://www.nytimes.com/2026/11/23/world/americas/colombia-farc-peace-deal.html",
-      "valence": 0.976,
-      "impact": 0.964,
-      "outlets": 1
+      "title": "Death of Nahel: French police officer who shot dead a teenage boy to stand trial for murder",
+      "source": "France24",
+      "link": "https://www.france24.com/en/france/20261124-death-of-nahel-french-police-officer-who-shot-dead-a-teenage-boy-to-stand-trial-for-murder",
+      "valence": -0.905,
+      "impact": 1.0,
+      "outlets": 2
     },
     {
       "title": "Russia’s war dead: the hidden toll of the Ukraine conflict",
@@ -62,6 +62,14 @@
       "outlets": 1
     },
     {
+      "title": "Hanoi eatery blast kills 6 and injures more than a dozen",
+      "source": "ABCNews",
+      "link": "https://abcnews.com/International/wireStory/hanoi-eatery-blast-kills-3-injures-dozen-138402807",
+      "valence": -0.97,
+      "impact": 0.928,
+      "outlets": 1
+    },
+    {
       "title": "EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – Europe live",
       "source": "Guardian",
       "link": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
@@ -83,14 +91,6 @@
       "link": "https://abcnews.com/International/wireStory/north-korea-reviews-switzerland-relations-after-sanctions-youth-138402640",
       "valence": -0.905,
       "impact": 0.95,
-      "outlets": 1
-    },
-    {
-      "title": "New hacked data puts Russian death toll in Ukraine near 500,000",
-      "source": "JapanTimes",
-      "link": "https://www.japantimes.co.jp/news/2026/11/24/world/hacked-ukraine-russian-death-toll/",
-      "valence": -0.935,
-      "impact": 0.92,
       "outlets": 1
     }
   ],
