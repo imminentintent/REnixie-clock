@@ -1,14 +1,14 @@
 {
-  "divergence": "1.044786",
+  "divergence": "1.048439",
   "field": "beta",
-  "updated_at": "2026-11-24T08:22:39+00:00",
-  "z": -0.157,
+  "updated_at": "2026-11-24T09:40:24+00:00",
+  "z": -0.006,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 43,
+  "new_stories": 39,
   "climate": {
-    "fast": -0.4894,
-    "slow": -0.4574,
+    "fast": -0.4812,
+    "slow": -0.4567,
     "normal": -0.4687,
     "spread": 0.03
   },
@@ -78,25 +78,25 @@
       "outlets": 1
     },
     {
+      "title": "North Korea reviews Switzerland relations after sanctions on youth camp linked to war",
+      "source": "ABCNews",
+      "link": "https://abcnews.com/International/wireStory/north-korea-reviews-switzerland-relations-after-sanctions-youth-138402640",
+      "valence": -0.905,
+      "impact": 0.95,
+      "outlets": 1
+    },
+    {
       "title": "New hacked data puts Russian death toll in Ukraine near 500,000",
       "source": "JapanTimes",
       "link": "https://www.japantimes.co.jp/news/2026/11/24/world/hacked-ukraine-russian-death-toll/",
       "valence": -0.935,
       "impact": 0.92,
       "outlets": 1
-    },
-    {
-      "title": "Dozens killed in weekend attacks in Nigeria's Niger state, residents say",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/dozens-killed-in-weekend-attacks-in-nigerias-niger-state-residents-say",
-      "valence": -0.935,
-      "impact": 0.91,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
