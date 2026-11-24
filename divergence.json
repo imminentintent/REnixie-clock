@@ -1,14 +1,14 @@
 {
-  "divergence": "1.047449",
+  "divergence": "1.046325",
   "field": "beta",
-  "updated_at": "2026-11-24T15:29:45+00:00",
-  "z": -0.047,
+  "updated_at": "2026-11-24T16:38:20+00:00",
+  "z": -0.093,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 63,
+  "new_stories": 71,
   "climate": {
-    "fast": -0.4814,
-    "slow": -0.459,
+    "fast": -0.4833,
+    "slow": -0.4598,
     "normal": -0.4688,
     "spread": 0.03
   },
@@ -30,20 +30,20 @@
       "outlets": 1
     },
     {
+      "title": "11 injured in Houthi ‘terrorist’ attack on tower in Riyadh",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh?traffic_source=rss",
+      "valence": -0.976,
+      "impact": 0.964,
+      "outlets": 1
+    },
+    {
       "title": "Death of Nahel: French police officer who shot dead a teenage boy to stand trial for murder",
       "source": "France24",
       "link": "https://www.france24.com/en/france/20261124-death-of-nahel-french-police-officer-who-shot-dead-a-teenage-boy-to-stand-trial-for-murder",
       "valence": -0.905,
       "impact": 1.0,
       "outlets": 2
-    },
-    {
-      "title": "Russia’s war dead: the hidden toll of the Ukraine conflict",
-      "source": "Guardian",
-      "link": "https://www.theguardian.com/world/2026/nov/23/russia-war-dead-hidden-toll-ukraine-conflict",
-      "valence": -0.947,
-      "impact": 0.96,
-      "outlets": 1
     },
     {
       "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
