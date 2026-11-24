@@ -1,14 +1,14 @@
 {
-  "divergence": "1.046128",
+  "divergence": "1.044786",
   "field": "beta",
-  "updated_at": "2026-11-24T06:55:47+00:00",
-  "z": -0.102,
+  "updated_at": "2026-11-24T08:22:39+00:00",
+  "z": -0.157,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 49,
+  "new_stories": 43,
   "climate": {
-    "fast": -0.487,
-    "slow": -0.4565,
+    "fast": -0.4894,
+    "slow": -0.4574,
     "normal": -0.4687,
     "spread": 0.03
   },
@@ -54,6 +54,14 @@
       "outlets": 1
     },
     {
+      "title": "Hanoi eatery blast kills 3 and injures more than a dozen",
+      "source": "ABCNews",
+      "link": "https://abcnews.com/International/wireStory/hanoi-eatery-blast-kills-3-injures-dozen-138402807",
+      "valence": -0.97,
+      "impact": 0.928,
+      "outlets": 1
+    },
+    {
       "title": "EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – Europe live",
       "source": "Guardian",
       "link": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
@@ -78,14 +86,6 @@
       "outlets": 1
     },
     {
-      "title": "Sanctions, summits and strikes: The war in Ukraine shows no sign of slowing",
-      "source": "Euronews",
-      "link": "https://www.euronews.com/2026/11/23/sanctions-summits-and-strikes-the-war-in-ukraine-shows-no-sign-of-slowing",
-      "valence": -0.834,
-      "impact": 0.97,
-      "outlets": 1
-    },
-    {
       "title": "Dozens killed in weekend attacks in Nigeria's Niger state, residents say",
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/dozens-killed-in-weekend-attacks-in-nigerias-niger-state-residents-say",
@@ -96,7 +96,7 @@
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
