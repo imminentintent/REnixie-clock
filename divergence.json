@@ -1,26 +1,18 @@
 {
-  "divergence": "1.059959",
+  "divergence": "1.053100",
   "field": "beta",
-  "updated_at": "2026-11-23T23:40:19+00:00",
-  "z": 0.468,
+  "updated_at": "2026-11-24T00:46:45+00:00",
+  "z": 0.185,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 27,
+  "new_stories": 33,
   "climate": {
-    "fast": -0.4593,
-    "slow": -0.4501,
+    "fast": -0.4735,
+    "slow": -0.4528,
     "normal": -0.4687,
     "spread": 0.03
   },
   "top_stories_24h": [
-    {
-      "title": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
-      "valence": -0.964,
-      "impact": 0.97,
-      "outlets": 1
-    },
     {
       "title": "Colombia Marks 10 Years Since FARC Peace Deal: In Photos",
       "source": "NYTimes",
@@ -35,6 +27,14 @@
       "link": "https://www.theguardian.com/world/2026/nov/23/russia-war-dead-hidden-toll-ukraine-conflict",
       "valence": -0.947,
       "impact": 0.96,
+      "outlets": 1
+    },
+    {
+      "title": "Israeli airstrike kills at least three Palestinians in southern Gaza, medics say",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/middle-east/israeli-airstrike-kills-at-least-three-palestinians-in-southern-gaza-medics-say",
+      "valence": -0.956,
+      "impact": 0.94,
       "outlets": 1
     },
     {
@@ -70,14 +70,6 @@
       "outlets": 1
     },
     {
-      "title": "Iran war live: Hormuz tankers set ablaze; Tehran warns of internal threats",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
-      "valence": -0.885,
-      "impact": 0.94,
-      "outlets": 1
-    },
-    {
       "title": "Dozens killed in weekend attacks in Nigeria's Niger state, residents say",
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/dozens-killed-in-weekend-attacks-in-nigerias-niger-state-residents-say",
@@ -92,11 +84,19 @@
       "valence": -0.935,
       "impact": 0.91,
       "outlets": 1
+    },
+    {
+      "title": "Ukraine-Russia peace talks: Row over who will represent the EU",
+      "source": "France24",
+      "link": "https://www.france24.com/en/video/20261123-ukraine-russia-peace-talks-row-over-who-will-represent-the-eu",
+      "valence": 0.905,
+      "impact": 0.895,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
