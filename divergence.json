@@ -1,14 +1,14 @@
 {
-  "divergence": "1.052392",
+  "divergence": "1.051526",
   "field": "beta",
-  "updated_at": "2026-11-24T02:06:35+00:00",
-  "z": 0.156,
+  "updated_at": "2026-11-24T03:19:53+00:00",
+  "z": 0.121,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 31,
+  "new_stories": 37,
   "climate": {
-    "fast": -0.4748,
-    "slow": -0.4533,
+    "fast": -0.4763,
+    "slow": -0.4539,
     "normal": -0.4687,
     "spread": 0.03
   },
@@ -27,6 +27,14 @@
       "link": "https://www.theguardian.com/world/2026/nov/23/russia-war-dead-hidden-toll-ukraine-conflict",
       "valence": -0.947,
       "impact": 0.96,
+      "outlets": 1
+    },
+    {
+      "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
+      "valence": -0.905,
+      "impact": 0.975,
       "outlets": 1
     },
     {
@@ -84,19 +92,11 @@
       "valence": -0.935,
       "impact": 0.91,
       "outlets": 1
-    },
-    {
-      "title": "17 killed in Saudi attack on Yemeni city: Houthis",
-      "source": "TheHindu",
-      "link": "https://www.thehindu.com/news/international/17-killed-in-saudi-attack-on-yemeni-city-houthis/article71735986.ece",
-      "valence": -0.935,
-      "impact": 0.91,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
