@@ -1,14 +1,14 @@
 {
-  "divergence": "1.037774",
+  "divergence": "1.036525",
   "field": "beta",
-  "updated_at": "2026-11-24T19:53:48+00:00",
-  "z": -0.445,
+  "updated_at": "2026-11-24T20:43:54+00:00",
+  "z": -0.497,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 53,
+  "new_stories": 43,
   "climate": {
-    "fast": -0.4994,
-    "slow": -0.4649,
+    "fast": -0.5018,
+    "slow": -0.4657,
     "normal": -0.4688,
     "spread": 0.03
   },
@@ -70,14 +70,6 @@
       "outlets": 1
     },
     {
-      "title": "Social media companies not liable for Buffalo mass shooting, New York's highest court rules",
-      "source": "CNA",
-      "link": "https://www.channelnewsasia.com/business/social-media-companies-not-liable-buffalo-mass-shooting-new-yorks-highest-court-rules-6575981",
-      "valence": -0.947,
-      "impact": 0.94,
-      "outlets": 1
-    },
-    {
       "title": "Hanoi eatery blast kills 3 and injures more than a dozen",
       "source": "ABCNews",
       "link": "https://abcnews.com/International/wireStory/hanoi-eatery-blast-kills-3-injures-dozen-138402807",
@@ -92,11 +84,19 @@
       "valence": -0.97,
       "impact": 0.928,
       "outlets": 1
+    },
+    {
+      "title": "North Korea reviews Switzerland relations after sanctions on youth camp linked to war",
+      "source": "ABCNews",
+      "link": "https://abcnews.com/International/wireStory/north-korea-reviews-switzerland-relations-after-sanctions-youth-138402640",
+      "valence": -0.905,
+      "impact": 0.95,
+      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
