@@ -1,14 +1,14 @@
 {
-  "divergence": "1.043980",
+  "divergence": "1.037104",
   "field": "beta",
-  "updated_at": "2026-11-25T11:51:15+00:00",
-  "z": -0.19,
+  "updated_at": "2026-11-25T12:59:50+00:00",
+  "z": -0.473,
   "calibrating": false,
   "scorer": "lexicon",
   "new_stories": 54,
   "climate": {
-    "fast": -0.4826,
-    "slow": -0.4671,
+    "fast": -0.4963,
+    "slow": -0.4703,
     "normal": -0.4691,
     "spread": 0.03
   },
@@ -34,14 +34,6 @@
       "source": "StraitsTimes",
       "link": "https://www.straitstimes.com/world/middle-east/jordan-sentences-man-to-death-over-attack-that-killed-officer",
       "valence": -0.984,
-      "impact": 0.964,
-      "outlets": 1
-    },
-    {
-      "title": "Colombia: Guterres urges renewed commitment to landmark peace deal",
-      "source": "UNNews",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168864",
-      "valence": 0.976,
       "impact": 0.964,
       "outlets": 1
     },
@@ -91,6 +83,14 @@
       "link": "https://www.nytimes.com/2026/11/25/world/americas/colombia-blackout-terrorist-attack.html",
       "valence": -0.935,
       "impact": 0.94,
+      "outlets": 1
+    },
+    {
+      "title": "Death Toll From Indonesia Factory Fire Rises to 26 With Dozens Unaccounted for",
+      "source": "NYTimes",
+      "link": "https://www.nytimes.com/2026/11/24/world/asia/indonesia-factory-fire-deaths-missing.html",
+      "valence": -0.935,
+      "impact": 0.92,
       "outlets": 1
     }
   ],
