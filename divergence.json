@@ -1,14 +1,14 @@
 {
-  "divergence": "1.039272",
+  "divergence": "1.031647",
   "field": "beta",
-  "updated_at": "2026-11-25T03:28:09+00:00",
-  "z": -0.384,
+  "updated_at": "2026-11-25T04:39:08+00:00",
+  "z": -0.698,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 33,
+  "new_stories": 35,
   "climate": {
-    "fast": -0.4944,
-    "slow": -0.4666,
+    "fast": -0.5096,
+    "slow": -0.4702,
     "normal": -0.469,
     "spread": 0.03
   },
@@ -54,6 +54,14 @@
       "outlets": 2
     },
     {
+      "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "valence": -0.935,
+      "impact": 0.96,
+      "outlets": 1
+    },
+    {
       "title": "Israeli airstrike kills senior Hamas security official in Gaza, Hamas sources say",
       "source": "TheHindu",
       "link": "https://www.thehindu.com/news/international/hamas-security-official-killed-in-israel-strikes-in-gaza/article71738279.ece",
@@ -84,19 +92,11 @@
       "valence": -0.97,
       "impact": 0.928,
       "outlets": 1
-    },
-    {
-      "title": "North Korea reviews Switzerland relations after sanctions on youth camp linked to war",
-      "source": "ABCNews",
-      "link": "https://abcnews.com/International/wireStory/north-korea-reviews-switzerland-relations-after-sanctions-youth-138402640",
-      "valence": -0.905,
-      "impact": 0.95,
-      "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 38,
+    "live": 37,
     "total": 38
   }
 }
