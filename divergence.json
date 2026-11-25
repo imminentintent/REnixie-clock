@@ -1,14 +1,14 @@
 {
-  "divergence": "1.039727",
+  "divergence": "1.043980",
   "field": "beta",
-  "updated_at": "2026-11-25T10:55:41+00:00",
-  "z": -0.365,
+  "updated_at": "2026-11-25T11:51:15+00:00",
+  "z": -0.19,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 58,
+  "new_stories": 54,
   "climate": {
-    "fast": -0.4915,
-    "slow": -0.4685,
+    "fast": -0.4826,
+    "slow": -0.4671,
     "normal": -0.4691,
     "spread": 0.03
   },
@@ -62,11 +62,11 @@
       "outlets": 1
     },
     {
-      "title": "Israeli airstrike kills senior Hamas security official in Gaza, Hamas sources say",
-      "source": "TheHindu",
-      "link": "https://www.thehindu.com/news/international/hamas-security-official-killed-in-israel-strikes-in-gaza/article71738279.ece",
-      "valence": -0.956,
-      "impact": 0.94,
+      "title": "Kremlin brushes off reports of 700,000 Russian war deaths",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/europe/kremlin-brushes-off-reports-of-700000-russian-war-deaths",
+      "valence": -0.935,
+      "impact": 0.96,
       "outlets": 1
     },
     {
