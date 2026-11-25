@@ -1,14 +1,14 @@
 {
-  "divergence": "1.037823",
+  "divergence": "1.041319",
   "field": "beta",
-  "updated_at": "2026-11-25T06:58:33+00:00",
-  "z": -0.443,
+  "updated_at": "2026-11-25T08:30:57+00:00",
+  "z": -0.299,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 32,
+  "new_stories": 54,
   "climate": {
-    "fast": -0.4964,
-    "slow": -0.4683,
+    "fast": -0.4889,
+    "slow": -0.4672,
     "normal": -0.4691,
     "spread": 0.03
   },
@@ -78,7 +78,7 @@
       "outlets": 1
     },
     {
-      "title": "Hanoi eatery blast kills 3 and injures more than a dozen",
+      "title": "Hanoi eatery blast kills 6 and injures more than a dozen",
       "source": "ABCNews",
       "link": "https://abcnews.com/International/wireStory/hanoi-eatery-blast-kills-3-injures-dozen-138402807",
       "valence": -0.97,
@@ -86,17 +86,17 @@
       "outlets": 1
     },
     {
-      "title": "Hanoi eatery blast kills 6 and injures more than a dozen",
-      "source": "ABCNews",
-      "link": "https://abcnews.com/International/wireStory/hanoi-eatery-blast-kills-3-injures-dozen-138402807",
-      "valence": -0.97,
-      "impact": 0.928,
+      "title": "Colombia’s Leader Blames ‘Terrorist Attack’ for Power Outages",
+      "source": "NYTimes",
+      "link": "https://www.nytimes.com/2026/11/25/world/americas/colombia-blackout-terrorist-attack.html",
+      "valence": -0.935,
+      "impact": 0.94,
       "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
