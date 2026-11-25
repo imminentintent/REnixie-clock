@@ -1,14 +1,14 @@
 {
-  "divergence": "1.031715",
+  "divergence": "1.035890",
   "field": "beta",
-  "updated_at": "2026-11-24T23:40:18+00:00",
-  "z": -0.695,
+  "updated_at": "2026-11-25T00:50:03+00:00",
+  "z": -0.523,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 29,
+  "new_stories": 37,
   "climate": {
-    "fast": -0.5107,
-    "slow": -0.4688,
+    "fast": -0.5019,
+    "slow": -0.4673,
     "normal": -0.4689,
     "spread": 0.03
   },
@@ -54,14 +54,6 @@
       "outlets": 2
     },
     {
-      "title": "Israeli airstrike kills at least three Palestinians in southern Gaza, medics say",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/middle-east/israeli-airstrike-kills-at-least-three-palestinians-in-southern-gaza-medics-say",
-      "valence": -0.956,
-      "impact": 0.94,
-      "outlets": 1
-    },
-    {
       "title": "Israeli airstrike kills senior Hamas security official in Gaza, Hamas sources say",
       "source": "TheHindu",
       "link": "https://www.thehindu.com/news/international/hamas-security-official-killed-in-israel-strikes-in-gaza/article71738279.ece",
@@ -91,6 +83,14 @@
       "link": "https://abcnews.com/International/wireStory/hanoi-eatery-blast-kills-3-injures-dozen-138402807",
       "valence": -0.97,
       "impact": 0.928,
+      "outlets": 1
+    },
+    {
+      "title": "North Korea reviews Switzerland relations after sanctions on youth camp linked to war",
+      "source": "ABCNews",
+      "link": "https://abcnews.com/International/wireStory/north-korea-reviews-switzerland-relations-after-sanctions-youth-138402640",
+      "valence": -0.905,
+      "impact": 0.95,
       "outlets": 1
     }
   ],
