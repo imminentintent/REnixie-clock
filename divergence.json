@@ -1,15 +1,15 @@
 {
-  "divergence": "1.028265",
+  "divergence": "1.020860",
   "field": "beta",
-  "updated_at": "2026-11-26T00:48:51+00:00",
-  "z": -0.837,
+  "updated_at": "2026-11-26T09:06:15+00:00",
+  "z": -1.141,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 284,
+  "new_stories": 196,
   "climate": {
-    "fast": -0.5122,
-    "slow": -0.4764,
-    "normal": -0.4694,
+    "fast": -0.5254,
+    "slow": -0.4819,
+    "normal": -0.4697,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -19,14 +19,6 @@
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss",
       "valence": -0.989,
       "impact": 0.991,
-      "outlets": 1
-    },
-    {
-      "title": "Jordan sentences man to death over attack that killed officer",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/middle-east/jordan-sentences-man-to-death-over-attack-that-killed-officer",
-      "valence": -0.984,
-      "impact": 0.964,
       "outlets": 1
     },
     {
@@ -44,14 +36,6 @@
       "valence": -0.885,
       "impact": 1.0,
       "outlets": 2
-    },
-    {
-      "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
-      "valence": -0.935,
-      "impact": 0.96,
-      "outlets": 1
     },
     {
       "title": "Kremlin brushes off reports of 700,000 Russian war deaths",
@@ -78,11 +62,19 @@
       "outlets": 2
     },
     {
-      "title": "Colombia’s Leader Blames ‘Terrorist Attack’ for Power Outages",
-      "source": "NYTimes",
-      "link": "https://www.nytimes.com/2026/11/25/world/americas/colombia-blackout-terrorist-attack.html",
-      "valence": -0.935,
-      "impact": 0.94,
+      "title": "War and drought threaten livelihoods of Sudan’s farmers",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/features/2026/11/26/war-and-drought-threaten-livelihoods-of-sudans-farmers?traffic_source=rss",
+      "valence": -0.922,
+      "impact": 0.95,
+      "outlets": 1
+    },
+    {
+      "title": "ICC judge Kimberly Prost tries war crimes. She’s a target of US sanctions",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/26/icc-judge-kimberly-prost-tries-war-crimes-shes-a-target-of-us-sanctions?traffic_source=rss",
+      "valence": -0.905,
+      "impact": 0.95,
       "outlets": 1
     },
     {
@@ -91,6 +83,14 @@
       "link": "https://abcnews.com/International/wireStory/uk-nuclear-test-veterans-win-40-year-battle-138436079",
       "valence": -0.885,
       "impact": 0.96,
+      "outlets": 1
+    },
+    {
+      "title": "Nepal flash floods: Kathmandu begins process to declare 213 missing Indians presumed dead",
+      "source": "TheHindu",
+      "link": "https://www.thehindu.com/news/national/nepal-flash-floods-kathmandu-begins-process-to-declare-213-indians-missing-presumed-dead/article71745222.ece",
+      "valence": -0.956,
+      "impact": 0.904,
       "outlets": 1
     }
   ],
