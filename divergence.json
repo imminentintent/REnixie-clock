@@ -1,25 +1,25 @@
 {
-  "divergence": "1.020734",
+  "divergence": "1.021962",
   "field": "beta",
-  "updated_at": "2026-11-26T19:12:05+00:00",
-  "z": -1.147,
+  "updated_at": "2026-11-27T02:20:05+00:00",
+  "z": -1.096,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 301,
+  "new_stories": 145,
   "climate": {
-    "fast": -0.5226,
-    "slow": -0.4855,
-    "normal": -0.47,
+    "fast": -0.5195,
+    "slow": -0.4862,
+    "normal": -0.4702,
     "spread": 0.03
   },
   "top_stories_24h": [
     {
-      "title": "Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss",
-      "valence": -0.989,
-      "impact": 0.991,
-      "outlets": 1
+      "title": "Attack on Saudi Aramco’s Jazan refinery kills Nepalese worker, halts some operations",
+      "source": "StraitsTimes",
+      "link": "https://www.straitstimes.com/world/middle-east/attack-on-saudi-aramcos-jazan-refinery-kills-nepalese-worker-halts-some-operations",
+      "valence": -0.935,
+      "impact": 1.0,
+      "outlets": 2
     },
     {
       "title": "After Cyberattacks and Bomb Threats Hit Europe, Survivalism Goes Mainstream",
@@ -30,12 +30,12 @@
       "outlets": 1
     },
     {
-      "title": "Fighting in eastern Congo forces Ebola workers to evacuate, threatening outbreak response",
-      "source": "ABCNews",
-      "link": "https://abcnews.com/International/wireStory/fighting-eastern-congo-forces-ebola-workers-evacuate-threatening-138449760",
-      "valence": -0.885,
-      "impact": 1.0,
-      "outlets": 2
+      "title": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
+      "valence": -0.947,
+      "impact": 0.97,
+      "outlets": 1
     },
     {
       "title": "Building collapse in Pakistan kills 4, with 17 still missing",
@@ -86,9 +86,9 @@
       "outlets": 1
     },
     {
-      "title": "Islamic State attack kills two Syrian security personnel in Hasaka, state media says",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/middle-east/islamic-state-attack-kills-two-syrian-security-personnel-in-hasaka-state-media-says",
+      "title": "Attack Blamed on ISIS Kills 2 Syrian Security Force Members",
+      "source": "NYTimes",
+      "link": "https://www.nytimes.com/2026/11/26/world/middleeast/isis-attack-syria.html",
       "valence": -0.935,
       "impact": 0.91,
       "outlets": 1
