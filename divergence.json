@@ -1,32 +1,32 @@
 {
-  "divergence": "1.027712",
+  "divergence": "1.045336",
   "field": "beta",
-  "updated_at": "2026-11-27T11:08:29+00:00",
-  "z": -0.859,
+  "updated_at": "2026-11-27T20:07:43+00:00",
+  "z": -0.134,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 228,
+  "new_stories": 253,
   "climate": {
-    "fast": -0.5061,
-    "slow": -0.4859,
-    "normal": -0.4704,
+    "fast": -0.4682,
+    "slow": -0.4807,
+    "normal": -0.4705,
     "spread": 0.03
   },
   "top_stories_24h": [
     {
-      "title": "Attack on Saudi Aramco’s Jazan refinery kills Nepalese worker, halts some operations",
-      "source": "StraitsTimes",
-      "link": "https://www.straitstimes.com/world/middle-east/attack-on-saudi-aramcos-jazan-refinery-kills-nepalese-worker-halts-some-operations",
-      "valence": -0.935,
-      "impact": 1.0,
-      "outlets": 2
+      "title": "Death toll in Pakistan building collapse rises to 8 with about 10 missing",
+      "source": "ABCNews",
+      "link": "https://abcnews.com/International/wireStory/death-toll-pakistan-building-collapse-rises-8-10-138480840",
+      "valence": -0.994,
+      "impact": 0.981,
+      "outlets": 1
     },
     {
-      "title": "After Cyberattacks and Bomb Threats Hit Europe, Survivalism Goes Mainstream",
-      "source": "NYTimes",
-      "link": "https://www.nytimes.com/2026/11/26/world/europe/europe-preppers-survivalists-cyberattacks-threats.html",
-      "valence": -0.97,
-      "impact": 0.964,
+      "title": "War, fuel costs and aid cuts raise famine risk across 16 hotspots, UN agencies warn",
+      "source": "CBC",
+      "link": "https://www.cbc.ca/news/world/united-nations-food-report-hunger-warning-sudan-yemen-9.7438374?cmp=rss",
+      "valence": -0.922,
+      "impact": 0.988,
       "outlets": 1
     },
     {
@@ -38,36 +38,12 @@
       "outlets": 1
     },
     {
-      "title": "Building collapse in Pakistan kills 4, with 17 still missing",
-      "source": "ABCNews",
-      "link": "https://abcnews.com/International/wireStory/building-collapse-pakistan-kills-4-17-missing-138463814",
-      "valence": -0.97,
-      "impact": 0.928,
-      "outlets": 1
-    },
-    {
-      "title": "German police arrest two Iraqis over alleged Cologne synagogue bomb plot",
-      "source": "TheHindu",
-      "link": "https://www.thehindu.com/news/international/german-police-arrest-two-iraqis-over-alleged-cologne-synagogue-bomb-plot/article71746212.ece",
-      "valence": -0.834,
-      "impact": 1.0,
-      "outlets": 2
-    },
-    {
-      "title": "Russia launches ballistic missile and drone barrage on Ukraine, killing at least three",
+      "title": "Azerbaijani and Armenian civil societies seek 'new history' in new round of peace talks",
       "source": "Euronews",
-      "link": "https://www.euronews.com/2026/11/26/russia-launches-ballistic-missile-and-drone-barrage-on-ukraine-killing-at-least-three",
-      "valence": -0.885,
-      "impact": 0.946,
+      "link": "https://www.euronews.com/2026/11/27/azerbaijani-and-armenian-civil-societies-seek-new-history-in-new-round-of-peace-talks",
+      "valence": 0.905,
+      "impact": 0.895,
       "outlets": 1
-    },
-    {
-      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-      "source": "BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-      "valence": -0.716,
-      "impact": 1.0,
-      "outlets": 4
     },
     {
       "title": "Costa Rica denies entry to UN’s Albanese over ‘links to terrorist acts’",
@@ -78,12 +54,12 @@
       "outlets": 3
     },
     {
-      "title": "Egypt detains a driver suspected of causing Cairo tanker crash that killed 31",
-      "source": "ABCNews",
-      "link": "https://abcnews.com/International/wireStory/egypt-detains-driver-suspected-causing-cairo-tanker-crash-138465415",
-      "valence": -0.922,
-      "impact": 0.88,
-      "outlets": 1
+      "title": "Israel kills four in Gaza as Hamas chief al-Hayya’s son survives strike",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/27/israel-kills-four-in-gaza-as-hamas-chief-al-hayyas-son-survives-strike?traffic_source=rss",
+      "valence": -0.716,
+      "impact": 1.0,
+      "outlets": 2
     },
     {
       "title": "Cairo fuel tanker inferno: Driver suspect held after explosion left 31 dead",
@@ -91,6 +67,30 @@
       "link": "https://timesofindia.indiatimes.com/world/middle-east/cairo-fuel-tanker-inferno-driver-suspect-held-after-explosion-left-31-dead/articleshow/136206334.cms",
       "valence": -0.922,
       "impact": 0.88,
+      "outlets": 1
+    },
+    {
+      "title": "London's 1814 Beer Flood: Brewery disaster killed eight in bizarre tragedy",
+      "source": "TimesOfIndia",
+      "link": "https://timesofindia.indiatimes.com/world/uk/in-1814-a-brewery-vat-burst-and-sent-a-wave-of-beer-through-london-streets-eight-people-died-in-one-of-historys-strangest-industrial-disasters/articleshow/136215036.cms",
+      "valence": -0.922,
+      "impact": 0.88,
+      "outlets": 1
+    },
+    {
+      "title": "Australia sanctions suspects in Iran-linked anti-Semitic attacks",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/27/australia-sanctions-suspects-in-iran-linked-anti-semitic-attacks?traffic_source=rss",
+      "valence": -0.862,
+      "impact": 0.85,
+      "outlets": 1
+    },
+    {
+      "title": "George Russell not interested in war of words with Max Verstappen after ‘amusing’ spat",
+      "source": "JapanTimes",
+      "link": "https://www.japantimes.co.jp/sports/2026/11/27/more-sports/george-russell-max-verstappen-spat/",
+      "valence": -0.762,
+      "impact": 0.9,
       "outlets": 1
     }
   ],
