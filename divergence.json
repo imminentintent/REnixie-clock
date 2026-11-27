@@ -1,15 +1,15 @@
 {
-  "divergence": "1.021962",
+  "divergence": "1.027712",
   "field": "beta",
-  "updated_at": "2026-11-27T02:20:05+00:00",
-  "z": -1.096,
+  "updated_at": "2026-11-27T11:08:29+00:00",
+  "z": -0.859,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 145,
+  "new_stories": 228,
   "climate": {
-    "fast": -0.5195,
-    "slow": -0.4862,
-    "normal": -0.4702,
+    "fast": -0.5061,
+    "slow": -0.4859,
+    "normal": -0.4704,
     "spread": 0.03
   },
   "top_stories_24h": [
@@ -54,22 +54,6 @@
       "outlets": 2
     },
     {
-      "title": "War and drought threaten livelihoods of Sudan’s farmers",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/features/2026/11/26/war-and-drought-threaten-livelihoods-of-sudans-farmers?traffic_source=rss",
-      "valence": -0.922,
-      "impact": 0.95,
-      "outlets": 1
-    },
-    {
-      "title": "ICC judge Kimberly Prost tries war crimes. She’s a target of US sanctions",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/26/icc-judge-kimberly-prost-tries-war-crimes-shes-a-target-of-us-sanctions?traffic_source=rss",
-      "valence": -0.905,
-      "impact": 0.95,
-      "outlets": 1
-    },
-    {
       "title": "Russia launches ballistic missile and drone barrage on Ukraine, killing at least three",
       "source": "Euronews",
       "link": "https://www.euronews.com/2026/11/26/russia-launches-ballistic-missile-and-drone-barrage-on-ukraine-killing-at-least-three",
@@ -78,25 +62,41 @@
       "outlets": 1
     },
     {
-      "title": "Nepal flash floods: Kathmandu begins process to declare 213 missing Indians presumed dead",
-      "source": "TheHindu",
-      "link": "https://www.thehindu.com/news/national/nepal-flash-floods-kathmandu-begins-process-to-declare-213-indians-missing-presumed-dead/article71745222.ece",
-      "valence": -0.956,
-      "impact": 0.904,
+      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+      "source": "BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+      "valence": -0.716,
+      "impact": 1.0,
+      "outlets": 4
+    },
+    {
+      "title": "Costa Rica denies entry to UN’s Albanese over ‘links to terrorist acts’",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/27/costa-rica-denies-entry-to-uns-albanese-over-links-to-terrorist?traffic_source=rss",
+      "valence": -0.716,
+      "impact": 1.0,
+      "outlets": 3
+    },
+    {
+      "title": "Egypt detains a driver suspected of causing Cairo tanker crash that killed 31",
+      "source": "ABCNews",
+      "link": "https://abcnews.com/International/wireStory/egypt-detains-driver-suspected-causing-cairo-tanker-crash-138465415",
+      "valence": -0.922,
+      "impact": 0.88,
       "outlets": 1
     },
     {
-      "title": "Attack Blamed on ISIS Kills 2 Syrian Security Force Members",
-      "source": "NYTimes",
-      "link": "https://www.nytimes.com/2026/11/26/world/middleeast/isis-attack-syria.html",
-      "valence": -0.935,
-      "impact": 0.91,
+      "title": "Cairo fuel tanker inferno: Driver suspect held after explosion left 31 dead",
+      "source": "TimesOfIndia",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/cairo-fuel-tanker-inferno-driver-suspect-held-after-explosion-left-31-dead/articleshow/136206334.cms",
+      "valence": -0.922,
+      "impact": 0.88,
       "outlets": 1
     }
   ],
   "version": "1.0",
   "sources": {
-    "live": 37,
+    "live": 38,
     "total": 38
   }
 }
