@@ -1,14 +1,14 @@
 {
-  "divergence": "1.045336",
+  "divergence": "1.043392",
   "field": "beta",
-  "updated_at": "2026-11-27T20:07:43+00:00",
-  "z": -0.134,
+  "updated_at": "2026-11-28T02:52:27+00:00",
+  "z": -0.214,
   "calibrating": false,
   "scorer": "lexicon",
-  "new_stories": 253,
+  "new_stories": 123,
   "climate": {
-    "fast": -0.4682,
-    "slow": -0.4807,
+    "fast": -0.4727,
+    "slow": -0.4811,
     "normal": -0.4705,
     "spread": 0.03
   },
@@ -22,6 +22,14 @@
       "outlets": 1
     },
     {
+      "title": "Love Star Wars, Andy Weir or Ryan Gosling? These Lego Star Wars and Project Hail Mary sets are my favorites",
+      "source": "SpaceCom",
+      "link": "https://www.space.com/entertainment/space-toys-lego/love-star-wars-andy-weir-or-ryan-gosling-these-lego-star-wars-and-project-hail-mary-sets-are-my-favorites",
+      "valence": -0.964,
+      "impact": 0.99,
+      "outlets": 1
+    },
+    {
       "title": "War, fuel costs and aid cuts raise famine risk across 16 hotspots, UN agencies warn",
       "source": "CBC",
       "link": "https://www.cbc.ca/news/world/united-nations-food-report-hunger-warning-sudan-yemen-9.7438374?cmp=rss",
@@ -30,11 +38,11 @@
       "outlets": 1
     },
     {
-      "title": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
-      "source": "AlJazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
-      "valence": -0.947,
-      "impact": 0.97,
+      "title": "Houthis report 11 killed, including children, in an airstrike, and other Mideast news",
+      "source": "ABCNews",
+      "link": "https://abcnews.com/International/wireStory/houthis-report-11-killed-including-children-airstrike-mideast-138478032",
+      "valence": -0.956,
+      "impact": 0.94,
       "outlets": 1
     },
     {
@@ -62,14 +70,6 @@
       "outlets": 2
     },
     {
-      "title": "Cairo fuel tanker inferno: Driver suspect held after explosion left 31 dead",
-      "source": "TimesOfIndia",
-      "link": "https://timesofindia.indiatimes.com/world/middle-east/cairo-fuel-tanker-inferno-driver-suspect-held-after-explosion-left-31-dead/articleshow/136206334.cms",
-      "valence": -0.922,
-      "impact": 0.88,
-      "outlets": 1
-    },
-    {
       "title": "London's 1814 Beer Flood: Brewery disaster killed eight in bizarre tragedy",
       "source": "TimesOfIndia",
       "link": "https://timesofindia.indiatimes.com/world/uk/in-1814-a-brewery-vat-burst-and-sent-a-wave-of-beer-through-london-streets-eight-people-died-in-one-of-historys-strangest-industrial-disasters/articleshow/136215036.cms",
@@ -86,9 +86,9 @@
       "outlets": 1
     },
     {
-      "title": "George Russell not interested in war of words with Max Verstappen after ‘amusing’ spat",
-      "source": "JapanTimes",
-      "link": "https://www.japantimes.co.jp/sports/2026/11/27/more-sports/george-russell-max-verstappen-spat/",
+      "title": "‘I cannot go to work’: Iranians contend with pollution as well as US war",
+      "source": "AlJazeera",
+      "link": "https://www.aljazeera.com/economy/2026/11/27/i-cannot-go-to-work-iranians-contend-with-pollution-as-well-as-us-war?traffic_source=rss",
       "valence": -0.762,
       "impact": 0.9,
       "outlets": 1
